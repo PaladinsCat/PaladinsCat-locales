@@ -9,11 +9,15 @@ pull-request integration, never direct pushes to `main`.
 1. Open [translate.paladinscat.com](https://translate.paladinscat.com), then
    choose a language and namespace.
 2. Submit a translation or suggestion, preserving placeholders exactly.
-3. A language reviewer approves the wording in Weblate.
-4. An operator runs the governed platform locale-sync command. It commits
-   pending Weblate changes, validates an isolated export, and uses the
-   localization GitHub App to open a `weblate/*` pull request against `main`.
+3. A language reviewer approves the wording in Weblate. The project commit
+   policy excludes every string that is not in Weblate's approved state.
+4. Weblate's repository-scoped GitHub App commits the approved strings to its
+   translation branch and opens or updates a pull request against `main`. It
+   cannot push `main`.
 5. A maintainer checks the GitHub diff and required validation, then merges.
+6. The frontend's hourly locale-pin workflow detects the merged locale commit,
+   validates it, compiles the complete frontend, and only then opens a
+   protected frontend pull request for the mechanical submodule-pin change.
 
 Weblate review is linguistic QA. GitHub pull-request review and the required
 `npm run validate` check remain release authorization.
@@ -22,13 +26,19 @@ Weblate review is linguistic QA. GitHub pull-request review and the required
 
 - Import `locales/en` as the source language and target files under
   `locales/<locale>`; keep namespace paths intact.
-- The GitHub push webhook at `/hooks/github/` updates Weblate after merged
-  source changes. `updategit` remains the guarded manual recovery command.
-- The dedicated GitHub App has only this repository's content and pull-request
-  permissions. Its private key stays in the external runtime secret root.
+- The self-hosted Weblate GitHub App is connected to the PaladinsCat workspace
+  and installed only for `PaladinsCat-locales`. Its app webhook updates Weblate
+  after merged source changes.
+- Reviews are enabled and the project quality policy is **Only include approved
+  translations**. Reviewers use a project-scoped role; contributors cannot
+  approve their own wording by virtue of translation access.
 - Restrict Weblate registration and assign language-review permissions to
   trusted reviewers.
 - Do not store the bot token in this repository, locale files, or the frontend.
+
+The governed platform sync script remains a recovery path. It refuses to run
+unless approval-only commits are enabled and exports committed `HEAD`, never
+Weblate's mutable working tree.
 
 ## Source updates and conflicts
 
