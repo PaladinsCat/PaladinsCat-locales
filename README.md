@@ -1,8 +1,9 @@
 # PaladinsCat community translations
 
 This public repository is the source of truth for PaladinsCat translations.
-Translation changes are made on a Git branch, validated by GitHub Actions, and
-reviewed once as a normal pull request.
+Contributor translation changes are reviewed through Weblate and GitHub.
+Maintainer-owned canonical English source updates are validated locally and
+committed directly to `main`.
 
 ## Contribute
 
@@ -16,7 +17,7 @@ Direct local Git editing remains available as a fallback.
 - [Weblate and GitHub workflow](docs/WEBLATE_GITHUB_WORKFLOW.md)
 - [Local Git fallback](docs/LOCAL_GIT_FALLBACK.md)
 
-Run the same mechanical checks used by pull requests before committing:
+Run the locale validator before every commit:
 
 ```powershell
 npm install

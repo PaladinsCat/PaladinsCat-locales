@@ -42,7 +42,8 @@ Weblate's mutable working tree.
 
 ## Source updates and conflicts
 
-Application changes update canonical English in a normal pull request. After
-merge, Weblate pulls the source change through its webhook or scheduled sync.
+Application maintainers update canonical English directly on `main` after
+`npm run validate` passes. Weblate then pulls the source change through its
+webhook or scheduled sync.
 Resolve any Weblate Git conflict before creating a translation pull request;
 do not overwrite changed English keys from Weblate.
