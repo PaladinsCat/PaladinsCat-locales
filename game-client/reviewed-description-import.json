@@ -1,0 +1,286 @@
+{
+  "schemaVersion": 1,
+  "review": "Assistant-reviewed native gameplay descriptions; not a Weblate approval.",
+  "source": "game-client/<locale>.csv; English must match exactly after presentation-only font tags are removed.",
+  "sourceCsvLfSha256": {
+    "de.csv": "8306bdf474d3021b9645ee0706f8bface1ce15b241bed9de0e2e9871a525e25c",
+    "en.csv": "1987aa49ffd5291cfffbfb1c21c69f31ad61fa7d6ab23019e6040d87c037fcf6",
+    "es-419.csv": "703585b0d6afabdcfc7758fdf8f0fefe82ba26a6103edf0a36962e0613603e3e",
+    "fr.csv": "2996c8abdc36985a874c76a35da8c0d835282ccd0739f3f9307c015376074736",
+    "ja.csv": "13d8c403db264874ab461eee2ff658f400a7ee2d240d1e5c549ef583ac797879",
+    "ko.csv": "d2772853f827ef9776502651405b699adbe2916abe66d858b9482ff0076eeb01",
+    "pl.csv": "f27e47b01ecafa700db8f0bc2a17f9df1f076b10aa96b452846ca06a47ec4d09",
+    "pt-BR.csv": "c2cd37d1c989bba5785f28a33e1ad993965a05e375124461574926037f69216e",
+    "ru.csv": "fa7bcf42f241bdeafd3805e50150e9c594596bab3b93d7c9ec05f5eca906f8a1",
+    "tr.csv": "493a7ab3a4c7e3277d2b44f7f6e8988db07bb94075d7d5e15d3cf51d57116e9c",
+    "zh-CN.csv": "b72a21082eecf42341c8673eea1b4f9fa0ab3d7913da12af256c529382d9bba4",
+    "zh-TW.csv": "2a077877f3730211310b16caafc4b92883fe40e6d4fa688632821a7589e13450"
+  },
+  "descriptions": {
+    "champions.bombking.skills.poppybomb.description": {
+      "messageId": "208783",
+      "locales": [
+        "de",
+        "es-419",
+        "fr",
+        "ja",
+        "pl",
+        "pt-BR",
+        "tr"
+      ],
+      "adaptedLocales": []
+    },
+    "champions.buck.skills.netshot.description": {
+      "messageId": "208927",
+      "locales": [
+        "de",
+        "es-419",
+        "ja",
+        "pl",
+        "tr"
+      ],
+      "adaptedLocales": []
+    },
+    "champions.cassie.skills.blastshot.description": {
+      "messageId": "208822",
+      "locales": [
+        "de",
+        "es-419",
+        "fr",
+        "ja",
+        "pl",
+        "pt-BR",
+        "tr"
+      ],
+      "adaptedLocales": []
+    },
+    "champions.dredge.skills.kraken.description": {
+      "messageId": "208912",
+      "locales": [
+        "de",
+        "es-419",
+        "fr",
+        "ja",
+        "pl",
+        "pt-BR",
+        "tr"
+      ],
+      "adaptedLocales": []
+    },
+    "champions.grohk.skills.shockpulse.description": {
+      "messageId": "208800",
+      "locales": [
+        "de",
+        "es-419",
+        "fr",
+        "ja",
+        "pl",
+        "pt-BR",
+        "tr"
+      ],
+      "adaptedLocales": [
+        "de",
+        "es-419"
+      ]
+    },
+    "champions.khan.skills.commandersgrab.description": {
+      "messageId": "208837",
+      "locales": [
+        "de",
+        "es-419",
+        "fr",
+        "ja",
+        "pl",
+        "pt-BR",
+        "ru",
+        "tr"
+      ],
+      "adaptedLocales": [
+        "es-419",
+        "pt-BR"
+      ]
+    },
+    "champions.maeve.skills.pounce.description": {
+      "messageId": "208936",
+      "locales": [
+        "de",
+        "es-419",
+        "fr",
+        "ja",
+        "pl",
+        "pt-BR",
+        "tr"
+      ],
+      "adaptedLocales": [
+        "pt-BR"
+      ]
+    },
+    "champions.maeve.skills.midnight.description": {
+      "messageId": "208922",
+      "locales": [
+        "de",
+        "es-419",
+        "fr",
+        "ja",
+        "pl",
+        "pt-BR",
+        "ru",
+        "tr"
+      ],
+      "adaptedLocales": [
+        "de"
+      ]
+    },
+    "champions.strix.skills.flashbang.description": {
+      "messageId": "208872",
+      "locales": [
+        "de",
+        "es-419",
+        "fr",
+        "ja",
+        "pl",
+        "pt-BR",
+        "ru",
+        "tr"
+      ],
+      "adaptedLocales": [
+        "fr"
+      ]
+    },
+    "champions.talus.skills.blitzupper.description": {
+      "messageId": "208824",
+      "locales": [
+        "de",
+        "es-419",
+        "fr",
+        "ja",
+        "pl",
+        "pt-BR",
+        "ru",
+        "tr"
+      ],
+      "adaptedLocales": [
+        "de"
+      ]
+    },
+    "champions.talus.skills.truepower.description": {
+      "messageId": "208999",
+      "locales": [
+        "de",
+        "es-419",
+        "fr",
+        "ja",
+        "pl",
+        "pt-BR",
+        "ru",
+        "tr"
+      ],
+      "adaptedLocales": [
+        "fr"
+      ]
+    },
+    "champions.tyra.skills.huntersmark.description": {
+      "messageId": "208893",
+      "locales": [
+        "de",
+        "es-419",
+        "fr",
+        "ja",
+        "pl",
+        "pt-BR",
+        "ru",
+        "tr"
+      ],
+      "adaptedLocales": []
+    },
+    "champions.vii.skills.decree77.description": {
+      "messageId": "226123",
+      "locales": [
+        "de",
+        "es-419",
+        "fr",
+        "ja",
+        "pl",
+        "pt-BR",
+        "tr"
+      ],
+      "adaptedLocales": [
+        "es-419"
+      ]
+    },
+    "champions.atlas.skills.setback.description": {
+      "messageId": "208964",
+      "locales": [
+        "es-419",
+        "fr",
+        "ja",
+        "pl",
+        "pt-BR",
+        "tr"
+      ],
+      "adaptedLocales": []
+    },
+    "champions.atlas.skills.secondchance.description": {
+      "messageId": "208959",
+      "locales": [
+        "es-419",
+        "fr",
+        "ja",
+        "pl",
+        "pt-BR",
+        "tr"
+      ],
+      "adaptedLocales": [
+        "fr"
+      ]
+    },
+    "champions.atlas.skills.exile.description": {
+      "messageId": "208863",
+      "locales": [
+        "es-419",
+        "fr",
+        "ja",
+        "pl",
+        "pt-BR",
+        "tr"
+      ],
+      "adaptedLocales": [
+        "fr",
+        "pt-BR",
+        "tr"
+      ]
+    },
+    "champions.caspian.skills.roguestempo.description": {
+      "messageId": "238237",
+      "locales": [
+        "es-419",
+        "fr",
+        "ja",
+        "pt-BR",
+        "tr"
+      ],
+      "adaptedLocales": [
+        "tr"
+      ]
+    },
+    "champions.grover.skills.cripplingthrow.description": {
+      "messageId": "208840",
+      "locales": [
+        "es-419",
+        "fr",
+        "ja",
+        "ru",
+        "tr"
+      ],
+      "adaptedLocales": []
+    },
+    "champions.terminus.talents.crush.description": {
+      "messageId": "189574",
+      "locales": [
+        "zh-CN",
+        "zh-TW"
+      ],
+      "adaptedLocales": []
+    }
+  }
+}

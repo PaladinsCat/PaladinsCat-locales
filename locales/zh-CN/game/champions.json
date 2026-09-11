@@ -803,5 +803,6 @@
   "champions.vora.loadouts.adancewithfate.description": "Tendril的冷却时间缩短{0.6|0.6}秒。",
   "champions.vora.loadouts.brokenpromises.description": "Obliteration每命中一名敌人，恢复{100|100}点生命值。",
   "champions.vora.loadouts.newpurpose.description": "最大生命值提高{50|50}。",
-  "champions.vora.loadouts.whatmaycome.description": "激活Tendril后，受到的伤害降低{4|4}%，持续3秒。"
+  "champions.vora.loadouts.whatmaycome.description": "激活Tendril后，受到的伤害降低{4|4}%，持续3秒。",
+  "champions.terminus.talents.crush.description": "裂地落击时对敌人造成的减速效果换为眩晕1秒"
 }

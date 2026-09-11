@@ -24,7 +24,8 @@ from pathlib import Path
 
 TARGET_LOCALES = ("de", "es-419", "fr", "ja", "ko", "pl", "pt-BR", "ru", "tr", "zh-CN", "zh-TW")
 GAME_MODULES = ("game/champions", "game/talents", "game/items", "game/maps")
-PLACEHOLDER_PATTERN = re.compile(r"@@[A-Za-z0-9_]+@@|\{[A-Za-z0-9_]+\}|%(?:\d+\$)?[sdif]")
+PLACEHOLDER_PATTERN = re.compile(r"@@[A-Za-z0-9_]+@@|\{[^{}]+\}|%(?:\d+\$)?[sdif]")
+FONT_TAG_PATTERN = re.compile(r'</?font(?:\s+color="#[0-9A-Fa-f]{6}")?>')
 LEADING_ABILITY_PATTERN = re.compile(r"^\s*\[[^\]]+\]\s*")
 SCALE_PLACEHOLDER_PATTERN = re.compile(r"\{scale=([^{}]+)\}", re.IGNORECASE)
 WORD_PATTERN = re.compile(r"[a-z0-9]+")
@@ -36,7 +37,7 @@ FUZZY_STOP_WORDS = frozenset({
 
 
 def parse_args() -> argparse.Namespace:
-    repository = Path(__file__).resolve().parents[1]
+    repository = Path(__file__).resolve().parents[2]
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--game-client-root", type=Path, default=repository / "game-client")
     parser.add_argument("--locales-root", type=Path, default=repository / "locales")
@@ -68,6 +69,9 @@ def placeholders(value: str) -> list[str]:
 
 def normalize_game_value(value: str) -> str:
     """Align client card formatting with the compact web description format."""
+    # Presentation-only tags otherwise prevent exact matches to web source.
+    # Keep commands and unknown tags visible: they require explicit adaptation.
+    value = FONT_TAG_PATTERN.sub("", value)
     value = LEADING_ABILITY_PATTERN.sub("", value)
     value = SCALE_PLACEHOLDER_PATTERN.sub(r"{\1}", value)
     return re.sub(r"\s+", " ", value).strip()

@@ -1279,5 +1279,21 @@
   "champions.saati.loadouts.bullethopper.description": "Aumenta sua munição máxima em {1|1}.",
   "champions.saati.loadouts.designerarmor.description": "Aumenta sua vida máxima em {40|40}.",
   "champions.talus.loadouts.spirited.description": "Aumenta sua vida máxima em {50|50}.",
-  "champions.vora.loadouts.adancewithfate.description": "Reduz o tempo de recarga de Amarra em {0.6|0.6}s."
+  "champions.vora.loadouts.adancewithfate.description": "Reduz o intervalo de Amarra em {0.6|0.6}s.",
+  "champions.atlas.skills.setback.description": "Faz um disparo de energia cronal concentrada, que retrocede o inimigo.",
+  "champions.atlas.skills.secondchance.description": "Retrocede para o local que estava no passado próximo, revertendo o dano tomado recentemente.",
+  "champions.atlas.skills.exile.description": "Modifica sua arma cronal para efetuar disparos que conseguem banir os inimigos desse plano da existência por um curto período de tempo.",
+  "champions.bombking.skills.poppybomb.description": "Arremessa uma bomba instável que adere a qualquer superfície e pode ser usada para repelir você e/ou inimigos, causando 150 de dano nos inimigos atingidos.",
+  "champions.caspian.skills.roguestempo.description": "Dispara um projétil perfurante que causa 600 de dano e incapacita por 1,25s.",
+  "champions.cassie.skills.blastshot.description": "Dispara uma flecha explosiva que afeta inimigos em uma área causando 450 de dano e uma leve repulsão.",
+  "champions.dredge.skills.kraken.description": "Libera o Kraken do Abismo, que causa 2500 de dano e repulsão nos inimigos atingidos pelos seus tentáculos.",
+  "champions.grohk.skills.shockpulse.description": "Dispara um projétil elétrico que ricocheteia entre os inimigos, causando 150 de dano por ricochete.",
+  "champions.khan.skills.commandersgrab.description": "Avança para agarrar e atordoar um inimigo, arremessando-o para trás de você e causando 600 de dano.",
+  "champions.maeve.skills.pounce.description": "Salta rapidamente à frente, causando 400 de dano ao inimigo que você atingir e empurrando você para trás.",
+  "champions.maeve.skills.midnight.description": "Conjura a escuridão da noite, prejudicando a visão dos inimigos.",
+  "champions.strix.skills.flashbang.description": "Cega seus inimigos e causa 250 de dano com uma explosão de luz.",
+  "champions.talus.skills.blitzupper.description": "Dá um impulso para frente, causando 600 de dano e empurrando inimigos para trás.",
+  "champions.talus.skills.truepower.description": "Teleporta-se até um inimigo incauto, causando 600 de dano e repulsão.",
+  "champions.tyra.skills.huntersmark.description": "Marca sua presa, para revelar e enfraquecer, fazendo-a tomar mais 15% de dano à sua arma.",
+  "champions.vii.skills.decree77.description": "Foca em até 5 inimigos, causando medo e dano a eles."
 }

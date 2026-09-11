@@ -1,0 +1,1165 @@
+{
+  "schemaVersion": 1,
+  "scope": "Reviewed ability references in the September 2026 gap batch",
+  "sourceCsvLfSha256": {
+    "de.csv": "8306bdf474d3021b9645ee0706f8bface1ce15b241bed9de0e2e9871a525e25c",
+    "en.csv": "1987aa49ffd5291cfffbfb1c21c69f31ad61fa7d6ab23019e6040d87c037fcf6",
+    "es-419.csv": "703585b0d6afabdcfc7758fdf8f0fefe82ba26a6103edf0a36962e0613603e3e",
+    "fr.csv": "2996c8abdc36985a874c76a35da8c0d835282ccd0739f3f9307c015376074736",
+    "ja.csv": "13d8c403db264874ab461eee2ff658f400a7ee2d240d1e5c549ef583ac797879",
+    "ko.csv": "d2772853f827ef9776502651405b699adbe2916abe66d858b9482ff0076eeb01",
+    "pl.csv": "f27e47b01ecafa700db8f0bc2a17f9df1f076b10aa96b452846ca06a47ec4d09",
+    "pt-BR.csv": "c2cd37d1c989bba5785f28a33e1ad993965a05e375124461574926037f69216e",
+    "ru.csv": "fa7bcf42f241bdeafd3805e50150e9c594596bab3b93d7c9ec05f5eca906f8a1",
+    "tr.csv": "493a7ab3a4c7e3277d2b44f7f6e8988db07bb94075d7d5e15d3cf51d57116e9c",
+    "zh-CN.csv": "b72a21082eecf42341c8673eea1b4f9fa0ab3d7913da12af256c529382d9bba4",
+    "zh-TW.csv": "2a077877f3730211310b16caafc4b92883fe40e6d4fa688632821a7589e13450"
+  },
+  "terms": {
+    "Aphotic Reaver": {
+      "champion": "omen",
+      "messageIds": [
+        "248199"
+      ],
+      "locales": {
+        "de": {
+          "value": "Aphotischer Astrobandit",
+          "status": "native"
+        },
+        "es-419": {
+          "value": "Segador afótico",
+          "status": "native"
+        },
+        "fr": {
+          "value": "Destructeur aphotique",
+          "status": "native"
+        },
+        "ja": {
+          "value": "光なき略奪者",
+          "status": "native"
+        },
+        "ko": {
+          "value": "Aphotic Reaver",
+          "status": "same-as-English"
+        },
+        "pl": {
+          "value": "Mroczny Łupieżca",
+          "status": "native"
+        },
+        "pt-BR": {
+          "value": "Ceifador Afótico",
+          "status": "native"
+        },
+        "ru": {
+          "value": "Сумрачный разбойник",
+          "status": "native"
+        },
+        "tr": {
+          "value": "Kozmik Bozguncu",
+          "status": "native"
+        },
+        "zh-CN": {
+          "value": "Aphotic Reaver",
+          "status": "fallback-missing"
+        },
+        "zh-TW": {
+          "value": "Aphotic Reaver",
+          "status": "fallback-missing"
+        }
+      }
+    },
+    "Blast Back": {
+      "champion": "saati",
+      "messageIds": [
+        "220063"
+      ],
+      "locales": {
+        "de": {
+          "value": "Hitziger Tritt",
+          "status": "native"
+        },
+        "es-419": {
+          "value": "Estallido hacia atrás",
+          "status": "native"
+        },
+        "fr": {
+          "value": "Tir de repli",
+          "status": "native"
+        },
+        "ja": {
+          "value": "ブラストバック",
+          "status": "native"
+        },
+        "ko": {
+          "value": "Blast Back",
+          "status": "same-as-English"
+        },
+        "pl": {
+          "value": "Wybuchowy odrzut",
+          "status": "native"
+        },
+        "pt-BR": {
+          "value": "Chute Explosivo",
+          "status": "native"
+        },
+        "ru": {
+          "value": "Обратный взрыв",
+          "status": "native"
+        },
+        "tr": {
+          "value": "Ters Tekme",
+          "status": "native"
+        },
+        "zh-CN": {
+          "value": "Blast Back",
+          "status": "fallback-missing"
+        },
+        "zh-TW": {
+          "value": "Blast Back",
+          "status": "fallback-missing"
+        }
+      }
+    },
+    "Charge": {
+      "champion": "fernando",
+      "messageIds": [
+        "127066",
+        "209913"
+      ],
+      "locales": {
+        "de": {
+          "value": "Ansturm",
+          "status": "native"
+        },
+        "es-419": {
+          "value": "Carga",
+          "status": "native"
+        },
+        "fr": {
+          "value": "Charge",
+          "status": "same-as-English"
+        },
+        "ja": {
+          "value": "チャージ",
+          "status": "native"
+        },
+        "ko": {
+          "value": "Charge",
+          "status": "same-as-English"
+        },
+        "pl": {
+          "value": "Szarża",
+          "status": "native"
+        },
+        "pt-BR": {
+          "value": "Investida",
+          "status": "native"
+        },
+        "ru": {
+          "value": "Рывок",
+          "status": "native"
+        },
+        "tr": {
+          "value": "Hücum",
+          "status": "native"
+        },
+        "zh-CN": {
+          "value": "冲锋",
+          "status": "native"
+        },
+        "zh-TW": {
+          "value": "沖鋒",
+          "status": "native"
+        }
+      }
+    },
+    "Combat Trance": {
+      "champion": "tiberius",
+      "messageIds": [
+        "206443"
+      ],
+      "locales": {
+        "de": {
+          "value": "Kampfrausch",
+          "status": "native"
+        },
+        "es-419": {
+          "value": "Trance de combate",
+          "status": "native"
+        },
+        "fr": {
+          "value": "Furie martiale",
+          "status": "native"
+        },
+        "ja": {
+          "value": "コンバットトランス",
+          "status": "native"
+        },
+        "ko": {
+          "value": "Combat Trance",
+          "status": "same-as-English"
+        },
+        "pl": {
+          "value": "Bitewny trans",
+          "status": "native"
+        },
+        "pt-BR": {
+          "value": "Transe de Combate",
+          "status": "native"
+        },
+        "ru": {
+          "value": "Боевой транс",
+          "status": "native"
+        },
+        "tr": {
+          "value": "Savaş Transı",
+          "status": "native"
+        },
+        "zh-CN": {
+          "value": "Combat Trance",
+          "status": "fallback-internal-label"
+        },
+        "zh-TW": {
+          "value": "Combat Trance",
+          "status": "fallback-internal-label"
+        }
+      }
+    },
+    "Conviction": {
+      "champion": "azaan",
+      "messageIds": [
+        "221049"
+      ],
+      "locales": {
+        "de": {
+          "value": "Schuldspruch",
+          "status": "native"
+        },
+        "es-419": {
+          "value": "Convicción",
+          "status": "native"
+        },
+        "fr": {
+          "value": "Conviction",
+          "status": "same-as-English"
+        },
+        "ja": {
+          "value": "コンビクション",
+          "status": "native"
+        },
+        "ko": {
+          "value": "Conviction",
+          "status": "same-as-English"
+        },
+        "pl": {
+          "value": "Wyrok",
+          "status": "native"
+        },
+        "pt-BR": {
+          "value": "Condenação",
+          "status": "native"
+        },
+        "ru": {
+          "value": "Убеждение",
+          "status": "native"
+        },
+        "tr": {
+          "value": "Adalete Teslim",
+          "status": "native"
+        },
+        "zh-CN": {
+          "value": "Conviction",
+          "status": "fallback-missing"
+        },
+        "zh-TW": {
+          "value": "Conviction",
+          "status": "fallback-missing"
+        }
+      }
+    },
+    "Crouching Tigron": {
+      "champion": "tiberius",
+      "messageIds": [
+        "206426"
+      ],
+      "locales": {
+        "de": {
+          "value": "Hockender Tigron",
+          "status": "native"
+        },
+        "es-419": {
+          "value": "Tigrón agachado",
+          "status": "native"
+        },
+        "fr": {
+          "value": "Tigron accroupi",
+          "status": "native"
+        },
+        "ja": {
+          "value": "クラウチングタイグロン",
+          "status": "native"
+        },
+        "ko": {
+          "value": "Crouching Tigron",
+          "status": "same-as-English"
+        },
+        "pl": {
+          "value": "Przyczajony tigron",
+          "status": "native"
+        },
+        "pt-BR": {
+          "value": "Salto Tigron",
+          "status": "native"
+        },
+        "ru": {
+          "value": "Крадущийся тигрон",
+          "status": "native"
+        },
+        "tr": {
+          "value": "Oturan Tigron",
+          "status": "native"
+        },
+        "zh-CN": {
+          "value": "Crouching Tigron",
+          "status": "fallback-internal-label"
+        },
+        "zh-TW": {
+          "value": "Crouching Tigron",
+          "status": "fallback-internal-label"
+        }
+      }
+    },
+    "Dash": {
+      "champion": "vatu",
+      "messageIds": [
+        "216161"
+      ],
+      "locales": {
+        "de": {
+          "value": "Sprint",
+          "status": "native"
+        },
+        "es-419": {
+          "value": "Aceleración",
+          "status": "native"
+        },
+        "fr": {
+          "value": "Fuse",
+          "status": "native"
+        },
+        "ja": {
+          "value": "突進",
+          "status": "native"
+        },
+        "ko": {
+          "value": "Dash",
+          "status": "same-as-English"
+        },
+        "pl": {
+          "value": "Pęd",
+          "status": "native"
+        },
+        "pt-BR": {
+          "value": "Corrida",
+          "status": "native"
+        },
+        "ru": {
+          "value": "Рывок",
+          "status": "native"
+        },
+        "tr": {
+          "value": "Atılma",
+          "status": "native"
+        },
+        "zh-CN": {
+          "value": "Dash",
+          "status": "fallback-missing"
+        },
+        "zh-TW": {
+          "value": "Dash",
+          "status": "fallback-missing"
+        }
+      }
+    },
+    "Deadly Domain": {
+      "champion": "omen",
+      "messageIds": [
+        "248203"
+      ],
+      "locales": {
+        "de": {
+          "value": "Todeszone",
+          "status": "native"
+        },
+        "es-419": {
+          "value": "Domino mortal",
+          "status": "native"
+        },
+        "fr": {
+          "value": "Terre mortifère",
+          "status": "native"
+        },
+        "ja": {
+          "value": "死の領域",
+          "status": "native"
+        },
+        "ko": {
+          "value": "Deadly Domain",
+          "status": "same-as-English"
+        },
+        "pl": {
+          "value": "Zabójcze Królestwo",
+          "status": "native"
+        },
+        "pt-BR": {
+          "value": "Domínio Mortal",
+          "status": "native"
+        },
+        "ru": {
+          "value": "Территория смерти",
+          "status": "native"
+        },
+        "tr": {
+          "value": "Ölümcül Girdap",
+          "status": "native"
+        },
+        "zh-CN": {
+          "value": "Deadly Domain",
+          "status": "fallback-missing"
+        },
+        "zh-TW": {
+          "value": "Deadly Domain",
+          "status": "fallback-missing"
+        }
+      }
+    },
+    "Envelop": {
+      "champion": "rei",
+      "messageIds": [
+        "217230"
+      ],
+      "locales": {
+        "de": {
+          "value": "Einhüllen",
+          "status": "native"
+        },
+        "es-419": {
+          "value": "Envolver",
+          "status": "native"
+        },
+        "fr": {
+          "value": "Enveloppe",
+          "status": "native"
+        },
+        "ja": {
+          "value": "抱擁",
+          "status": "native"
+        },
+        "ko": {
+          "value": "Envelop",
+          "status": "same-as-English"
+        },
+        "pl": {
+          "value": "Spowijanie",
+          "status": "native"
+        },
+        "pt-BR": {
+          "value": "Envelopar",
+          "status": "native"
+        },
+        "ru": {
+          "value": "Аура",
+          "status": "native"
+        },
+        "tr": {
+          "value": "Kuşatma",
+          "status": "native"
+        },
+        "zh-CN": {
+          "value": "Envelop",
+          "status": "fallback-missing"
+        },
+        "zh-TW": {
+          "value": "Envelop",
+          "status": "fallback-missing"
+        }
+      }
+    },
+    "Explosive Dodge": {
+      "champion": "vii",
+      "messageIds": [
+        "222411"
+      ],
+      "locales": {
+        "de": {
+          "value": "Explosiver Schlenker",
+          "status": "native"
+        },
+        "es-419": {
+          "value": "Esquiva explosiva",
+          "status": "native"
+        },
+        "fr": {
+          "value": "Esquive explosive",
+          "status": "native"
+        },
+        "ja": {
+          "value": "爆発系回避",
+          "status": "native"
+        },
+        "ko": {
+          "value": "Explosive Dodge",
+          "status": "same-as-English"
+        },
+        "pl": {
+          "value": "Wybuchowy unik",
+          "status": "native"
+        },
+        "pt-BR": {
+          "value": "Desvio Explosivo",
+          "status": "native"
+        },
+        "ru": {
+          "value": "Взрывное уклонение",
+          "status": "native"
+        },
+        "tr": {
+          "value": "Patlayıcı Sıyrılma",
+          "status": "native"
+        },
+        "zh-CN": {
+          "value": "Explosive Dodge",
+          "status": "fallback-missing"
+        },
+        "zh-TW": {
+          "value": "Explosive Dodge",
+          "status": "fallback-missing"
+        }
+      }
+    },
+    "Hail of Bombs": {
+      "champion": "bettylabomba",
+      "messageIds": [
+        "223905"
+      ],
+      "locales": {
+        "de": {
+          "value": "Bombenhagel",
+          "status": "native"
+        },
+        "es-419": {
+          "value": "Granizada de bombas",
+          "status": "native"
+        },
+        "fr": {
+          "value": "Fontaine de bombes",
+          "status": "native"
+        },
+        "ja": {
+          "value": "爆弾の雨",
+          "status": "native"
+        },
+        "ko": {
+          "value": "Hail of Bombs",
+          "status": "same-as-English"
+        },
+        "pl": {
+          "value": "Bombobicie",
+          "status": "native"
+        },
+        "pt-BR": {
+          "value": "Chuva de Bombas",
+          "status": "native"
+        },
+        "ru": {
+          "value": "Бомбовый ливень",
+          "status": "native"
+        },
+        "tr": {
+          "value": "Bomba Yağmuru",
+          "status": "native"
+        },
+        "zh-CN": {
+          "value": "Hail of Bombs",
+          "status": "fallback-missing"
+        },
+        "zh-TW": {
+          "value": "Hail of Bombs",
+          "status": "fallback-missing"
+        }
+      }
+    },
+    "Heavy Blade": {
+      "champion": "tiberius",
+      "messageIds": [
+        "206429"
+      ],
+      "locales": {
+        "de": {
+          "value": "Schwere Klinge",
+          "status": "native"
+        },
+        "es-419": {
+          "value": "Espada pesada",
+          "status": "native"
+        },
+        "fr": {
+          "value": "Lame légendaire",
+          "status": "native"
+        },
+        "ja": {
+          "value": "ヘビーブレード",
+          "status": "native"
+        },
+        "ko": {
+          "value": "Heavy Blade",
+          "status": "same-as-English"
+        },
+        "pl": {
+          "value": "Ciężkie ostrze",
+          "status": "native"
+        },
+        "pt-BR": {
+          "value": "Lâmina Pesada",
+          "status": "native"
+        },
+        "ru": {
+          "value": "Тяжелый клинок",
+          "status": "native"
+        },
+        "tr": {
+          "value": "Ağır Kılıç",
+          "status": "native"
+        },
+        "zh-CN": {
+          "value": "Heavy Blade",
+          "status": "fallback-internal-label"
+        },
+        "zh-TW": {
+          "value": "Heavy Blade",
+          "status": "fallback-internal-label"
+        }
+      }
+    },
+    "Ignition": {
+      "champion": "raum",
+      "messageIds": [
+        "207710"
+      ],
+      "locales": {
+        "de": {
+          "value": "Zündung",
+          "status": "native"
+        },
+        "es-419": {
+          "value": "Ignición",
+          "status": "native"
+        },
+        "fr": {
+          "value": "Ignition",
+          "status": "same-as-English"
+        },
+        "ja": {
+          "value": "イグニッション",
+          "status": "native"
+        },
+        "ko": {
+          "value": "Ignition",
+          "status": "same-as-English"
+        },
+        "pl": {
+          "value": "Zapłon",
+          "status": "native"
+        },
+        "pt-BR": {
+          "value": "Ignição",
+          "status": "native"
+        },
+        "ru": {
+          "value": "Возгорание",
+          "status": "native"
+        },
+        "tr": {
+          "value": "Ateşleme",
+          "status": "native"
+        },
+        "zh-CN": {
+          "value": "Ignition",
+          "status": "fallback-missing"
+        },
+        "zh-TW": {
+          "value": "Ignition",
+          "status": "fallback-missing"
+        }
+      }
+    },
+    "Juggernaut": {
+      "champion": "raum",
+      "messageIds": [
+        "207706"
+      ],
+      "locales": {
+        "de": {
+          "value": "Unaufhaltsame Gewalt",
+          "status": "native"
+        },
+        "es-419": {
+          "value": "Gigante",
+          "status": "native"
+        },
+        "fr": {
+          "value": "Mastodonte",
+          "status": "native"
+        },
+        "ja": {
+          "value": "ジャガーノート",
+          "status": "native"
+        },
+        "ko": {
+          "value": "Juggernaut",
+          "status": "same-as-English"
+        },
+        "pl": {
+          "value": "Moloch",
+          "status": "native"
+        },
+        "pt-BR": {
+          "value": "Irrefreável",
+          "status": "native"
+        },
+        "ru": {
+          "value": "Джаггернаут",
+          "status": "native"
+        },
+        "tr": {
+          "value": "Ezici Güç",
+          "status": "native"
+        },
+        "zh-CN": {
+          "value": "Juggernaut",
+          "status": "fallback-missing"
+        },
+        "zh-TW": {
+          "value": "Juggernaut",
+          "status": "fallback-missing"
+        }
+      }
+    },
+    "Obliteration": {
+      "champion": "vora",
+      "messageIds": [
+        "212105"
+      ],
+      "locales": {
+        "de": {
+          "value": "Vernichtung",
+          "status": "native"
+        },
+        "es-419": {
+          "value": "Erradicación",
+          "status": "native"
+        },
+        "fr": {
+          "value": "Oblitération",
+          "status": "native"
+        },
+        "ja": {
+          "value": "抹殺",
+          "status": "native"
+        },
+        "ko": {
+          "value": "Obliteration",
+          "status": "same-as-English"
+        },
+        "pl": {
+          "value": "Zgładzenie",
+          "status": "native"
+        },
+        "pt-BR": {
+          "value": "Obliteração",
+          "status": "native"
+        },
+        "ru": {
+          "value": "Сокрушение",
+          "status": "native"
+        },
+        "tr": {
+          "value": "Tahrip",
+          "status": "native"
+        },
+        "zh-CN": {
+          "value": "Obliteration",
+          "status": "fallback-missing"
+        },
+        "zh-TW": {
+          "value": "Obliteration",
+          "status": "fallback-missing"
+        }
+      }
+    },
+    "Projection": {
+      "champion": "corvus",
+      "messageIds": [
+        "210342"
+      ],
+      "locales": {
+        "de": {
+          "value": "Projektion",
+          "status": "native"
+        },
+        "es-419": {
+          "value": "Proyección",
+          "status": "native"
+        },
+        "fr": {
+          "value": "Projection",
+          "status": "same-as-English"
+        },
+        "ja": {
+          "value": "投射",
+          "status": "native"
+        },
+        "ko": {
+          "value": "Projection",
+          "status": "same-as-English"
+        },
+        "pl": {
+          "value": "Projekcja",
+          "status": "native"
+        },
+        "pt-BR": {
+          "value": "Projeção",
+          "status": "native"
+        },
+        "ru": {
+          "value": "Проекция",
+          "status": "native"
+        },
+        "tr": {
+          "value": "Yansıtma",
+          "status": "native"
+        },
+        "zh-CN": {
+          "value": "Projection",
+          "status": "fallback-missing"
+        },
+        "zh-TW": {
+          "value": "Projection",
+          "status": "fallback-missing"
+        }
+      }
+    },
+    "Reckoning": {
+      "champion": "azaan",
+      "messageIds": [
+        "220929"
+      ],
+      "locales": {
+        "de": {
+          "value": "Abrechnung",
+          "status": "native"
+        },
+        "es-419": {
+          "value": "Veredicto",
+          "status": "native"
+        },
+        "fr": {
+          "value": "Pénitence",
+          "status": "native"
+        },
+        "ja": {
+          "value": "因果応報",
+          "status": "native"
+        },
+        "ko": {
+          "value": "Reckoning",
+          "status": "same-as-English"
+        },
+        "pl": {
+          "value": "Czas zapłaty",
+          "status": "native"
+        },
+        "pt-BR": {
+          "value": "Acerto de Contas",
+          "status": "native"
+        },
+        "ru": {
+          "value": "Час расплаты",
+          "status": "native"
+        },
+        "tr": {
+          "value": "Hesaplaşma",
+          "status": "native"
+        },
+        "zh-CN": {
+          "value": "Reckoning",
+          "status": "fallback-missing"
+        },
+        "zh-TW": {
+          "value": "Reckoning",
+          "status": "fallback-missing"
+        }
+      }
+    },
+    "Sanctuary": {
+      "champion": "azaan",
+      "messageIds": [
+        "221063"
+      ],
+      "locales": {
+        "de": {
+          "value": "Zuflucht",
+          "status": "native"
+        },
+        "es-419": {
+          "value": "Santuario",
+          "status": "native"
+        },
+        "fr": {
+          "value": "Sanctuaire",
+          "status": "native"
+        },
+        "ja": {
+          "value": "聖域",
+          "status": "native"
+        },
+        "ko": {
+          "value": "Sanctuary",
+          "status": "same-as-English"
+        },
+        "pl": {
+          "value": "Sanktuarium",
+          "status": "native"
+        },
+        "pt-BR": {
+          "value": "Santuário",
+          "status": "native"
+        },
+        "ru": {
+          "value": "Святилище",
+          "status": "native"
+        },
+        "tr": {
+          "value": "Korunak",
+          "status": "native"
+        },
+        "zh-CN": {
+          "value": "Sanctuary",
+          "status": "fallback-missing"
+        },
+        "zh-TW": {
+          "value": "Sanctuary",
+          "status": "fallback-missing"
+        }
+      }
+    },
+    "Savage Tear": {
+      "champion": "kasumi",
+      "messageIds": [
+        "239360"
+      ],
+      "locales": {
+        "de": {
+          "value": "Wilder Riss",
+          "status": "native"
+        },
+        "es-419": {
+          "value": "Rotura salvaje",
+          "status": "native"
+        },
+        "fr": {
+          "value": "Brutalité",
+          "status": "native"
+        },
+        "ja": {
+          "value": "無慈悲な引き裂き",
+          "status": "native"
+        },
+        "ko": {
+          "value": "Savage Tear",
+          "status": "same-as-English"
+        },
+        "pl": {
+          "value": "Dzikie Rozdarcie",
+          "status": "native"
+        },
+        "pt-BR": {
+          "value": "Rasgo de Fúria",
+          "status": "native"
+        },
+        "ru": {
+          "value": "Жестокий разрыв",
+          "status": "native"
+        },
+        "tr": {
+          "value": "Acımasız Saplama",
+          "status": "native"
+        },
+        "zh-CN": {
+          "value": "Savage Tear",
+          "status": "fallback-missing"
+        },
+        "zh-TW": {
+          "value": "Savage Tear",
+          "status": "fallback-missing"
+        }
+      }
+    },
+    "Shadow Bombs": {
+      "champion": "vatu",
+      "messageIds": [
+        "217385"
+      ],
+      "locales": {
+        "de": {
+          "value": "Schattenbomben",
+          "status": "native"
+        },
+        "es-419": {
+          "value": "Bombas sombrías",
+          "status": "native"
+        },
+        "fr": {
+          "value": "Bombes ténèbres",
+          "status": "native"
+        },
+        "ja": {
+          "value": "影爆弾",
+          "status": "native"
+        },
+        "ko": {
+          "value": "Shadow Bombs",
+          "status": "same-as-English"
+        },
+        "pl": {
+          "value": "Bomby w cień",
+          "status": "native"
+        },
+        "pt-BR": {
+          "value": "Bombas-Sombra",
+          "status": "native"
+        },
+        "ru": {
+          "value": "Теневые бомбы",
+          "status": "native"
+        },
+        "tr": {
+          "value": "Gölge Bombaları",
+          "status": "native"
+        },
+        "zh-CN": {
+          "value": "Shadow Bombs",
+          "status": "fallback-missing"
+        },
+        "zh-TW": {
+          "value": "Shadow Bombs",
+          "status": "fallback-missing"
+        }
+      }
+    },
+    "Soul Harvest": {
+      "champion": "raum",
+      "messageIds": [
+        "207702"
+      ],
+      "locales": {
+        "de": {
+          "value": "Seelenernte",
+          "status": "native"
+        },
+        "es-419": {
+          "value": "Cosecha de almas",
+          "status": "native"
+        },
+        "fr": {
+          "value": "Absorption d'âmes",
+          "status": "native"
+        },
+        "ja": {
+          "value": "ソウルハーベスト",
+          "status": "native"
+        },
+        "ko": {
+          "value": "Soul Harvest",
+          "status": "same-as-English"
+        },
+        "pl": {
+          "value": "Żniwo dusz",
+          "status": "native"
+        },
+        "pt-BR": {
+          "value": "Colheita de Almas",
+          "status": "native"
+        },
+        "ru": {
+          "value": "Жатва душ",
+          "status": "native"
+        },
+        "tr": {
+          "value": "Ruh Hasadı",
+          "status": "native"
+        },
+        "zh-CN": {
+          "value": "Soul Harvest",
+          "status": "fallback-missing"
+        },
+        "zh-TW": {
+          "value": "Soul Harvest",
+          "status": "fallback-missing"
+        }
+      }
+    },
+    "Tendril": {
+      "champion": "vora",
+      "messageIds": [
+        "212457"
+      ],
+      "locales": {
+        "de": {
+          "value": "Ranke",
+          "status": "native"
+        },
+        "es-419": {
+          "value": "Zarcillo",
+          "status": "native"
+        },
+        "fr": {
+          "value": "Ligament",
+          "status": "native"
+        },
+        "ja": {
+          "value": "テンドリル",
+          "status": "native"
+        },
+        "ko": {
+          "value": "Tendril",
+          "status": "same-as-English"
+        },
+        "pl": {
+          "value": "Pnącze",
+          "status": "native"
+        },
+        "pt-BR": {
+          "value": "Amarra",
+          "status": "native"
+        },
+        "ru": {
+          "value": "Щупальце",
+          "status": "native"
+        },
+        "tr": {
+          "value": "Filiz",
+          "status": "native"
+        },
+        "zh-CN": {
+          "value": "Tendril",
+          "status": "fallback-missing"
+        },
+        "zh-TW": {
+          "value": "Tendril",
+          "status": "fallback-missing"
+        }
+      }
+    }
+  }
+}

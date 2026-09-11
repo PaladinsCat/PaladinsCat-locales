@@ -52,7 +52,7 @@ def atomic_write_json(path: Path, contents: dict[str, object]) -> None:
 
 
 def main() -> int:
-    repository = Path(__file__).resolve().parents[1]
+    repository = Path(__file__).resolve().parents[2]
     game_client = repository / "game-client"
     english_rows, _ = read_catalog(game_client / "en.csv")
     target_catalogs = {locale: read_catalog(game_client / f"{locale}.csv")[1] for locale in TARGET_LOCALES}
