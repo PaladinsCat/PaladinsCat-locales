@@ -1250,5 +1250,19 @@
   "champions.zhin.skills.counter.description": "Kontrujesz pojedynczy atak z przodu i wyprowadzasz zabójczy kontratak, który zadaje 600 obrażeń.",
   "champions.zhin.talents.guillotine.description": "Złośliwość zadaje obrażenia w wysokości 20% maks. zdrowia celu przy każdym trafieniu. Jeśli cel zostanie zabity, otrzymasz zwrot 20% naładowania.",
   "champions.zhin.talents.smolder.description": "Przywraca ci 15% maks. zdrowia na sekundę, jak długo używasz Kłębu dymu.",
-  "champions.zhin.talents.yomi.description": "Wir <font color=\"#FAAB67\">podpala</font> teraz trafionych wrogów na 3 sek. Twoje Piekielne Ostrze zadaje obrażenia zwiększone o 20% <font color=\"#FAAB67\">podpalonym</font> celom."
+  "champions.zhin.talents.yomi.description": "Wir <font color=\"#FAAB67\">podpala</font> teraz trafionych wrogów na 3 sek. Twoje Piekielne Ostrze zadaje obrażenia zwiększone o 20% <font color=\"#FAAB67\">podpalonym</font> celom.",
+  "champions.changelog.title": "Historia zmian",
+  "champions.changelog.source": "Oficjalna wiki Paladins",
+  "champions.changelog.categories.general": "Ogólne",
+  "champions.changelog.categories.weapon": "Broń",
+  "champions.changelog.categories.abilities": "Zdolności",
+  "champions.changelog.categories.talents": "Talenty",
+  "champions.changelog.categories.cards": "Karty",
+  "champions.changelog.categories.fixes": "Poprawki",
+  "champions.moji.loadouts.fluffy.description": "Zwiększa twoje maksymalne zdrowie o {50|50}.",
+  "champions.octavia.loadouts.determineddefense.description": "Zwiększa twoje maksymalne zdrowie o {50|50}.",
+  "champions.saati.loadouts.bullethopper.description": "Zwiększa twój maksymalny zapas amunicji o {1|1}.",
+  "champions.saati.loadouts.designerarmor.description": "Zwiększa twoje maksymalne zdrowie o {40|40}.",
+  "champions.talus.loadouts.spirited.description": "Zwiększa twoje maksymalne zdrowie o {50|50}.",
+  "champions.vora.loadouts.adancewithfate.description": "Skraca czas odnowienia Pnącze o {0.6|0.6}s."
 }

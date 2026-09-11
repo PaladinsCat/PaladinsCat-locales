@@ -265,5 +265,9 @@
   "tierLists.unplaced": "{count} yerleştirilmemiş",
   "tierLists.update": "Değişiklikleri kaydet",
   "tierLists.updateError": "Katman listesi güncellenemedi.",
-  "tierLists.updating": "Kaydediliyor…"
+  "tierLists.updating": "Kaydediliyor…",
+  "stats.performance.champion": "Şampiyon",
+  "stats.tiers.retry": "Tekrar dene",
+  "stats.performance.ranked": "Dereceli Siege",
+  "stats.performance.onslaught": "Onslaught"
 }

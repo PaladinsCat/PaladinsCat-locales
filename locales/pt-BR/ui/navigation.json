@@ -265,5 +265,9 @@
   "tierLists.unplaced": "{count} não colocado",
   "tierLists.update": "Salvar alterações",
   "tierLists.updateError": "Falha ao atualizar a lista de níveis.",
-  "tierLists.updating": "Salvando…"
+  "tierLists.updating": "Salvando…",
+  "stats.performance.champion": "Campeão",
+  "stats.tiers.retry": "Tentar novamente",
+  "stats.performance.ranked": "Cerco ranqueado",
+  "stats.performance.onslaught": "Chacina"
 }

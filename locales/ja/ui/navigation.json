@@ -265,5 +265,9 @@
   "tierLists.unplaced": "{count} が配置されていません",
   "tierLists.update": "変更を保存する",
   "tierLists.updateError": "階層リストの更新に失敗しました。",
-  "tierLists.updating": "保存中…"
+  "tierLists.updating": "保存中…",
+  "stats.performance.champion": "チャンピオン",
+  "stats.tiers.retry": "再試行",
+  "stats.performance.ranked": "ランク戦Siege",
+  "stats.performance.onslaught": "Onslaught"
 }

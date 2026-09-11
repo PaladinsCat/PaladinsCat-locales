@@ -265,5 +265,9 @@
   "tierLists.unplaced": "{count} не размещен",
   "tierLists.update": "Сохранить изменения",
   "tierLists.updateError": "Не удалось обновить список уровней.",
-  "tierLists.updating": "Сохранение…"
+  "tierLists.updating": "Сохранение…",
+  "stats.performance.champion": "Чемпион",
+  "stats.tiers.retry": "Повторить",
+  "stats.performance.ranked": "Рейтинговая осада",
+  "stats.performance.onslaught": "Натиск"
 }

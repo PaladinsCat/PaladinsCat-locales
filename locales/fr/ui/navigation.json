@@ -265,5 +265,9 @@
   "tierLists.unplaced": "{count} non placé",
   "tierLists.update": "Enregistrer les modifications",
   "tierLists.updateError": "Échec de la mise à jour de la liste des niveaux.",
-  "tierLists.updating": "Sauvegarde…"
+  "tierLists.updating": "Sauvegarde…",
+  "stats.performance.champion": "Champion",
+  "stats.tiers.retry": "Réessayer",
+  "stats.performance.ranked": "Siege classé",
+  "stats.performance.onslaught": "Onslaught"
 }

@@ -265,5 +265,9 @@
   "tierLists.unplaced": "{count} nieumieszczone",
   "tierLists.update": "Zapisz zmiany",
   "tierLists.updateError": "Nie udało się zaktualizować listy poziomów.",
-  "tierLists.updating": "Zapisuję…"
+  "tierLists.updating": "Zapisuję…",
+  "stats.performance.champion": "Czempion",
+  "stats.tiers.retry": "Spróbuj ponownie",
+  "stats.performance.ranked": "Rankingowe oblężenie",
+  "stats.performance.onslaught": "Szturm"
 }

@@ -1414,5 +1414,13 @@
   "champions.zhin.skills.whirl.description": "Lunge forward while swinging your blade, dealing 400 damage to enemies caught in the path.",
   "champions.zhin.talents.guillotine.description": "Spite deals 20% of its target's maximum Health with each hit. If this kills the target, you are refunded 20% charge.",
   "champions.zhin.talents.smolder.description": "Heal for 15% of your maximum Health per second while using Billow.",
-  "champions.zhin.talents.yomi.description": "Whirl now <font color=\"#FAAB67\">Ignites</font> enemies hit for 3s. Your Inferno Blade deals 20% increased damage to targets <font color=\"#FAAB67\">Burning or Ignited</font>."
+  "champions.zhin.talents.yomi.description": "Whirl now <font color=\"#FAAB67\">Ignites</font> enemies hit for 3s. Your Inferno Blade deals 20% increased damage to targets <font color=\"#FAAB67\">Burning or Ignited</font>.",
+  "champions.changelog.title": "변경 내역",
+  "champions.changelog.source": "Paladins 공식 위키",
+  "champions.changelog.categories.general": "일반",
+  "champions.changelog.categories.weapon": "무기",
+  "champions.changelog.categories.abilities": "스킬",
+  "champions.changelog.categories.talents": "특성",
+  "champions.changelog.categories.cards": "카드",
+  "champions.changelog.categories.fixes": "오류 수정"
 }

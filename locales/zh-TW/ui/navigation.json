@@ -265,5 +265,9 @@
   "tierLists.unplaced": "{count} 未放置",
   "tierLists.update": "儲存變更",
   "tierLists.updateError": "無法更新層級清單。",
-  "tierLists.updating": "正在儲存..."
+  "tierLists.updating": "正在儲存...",
+  "stats.performance.champion": "英雄",
+  "stats.tiers.retry": "重試",
+  "stats.performance.ranked": "排位賽Siege",
+  "stats.performance.onslaught": "Onslaught"
 }

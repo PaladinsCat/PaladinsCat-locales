@@ -1250,5 +1250,19 @@
   "champions.zhin.skills.counter.description": "Neutralizas un ataque frontal para realizar después un contraataque feroz que inflige 600 PS de daño.",
   "champions.zhin.talents.guillotine.description": "Rencor inflige un daño el equivalente a un 20% de la salud máxima del objetivo con cada impacto. Si esto acaba con el objetivo, recuperarás un 20% de carga.",
   "champions.zhin.talents.smolder.description": "Te curas un 15% de tu salud máxima mientras usas Avance neblinoso.",
-  "champions.zhin.talents.yomi.description": "Vórtice ahora <font color=\"#FAAB67\">quema</font> a los enemigos que alcanza durante 3s. Espada infernal inflige un 20% más de daño a los objetivos con <font color=\"#FAAB67\">quemadura</font>."
+  "champions.zhin.talents.yomi.description": "Vórtice ahora <font color=\"#FAAB67\">quema</font> a los enemigos que alcanza durante 3s. Espada infernal inflige un 20% más de daño a los objetivos con <font color=\"#FAAB67\">quemadura</font>.",
+  "champions.changelog.title": "Historial de cambios",
+  "champions.changelog.source": "Wiki oficial de Paladins",
+  "champions.changelog.categories.general": "General",
+  "champions.changelog.categories.weapon": "Arma",
+  "champions.changelog.categories.abilities": "Habilidades",
+  "champions.changelog.categories.talents": "Talentos",
+  "champions.changelog.categories.cards": "Cartas",
+  "champions.changelog.categories.fixes": "Correcciones",
+  "champions.moji.loadouts.fluffy.description": "Aumenta tu salud máxima en {50|50}.",
+  "champions.octavia.loadouts.determineddefense.description": "Aumenta tu salud máxima en {50|50}.",
+  "champions.saati.loadouts.bullethopper.description": "Aumenta tu munición máxima en {1|1}.",
+  "champions.saati.loadouts.designerarmor.description": "Aumenta tu salud máxima en {40|40}.",
+  "champions.talus.loadouts.spirited.description": "Aumenta tu salud máxima en {50|50}.",
+  "champions.vora.loadouts.adancewithfate.description": "Reduce el enfriamiento de Zarcillo en {0.6|0.6}s."
 }

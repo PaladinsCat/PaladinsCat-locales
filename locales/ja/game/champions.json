@@ -1250,5 +1250,19 @@
   "champions.zhin.skills.counter.description": "前方からの1回の攻撃に反撃し、邪悪なカウンターを放って600ダメージを与える。",
   "champions.zhin.talents.guillotine.description": "悪意が命中するたびに標的の最大HPの20％分のダメージを与える。これで敵をキルした場合は、チャージが20%回復する。",
   "champions.zhin.talents.smolder.description": "大波を発動中、毎秒最大HPの15%分回復する。",
-  "champions.zhin.talents.yomi.description": "旋回が3秒間敵を<font color=\"#FAAB67\">発火</font>で攻撃する。<font color=\"#FAAB67\">炎上や発火状態</font>の敵に対して、インフェルノブレイドのダメージが20%増加する。"
+  "champions.zhin.talents.yomi.description": "旋回が3秒間敵を<font color=\"#FAAB67\">発火</font>で攻撃する。<font color=\"#FAAB67\">炎上や発火状態</font>の敵に対して、インフェルノブレイドのダメージが20%増加する。",
+  "champions.changelog.title": "変更履歴",
+  "champions.changelog.source": "Paladins公式Wiki",
+  "champions.changelog.categories.general": "全般",
+  "champions.changelog.categories.weapon": "武器",
+  "champions.changelog.categories.abilities": "アビリティ",
+  "champions.changelog.categories.talents": "タレント",
+  "champions.changelog.categories.cards": "カード",
+  "champions.changelog.categories.fixes": "不具合修正",
+  "champions.moji.loadouts.fluffy.description": "最大ヘルスが{50|50}増加する。",
+  "champions.octavia.loadouts.determineddefense.description": "最大ヘルスが{50|50}増加する。",
+  "champions.saati.loadouts.bullethopper.description": "最大弾薬数が{1|1}増加する。",
+  "champions.saati.loadouts.designerarmor.description": "最大ヘルスが{40|40}増加する。",
+  "champions.talus.loadouts.spirited.description": "最大ヘルスが{50|50}増加する。",
+  "champions.vora.loadouts.adancewithfate.description": "Tendrilのクールダウンが{0.6|0.6}秒短縮される。"
 }

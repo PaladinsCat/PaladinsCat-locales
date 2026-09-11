@@ -1250,5 +1250,19 @@
   "champions.zhin.skills.counter.description": "Önden gelen bir saldırıya karşı koy ve 600 hasar veren haşin bir saldırı ile cevap ver.",
   "champions.zhin.talents.guillotine.description": "Kin her vuruşta hedefin maksimum Canının %20'sini alır. Vuruşla hedef katledilirse yükün %20'si sana iade edilir.",
   "champions.zhin.talents.smolder.description": "Dalga kullanırken her saniye maksimum Canının %15'i kadar iyileş.",
-  "champions.zhin.talents.yomi.description": "Burgaç artık vurduğu düşmanları 3sn boyunca <font color=\"#FAAB67\">yakar</font>. Cehennem Kılıcın <font color=\"#FAAB67\">yanan</font> hedeflere %20 artırılmış hasar verir."
+  "champions.zhin.talents.yomi.description": "Burgaç artık vurduğu düşmanları 3sn boyunca <font color=\"#FAAB67\">yakar</font>. Cehennem Kılıcın <font color=\"#FAAB67\">yanan</font> hedeflere %20 artırılmış hasar verir.",
+  "champions.changelog.title": "Değişiklik geçmişi",
+  "champions.changelog.source": "Resmî Paladins Wiki",
+  "champions.changelog.categories.general": "Genel",
+  "champions.changelog.categories.weapon": "Silah",
+  "champions.changelog.categories.abilities": "Yetenekler",
+  "champions.changelog.categories.talents": "Kabiliyetler",
+  "champions.changelog.categories.cards": "Kartlar",
+  "champions.changelog.categories.fixes": "Düzeltmeler",
+  "champions.moji.loadouts.fluffy.description": "Azami canını {50|50} artırır.",
+  "champions.octavia.loadouts.determineddefense.description": "Azami canını {50|50} artırır.",
+  "champions.saati.loadouts.bullethopper.description": "Azami cephaneni {1|1} artırır.",
+  "champions.saati.loadouts.designerarmor.description": "Azami canını {40|40} artırır.",
+  "champions.talus.loadouts.spirited.description": "Azami canını {50|50} artırır.",
+  "champions.vora.loadouts.adancewithfate.description": "Tendril bekleme süresini {0.6|0.6} saniye azaltır."
 }

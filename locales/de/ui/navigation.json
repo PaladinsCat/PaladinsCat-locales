@@ -265,5 +265,9 @@
   "tierLists.unplaced": "{count} nicht platziert",
   "tierLists.update": "Änderungen speichern",
   "tierLists.updateError": "Die Rangliste konnte nicht aktualisiert werden.",
-  "tierLists.updating": "Sparen…"
+  "tierLists.updating": "Sparen…",
+  "stats.performance.champion": "Champion",
+  "stats.tiers.retry": "Erneut versuchen",
+  "stats.performance.ranked": "Ranglisten-Belagerung",
+  "stats.performance.onslaught": "Offensive"
 }

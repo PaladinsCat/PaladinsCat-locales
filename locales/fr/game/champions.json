@@ -1250,5 +1250,19 @@
   "champions.zhin.skills.counter.description": "La prochaine attaque frontale subie ne vous affecte pas et vous effectuez une contre-attaque de 600 dégâts.",
   "champions.zhin.talents.guillotine.description": "Chaque frappe de Malveillance inflige des dégâts équivalant à 20% des PV max. de la cible. Si l'effet exécute sa cible, vous regagnez 20% de charge.",
   "champions.zhin.talents.smolder.description": "Vous regagnez 15% de vos PV max. par seconde pendant Volute de fumée.",
-  "champions.zhin.talents.yomi.description": "Tourbillon <font color=\"#FAAB67\">enflamme</font> les ennemis pendant 3s. La Lame infernale inflige 20% de dégâts supplémentaires aux cibles qui <font color=\"#FAAB67\">brûlent</font>."
+  "champions.zhin.talents.yomi.description": "Tourbillon <font color=\"#FAAB67\">enflamme</font> les ennemis pendant 3s. La Lame infernale inflige 20% de dégâts supplémentaires aux cibles qui <font color=\"#FAAB67\">brûlent</font>.",
+  "champions.changelog.title": "Historique des modifications",
+  "champions.changelog.source": "Wiki officiel de Paladins",
+  "champions.changelog.categories.general": "Général",
+  "champions.changelog.categories.weapon": "Arme",
+  "champions.changelog.categories.abilities": "Compétences",
+  "champions.changelog.categories.talents": "Talents",
+  "champions.changelog.categories.cards": "Cartes",
+  "champions.changelog.categories.fixes": "Corrections",
+  "champions.moji.loadouts.fluffy.description": "Augmente vos PV maximum de {50|50}.",
+  "champions.octavia.loadouts.determineddefense.description": "Augmente vos PV maximum de {50|50}.",
+  "champions.saati.loadouts.bullethopper.description": "Augmente vos munitions maximum de {1|1}.",
+  "champions.saati.loadouts.designerarmor.description": "Augmente vos PV maximum de {40|40}.",
+  "champions.talus.loadouts.spirited.description": "Augmente vos PV maximum de {50|50}.",
+  "champions.vora.loadouts.adancewithfate.description": "Réduit le temps de recharge de Tendril de {0.6|0.6}s."
 }

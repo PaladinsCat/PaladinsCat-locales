@@ -265,5 +265,9 @@
   "tierLists.unplaced": "{count} no colocado",
   "tierLists.update": "Guardar cambios",
   "tierLists.updateError": "No se pudo actualizar la lista de niveles.",
-  "tierLists.updating": "Guardando…"
+  "tierLists.updating": "Guardando…",
+  "stats.performance.champion": "Campeón",
+  "stats.tiers.retry": "Reintentar",
+  "stats.performance.ranked": "Asedio clasificatorio",
+  "stats.performance.onslaught": "Matanza"
 }
