@@ -38,7 +38,7 @@
   "bot.permissionNoChat": "Sin contenido de mensaje ni intenciones de puerta de enlace privilegiadas",
   "bot.permissionReplies": "Contextos de instalación de servidor y usuario",
   "bot.previewCommand": "/Perfil",
-  "bot.previewDetails": "Nivel · XP · Clasificación KBM/controller · tasa de ganancia · KDA · DPM/HPM/MPM/EGPM",
+  "bot.previewDetails": "Nivel · XP · Clasificación KBM/controller · tasa de ganancia · KDA · DPM/HPM/SPM/EGPM",
   "bot.previewFound": "Jugador Perfil encontrado",
   "bot.previewHint": "Escriba un nombre o ID de Jugador, o guarde un valor predeterminado una vez con /save.",
   "bot.previewOnline": "En línea",

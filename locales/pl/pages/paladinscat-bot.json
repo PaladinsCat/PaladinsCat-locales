@@ -38,7 +38,7 @@
   "bot.permissionNoChat": "Brak treści wiadomości i uprzywilejowanych zamiarów bramy",
   "bot.permissionReplies": "Konteksty instalacji serwera i użytkownika",
   "bot.previewCommand": "/Profil",
-  "bot.previewDetails": "Poziom · XP · Rankingowy KBM/kontroler · współczynnik wygranych · KDA · DPM/HPM/MPM/EGPM",
+  "bot.previewDetails": "Poziom · XP · Rankingowy KBM/kontroler · współczynnik wygranych · KDA · DPM/HPM/SPM/EGPM",
   "bot.previewFound": "Znaleziono Gracz Profil",
   "bot.previewHint": "Wpisz nazwę lub identyfikator Gracz lub zapisz raz wartość domyślną za pomocą /save.",
   "bot.previewOnline": "W Internecie",

@@ -38,7 +38,7 @@
   "bot.permissionNoChat": "Нет содержимого сообщения или намерений привилегированного шлюза.",
   "bot.permissionReplies": "Контексты установки сервера и пользователя",
   "bot.previewCommand": "/Профиль",
-  "bot.previewDetails": "Уровень · XP · Рейтинговый режим KBM/контроллер · процент побед · KDA · DPM/HPM/MPM/EGPM",
+  "bot.previewDetails": "Уровень · XP · Рейтинговый режим KBM/контроллер · процент побед · KDA · DPM/HPM/SPM/EGPM",
   "bot.previewFound": "Игрок найден Профиль",
   "bot.previewHint": "Введите имя или идентификатор Игрок или сохраните значение по умолчанию один раз с помощью /save.",
   "bot.previewOnline": "Онлайн",

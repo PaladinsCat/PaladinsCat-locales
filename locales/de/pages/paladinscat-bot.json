@@ -38,7 +38,7 @@
   "bot.permissionNoChat": "Kein Nachrichteninhalt oder privilegierte Gateway-Absichten",
   "bot.permissionReplies": "Server- und Benutzerinstallationskontexte",
   "bot.previewCommand": "/Profil",
-  "bot.previewDetails": "Stufe · XP · Rangliste KBM/Controller · Gewinnrate · KDA · DPM/HPM/MPM/EGPM",
+  "bot.previewDetails": "Stufe · XP · Rangliste KBM/Controller · Gewinnrate · KDA · DPM/HPM/SPM/EGPM",
   "bot.previewFound": "Spieler Profil gefunden",
   "bot.previewHint": "Geben Sie einen Namen oder eine Spieler-ID ein oder speichern Sie einmalig einen Standardwert mit /save.",
   "bot.previewOnline": "Online",
