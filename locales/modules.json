@@ -5,6 +5,7 @@
   "ui/footer",
   "ui/async",
   "pages/home",
+  "pages/community",
   "pages/localization",
   "pages/diminishing-returns",
   "pages/paladinscat-bot",
