@@ -2,7 +2,6 @@
   "seo.admin.title": "Частный администратор",
   "seo.auth.title": "Доступ к аккаунту",
   "seo.champions.description": "Сравните статистику Paladins Чемпион, процент побед Рейтинговый режим, процент банов, коэффициент выбора, роли, таланты, Карты и мета-тенденции.",
-  "seo.champions.detail.description": "Просмотрите статистику {name} Paladins, процент побед {role}, процент банов, Карты, таланты, таблицу лидеров Способности, Конфигурации и Чемпион ELO.",
   "seo.champions.detail.openGraphDescription": "Рейтинговый режим статистика {name}, Способности, таланты, КОНФИГУРАЦИЯ Карты, процент побед, процент банов и таблица лидеров Игрок.",
   "seo.champions.detail.openGraphTitle": "Статистика {name} Paladins",
   "seo.champions.detail.title": "{name} Статистика Paladins, Карты, таланты и ELO",

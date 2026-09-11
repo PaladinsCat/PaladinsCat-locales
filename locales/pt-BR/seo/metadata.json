@@ -2,7 +2,6 @@
   "seo.admin.title": "Administrador privado",
   "seo.auth.title": "Acesso à conta",
   "seo.champions.description": "Compare estatísticas de Paladins Campeão, taxas de vitória de Ranqueado, taxas de banimento, taxas de escolha, funções, talentos, Cartas e meta tendências.",
-  "seo.champions.detail.description": "Veja estatísticas de {name} Paladins, taxa de vitórias {role}, taxa de banimento, Cartas, talentos, tabela de classificação Habilidades, Baralhos e Campeão ELO.",
   "seo.champions.detail.openGraphDescription": "estatísticas Ranqueado {name}, Habilidades, talentos, BARALHO Cartas, taxa de vitórias, taxa de banimento e tabela de classificação Jogador.",
   "seo.champions.detail.openGraphTitle": "Estatísticas dos Paladinos {name}",
   "seo.champions.detail.title": "Estatísticas de paladinos {name}, Cartas, talentos e ELO",

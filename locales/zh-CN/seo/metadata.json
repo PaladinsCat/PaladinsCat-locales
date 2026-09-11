@@ -2,7 +2,6 @@
   "seo.admin.title": "私人管理员",
   "seo.auth.title": "账户访问",
   "seo.champions.description": "比较《圣骑士》英雄 统计数据、排位赛 胜率、禁令率、选择率、角色、天赋、卡牌 和元趋势。",
-  "seo.champions.detail.description": "查看 {name} 圣骑士统计数据、{role} 胜率、封禁率、卡牌、天赋、技能、卡组 和 英雄 ELO 排行榜。",
   "seo.champions.detail.openGraphDescription": "排位赛 {name} 统计数据、技能、天赋、卡片组 卡牌、胜率、禁令率和 玩家 排行榜。",
   "seo.champions.detail.openGraphTitle": "{name} 圣骑士统计数据",
   "seo.champions.detail.title": "{name} 圣骑士统计、卡牌、天赋和 ELO",

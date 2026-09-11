@@ -2,7 +2,6 @@
   "seo.admin.title": "Administrateur privé",
   "seo.auth.title": "Accès au compte",
   "seo.champions.description": "Comparez les statistiques Champion de Paladins, les taux de victoire Classé, les taux d'interdiction, les taux de sélection, les rôles, les talents, Cartes et les méta-tendances.",
-  "seo.champions.detail.description": "Consultez les statistiques {name} Paladins, le taux de victoire {role}, le taux de bannissement, Cartes, les talents, les classements Compétences, Decks et Champion ELO.",
   "seo.champions.detail.openGraphDescription": "Statistiques Classé {name}, Compétences, talents, DECK Cartes, taux de victoire, taux de bannissement et classement Joueur.",
   "seo.champions.detail.openGraphTitle": "{name} Statistiques des Paladins",
   "seo.champions.detail.title": "{name} Statistiques Paladins, Cartes, Talents & ELO",

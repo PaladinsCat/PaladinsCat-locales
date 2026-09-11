@@ -2,7 +2,6 @@
   "seo.admin.title": "개인 관리자",
   "seo.auth.title": "계정 액세스",
   "seo.champions.description": "Paladins Champion 통계, 경쟁전 승률, 금지율, 선택률, 역할, 재능, Cards 및 메타 트렌드를 비교하세요.",
-  "seo.champions.detail.description": "{name} Paladins 통계, {role} 승률, 금지율, Cards, 재능, Abilities, Loadouts 및 Champion ELO 리더보드를 확인하세요.",
   "seo.champions.detail.openGraphDescription": "경쟁전 {name} 통계, Abilities,talents, LOADOUT Cards, 승률, 금지율 및 Player 리더보드.",
   "seo.champions.detail.openGraphTitle": "{name} 팔라딘 통계",
   "seo.champions.detail.title": "{name} 성기사 통계, Cards, 재능 및 ELO",

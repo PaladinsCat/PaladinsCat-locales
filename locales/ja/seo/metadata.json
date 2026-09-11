@@ -2,7 +2,6 @@
   "seo.admin.title": "プライベート管理者",
   "seo.auth.title": "アカウントアクセス",
   "seo.champions.description": "Paladins の チャンピオン 統計、ランク戦 勝率、BAN 率、ピック率、役割、タレント、カード、メタ傾向を比較します。",
-  "seo.champions.detail.description": "{name} Paladins の統計、{role} 勝率、BAN 率、カード、タレント、アビリティ、ロードアウト、および チャンピオン ELO リーダーボードを表示します。",
   "seo.champions.detail.openGraphDescription": "ランク戦 {name} 統計、アビリティ、タレント、ロードアウト カード、勝率、BAN 率、および プレイヤー リーダーボード。",
   "seo.champions.detail.openGraphTitle": "{name} パラディンの統計",
   "seo.champions.detail.title": "{name} パラディンの統計、カード、タレント、ELO",

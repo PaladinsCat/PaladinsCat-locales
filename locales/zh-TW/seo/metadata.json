@@ -2,7 +2,6 @@
   "seo.admin.title": "私人管理員",
   "seo.auth.title": "帳戶訪問",
   "seo.champions.description": "比較《聖騎士》英雄 統計、排位賽 勝率、禁令率、選擇率、角色、天賦、卡牌 和元趨勢。",
-  "seo.champions.detail.description": "查看 {name} 聖騎士統計數據、{role} 勝率、封鎖率、卡牌、天賦、技能、卡組 和 英雄 ELO 排行榜。",
   "seo.champions.detail.openGraphDescription": "排位賽 {name} 統計、技能、天賦、卡片組 卡牌、勝率、禁令率和 玩家 排行榜。",
   "seo.champions.detail.openGraphTitle": "{name} 聖騎士統計數據",
   "seo.champions.detail.title": "{name} 聖騎士統計、卡牌、天賦和 ELO",
