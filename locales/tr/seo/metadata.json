@@ -2,7 +2,6 @@
   "seo.admin.title": "Özel Yönetici",
   "seo.auth.title": "Hesap Erişimi",
   "seo.champions.description": "Paladins Şampiyon istatistiklerini, Dereceli kazanma oranlarını, yasaklanma oranlarını, seçim oranlarını, rolleri, yetenekleri, Kartlar'i ve meta trendlerini karşılaştırın.",
-  "seo.champions.detail.description": "{name} Paladins istatistiklerini, {role} kazanma oranını, yasaklanma oranını, Kartlar'i, yetenekleri, Yetenekler, Dizilimler ve Şampiyon ELO skor tablosunu görüntüleyin.",
   "seo.champions.detail.openGraphDescription": "Dereceli {name} istatistikleri, Yetenekler, yetenekler, DİZİLİM Kartlar, kazanma oranı, yasaklanma oranı ve Oyuncu skor tablosu.",
   "seo.champions.detail.openGraphTitle": "{name} Paladins İstatistikleri",
   "seo.champions.detail.title": "{name} Paladins İstatistikleri, Kartlar, Yetenekler ve ELO",

@@ -2,7 +2,6 @@
   "seo.admin.title": "Prywatny administrator",
   "seo.auth.title": "Dostęp do konta",
   "seo.champions.description": "Porównaj statystyki Paladins Czempion, współczynnik wygranych Rankingowy, współczynnik banów, współczynnik wyboru, role, talenty, Karty i metatrendy.",
-  "seo.champions.detail.description": "Zobacz statystyki {name} Paladins, współczynnik wygranych {role}, współczynnik banów, Karty, talenty, rankingi Zdolności, Talie i Czempion ELO.",
   "seo.champions.detail.openGraphDescription": "Rankingowy statystyki {name}, Zdolności, talenty, TALIA Karty, współczynnik wygranych, współczynnik banów i tablica liderów Gracz.",
   "seo.champions.detail.openGraphTitle": "Statystyki Paladynów {name}",
   "seo.champions.detail.title": "{name} Statystyki Paladynów, Karty, talenty i ELO",

@@ -31,8 +31,10 @@ repository and opens a GitHub pull request for reviewed translation changes.
 1. sign in at [translate.paladinscat.com](https://translate.paladinscat.com)
    and choose your language;
 2. submit translations; language reviewers approve wording in Weblate;
-3. Weblate opens or updates its GitHub pull request;
-4. review the diff and merge only after the validation check passes.
+3. Weblate publishes only approved strings to its GitHub pull request;
+4. review the diff and merge only after the validation check passes;
+5. the frontend validates and compiles that merged locale revision before
+   opening its separate locale-pin pull request.
 
 GitHub `main` remains the source of truth and release approval boundary.
 Weblate must not push directly to `main`.

@@ -2,7 +2,6 @@
   "seo.admin.title": "Administrador privado",
   "seo.auth.title": "Acceso a la cuenta",
   "seo.champions.description": "Compare las estadísticas de Paladins Campeón, las tasas de victorias de Clasificación, las tasas de prohibición, las tasas de selección, los roles, los talentos, Cartas y las metatendencias.",
-  "seo.champions.detail.description": "Vea las estadísticas de {name} Paladins, la tasa de victorias de {role}, la tasa de prohibición, Cartas, talentos, Habilidades, Barajas y Campeón ELO.",
   "seo.champions.detail.openGraphDescription": "Estadísticas de Clasificación {name}, Habilidades, talentos, BARAJA Cartas, tasa de victorias, tasa de prohibición y tabla de clasificación Jugador.",
   "seo.champions.detail.openGraphTitle": "Estadísticas de paladines {name}",
   "seo.champions.detail.title": "{name} Estadísticas de paladines, Cartas, talentos y ELO",

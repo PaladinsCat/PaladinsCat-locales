@@ -2,7 +2,6 @@
   "seo.admin.title": "Privater Administrator",
   "seo.auth.title": "Kontozugriff",
   "seo.champions.description": "Vergleichen Sie Paladins Champion-Statistiken, Rangliste-Siegraten, Bannraten, Auswahlraten, Rollen, Talente, Karten und Metatrends.",
-  "seo.champions.detail.description": "Sehen Sie sich die {name} Paladins-Statistiken, die {role}-Gewinnrate, die Bannrate, Karten, Talente, die Fertigkeiten-, Decks- und Champion-ELO-Bestenliste an.",
   "seo.champions.detail.openGraphDescription": "Rangliste {name}-Statistiken, Fertigkeiten, Talente, DECK Karten, Siegesrate, Bannrate und Spieler-Bestenliste.",
   "seo.champions.detail.openGraphTitle": "{name} Paladins-Statistiken",
   "seo.champions.detail.title": "{name} Paladins-Statistiken, Karten, Talente & ELO",
