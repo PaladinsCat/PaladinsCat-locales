@@ -8,7 +8,7 @@
   "moderation.afkSourceDescription": "Cada Jugador aparece una vez. Las insignias de origen distinguen las marcas comunitarias de la evidencia de coincidencia automática completa de AFK.",
   "moderation.afkWinTrade": "AFK / Ganar comercio",
   "moderation.afkWintradeDescription": "Jugadores fue marcado repetidamente por actividad inusualmente baja en coincidencias de Clasificación, además de cuentas que la comunidad marcó por comportamiento de AFK o operaciones ganadoras.",
-  "moderation.afkWintradeTitle": "AFK / Wintrade",
+  "moderation.afkWintradeTitle": "AFK / intercambio de victorias",
   "moderation.aimHacks": "Trucos de puntería",
   "moderation.altAccountList": "Cuentas alternativas · {value1}",
   "moderation.altAccountsDescription": "Cuentas que la comunidad ha marcado como identidades alternativas.",

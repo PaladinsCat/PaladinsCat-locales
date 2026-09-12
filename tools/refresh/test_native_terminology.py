@@ -43,7 +43,7 @@ class NativeTerminologyTests(unittest.TestCase):
         self.assertNotEqual(importer.placeholders('{50|50}'), importer.placeholders('{25|25}'))
 
     def test_fallback_is_not_guessed(self):
-        for values in ([], ['Tigron_Barrier'], ['different', 'conflicting']):
+        for values in ([], ['Tigron_Barrier'], ['IoAbilityRMB'], ['VanguardRMB'], ['Imani LMB2'], ['Dredge Inhand'], ['different', 'conflicting']):
             self.assertEqual(names.select_name('Combat Trance', values)['value'], 'Combat Trance')
         self.assertEqual(names.select_name('Tendril', ['テンドリル'])['value'], 'テンドリル')
 
@@ -52,6 +52,9 @@ class NativeTerminologyTests(unittest.TestCase):
         self.assertEqual(names.build(), saved)
         self.assertEqual(saved['terms']['Conviction']['messageIds'], ['221049'])
         self.assertEqual(saved['terms']['Sanctuary']['locales']['zh-CN']['status'], 'fallback-missing')
+        self.assertEqual(saved['terms']['Sparkle']['messageIds'], ['803900'])
+        self.assertEqual(saved['terms']['Sparkle']['locales']['zh-CN']['value'], 'Sparkle')
+        self.assertEqual(saved['terms']['Booster']['locales']['zh-CN']['value'], '推进器')
 
     def test_additional_reviewed_gap_imports(self):
         review = json.loads((ROOT/'game-client/reviewed-gap-description-import.json').read_text(encoding='utf-8'))

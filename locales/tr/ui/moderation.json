@@ -8,7 +8,7 @@
   "moderation.afkSourceDescription": "Her Oyuncu bir kez görünür. Kaynak rozetleri, topluluk işaretlerini otomatik tam AFK eşleşme kanıtlarından ayırır.",
   "moderation.afkWinTrade": "AFK / Ticareti kazan",
   "moderation.afkWintradeDescription": "Oyuncular, Dereceli maçlarında alışılmadık derecede düşük aktivite nedeniyle defalarca işaretlendi ve ayrıca topluluk, AFK davranışı veya kazanç ticareti için işaretlenen hesapları kullandı.",
-  "moderation.afkWintradeTitle": "AFK / Wintrade",
+  "moderation.afkWintradeTitle": "AFK / anlaşmalı galibiyet",
   "moderation.aimHacks": "Nişan alma hileleri",
   "moderation.altAccountList": "Alternatif hesaplar · {value1}",
   "moderation.altAccountsDescription": "Topluluğun alternatif kimlikler olarak işaretlediği hesaplar.",

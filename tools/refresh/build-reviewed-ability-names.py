@@ -6,6 +6,7 @@ does not write catalogs, decode/install game files, or change contributor text.
 import csv
 import hashlib
 import json
+import re
 import sys
 from pathlib import Path
 
@@ -15,6 +16,7 @@ REPOSITORY = Path(__file__).resolve().parents[2]
 SOURCES = {
     'Aphotic Reaver': ('omen', ['248199']),
     'Blast Back': ('saati', ['220063']),
+    'Booster': ('drogoz', ['165730']),
     'Charge': ('fernando', ['127066', '209913']),
     'Combat Trance': ('tiberius', ['206443']),
     'Conviction': ('azaan', ['221049']),  # Not Furia's card, 199974.
@@ -34,6 +36,7 @@ SOURCES = {
     'Savage Tear': ('kasumi', ['239360']),
     'Shadow Bombs': ('vatu', ['217385']),
     'Soul Harvest': ('raum', ['207702']),
+    'Sparkle': ('moji', ['803900']),  # Not the older cosmetic, 179646.
     'Tendril': ('vora', ['212457']),
 }
 
@@ -41,7 +44,7 @@ SOURCES = {
 def select_name(english, values):
     """Only a single, usable native value wins. Unknown/internal stays English."""
     usable = {v.strip() for v in values if v and v.strip()}
-    if any('_' in v or '<' in v or '{' in v for v in usable):
+    if any(re.search(r'[_<{]|IoAbility|Vanguard(?:RMB|Q|F)|(?:Imani|Mage|Ninja|Dredge|Furia)(?: |F$)', v) for v in usable):
         return {'value': english, 'status': 'fallback-internal-label'}
     if len(usable) > 1:
         return {'value': english, 'status': 'fallback-conflicting-values'}

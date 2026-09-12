@@ -8,7 +8,7 @@
   "moderation.afkSourceDescription": "Każdy Gracz pojawia się raz. Odznaki źródłowe odróżniają znaki społeczności od automatycznych dowodów pełnego dopasowania AFK.",
   "moderation.afkWinTrade": "AFK / Wygraj handel",
   "moderation.afkWintradeDescription": "Gracze wielokrotnie oflagowany ze względu na wyjątkowo niską aktywność w meczach Rankingowy, a także konta, które społeczność oznaczyła jako zachowanie AFK lub wygrywanie handlu.",
-  "moderation.afkWintradeTitle": "AFK / Wintrade",
+  "moderation.afkWintradeTitle": "AFK / ustawianie zwycięstw",
   "moderation.aimHacks": "Haki celownicze",
   "moderation.altAccountList": "Konta alternatywne · {value1}",
   "moderation.altAccountsDescription": "Konta, które społeczność oznaczyła jako tożsamości alternatywne.",

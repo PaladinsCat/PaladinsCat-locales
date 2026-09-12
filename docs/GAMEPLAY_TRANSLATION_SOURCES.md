@@ -101,6 +101,61 @@ remain English prose. Outside gameplay, the remaining 48 absent entries are
 contributor-protected. Identical technical abbreviations, proper names and
 format-only templates are not classified as untranslated prose.
 
+## General-translation completion follow-up — September 11, 2026
+
+This checkpoint supersedes the incomplete counts above. Compared with
+`014768f`, this follow-up adds **1,807 missing locale/key pairs** and updates
+**372 existing values** across all 11 target languages. The latter comprises
+242 exact-English gameplay descriptions, 80 reviewed older English variants,
+48 English UI labels, and two terminology corrections to this task's earlier
+authored additions. Older English variants differed from the canonical source
+in formatting or wording and were therefore missed by exact-equality checks.
+Their replacements follow the current canonical mechanics, not obsolete text.
+
+| Locale | Added this follow-up | Existing values updated | Still missing |
+|---|---:|---:|---:|
+| de | 111 | 1 | 0 |
+| es-419 | 114 | 1 | 49 |
+| fr | 120 | 1 | 0 |
+| ja | 107 | 0 | 0 |
+| ko | 0 | 344 | 0 |
+| pl | 101 | 2 | 0 |
+| pt-BR | 95 | 0 | 0 |
+| ru | 84 | 0 | 39 |
+| tr | 103 | 1 | 0 |
+| zh-CN | 483 | 11 | 0 |
+| zh-TW | 489 | 11 | 0 |
+
+All **88 remaining absent pairs are contributor-protected**: 40 champion,
+16 map, 30 moderation, one localization-page and one generated-UI entry.
+There are no unprotected missing pairs. The exact-English prose audit and a
+second scan for older English sentences both return no remaining candidates.
+Identical proper names, technical abbreviations, literal URLs and format-only
+templates are intentional and are not treated as untranslated sentences.
+
+The refreshed read-only contributor snapshot contains 191 human change events,
+one suggestion and 127 protected locale/key pairs. All 127 remain untouched,
+including absent entries reserved for pending contributor work. Pre-existing
+non-English values at `6ab5f35` also remain untouched. The 80 older English
+variants were individually allowlisted by exact previous value; this did not
+relax the preservation rule for non-English text. Private contributor exports
+and authoring batches remain outside the public repository.
+
+New descriptions use original assistant translation, existing language-specific
+wording and dedicated game terminology. They are not represented as community
+approved or independently native-speaker reviewed. Unavailable proper names
+remain English while their surrounding explanations are translated. The
+reviewed ability-name manifest now covers 24 names; it distinguishes Moji's
+Sparkle from an older cosmetic and adds Drogoz's Booster. Internal identifiers
+such as `IoAbilityRMB`, `VanguardRMB` and `Imani LMB2` are rejected as names.
+
+Validation includes catalog validation, seven native-source regression tests,
+placeholder parity, contributor and prior-native-text preservation, and review
+of numeric differences. Numeric exceptions are equivalent number-word forms,
+leading decimal zeroes, explicit per-instance counts, percentage-point wording
+and locale-safe thousands formatting. No Weblate submission, suggestion
+approval, remote push, frontend locale-pin update or deployment is included.
+
 ## Gameplay sources used in the first batch
 
 The following revision links identify the community sources for imported or

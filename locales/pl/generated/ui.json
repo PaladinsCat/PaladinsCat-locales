@@ -587,7 +587,7 @@
   "generated.changelog.changelog": "Dziennik zmian",
   "generated.changelog.deployment": "wdrożenie",
   "generated.changelog.deploymentRecordedNoChangelogProvided": "Wdrożenie zostało zarejestrowane — nie podano dziennika zmian.",
-  "generated.changelog.major10": "Major · 10+",
+  "generated.changelog.major10": "Duża · 10+",
   "generated.changelog.minor59": "Drobne · 5–9",
   "generated.changelog.next": "Dalej →",
   "generated.changelog.noDeploymentHistoryYet": "Nie ma jeszcze historii wdrożeń.",

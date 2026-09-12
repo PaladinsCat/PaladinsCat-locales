@@ -8,7 +8,7 @@
   "moderation.afkSourceDescription": "Jedes Spieler kommt einmal vor. Quellabzeichen unterscheiden Community-Marken von automatischen vollständigen AFK-Übereinstimmungsnachweisen.",
   "moderation.afkWinTrade": "AFK / Handel gewinnen",
   "moderation.afkWintradeDescription": "Spieler wurde wiederholt wegen ungewöhnlich geringer Aktivität in Rangliste-Spielen markiert, außerdem wurden von der Community Konten für AFK-Verhalten oder Gewinnhandel markiert.",
-  "moderation.afkWintradeTitle": "AFK / Wintrade",
+  "moderation.afkWintradeTitle": "AFK / Siegtausch",
   "moderation.aimHacks": "Ziel-Hacks",
   "moderation.altAccountList": "Alternative Konten · {value1}",
   "moderation.altAccountsDescription": "Konten, die die Community als alternative Identitäten markiert hat.",

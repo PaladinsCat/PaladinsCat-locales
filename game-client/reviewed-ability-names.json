@@ -16,6 +16,110 @@
     "zh-TW.csv": "2a077877f3730211310b16caafc4b92883fe40e6d4fa688632821a7589e13450"
   },
   "terms": {
+    "Booster": {
+      "champion": "drogoz",
+      "messageIds": [
+        "165730"
+      ],
+      "locales": {
+        "de": {
+          "value": "Raketenrucksack",
+          "status": "native"
+        },
+        "es-419": {
+          "value": "Impulso",
+          "status": "native"
+        },
+        "fr": {
+          "value": "Catalyseur",
+          "status": "native"
+        },
+        "ja": {
+          "value": "ブースター",
+          "status": "native"
+        },
+        "ko": {
+          "value": "Booster",
+          "status": "same-as-English"
+        },
+        "pl": {
+          "value": "Dopalacz",
+          "status": "native"
+        },
+        "pt-BR": {
+          "value": "Jato",
+          "status": "native"
+        },
+        "ru": {
+          "value": "Ускоритель",
+          "status": "native"
+        },
+        "tr": {
+          "value": "İtici",
+          "status": "native"
+        },
+        "zh-CN": {
+          "value": "推进器",
+          "status": "native"
+        },
+        "zh-TW": {
+          "value": "推進器",
+          "status": "native"
+        }
+      }
+    },
+    "Sparkle": {
+      "champion": "moji",
+      "messageIds": [
+        "803900"
+      ],
+      "locales": {
+        "de": {
+          "value": "Funkeln",
+          "status": "native"
+        },
+        "es-419": {
+          "value": "Resplandor",
+          "status": "native"
+        },
+        "fr": {
+          "value": "Étincelle",
+          "status": "native"
+        },
+        "ja": {
+          "value": "スパークル",
+          "status": "native"
+        },
+        "ko": {
+          "value": "Sparkle",
+          "status": "same-as-English"
+        },
+        "pl": {
+          "value": "Iskrzenie",
+          "status": "native"
+        },
+        "pt-BR": {
+          "value": "Clarão",
+          "status": "native"
+        },
+        "ru": {
+          "value": "Искра",
+          "status": "native"
+        },
+        "tr": {
+          "value": "Parıltı",
+          "status": "native"
+        },
+        "zh-CN": {
+          "value": "Sparkle",
+          "status": "fallback-missing"
+        },
+        "zh-TW": {
+          "value": "Sparkle",
+          "status": "fallback-missing"
+        }
+      }
+    },
     "Aphotic Reaver": {
       "champion": "omen",
       "messageIds": [

@@ -73,3 +73,19 @@ Atlas's brief banishment and return position in French, Caspian's projectile
 piercing in Turkish, and VII's upper target limit in Spanish. Other incomplete
 native candidates were left pending. Existing translations and pending Weblate
 contributor work were preserved. Nothing was approved in Weblate or deployed.
+
+## Subsequent general-translation completion
+
+The later completion pass fills the remaining unprotected descriptions,
+including Korean English fallbacks; the earlier no-overwrite statement above
+describes the initial native-source import only. Existing non-English and
+contributor-protected values are still preserved. These original translations
+follow the conventions above and are not independently native-speaker approved.
+
+Moji's Sparkle uses message `803900`, not the older cosmetic `179646`.
+Drogoz's Booster uses `165730`. Debug values such as `IoAbilityRMB`,
+`VanguardRMB`, `Dredge Inhand` and `Imani LMB2` must not appear as localized
+ability names; use the canonical English name when the native name is absent.
+Chinese Credits remain 积分/積分. Korean role labels use 공격, 측면 and 지원,
+with existing 최전선 for Frontline; damage as a measured statistic is 피해량.
+Role labels and numerical damage must not share a context-free replacement.
