@@ -222,7 +222,7 @@
   "common.metricHelp.apm": "Dano médio causado por habilidades por minuto, excluindo dano de armas.",
   "common.metricHelp.hpm": "Cura média fornecida por minuto.",
   "common.metricHelp.gpm": "Créditos médios obtidos por minuto.",
-  "common.metricHelp.mpm": "Dano médio absorvido por escudos por minuto.",
+  "common.metricHelp.spm": "Dano médio absorvido por escudos por minuto.",
   "common.metricHelp.kda": "Abates mais metade das assistências, divididos pelas mortes; em partidas sem mortes, o divisor é um.",
   "common.metricHelp.kpm": "Abates mais metade das assistências por minuto.",
   "common.metricHelp.deaths_per_minute": "Média de mortes por minuto. Quanto menor, melhor.",

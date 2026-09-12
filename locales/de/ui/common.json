@@ -222,7 +222,7 @@
   "common.metricHelp.apm": "Durchschnittlich verursachter Fertigkeitsschaden pro Minute, ohne Waffenschaden.",
   "common.metricHelp.hpm": "Durchschnittlich geleistete Heilung pro Minute.",
   "common.metricHelp.gpm": "Durchschnittlich verdiente Credits pro Minute.",
-  "common.metricHelp.mpm": "Durchschnittlich von Schilden absorbierter Schaden pro Minute.",
+  "common.metricHelp.spm": "Durchschnittlich von Schilden absorbierter Schaden pro Minute.",
   "common.metricHelp.kda": "Kills plus die Hälfte der Assists, geteilt durch Tode; bei einem Match ohne Tod wird durch eins geteilt.",
   "common.metricHelp.kpm": "Kills plus die Hälfte der Assists pro Minute.",
   "common.metricHelp.deaths_per_minute": "Durchschnittliche Tode pro Minute. Niedriger ist besser.",

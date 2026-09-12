@@ -38,7 +38,7 @@
   "bot.permissionNoChat": "没有消息内容或特权网关意图",
   "bot.permissionReplies": "服务器和用户安装上下文",
   "bot.previewCommand": "/玩家档案",
-  "bot.previewDetails": "等级 · XP · 排位赛 KBM/控制器 · 胜率 · KDA · DPM/HPM/MPM/EGPM",
+  "bot.previewDetails": "等级 · XP · 排位赛 KBM/控制器 · 胜率 · KDA · DPM/HPM/SPM/EGPM",
   "bot.previewFound": "找到 玩家 玩家档案",
   "bot.previewHint": "输入名称或 玩家 ID，或使用 /save 保存默认值。",
   "bot.previewOnline": "在线",

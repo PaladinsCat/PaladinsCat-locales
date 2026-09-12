@@ -38,7 +38,7 @@
   "bot.permissionNoChat": "메시지 콘텐츠 또는 권한 있는 게이트웨이 인텐트 없음",
   "bot.permissionReplies": "서버 및 사용자 설치 컨텍스트",
   "bot.previewCommand": "/Profile",
-  "bot.previewDetails": "Level · XP · 경쟁전 KBM/controller · 승률 · KDA · DPM/HPM/MPM/EGPM",
+  "bot.previewDetails": "Level · XP · 경쟁전 KBM/controller · 승률 · KDA · DPM/HPM/SPM/EGPM",
   "bot.previewFound": "Player Profile 발견",
   "bot.previewHint": "이름 또는 Player ID를 입력하거나 /save를 사용하여 기본값을 한 번 저장하세요.",
   "bot.previewOnline": "온라인",

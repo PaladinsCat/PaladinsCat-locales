@@ -222,7 +222,7 @@
   "common.metricHelp.apm": "Dégâts de compétence moyens infligés par minute, hors dégâts d’arme.",
   "common.metricHelp.hpm": "Soins moyens prodigués par minute.",
   "common.metricHelp.gpm": "Crédits moyens gagnés par minute.",
-  "common.metricHelp.mpm": "Dégâts moyens absorbés par les boucliers par minute.",
+  "common.metricHelp.spm": "Dégâts moyens absorbés par les boucliers par minute.",
   "common.metricHelp.kda": "Éliminations plus la moitié des assistances, le tout divisé par les morts ; pour un match sans mort, le diviseur est un.",
   "common.metricHelp.kpm": "Éliminations plus la moitié des assistances par minute.",
   "common.metricHelp.deaths_per_minute": "Morts moyennes par minute. Une valeur faible est préférable.",

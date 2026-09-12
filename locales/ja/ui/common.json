@@ -222,7 +222,7 @@
   "common.metricHelp.apm": "武器ダメージを除く、1分あたりの平均アビリティダメージ。",
   "common.metricHelp.hpm": "1分あたりに与えた平均回復量。",
   "common.metricHelp.gpm": "1分あたりの平均獲得クレジット。",
-  "common.metricHelp.mpm": "1分あたりにシールドで吸収した平均ダメージ。",
+  "common.metricHelp.spm": "1分あたりにシールドで吸収した平均ダメージ。",
   "common.metricHelp.kda": "キル数にアシスト数の半分を加え、デス数で割った値。デスがない試合では1で割ります。",
   "common.metricHelp.kpm": "1分あたりのキル数にアシスト数の半分を加えた値。",
   "common.metricHelp.deaths_per_minute": "1分あたりの平均デス数。少ないほど良好です。",

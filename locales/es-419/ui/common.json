@@ -222,7 +222,7 @@
   "common.metricHelp.apm": "Daño de habilidad infligido promedio por minuto, sin incluir el daño de arma.",
   "common.metricHelp.hpm": "Curación proporcionada promedio por minuto.",
   "common.metricHelp.gpm": "Créditos obtenidos promedio por minuto.",
-  "common.metricHelp.mpm": "Daño absorbido por escudos promedio por minuto.",
+  "common.metricHelp.spm": "Daño absorbido por escudos promedio por minuto.",
   "common.metricHelp.kda": "Asesinatos más la mitad de las asistencias, divididos entre las muertes; si no hay muertes, se divide entre uno.",
   "common.metricHelp.kpm": "Asesinatos más la mitad de las asistencias por minuto.",
   "common.metricHelp.deaths_per_minute": "Muertes promedio por minuto. Menos es mejor.",

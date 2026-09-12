@@ -222,7 +222,7 @@
   "common.metricHelp.apm": "Silah hasarı hariç, dakika başına verilen ortalama yetenek hasarı.",
   "common.metricHelp.hpm": "Dakika başına sağlanan ortalama iyileştirme.",
   "common.metricHelp.gpm": "Dakika başına kazanılan ortalama kredi.",
-  "common.metricHelp.mpm": "Dakika başına kalkanların emdiği ortalama hasar.",
+  "common.metricHelp.spm": "Dakika başına kalkanların emdiği ortalama hasar.",
   "common.metricHelp.kda": "Öldürme sayısı ile asistlerin yarısının toplamı, ölüm sayısına bölünür; ölümsüz maçlarda bölen birdir.",
   "common.metricHelp.kpm": "Dakika başına öldürme sayısı ile asistlerin yarısının toplamı.",
   "common.metricHelp.deaths_per_minute": "Dakika başına ortalama ölüm. Düşük olması daha iyidir.",

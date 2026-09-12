@@ -222,7 +222,7 @@
   "common.metricHelp.apm": "무기 피해를 제외한 분당 평균 스킬 피해량입니다.",
   "common.metricHelp.hpm": "분당 평균 제공한 치유량입니다.",
   "common.metricHelp.gpm": "분당 평균 획득 크레딧입니다.",
-  "common.metricHelp.mpm": "분당 평균 실드로 흡수한 피해량입니다.",
+  "common.metricHelp.spm": "분당 평균 실드로 흡수한 피해량입니다.",
   "common.metricHelp.kda": "처치 수에 도움 수의 절반을 더한 뒤 사망 수로 나눈 값입니다. 사망이 없는 매치는 1로 나눕니다.",
   "common.metricHelp.kpm": "분당 처치 수에 도움 수의 절반을 더한 값입니다.",
   "common.metricHelp.deaths_per_minute": "분당 평균 사망 수입니다. 낮을수록 좋습니다.",

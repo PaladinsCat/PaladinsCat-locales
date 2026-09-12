@@ -38,7 +38,7 @@
   "bot.permissionNoChat": "メッセージコンテンツまたは特権ゲートウェイインテントなし",
   "bot.permissionReplies": "サーバーとユーザーのインストール コンテキスト",
   "bot.previewCommand": "/プロフィール",
-  "bot.previewDetails": "レベル · XP · ランク戦 KBM/コントローラー · 勝率 · KDA · DPM/HPM/MPM/EGPM",
+  "bot.previewDetails": "レベル · XP · ランク戦 KBM/コントローラー · 勝率 · KDA · DPM/HPM/SPM/EGPM",
   "bot.previewFound": "プレイヤー プロフィール が見つかりました",
   "bot.previewHint": "名前または プレイヤー ID を入力するか、/save を使用してデフォルトを一度保存します。",
   "bot.previewOnline": "オンライン",

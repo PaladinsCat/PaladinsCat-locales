@@ -222,7 +222,7 @@
   "common.metricHelp.apm": "每分鐘平均造成的技能傷害，不含武器傷害。",
   "common.metricHelp.hpm": "每分鐘平均提供的治療量。",
   "common.metricHelp.gpm": "每分鐘平均獲得的積分。",
-  "common.metricHelp.mpm": "每分鐘護盾平均吸收的傷害。",
+  "common.metricHelp.spm": "每分鐘護盾平均吸收的傷害。",
   "common.metricHelp.kda": "擊殺數加助攻數的一半，再除以死亡數；無死亡的對戰以1為除數。",
   "common.metricHelp.kpm": "每分鐘擊殺數加助攻數的一半。",
   "common.metricHelp.deaths_per_minute": "每分鐘平均死亡次數，越低越好。",

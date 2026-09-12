@@ -222,7 +222,7 @@
   "common.metricHelp.apm": "Średnie obrażenia zadawane zdolnościami na minutę, bez obrażeń od broni.",
   "common.metricHelp.hpm": "Średnia ilość zapewnianego leczenia na minutę.",
   "common.metricHelp.gpm": "Średnia liczba zdobywanych kredytów na minutę.",
-  "common.metricHelp.mpm": "Średnie obrażenia pochłaniane przez tarcze na minutę.",
+  "common.metricHelp.spm": "Średnie obrażenia pochłaniane przez tarcze na minutę.",
   "common.metricHelp.kda": "Zabójstwa plus połowa asyst, podzielone przez zgony; w meczu bez zgonów dzielnikiem jest jeden.",
   "common.metricHelp.kpm": "Zabójstwa plus połowa asyst na minutę.",
   "common.metricHelp.deaths_per_minute": "Średnia liczba zgonów na minutę. Mniej znaczy lepiej.",
