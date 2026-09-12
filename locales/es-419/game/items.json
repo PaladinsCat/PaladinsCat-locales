@@ -1,0 +1,7 @@
+{
+  "items.tiers.source": "Paladins Wiki",
+  "items.overviewFallbackDescription": "Rendimiento de las compras en clasificación.",
+  "items.tiers.title": "Efectos por nivel",
+  "items.tiers.description": "Cada compra mejora el objeto al siguiente nivel. El costo muestra el total de Créditos invertidos hasta ese nivel.",
+  "items.tiers.totalCost": "{cost} Créditos en total"
+}

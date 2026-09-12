@@ -1,3 +1,23 @@
 {
-  "community.retry": "Spróbuj ponownie"
+  "community.retry": "Spróbuj ponownie",
+  "community.live": "Na żywo",
+  "community.reply": "Odpowiedz",
+  "community.replyingTo": "Odpowiedź do {name}",
+  "community.globalChat": "# global",
+  "community.connecting": "Łączenie…",
+  "community.reconnecting": "Ponowne łączenie…",
+  "community.chatError": "Nie udało się wczytać czatu.",
+  "community.chatEmpty": "Rozpocznij rozmowę.",
+  "community.olderMessages": "Wczytaj starsze wiadomości",
+  "community.newMessages": "Nowe wiadomości ↓",
+  "community.messagePlaceholder": "Wiadomość na #global · Shift+Enter dodaje nowy wiersz",
+  "community.send": "Wyślij",
+  "community.loginToChat": "Zaloguj się, aby dołączyć do rozmowy",
+  "community.messageDeleted": "Wiadomość usunięta",
+  "community.deleteMessageConfirm": "Usunąć tę wiadomość u wszystkich?",
+  "community.postImageAlt": "Obraz wpisu {value1} z {value2}",
+  "community.postVideoTitle": "Film {value1} od {value2}",
+  "community.postClipTitle": "Klip {value1} od {value2}",
+  "community.openSource": "Otwórz źródło",
+  "community.chatDescription": "Rozmawiaj ze społecznością. Wszyscy mają wspólną historię wiadomości."
 }

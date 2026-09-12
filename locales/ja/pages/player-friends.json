@@ -1,0 +1,10 @@
+{
+  "playerFriends.retry": "もう一度試してください",
+  "playerFriends.title": "フレンド",
+  "playerFriends.profile": "プレイヤープロフィール",
+  "playerFriends.empty": "表示するフレンドはいません。",
+  "playerFriends.private": "このフレンドリストは非公開です。",
+  "playerFriends.unavailable": "現在フレンドリストを利用できません。",
+  "playerFriends.stale": "最後に保存したフレンドリストを表示しています。",
+  "playerFriends.loading": "フレンドを読み込み中…"
+}

@@ -1,0 +1,13 @@
+{
+  "features.category.players": "プレイヤー",
+  "features.category.champions": "チャンピオン",
+  "features.category.stats": "統計",
+  "features.category.community": "コミュニティ",
+  "features.kind.new": "新着",
+  "features.kind.improved": "改善",
+  "features.kind.fixed": "修正",
+  "features.category.analytics": "分析",
+  "features.category.experience": "使いやすさ",
+  "features.upcoming": "近日公開",
+  "features.empty": "現在公開中の機能のお知らせはありません。"
+}

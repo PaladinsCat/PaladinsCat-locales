@@ -1,0 +1,13 @@
+{
+  "features.category.players": "玩家",
+  "features.category.champions": "冠軍",
+  "features.category.stats": "統計數據",
+  "features.category.community": "社群",
+  "features.kind.new": "新增",
+  "features.kind.improved": "改進",
+  "features.kind.fixed": "修正",
+  "features.category.analytics": "分析",
+  "features.category.experience": "使用體驗",
+  "features.upcoming": "即將推出",
+  "features.empty": "目前沒有生效的功能公告。"
+}

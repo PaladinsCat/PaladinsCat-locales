@@ -113,7 +113,7 @@
   "common.playerRefresh.quotaTitle": "Até 5 atualizações a cada 10 minutos",
   "common.playerRefresh.success": "Dados Jogador atualizados. Atualizações restantes nesta janela: {remaining}.",
   "common.result.lossShort": "eu",
-  "common.result.winShort": "W",
+  "common.result.winShort": "V",
   "common.roles.damage": "Dano",
   "common.roles.damageShort": "Dano",
   "common.roles.flank": "Flanco",

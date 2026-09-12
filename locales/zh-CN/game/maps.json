@@ -1,3 +1,19 @@
 {
-  "maps.itemClass.utility": "通用"
+  "maps.itemClass.utility": "通用",
+  "maps.compareOtherMaps": "比较其他地图",
+  "maps.noComparisonData": "此条目暂无可供比较的观测数据。",
+  "maps.comparisonFailed": "无法加载所有地图的比较数据。",
+  "maps.itemClass.defense": "防御",
+  "maps.itemClass.healing": "治疗",
+  "maps.itemClass.offense": "攻击",
+  "maps.detailDescription": "此排位赛地图的英雄、天赋、道具和团队阵容表现。",
+  "maps.itemDescription": "此地图的道具购买表现，按道具类别分组。",
+  "maps.compositionDescription": "此地图上记录的五人团队阵容，按对局数排序。",
+  "maps.noCompositions": "此地图暂无完整团队阵容数据。",
+  "compositions.title": "团队阵容统计",
+  "compositions.description": "排位赛五人团队阵容，按坦克 · 输出 · 突进 · 辅助排序。",
+  "compositions.summary.total": "阵容",
+  "compositions.summary.mostCommon": "最常见",
+  "compositions.summary.trackedMatches": "已跟踪对局",
+  "compositions.summary.bestSampledWinRate": "样本中最高胜率"
 }

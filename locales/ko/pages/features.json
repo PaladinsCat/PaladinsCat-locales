@@ -1,0 +1,13 @@
+{
+  "features.category.players": "유저",
+  "features.category.champions": "챔피언",
+  "features.category.stats": "통계",
+  "features.category.community": "커뮤니티",
+  "features.kind.new": "신규",
+  "features.kind.improved": "개선",
+  "features.kind.fixed": "수정",
+  "features.category.analytics": "분석",
+  "features.category.experience": "사용 경험",
+  "features.upcoming": "예정",
+  "features.empty": "현재 게시 중인 기능 공지가 없습니다."
+}

@@ -1,3 +1,19 @@
 {
-  "maps.itemClass.utility": "Полезность"
+  "maps.itemClass.utility": "Полезность",
+  "maps.compareOtherMaps": "Сравнить другие карты",
+  "maps.noComparisonData": "Для этой записи нет данных для сравнения.",
+  "maps.comparisonFailed": "Не удалось загрузить сравнение всех карт.",
+  "maps.itemClass.defense": "Защита",
+  "maps.itemClass.healing": "Исцеление",
+  "maps.itemClass.offense": "Атака",
+  "maps.detailDescription": "Результаты чемпионов, талантов, предметов и составов команд на этой карте в рейтинговом режиме.",
+  "maps.itemDescription": "Результаты покупок предметов на этой карте, сгруппированные по классам предметов.",
+  "maps.compositionDescription": "Составы команд из пяти игроков, зафиксированные на этой карте, по количеству матчей.",
+  "maps.noCompositions": "Для этой карты нет полных составов команд.",
+  "compositions.title": "Статистика составов команд",
+  "compositions.description": "Составы рейтинговых команд из пяти игроков в порядке: Танк · Урон · Фланг · Поддержка.",
+  "compositions.summary.total": "Составы",
+  "compositions.summary.mostCommon": "Самый частый",
+  "compositions.summary.trackedMatches": "Учтённые матчи",
+  "compositions.summary.bestSampledWinRate": "Лучшая доля побед в выборке"
 }

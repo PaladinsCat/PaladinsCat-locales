@@ -1,3 +1,19 @@
 {
-  "maps.itemClass.utility": "Unterstützung"
+  "maps.itemClass.utility": "Unterstützung",
+  "maps.compareOtherMaps": "Andere Karten vergleichen",
+  "maps.noComparisonData": "Für diesen Eintrag liegen keine Vergleichsdaten vor.",
+  "maps.comparisonFailed": "Der Vergleich aller Karten konnte nicht geladen werden.",
+  "maps.itemClass.defense": "Verteidigung",
+  "maps.itemClass.healing": "Heilung",
+  "maps.itemClass.offense": "Angriff",
+  "maps.detailDescription": "Leistung von Champions, Talenten, Gegenständen und Teamzusammenstellungen auf dieser Ranglistenkarte.",
+  "maps.itemDescription": "Leistung gekaufter Gegenstände auf dieser Karte, nach Gegenstandsklasse gruppiert.",
+  "maps.compositionDescription": "Auf dieser Karte erfasste Fünfer-Teamzusammenstellungen, nach Anzahl der Matches sortiert.",
+  "maps.noCompositions": "Für diese Karte liegen keine vollständigen Teamzusammenstellungen vor.",
+  "compositions.title": "Statistiken zur Teamzusammenstellung",
+  "compositions.description": "Fünfer-Teamzusammenstellungen im Ranglistenmodus, in der Reihenfolge Front · Schaden · Flanke · Unterstützung.",
+  "compositions.summary.total": "Zusammenstellungen",
+  "compositions.summary.mostCommon": "Am häufigsten",
+  "compositions.summary.trackedMatches": "Erfasste Matches",
+  "compositions.summary.bestSampledWinRate": "Höchste Siegquote in der Stichprobe"
 }

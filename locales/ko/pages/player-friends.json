@@ -1,0 +1,10 @@
+{
+  "playerFriends.retry": "다시 시도하세요",
+  "playerFriends.title": "친구",
+  "playerFriends.profile": "유저 프로필",
+  "playerFriends.empty": "표시할 친구가 없습니다.",
+  "playerFriends.private": "이 친구 목록은 비공개입니다.",
+  "playerFriends.unavailable": "지금은 친구 목록을 사용할 수 없습니다.",
+  "playerFriends.stale": "마지막으로 저장된 친구 목록을 표시합니다.",
+  "playerFriends.loading": "친구 목록 불러오는 중…"
+}

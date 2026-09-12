@@ -1,0 +1,7 @@
+{
+  "items.overviewFallbackDescription": "排位赛购买表现。",
+  "items.tiers.title": "各等级效果",
+  "items.tiers.description": "每次购买会将道具提升一级。费用显示达到该等级时累计投入的积分。",
+  "items.tiers.totalCost": "总计{cost}积分",
+  "items.tiers.source": "Paladins Wiki"
+}

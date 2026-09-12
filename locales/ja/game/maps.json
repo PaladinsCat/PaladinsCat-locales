@@ -1,3 +1,19 @@
 {
-  "maps.itemClass.utility": "ユーティリティ"
+  "maps.itemClass.utility": "ユーティリティ",
+  "maps.compareOtherMaps": "他のマップを比較",
+  "maps.noComparisonData": "この項目には比較用の観測データがありません。",
+  "maps.comparisonFailed": "全マップの比較を読み込めませんでした。",
+  "maps.itemClass.defense": "防御",
+  "maps.itemClass.healing": "回復",
+  "maps.itemClass.offense": "攻撃",
+  "maps.detailDescription": "このランク戦マップにおけるチャンピオン、タレント、アイテム、チーム構成の成績。",
+  "maps.itemDescription": "このマップで購入されたアイテムの成績を、アイテムの分類別に表示します。",
+  "maps.compositionDescription": "このマップで記録された5人チームの構成を、試合数順に表示します。",
+  "maps.noCompositions": "このマップには完全なチーム構成のデータがありません。",
+  "compositions.title": "チーム構成の統計",
+  "compositions.description": "ランク戦の5人チーム構成。フロントライン・ダメージ・フランク・サポートの順に表示します。",
+  "compositions.summary.total": "構成",
+  "compositions.summary.mostCommon": "最も多い構成",
+  "compositions.summary.trackedMatches": "追跡された試合",
+  "compositions.summary.bestSampledWinRate": "集計対象内の最高勝率"
 }

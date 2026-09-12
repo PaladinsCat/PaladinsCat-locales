@@ -71,7 +71,7 @@
   "diminishingReturns.results": "推定される同時効果",
   "diminishingReturns.savedLoadouts": "私が保存した ロードアウト",
   "diminishingReturns.savedLoadoutsDescription": "チャンピオン、タレント、カード、および カード レベルをロードするデッキを選択します。一致 アイテム は保存されたデッキの一部ではありません。",
-  "diminishingReturns.secondsValue": "{value}s",
+  "diminishingReturns.secondsValue": "{value}秒",
   "diminishingReturns.select": "選択",
   "diminishingReturns.selected": "選択済み",
   "diminishingReturns.shieldEffectiveness": "作成されたシールド効果",

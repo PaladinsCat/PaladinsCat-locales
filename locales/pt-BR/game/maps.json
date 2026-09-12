@@ -1,3 +1,19 @@
 {
-  "maps.itemClass.utility": "Utilitário"
+  "maps.itemClass.utility": "Utilitário",
+  "maps.compareOtherMaps": "Comparar outros mapas",
+  "maps.noComparisonData": "Não há dados de comparação para esta entrada.",
+  "maps.comparisonFailed": "Não foi possível carregar a comparação de todos os mapas.",
+  "maps.itemClass.defense": "Defesa",
+  "maps.itemClass.healing": "Cura",
+  "maps.itemClass.offense": "Ataque",
+  "maps.detailDescription": "Desempenho de campeões, talentos, itens e composições de equipe neste mapa do modo Ranqueado.",
+  "maps.itemDescription": "Desempenho das compras de itens neste mapa, agrupado por classe de item.",
+  "maps.compositionDescription": "Composições de cinco jogadores registradas neste mapa, ordenadas pelo número de partidas.",
+  "maps.noCompositions": "Não há composições completas de equipe para este mapa.",
+  "compositions.title": "Estatísticas de composição de equipe",
+  "compositions.description": "Composições de cinco jogadores no modo Ranqueado, na ordem Linha de Frente · Dano · Flanco · Suporte.",
+  "compositions.summary.total": "Composições",
+  "compositions.summary.mostCommon": "Mais comum",
+  "compositions.summary.trackedMatches": "Partidas monitoradas",
+  "compositions.summary.bestSampledWinRate": "Maior taxa de vitória na amostra"
 }

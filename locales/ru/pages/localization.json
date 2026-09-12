@@ -8,5 +8,6 @@
   "localization.workflowStepClone": "Клонируйте PaladinsCat-locales и создайте ветку перевода.",
   "localization.workflowStepPr": "Проверьте, зафиксируйте с помощью GitHub Desktop, откройте запрос на включение и выполните слияние после прохождения проверок.",
   "localization.workflowStepTolgee": "Импортируйте английские файлы в Tolgee, переведите и экспортируйте целевые файлы обратно в клон.",
-  "localization.workflowTitle": "Рабочий процесс репозитория"
+  "localization.workflowTitle": "Рабочий процесс репозитория",
+  "localization.openWeblate": "Открыть рабочее пространство Weblate"
 }

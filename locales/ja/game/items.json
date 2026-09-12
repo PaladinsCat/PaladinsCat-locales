@@ -1,0 +1,7 @@
+{
+  "items.overviewFallbackDescription": "ランク戦での購入成績。",
+  "items.tiers.title": "レベル別の効果",
+  "items.tiers.description": "購入するたびにアイテムが次のレベルに強化されます。コストはそのレベルまでに費やしたクレジットの合計です。",
+  "items.tiers.totalCost": "合計{cost}クレジット",
+  "items.tiers.source": "Paladins Wiki"
+}

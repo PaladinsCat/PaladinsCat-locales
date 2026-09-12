@@ -112,7 +112,7 @@
   "common.playerRefresh.partial": "Dane Gracz zostały odświeżone, ale niektórych powiązanych danych nie udało się zaktualizować. Odświeża pozostałe: {remaining}.",
   "common.playerRefresh.quotaTitle": "Do 5 odświeżeń co 10 minut",
   "common.playerRefresh.success": "Odświeżono dane Gracz. Odświeża resztę w tym oknie: {remaining}.",
-  "common.result.lossShort": "L",
+  "common.result.lossShort": "P",
   "common.result.winShort": "W",
   "common.roles.damage": "Obrażenia",
   "common.roles.damageShort": "DMG",

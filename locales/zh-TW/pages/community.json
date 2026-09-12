@@ -1,3 +1,23 @@
 {
-  "community.retry": "重試"
+  "community.retry": "重試",
+  "community.live": "直播",
+  "community.reply": "回覆",
+  "community.replyingTo": "正在回覆{name}",
+  "community.globalChat": "# global",
+  "community.connecting": "正在連線…",
+  "community.reconnecting": "正在重新連線…",
+  "community.chatError": "無法載入聊天。",
+  "community.chatEmpty": "開始聊天吧。",
+  "community.olderMessages": "載入更早的訊息",
+  "community.newMessages": "新訊息 ↓",
+  "community.messagePlaceholder": "傳送至#global · Shift+Enter換行",
+  "community.send": "傳送",
+  "community.loginToChat": "登入後參與聊天",
+  "community.messageDeleted": "訊息已刪除",
+  "community.deleteMessageConfirm": "為所有人刪除這則訊息？",
+  "community.postImageAlt": "貼文圖片{value1}/{value2}",
+  "community.postVideoTitle": "來自{value2}的{value1}影片",
+  "community.postClipTitle": "來自{value2}的{value1}片段",
+  "community.openSource": "開啟來源",
+  "community.chatDescription": "與社群交流。所有人共享同一份訊息記錄。"
 }

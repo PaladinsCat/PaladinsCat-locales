@@ -53,6 +53,25 @@ class NativeTerminologyTests(unittest.TestCase):
         self.assertEqual(saved['terms']['Conviction']['messageIds'], ['221049'])
         self.assertEqual(saved['terms']['Sanctuary']['locales']['zh-CN']['status'], 'fallback-missing')
 
+    def test_additional_reviewed_gap_imports(self):
+        review = json.loads((ROOT/'game-client/reviewed-gap-description-import.json').read_text(encoding='utf-8'))
+        catalogs = {}
+        targets = {}
+        for locale in {'en'} | {r['locale'] for r in review['entries']}:
+            with (ROOT/f'game-client/{locale}.csv').open(encoding='utf-8', newline='') as stream:
+                catalogs[locale] = {r['message_id']: r['value'] for r in csv.DictReader(stream)}
+            targets[locale] = json.loads((ROOT/f'locales/{locale}/game/champions.json').read_text(encoding='utf-8'))
+        seen = set()
+        for record in review['entries']:
+            locale, key, mid = record['locale'], record['key'], record['messageId']
+            self.assertNotIn((locale, key), seen)
+            seen.add((locale, key))
+            source = targets['en'][key]
+            self.assertEqual(importer.normalize_game_value(catalogs['en'][mid]), source)
+            self.assertEqual(importer.normalize_game_value(catalogs[locale][mid]), targets[locale][key])
+            self.assertEqual(importer.placeholders(source), importer.placeholders(targets[locale][key]))
+        self.assertEqual(len(seen), 216)
+
     def test_reviewed_description_import(self):
         review = json.loads((ROOT/'game-client/reviewed-description-import.json').read_text(encoding='utf-8'))
         catalogs = {}

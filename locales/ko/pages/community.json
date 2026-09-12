@@ -1,3 +1,23 @@
 {
-  "community.retry": "다시 시도"
+  "community.retry": "다시 시도",
+  "community.live": "라이브",
+  "community.reply": "답글",
+  "community.replyingTo": "{name}에게 답글 작성 중",
+  "community.globalChat": "# global",
+  "community.connecting": "연결 중…",
+  "community.reconnecting": "다시 연결 중…",
+  "community.chatError": "채팅을 불러오지 못했습니다.",
+  "community.chatEmpty": "대화를 시작하세요.",
+  "community.olderMessages": "이전 메시지 불러오기",
+  "community.newMessages": "새 메시지 ↓",
+  "community.messagePlaceholder": "#global에 메시지 입력 · Shift+Enter로 줄바꿈",
+  "community.send": "전송",
+  "community.loginToChat": "로그인하여 대화에 참여하세요",
+  "community.messageDeleted": "메시지가 삭제되었습니다",
+  "community.deleteMessageConfirm": "모든 사람에게서 이 메시지를 삭제할까요?",
+  "community.postImageAlt": "게시물 이미지 {value1}/{value2}",
+  "community.postVideoTitle": "{value2}의 {value1} 동영상",
+  "community.postClipTitle": "{value2}의 {value1} 클립",
+  "community.openSource": "출처 열기",
+  "community.chatDescription": "커뮤니티와 대화하세요. 모두 같은 메시지 기록을 공유합니다."
 }

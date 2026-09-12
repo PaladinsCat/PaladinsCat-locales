@@ -1,3 +1,23 @@
 {
-  "community.retry": "Tekrar dene"
+  "community.retry": "Tekrar dene",
+  "community.live": "Canlı",
+  "community.reply": "Yanıtla",
+  "community.replyingTo": "{name} adlı kişiye yanıt",
+  "community.globalChat": "# global",
+  "community.connecting": "Bağlanıyor…",
+  "community.reconnecting": "Yeniden bağlanıyor…",
+  "community.chatError": "Sohbet yüklenemedi.",
+  "community.chatEmpty": "Sohbeti başlat.",
+  "community.olderMessages": "Eski mesajları yükle",
+  "community.newMessages": "Yeni mesajlar ↓",
+  "community.messagePlaceholder": "#global kanalına mesaj · Yeni satır için Shift+Enter",
+  "community.send": "Gönder",
+  "community.loginToChat": "Sohbete katılmak için giriş yap",
+  "community.messageDeleted": "Mesaj silindi",
+  "community.deleteMessageConfirm": "Bu mesaj herkes için silinsin mi?",
+  "community.postImageAlt": "Gönderi görseli {value1}/{value2}",
+  "community.postVideoTitle": "{value2} tarafından paylaşılan {value1} videosu",
+  "community.postClipTitle": "{value2} tarafından paylaşılan {value1} klibi",
+  "community.openSource": "Kaynağı aç",
+  "community.chatDescription": "Toplulukla sohbet et. Herkes aynı mesaj geçmişini paylaşır."
 }

@@ -1,0 +1,7 @@
+{
+  "items.overviewFallbackDescription": "Leistung von Käufen im Ranglistenmodus.",
+  "items.tiers.title": "Effekte nach Stufe",
+  "items.tiers.description": "Jeder Kauf verbessert den Gegenstand auf die nächste Stufe. Die Kosten zeigen die bis zu dieser Stufe insgesamt ausgegebenen Credits.",
+  "items.tiers.totalCost": "Insgesamt {cost} Credits",
+  "items.tiers.source": "Paladins Wiki"
+}

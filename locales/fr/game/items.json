@@ -1,0 +1,7 @@
+{
+  "items.overviewFallbackDescription": "Performances des achats en mode Classé.",
+  "items.tiers.title": "Effets par niveau",
+  "items.tiers.description": "Chaque achat améliore l’objet au niveau suivant. Le coût indique le total de crédits dépensés pour atteindre ce niveau.",
+  "items.tiers.totalCost": "{cost} crédits au total",
+  "items.tiers.source": "Paladins Wiki"
+}

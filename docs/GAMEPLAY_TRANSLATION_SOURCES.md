@@ -49,6 +49,58 @@ the broader candidate set included descriptions omitting damage reduction,
 immunity, or other mechanics and was not bulk-imported. Existing English-valued
 catalog entries were also preserved, not silently treated as unowned gaps.
 
+## Contributor-protected English-fallback pass
+
+The subsequent September 11 pass follows explicit authorization to replace
+unowned English-valued entries as well as fill missing targets. Existing
+non-English values and all 127 locale/key pairs identified by the refreshed
+human-contribution and suggestion snapshot were left unchanged. Automated
+Weblate/webhook events were not treated as human authorship. No Weblate writes,
+review approvals, or contributor-history changes were performed.
+
+This pass adds 5,397 entries and replaces 1,111 English fallbacks across all 11
+languages. Interface, moderation criteria, calculator, map/item summaries and
+search metadata follow existing vocabulary and preserve formatting tokens.
+The legacy ignore rule for the Korean calculator catalog was removed so the
+translated module is versioned normally.
+
+Gameplay wording combines original assistant translations, reviewed finite
+sentence patterns, exact-source Korean custom-pack descriptions, and 216 further
+native-client descriptions. The latter have stable source IDs in
+[`reviewed-gap-description-import.json`](../game-client/reviewed-gap-description-import.json).
+They passed individual source/target wording review; candidates with missing
+mechanics were excluded. Native proper names are reused where unambiguous or
+explicitly reviewed; unresolved names remain English. Custom-pack Korean text
+is not represented as an official native-client translation.
+
+Bounded checks passed for placeholder parity, native-source snapshot parity,
+the 216 source/target imports, and preservation of existing non-English and
+contributor-protected values. Numeric review exceptions were only number-word
+formatting, leading decimal zeroes, or spelling out one percentage point.
+These checks do not constitute independent native-speaker approval.
+
+Coverage at this checkpoint, measured against `6ab5f35`:
+
+| Locale | Added | English replaced | Still missing | English gameplay prose remaining |
+|---|---:|---:|---:|---:|
+| de | 466 | 18 | 111 | 0 |
+| es-419 | 428 | 3 | 163 | 0 |
+| fr | 460 | 6 | 120 | 0 |
+| ja | 472 | 6 | 107 | 0 |
+| ko | 528 | 1032 | 0 | 239 |
+| pl | 480 | 4 | 101 | 0 |
+| pt-BR | 471 | 5 | 95 | 0 |
+| ru | 463 | 1 | 123 | 0 |
+| tr | 476 | 7 | 103 | 0 |
+| zh-CN | 574 | 18 | 483 | 2 |
+| zh-TW | 579 | 11 | 489 | 1 |
+
+The full gameplay gap is not complete: 1,895 locale/key pairs remain absent
+(including 88 contributor-protected pairs), and 242 existing gameplay strings
+remain English prose. Outside gameplay, the remaining 48 absent entries are
+contributor-protected. Identical technical abbreviations, proper names and
+format-only templates are not classified as untranslated prose.
+
 ## Gameplay sources used in the first batch
 
 The following revision links identify the community sources for imported or

@@ -1,3 +1,23 @@
 {
-  "community.retry": "Réessayer"
+  "community.retry": "Réessayer",
+  "community.live": "En direct",
+  "community.reply": "Répondre",
+  "community.replyingTo": "Réponse à {name}",
+  "community.globalChat": "# global",
+  "community.connecting": "Connexion…",
+  "community.reconnecting": "Reconnexion…",
+  "community.chatError": "Impossible de charger le chat.",
+  "community.chatEmpty": "Lancez la conversation.",
+  "community.olderMessages": "Charger les anciens messages",
+  "community.newMessages": "Nouveaux messages ↓",
+  "community.messagePlaceholder": "Message dans #global · Shift+Enter pour aller à la ligne",
+  "community.send": "Envoyer",
+  "community.loginToChat": "Connectez-vous pour participer",
+  "community.messageDeleted": "Message supprimé",
+  "community.deleteMessageConfirm": "Supprimer ce message pour tout le monde ?",
+  "community.postImageAlt": "Image {value1} sur {value2} de la publication",
+  "community.postVideoTitle": "Vidéo {value1} de {value2}",
+  "community.postClipTitle": "Clip {value1} de {value2}",
+  "community.openSource": "Ouvrir la source",
+  "community.chatDescription": "Discutez avec la communauté. Tout le monde partage le même historique des messages."
 }

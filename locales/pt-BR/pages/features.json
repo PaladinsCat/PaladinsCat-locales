@@ -1,0 +1,13 @@
+{
+  "features.category.players": "Jogadores",
+  "features.category.champions": "Campeões",
+  "features.category.stats": "Estatísticas",
+  "features.category.community": "Comunidade",
+  "features.kind.new": "Novo",
+  "features.kind.improved": "Melhorado",
+  "features.kind.fixed": "Corrigido",
+  "features.category.analytics": "Análises",
+  "features.category.experience": "Experiência de uso",
+  "features.upcoming": "Em breve",
+  "features.empty": "Não há anúncios de recursos ativos."
+}

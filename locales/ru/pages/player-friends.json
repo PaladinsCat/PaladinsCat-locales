@@ -1,0 +1,10 @@
+{
+  "playerFriends.retry": "Попробуйте еще раз",
+  "playerFriends.title": "Друзья",
+  "playerFriends.profile": "Профиль игрока",
+  "playerFriends.empty": "Нет друзей для отображения.",
+  "playerFriends.private": "Этот список друзей закрыт.",
+  "playerFriends.unavailable": "Список друзей сейчас недоступен.",
+  "playerFriends.stale": "Показан последний сохранённый список друзей.",
+  "playerFriends.loading": "Загрузка друзей…"
+}

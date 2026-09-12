@@ -1,3 +1,23 @@
 {
-  "community.retry": "Повторить"
+  "community.retry": "Повторить",
+  "community.live": "Живи",
+  "community.reply": "Ответить",
+  "community.replyingTo": "Ответ для {name}",
+  "community.globalChat": "# global",
+  "community.connecting": "Подключение…",
+  "community.reconnecting": "Переподключение…",
+  "community.chatError": "Не удалось загрузить чат.",
+  "community.chatEmpty": "Начните разговор.",
+  "community.olderMessages": "Загрузить старые сообщения",
+  "community.newMessages": "Новые сообщения ↓",
+  "community.messagePlaceholder": "Сообщение в #global · Shift+Enter для новой строки",
+  "community.send": "Отправить",
+  "community.loginToChat": "Войдите, чтобы присоединиться к разговору",
+  "community.messageDeleted": "Сообщение удалено",
+  "community.deleteMessageConfirm": "Удалить это сообщение у всех?",
+  "community.postImageAlt": "Изображение {value1} из {value2} в публикации",
+  "community.postVideoTitle": "Видео {value1} от {value2}",
+  "community.postClipTitle": "Клип {value1} от {value2}",
+  "community.openSource": "Открыть источник",
+  "community.chatDescription": "Общайтесь с сообществом. История сообщений общая для всех."
 }

@@ -1,3 +1,19 @@
 {
-  "maps.itemClass.utility": "Sprawność"
+  "maps.itemClass.utility": "Sprawność",
+  "maps.compareOtherMaps": "Porównaj inne mapy",
+  "maps.noComparisonData": "Brak danych porównawczych dla tego wpisu.",
+  "maps.comparisonFailed": "Nie udało się wczytać porównania wszystkich map.",
+  "maps.itemClass.defense": "Obrona",
+  "maps.itemClass.healing": "Leczenie",
+  "maps.itemClass.offense": "Atak",
+  "maps.detailDescription": "Wyniki czempionów, talentów, przedmiotów i składów drużyn na tej mapie rankingowej.",
+  "maps.itemDescription": "Wyniki zakupów przedmiotów na tej mapie, pogrupowane według klasy przedmiotu.",
+  "maps.compositionDescription": "Pięcioosobowe składy drużyn odnotowane na tej mapie, uporządkowane według liczby meczów.",
+  "maps.noCompositions": "Brak pełnych składów drużyn dla tej mapy.",
+  "compositions.title": "Statystyki składów drużyn",
+  "compositions.description": "Pięcioosobowe składy drużyn rankingowych w kolejności: Obrońca · Atak · Skrzydłowy · Wsparcie.",
+  "compositions.summary.total": "Składy",
+  "compositions.summary.mostCommon": "Najczęstszy skład",
+  "compositions.summary.trackedMatches": "Śledzone mecze",
+  "compositions.summary.bestSampledWinRate": "Najwyższy odsetek zwycięstw w próbie"
 }

@@ -8,5 +8,6 @@
   "footer.dirtyWorktree": "Грязное рабочее дерево при развертывании",
   "footer.joinDiscord": "Присоединяйтесь к Discord",
   "footer.privacyPolicy": "Политика конфиденциальности",
-  "footer.termsOfUse": "Условия использования"
+  "footer.termsOfUse": "Условия использования",
+  "footer.hirezTrademarkNotice": "PALADINS® является товарным знаком или зарегистрированным товарным знаком Hi-Rez Studios, Inc. в США и других странах."
 }

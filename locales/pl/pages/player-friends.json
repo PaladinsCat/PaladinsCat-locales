@@ -1,0 +1,10 @@
+{
+  "playerFriends.retry": "Spróbuj ponownie",
+  "playerFriends.title": "Znajomi",
+  "playerFriends.profile": "Profil gracza",
+  "playerFriends.empty": "Brak znajomych do wyświetlenia.",
+  "playerFriends.private": "Ta lista znajomych jest prywatna.",
+  "playerFriends.unavailable": "Lista znajomych jest teraz niedostępna.",
+  "playerFriends.stale": "Wyświetlamy ostatnio zapisaną listę znajomych.",
+  "playerFriends.loading": "Wczytywanie znajomych…"
+}

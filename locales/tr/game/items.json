@@ -1,0 +1,7 @@
+{
+  "items.overviewFallbackDescription": "Dereceli satın alım performansı.",
+  "items.tiers.title": "Seviyeye göre etkiler",
+  "items.tiers.description": "Her satın alım eşyayı bir sonraki seviyeye yükseltir. Maliyet, o seviyeye kadar harcanan toplam Krediyi gösterir.",
+  "items.tiers.totalCost": "Toplam {cost} Kredi",
+  "items.tiers.source": "Paladins Wiki"
+}

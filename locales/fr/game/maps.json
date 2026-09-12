@@ -1,3 +1,19 @@
 {
-  "maps.itemClass.utility": "Utilitaire"
+  "maps.itemClass.utility": "Utilitaire",
+  "maps.compareOtherMaps": "Comparer les autres cartes",
+  "maps.noComparisonData": "Aucune donnée de comparaison n’est disponible pour cette entrée.",
+  "maps.comparisonFailed": "Impossible de charger la comparaison de toutes les cartes.",
+  "maps.itemClass.defense": "Défense",
+  "maps.itemClass.healing": "Soins",
+  "maps.itemClass.offense": "Attaque",
+  "maps.detailDescription": "Performances des champions, talents, objets et compositions d’équipe sur cette carte en mode Classé.",
+  "maps.itemDescription": "Performances des achats d’objets sur cette carte, regroupées par catégorie d’objet.",
+  "maps.compositionDescription": "Compositions d’équipes de cinq joueurs enregistrées sur cette carte, classées par nombre de matchs.",
+  "maps.noCompositions": "Aucune composition d’équipe complète n’est disponible pour cette carte.",
+  "compositions.title": "Statistiques des compositions d’équipe",
+  "compositions.description": "Compositions d’équipes de cinq joueurs en mode Classé, dans l’ordre Tank · Dégâts · Flanc · Soutien.",
+  "compositions.summary.total": "Compositions",
+  "compositions.summary.mostCommon": "La plus fréquente",
+  "compositions.summary.trackedMatches": "Matchs suivis",
+  "compositions.summary.bestSampledWinRate": "Meilleur taux de victoire de l’échantillon"
 }

@@ -1,0 +1,7 @@
+{
+  "items.overviewFallbackDescription": "Wyniki zakupów w trybie rankingowym.",
+  "items.tiers.title": "Efekty według poziomu",
+  "items.tiers.description": "Każdy zakup ulepsza przedmiot do następnego poziomu. Koszt oznacza łączną liczbę kredytów wydanych na osiągnięcie tego poziomu.",
+  "items.tiers.totalCost": "Łącznie {cost} kredytów",
+  "items.tiers.source": "Paladins Wiki"
+}

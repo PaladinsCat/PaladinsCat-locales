@@ -1,3 +1,19 @@
 {
-  "maps.itemClass.utility": "Araç"
+  "maps.itemClass.utility": "Araç",
+  "maps.compareOtherMaps": "Diğer haritaları karşılaştır",
+  "maps.noComparisonData": "Bu kayıt için karşılaştırma verisi yok.",
+  "maps.comparisonFailed": "Tüm haritaların karşılaştırması yüklenemedi.",
+  "maps.itemClass.defense": "Savunma",
+  "maps.itemClass.healing": "İyileştirme",
+  "maps.itemClass.offense": "Saldırı",
+  "maps.detailDescription": "Bu dereceli haritada şampiyon, yetenek, eşya ve takım kompozisyonu performansı.",
+  "maps.itemDescription": "Bu haritadaki eşya satın alımlarının eşya sınıfına göre gruplanmış performansı.",
+  "maps.compositionDescription": "Bu haritada kaydedilen beş oyunculu takım kompozisyonları, maç sayısına göre sıralanır.",
+  "maps.noCompositions": "Bu harita için eksiksiz takım kompozisyonu bulunmuyor.",
+  "compositions.title": "Takım Kompozisyonu İstatistikleri",
+  "compositions.description": "Dereceli beş oyunculu takım kompozisyonları; Ön Saf · Hasar · Yan Hasar · Destek sırasıyla gösterilir.",
+  "compositions.summary.total": "Kompozisyonlar",
+  "compositions.summary.mostCommon": "En yaygın",
+  "compositions.summary.trackedMatches": "Takip edilen maçlar",
+  "compositions.summary.bestSampledWinRate": "Örneklemdeki en yüksek kazanma oranı"
 }

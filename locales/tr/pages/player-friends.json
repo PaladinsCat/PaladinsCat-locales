@@ -1,0 +1,10 @@
+{
+  "playerFriends.retry": "Tekrar dene",
+  "playerFriends.title": "Arkadaşlar",
+  "playerFriends.profile": "Oyuncu profili",
+  "playerFriends.empty": "Gösterilecek arkadaş yok.",
+  "playerFriends.private": "Bu arkadaş listesi gizli.",
+  "playerFriends.unavailable": "Arkadaş listesi şu anda kullanılamıyor.",
+  "playerFriends.stale": "Son kaydedilen arkadaş listesi gösteriliyor.",
+  "playerFriends.loading": "Arkadaşlar yükleniyor…"
+}

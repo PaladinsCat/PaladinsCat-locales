@@ -1,0 +1,7 @@
+{
+  "items.overviewFallbackDescription": "Результаты покупок в рейтинговом режиме.",
+  "items.tiers.title": "Эффекты по уровням",
+  "items.tiers.description": "Каждая покупка повышает уровень предмета на один. Стоимость показывает общее количество кредитов, потраченных к этому уровню.",
+  "items.tiers.totalCost": "Всего {cost} кредитов",
+  "items.tiers.source": "Paladins Wiki"
+}

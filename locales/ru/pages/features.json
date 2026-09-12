@@ -1,0 +1,13 @@
+{
+  "features.category.players": "Игроки",
+  "features.category.champions": "Чемпионы",
+  "features.category.stats": "Статистика",
+  "features.category.community": "Сообщество",
+  "features.kind.new": "Новое",
+  "features.kind.improved": "Улучшено",
+  "features.kind.fixed": "Исправлено",
+  "features.category.analytics": "Аналитика",
+  "features.category.experience": "Удобство использования",
+  "features.upcoming": "Скоро",
+  "features.empty": "Сейчас нет активных объявлений о функциях."
+}

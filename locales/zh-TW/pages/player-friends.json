@@ -1,0 +1,10 @@
+{
+  "playerFriends.retry": "再試一次",
+  "playerFriends.title": "好友",
+  "playerFriends.profile": "玩家檔案",
+  "playerFriends.empty": "沒有可顯示的好友。",
+  "playerFriends.private": "此好友名單不公開。",
+  "playerFriends.unavailable": "目前無法取得好友名單。",
+  "playerFriends.stale": "正在顯示上次儲存的好友名單。",
+  "playerFriends.loading": "正在載入好友…"
+}

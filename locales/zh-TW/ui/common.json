@@ -112,7 +112,7 @@
   "common.playerRefresh.partial": "玩家資料已刷新，但部分相關資料無法更新。刷新剩餘：{remaining}。",
   "common.playerRefresh.quotaTitle": "每 10 分鐘最多刷新 5 次",
   "common.playerRefresh.success": "玩家 資料已刷新。刷新此視窗中剩餘的內容：{remaining}。",
-  "common.result.lossShort": "L",
+  "common.result.lossShort": "敗",
   "common.result.winShort": "瓦",
   "common.roles.damage": "傷害輸出",
   "common.roles.damageShort": "劑量",

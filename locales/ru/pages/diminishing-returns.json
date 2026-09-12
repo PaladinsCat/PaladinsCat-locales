@@ -71,7 +71,7 @@
   "diminishingReturns.results": "Предполагаемые одновременные эффекты",
   "diminishingReturns.savedLoadouts": "Мой сохраненный Конфигурации",
   "diminishingReturns.savedLoadoutsDescription": "Выберите колоду, чтобы загрузить ее уровни Чемпион, таланта, Карты и Карта. Матч Предметы не является частью сохраненных колод.",
-  "diminishingReturns.secondsValue": "{value}s",
+  "diminishingReturns.secondsValue": "{value} с",
   "diminishingReturns.select": "Выбрать",
   "diminishingReturns.selected": "Выбрано",
   "diminishingReturns.shieldEffectiveness": "Созданная эффективность щита",

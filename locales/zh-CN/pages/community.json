@@ -1,3 +1,23 @@
 {
-  "community.retry": "重试"
+  "community.retry": "重试",
+  "community.live": "直播",
+  "community.reply": "回复",
+  "community.replyingTo": "正在回复{name}",
+  "community.globalChat": "# global",
+  "community.connecting": "正在连接…",
+  "community.reconnecting": "正在重新连接…",
+  "community.chatError": "无法加载聊天。",
+  "community.chatEmpty": "开始聊天吧。",
+  "community.olderMessages": "加载更早的消息",
+  "community.newMessages": "新消息 ↓",
+  "community.messagePlaceholder": "发送到#global · Shift+Enter换行",
+  "community.send": "发送",
+  "community.loginToChat": "登录后参与聊天",
+  "community.messageDeleted": "消息已删除",
+  "community.deleteMessageConfirm": "为所有人删除这条消息？",
+  "community.postImageAlt": "帖子图片{value1}/{value2}",
+  "community.postVideoTitle": "来自{value2}的{value1}视频",
+  "community.postClipTitle": "来自{value2}的{value1}片段",
+  "community.openSource": "打开来源",
+  "community.chatDescription": "与社区交流。所有人共享同一份消息记录。"
 }

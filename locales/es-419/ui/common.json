@@ -98,7 +98,7 @@
   "common.playerChampions.kdaLine": "{kills} / {deaths} / {assists}",
   "common.playerChampions.kdaShort": "K/D/A",
   "common.playerChampions.killsShort": "k",
-  "common.playerChampions.level": "Lv. {level}",
+  "common.playerChampions.level": "Nv. {level}",
   "common.playerChampions.ownership": "Propiedad",
   "common.playerChampions.refresh": "Actualizar estadísticas de Campeón",
   "common.playerChampions.sortLevel": "Nivel",

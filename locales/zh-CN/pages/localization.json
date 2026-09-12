@@ -8,5 +8,6 @@
   "localization.workflowStepClone": "克隆 PaladinsCat-locales 并创建翻译分支。",
   "localization.workflowStepPr": "验证、使用 GitHub Desktop 提交、打开拉取请求，并在检查通过后合并。",
   "localization.workflowStepTolgee": "将英文文件导入 Tolgee，进行翻译，然后将目标文件导出回克隆中。",
-  "localization.workflowTitle": "存储库工作流程"
+  "localization.workflowTitle": "存储库工作流程",
+  "localization.openWeblate": "打开Weblate工作区"
 }

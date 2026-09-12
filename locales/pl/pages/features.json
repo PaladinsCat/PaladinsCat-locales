@@ -1,0 +1,13 @@
+{
+  "features.category.players": "Gracze",
+  "features.category.champions": "Mistrzowie",
+  "features.category.stats": "Statystyki",
+  "features.category.community": "Społeczność",
+  "features.kind.new": "Nowość",
+  "features.kind.improved": "Ulepszenie",
+  "features.kind.fixed": "Poprawka",
+  "features.category.analytics": "Analizy",
+  "features.category.experience": "Wygoda użytkowania",
+  "features.upcoming": "Wkrótce",
+  "features.empty": "Obecnie nie ma aktywnych ogłoszeń o funkcjach."
+}

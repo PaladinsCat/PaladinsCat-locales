@@ -1,3 +1,23 @@
 {
-  "community.retry": "再試行"
+  "community.retry": "再試行",
+  "community.live": "ライブ",
+  "community.reply": "返信",
+  "community.replyingTo": "{name}への返信",
+  "community.globalChat": "# global",
+  "community.connecting": "接続中…",
+  "community.reconnecting": "再接続中…",
+  "community.chatError": "チャットを読み込めませんでした。",
+  "community.chatEmpty": "会話を始めましょう。",
+  "community.olderMessages": "過去のメッセージを読み込む",
+  "community.newMessages": "新着メッセージ ↓",
+  "community.messagePlaceholder": "#globalにメッセージ · Shift+Enterで改行",
+  "community.send": "送信",
+  "community.loginToChat": "ログインして会話に参加",
+  "community.messageDeleted": "メッセージを削除しました",
+  "community.deleteMessageConfirm": "このメッセージを全員の画面から削除しますか？",
+  "community.postImageAlt": "投稿画像 {value1}/{value2}",
+  "community.postVideoTitle": "{value2}の{value1}動画",
+  "community.postClipTitle": "{value2}の{value1}クリップ",
+  "community.openSource": "出典を開く",
+  "community.chatDescription": "コミュニティで会話しましょう。全員が同じメッセージ履歴を共有します。"
 }

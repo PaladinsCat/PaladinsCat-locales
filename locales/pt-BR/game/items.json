@@ -1,0 +1,7 @@
+{
+  "items.overviewFallbackDescription": "Desempenho das compras no modo Ranqueado.",
+  "items.tiers.title": "Efeitos por nível",
+  "items.tiers.description": "Cada compra aprimora o item para o próximo nível. O custo mostra o total de Créditos investidos até esse nível.",
+  "items.tiers.totalCost": "Total de {cost} Créditos",
+  "items.tiers.source": "Paladins Wiki"
+}

@@ -1,3 +1,19 @@
 {
-  "maps.itemClass.utility": "通用"
+  "maps.itemClass.utility": "通用",
+  "maps.compareOtherMaps": "比較其他地圖",
+  "maps.noComparisonData": "此項目暫無可供比較的觀測資料。",
+  "maps.comparisonFailed": "無法載入所有地圖的比較資料。",
+  "maps.itemClass.defense": "防禦",
+  "maps.itemClass.healing": "治療",
+  "maps.itemClass.offense": "攻擊",
+  "maps.detailDescription": "此排位賽地圖的英雄、天賦、道具和團隊陣容表現。",
+  "maps.itemDescription": "此地圖的道具購買表現，按道具類別分組。",
+  "maps.compositionDescription": "此地圖上記錄的五人團隊陣容，按對局數排序。",
+  "maps.noCompositions": "此地圖暫無完整團隊陣容資料。",
+  "compositions.title": "團隊陣容統計",
+  "compositions.description": "排位賽五人團隊陣容，按坦克 · 輸出 · 突進 · 輔助排序。",
+  "compositions.summary.total": "陣容",
+  "compositions.summary.mostCommon": "最常見",
+  "compositions.summary.trackedMatches": "已追蹤對局",
+  "compositions.summary.bestSampledWinRate": "樣本中最高勝率"
 }

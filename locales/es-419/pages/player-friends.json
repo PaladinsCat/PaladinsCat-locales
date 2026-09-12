@@ -1,0 +1,10 @@
+{
+  "playerFriends.retry": "Inténtalo de nuevo",
+  "playerFriends.title": "Amigos",
+  "playerFriends.profile": "Perfil del jugador",
+  "playerFriends.empty": "No hay amigos para mostrar.",
+  "playerFriends.private": "Esta lista de amigos es privada.",
+  "playerFriends.unavailable": "La lista de amigos no está disponible ahora.",
+  "playerFriends.stale": "Se muestra la última lista de amigos guardada.",
+  "playerFriends.loading": "Cargando amigos…"
+}

@@ -1,3 +1,23 @@
 {
-  "community.retry": "Erneut versuchen"
+  "community.retry": "Erneut versuchen",
+  "community.live": "Lebe",
+  "community.reply": "Antworten",
+  "community.replyingTo": "Antwort an {name}",
+  "community.globalChat": "# global",
+  "community.connecting": "Verbindung wird hergestellt…",
+  "community.reconnecting": "Verbindung wird wiederhergestellt…",
+  "community.chatError": "Chat konnte nicht geladen werden.",
+  "community.chatEmpty": "Beginne das Gespräch.",
+  "community.olderMessages": "Ältere Nachrichten laden",
+  "community.newMessages": "Neue Nachrichten ↓",
+  "community.messagePlaceholder": "Nachricht an #global · Shift+Enter für eine neue Zeile",
+  "community.send": "Senden",
+  "community.loginToChat": "Melde dich an, um mitzuschreiben",
+  "community.messageDeleted": "Nachricht gelöscht",
+  "community.deleteMessageConfirm": "Diese Nachricht für alle löschen?",
+  "community.postImageAlt": "Beitragsbild {value1} von {value2}",
+  "community.postVideoTitle": "{value1}-Video von {value2}",
+  "community.postClipTitle": "{value1}-Clip von {value2}",
+  "community.openSource": "Quelle öffnen",
+  "community.chatDescription": "Tausche dich mit der Community aus. Alle sehen denselben Nachrichtenverlauf."
 }

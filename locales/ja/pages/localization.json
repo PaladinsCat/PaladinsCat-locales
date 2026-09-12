@@ -8,5 +8,6 @@
   "localization.workflowStepClone": "PaladinsCat-locales をクローンし、翻訳ブランチを作成します。",
   "localization.workflowStepPr": "検証し、GitHub Desktop でコミットし、プル リクエストを開き、チェックに合格したらマージします。",
   "localization.workflowStepTolgee": "英語ファイルを Tolgee にインポートし、翻訳して、ターゲット ファイルをクローンにエクスポートして戻します。",
-  "localization.workflowTitle": "リポジトリのワークフロー"
+  "localization.workflowTitle": "リポジトリのワークフロー",
+  "localization.openWeblate": "Weblateワークスペースを開く"
 }

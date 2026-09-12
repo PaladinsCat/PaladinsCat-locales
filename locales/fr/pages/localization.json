@@ -8,5 +8,6 @@
   "localization.workflowStepClone": "Clonez PaladinsCat-locales et créez une branche de traduction.",
   "localization.workflowStepPr": "Validez, validez avec GitHub Desktop, ouvrez une pull request et fusionnez une fois les vérifications réussies.",
   "localization.workflowStepTolgee": "Importez les fichiers anglais dans Tolgee, traduisez et exportez les fichiers cibles dans le clone.",
-  "localization.workflowTitle": "Flux de travail du référentiel"
+  "localization.workflowTitle": "Flux de travail du référentiel",
+  "localization.openWeblate": "Ouvrir l’espace de travail Weblate"
 }

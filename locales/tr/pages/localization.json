@@ -8,5 +8,6 @@
   "localization.workflowStepClone": "PaladinsCat-locales'i klonlayın ve bir çeviri dalı oluşturun.",
   "localization.workflowStepPr": "Doğrulayın, GitHub Desktop ile taahhütte bulunun, bir çekme isteği açın ve kontroller geçtikten sonra birleştirin.",
   "localization.workflowStepTolgee": "İngilizce dosyaları Tolgee'ye aktarın, çevirin ve hedef dosyaları tekrar klona aktarın.",
-  "localization.workflowTitle": "Depo iş akışı"
+  "localization.workflowTitle": "Depo iş akışı",
+  "localization.openWeblate": "Weblate çalışma alanını aç"
 }

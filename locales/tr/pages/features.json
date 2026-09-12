@@ -1,0 +1,13 @@
+{
+  "features.category.players": "Oyuncular",
+  "features.category.champions": "Şampiyonlar",
+  "features.category.stats": "İstatistikler",
+  "features.category.community": "Topluluk",
+  "features.kind.new": "Yeni",
+  "features.kind.improved": "İyileştirildi",
+  "features.kind.fixed": "Düzeltildi",
+  "features.category.analytics": "Analizler",
+  "features.category.experience": "Kullanım deneyimi",
+  "features.upcoming": "Yakında",
+  "features.empty": "Etkin özellik duyurusu yok."
+}
