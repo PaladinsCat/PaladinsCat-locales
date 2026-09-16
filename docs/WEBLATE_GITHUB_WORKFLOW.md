@@ -47,3 +47,10 @@ Application maintainers update canonical English directly on `main` after
 webhook or scheduled sync.
 Resolve any Weblate Git conflict before creating a translation pull request;
 do not overwrite changed English keys from Weblate.
+
+If the project-wide repository conflict auto-locks the Weblate components
+(`auto_lock_error`), recover it with the documented procedure in the
+operations runbook `localization-release.md` ("Weblate lock recovery"):
+back up the diverged VCS state, reset the local repo to `origin/main`,
+unlock the components via Weblate's supported path, and clear the stale
+`MergeFailure` alert with a successful repository update.
