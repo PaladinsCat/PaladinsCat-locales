@@ -1,13 +1,13 @@
 {
-  "localization.contributingGuide": "Читать руководство по вкладам",
-  "localization.deploymentDescription": "Объединенные коммиты локали закрепляются во внешнем образе PaladinsCat для воспроизводимого развертывания VPS.",
-  "localization.githubDescription": "Клонируйте общедоступный репозиторий локали, отредактируйте его с помощью Tolgee или текстового редактора и откройте один запрос на извлечение GitHub. PaladinsCat не создает черновики перевода Магазин и не требует повторного утверждения.",
-  "localization.githubTitle": "Перевести через GitHub",
-  "localization.repository": "Открыть репозиторий локали",
-  "localization.tolgeeGuide": "Прочтите рабочий процесс Толги",
-  "localization.workflowStepClone": "Клонируйте PaladinsCat-locales и создайте ветку перевода.",
-  "localization.workflowStepPr": "Проверьте, зафиксируйте с помощью GitHub Desktop, откройте запрос на включение и выполните слияние после прохождения проверок.",
-  "localization.workflowStepTolgee": "Импортируйте английские файлы в Tolgee, переведите и экспортируйте целевые файлы обратно в клон.",
-  "localization.workflowTitle": "Рабочий процесс репозитория",
-  "localization.openWeblate": "Открыть рабочее пространство Weblate"
+    "localization.contributingGuide": "Читать руководство по вкладам",
+    "localization.deploymentDescription": "Объединенные коммиты локали закрепляются во внешнем образе PaladinsCat для воспроизводимого развертывания VPS.",
+    "localization.githubDescription": "Используйте Weblate для перевода или предложения изменений. Проверенные изменения становятся pull request GitHub; только объединённый pull request изменяет публичное языковое репозиторий.",
+    "localization.githubTitle": "Перевод через Weblate",
+    "localization.repository": "Открыть репозиторий локали",
+    "localization.tolgeeGuide": "Прочитайте руководство по Weblate и GitHub",
+    "localization.workflowStepClone": "Переводите в рабочем пространстве Weblate или отправляйте предложения.",
+    "localization.workflowStepPr": "Объединяйте после того, как проверки репозитория и верификация метки GitHub пройдут.",
+    "localization.workflowStepTolgee": "Просмотрщик Weblate подтверждает завершённые строки и открывает или обновляет pull request GitHub.",
+    "localization.workflowTitle": "Рабочий процесс репозитория",
+    "localization.openWeblate": "Открыть рабочее пространство Weblate"
 }
