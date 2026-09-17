@@ -300,5 +300,6 @@
   "moderation.hypercarryTitle": "Hypercarry",
   "moderation.hypercarryDescription": "매치를 캐리한 유저.",
   "moderation.hypercarryNotice": "Hypercarry는 매치 최고 피해량과 최다 처치를 기록하며 승리하고, 두 지표 모두 다른 모든 유저를 최소 20% 앞서야 합니다. 항복한 매치와 70 eCPM 미만의 완전 AFK 유저가 있는 매치는 제외됩니다.",
-  "moderation.noHypercarries": "검색 조건에 맞는 Hypercarry 표시가 없습니다."
+  "moderation.noHypercarries": "검색 조건에 맞는 Hypercarry 표시가 없습니다.",
+  "moderation.evidenceTitle": "증거"
 }
