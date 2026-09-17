@@ -1,3 +1,19 @@
 {
-  "maps.itemClass.utility": "Utilidad"
+    "maps.itemClass.utility": "Utilidad",
+    "compositions.description": "Composiciones de equipo de cinco jugadores clasificadas, ordenadas Frente · Daño · Flanco · Soporte.",
+    "compositions.summary.bestSampledWinRate": "Mejor tasa de victoria muestreada",
+    "compositions.summary.mostCommon": "Más común",
+    "compositions.summary.total": "Composiciones",
+    "compositions.summary.trackedMatches": "Partidas rastreadas",
+    "compositions.title": "Estadísticas de composición de equipo",
+    "maps.compareOtherMaps": "Comparar otros mapas",
+    "maps.comparisonFailed": "No se pudo cargar la comparación de todos los mapas.",
+    "maps.compositionDescription": "Composiciones de equipo de cinco jugadores registradas en este mapa, ordenadas por número de partidas.",
+    "maps.detailDescription": "Rendimiento de campeón, talento, objeto y composición de equipo para este mapa clasificado.",
+    "maps.itemClass.defense": "Defensa",
+    "maps.itemClass.healing": "Curación",
+    "maps.itemClass.offense": "Ofensiva",
+    "maps.itemDescription": "Rendimiento de compra de objetos específico del mapa agrupado por clase de objeto.",
+    "maps.noComparisonData": "No hay observaciones de comparación disponibles para esta entrada.",
+    "maps.noCompositions": "No hay composiciones de equipo completas disponibles para este mapa."
 }
