@@ -1,13 +1,13 @@
 {
-  "localization.contributingGuide": "Lire le guide de contribution",
-  "localization.deploymentDescription": "Les validations de paramètres régionaux fusionnés sont épinglées dans l'image frontale de PaladinsCat pour des déploiements VPS reproductibles.",
-  "localization.githubDescription": "Clonez le référentiel de paramètres régionaux public, modifiez-le avec Tolgee ou un éditeur de texte et ouvrez une demande d'extraction GitHub. PaladinsCat ne rédige pas de brouillons de traduction Boutique et ne nécessite pas une deuxième approbation.",
-  "localization.githubTitle": "Traduire via GitHub",
-  "localization.repository": "Ouvrir le référentiel de paramètres régionaux",
-  "localization.tolgeeGuide": "Lire le flux de travail Tolgee",
-  "localization.workflowStepClone": "Clonez PaladinsCat-locales et créez une branche de traduction.",
-  "localization.workflowStepPr": "Validez, validez avec GitHub Desktop, ouvrez une pull request et fusionnez une fois les vérifications réussies.",
-  "localization.workflowStepTolgee": "Importez les fichiers anglais dans Tolgee, traduisez et exportez les fichiers cibles dans le clone.",
-  "localization.workflowTitle": "Flux de travail du référentiel",
-  "localization.openWeblate": "Ouvrir l’espace de travail Weblate"
+    "localization.contributingGuide": "Lire le guide de contribution",
+    "localization.deploymentDescription": "Les validations de paramètres régionaux fusionnés sont épinglées dans l'image frontale de PaladinsCat pour des déploiements VPS reproductibles.",
+    "localization.githubDescription": "Utilisez Weblate pour traduire ou proposer des modifications. Les modifications vérifiées deviennent une demande de tir GitHub ; seule une demande de tir fusionnée modifie le dépôt de langue public.",
+    "localization.githubTitle": "Traduire avec Weblate",
+    "localization.repository": "Ouvrir le référentiel de paramètres régionaux",
+    "localization.tolgeeGuide": "Lire le guide Weblate et GitHub",
+    "localization.workflowStepClone": "Traduisez dans l'espace de travail Weblate ou soumettez des propositions.",
+    "localization.workflowStepPr": "Fusionnez après que les vérifications du dépôt et la vérification du libellé GitHub sont passées.",
+    "localization.workflowStepTolgee": "Un réviseur Weblate approuve les chaînes terminées et ouvre ou met à jour une demande de tir GitHub.",
+    "localization.workflowTitle": "Flux de travail du référentiel",
+    "localization.openWeblate": "Ouvrir l’espace de travail Weblate"
 }
