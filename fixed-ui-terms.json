@@ -5,6 +5,7 @@
     "ko": {
       "alt account": "부계정",
       "cheater": "핵유저",
+      "flank": "암살",
       "match": "매치",
       "matches": "매치",
       "private account": "비공개 계정",
@@ -14,12 +15,16 @@
       "shield": "실드",
       "shielding": "실딩",
       "stats": "통계",
+      "talent": "특성",
       "win trade": "패작",
       "wintrade": "패작"
     }
   },
   "keyOverrides": {
     "ko": {
+      "common.entity.talentNumber": "특성 #{number}",
+      "common.roles.flank": "암살",
+      "common.sort.talents": "특성",
       "home.brandAccent": "Cat",
       "home.brandLead": "Paladins",
       "home.exploreBotEyebrow": "팔라딘스캣 디스코드 봇",
