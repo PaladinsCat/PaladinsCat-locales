@@ -303,12 +303,12 @@
     "moderation.noHypercarries": "검색 조건에 맞는 Hypercarry 표시가 없습니다.",
     "moderation.evidenceTitle": "증거",
     "moderation.evidenceCosmetic": "코스메틱",
-    "moderation.evidenceDescription": "이 계정에 대한 모든 기록된 증거 — 증거 포털의 사용자 신고, 시스템 플래그(승부조작, 재능 남용), 불가능하거나 독점적인 코스메틱.",
+    "moderation.evidenceDescription": "이 계정에 대한 모든 기록된 증거 — 증거 포털의 사용자 신고, 시스템 플래그(승부조작, 특성 남용), 불가능하거나 독점적인 코스메틱.",
     "moderation.evidenceNone": "이 계정에 기록된 증거가 없습니다.",
     "moderation.evidenceReason": "사유",
     "moderation.evidenceReported": "사용자 신고",
     "moderation.evidenceSource": "출처",
     "moderation.evidenceSystem": "시스템 플래그",
-    "moderation.evidenceTalentAbuse": "재능 남용",
+    "moderation.evidenceTalentAbuse": "특성 남용",
     "moderation.evidenceWinTrade": "승부조작"
 }
