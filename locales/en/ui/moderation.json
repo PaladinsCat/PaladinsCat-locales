@@ -381,5 +381,7 @@
   "moderation.exploitExceptions.granted": "Exploit exception granted.",
   "moderation.exploitExceptions.grantFailed": "Failed to grant exploit exception",
   "moderation.exploitExceptions.revoked": "Exploit exception revoked.",
-  "moderation.exploitExceptions.revokeFailed": "Failed to revoke exploit exception"
+  "moderation.exploitExceptions.revokeFailed": "Failed to revoke exploit exception",
+  "moderation.customTagColor": "Tag color",
+  "moderation.customTagSaveColor": "Save color"
 }
