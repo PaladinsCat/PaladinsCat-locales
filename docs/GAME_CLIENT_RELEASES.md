@@ -23,9 +23,10 @@ diagnostic manifests belong in Git or public release assets.
 The patcher reads
 `https://raw.githubusercontent.com/PaladinsCat/PaladinsCat-locales/main/game-client/catalog.json`.
 Catalog v1 has `packages` for locale bundles and optional `ime_packages` for IME
-releases. An empty array offers no release. The initial catalog intentionally
-contains no unpublished or unverified package. A source/catalog commit does not
-publish downloadable packages.
+releases. An empty array offers no release. A source/catalog commit does not
+publish downloadable packages. The GUI also accepts an explicit public GitHub
+catalog asset URL in Repository settings, while retaining the repository link.
+This permits inspection of a published preview before its catalog PR is merged.
 
 Every entry identifies an immutable manifest URL and its SHA-256. Each manifest
 pins the supported game executable and every payload hash/size. HTTPS GitHub
@@ -35,8 +36,10 @@ release and catalog entry, not replacement of an existing asset.
 
 Locale bundles retain the WatchCat v1 manifest and exact writable-file allowlist.
 They carry the reviewed locale source commit and client build/fingerprint.
-Record the WatchCat tooling commit in release provenance as well. An update to
-the game requires renewed native mapping, hash, package and visual checks.
+Record the exact committed IME source and packaging executable hash in release
+provenance. Do not label an IME-only commit as the packaging implementation
+commit. An update to the game requires renewed native mapping, hash, package and
+visual checks.
 
 ## IME package
 
@@ -67,6 +70,12 @@ and relevant live acceptance. The relocated/path-portable build has CPU checks;
 the earlier v4-r1 gameplay result is evidence for that frozen build only. Live
 disable and a new portable client trial remain separately unverified.
 
+A user-authorized preview may be published with those pending checks explicitly
+listed in both catalog and manifest notes. `draft:false` permits downloading; it
+does not mean stable, fully translated, or accepted on a live client. Mark the
+GitHub release as a prerelease, exclude it from latest stable, and retain the
+pending gates in provenance. Stable promotion still requires those checks.
+
 Upload immutable payloads/manifests first, then review the catalog change with
 their final manifest hashes. Apply parent publication rules; preparation does
 not authorize push or publication. The GUI installs the fixed mod directory
@@ -88,3 +97,41 @@ credential patterns in all reachable blobs, and non-deleting, forward-moving
 `codex/` branches. Guard source and local hook wrappers belong to WatchCat. This
 source push is independent of uploading binary release assets or completing the
 full localization coverage and visual acceptance gates.
+
+## Published preview: 2026-10-10
+
+[game-client-preview-20261010-r1](https://github.com/PaladinsCat/PaladinsCat-locales/releases/tag/game-client-preview-20261010-r1)
+contains Korean v172 and IME 0.1.0 for the exact Win64 8.1 executable fingerprint.
+Both catalog entries and manifests explicitly say PREVIEW. Translation review,
+unresolved native ownership, targeted visual checks, portable IME gameplay and
+live disable remain pending.
+
+| Manifest | SHA-256 |
+|---|---|
+| `locale-package.json` | `a67cdc912b2420e4885f2eb0fcfb628c5c08b6ba20e0f2eb5bfc3e6a6474ea5c` |
+| `ime-package.json` | `b64c71f21d472afd62ccc114f9faa68c23f76e53c52e83bcdf26815085581f7e` |
+
+Locale source: `9192457a4907d3508c5de0ffe6ef6dff54fa6d16`.
+WatchCat IME source: `3b361669eedd02190f7a242483e3bfa84cd63775`.
+The release has 15 immutable assets, including nine compressed locale payloads,
+the DLL, both manifests, the catalog, provenance and font notice. The production
+Rust download engine verified both packages from a fresh cache, including
+compressed and decoded hashes/sizes, actual DLL exports and ABI `[4,9,7,1]`.
+These checks did not install into a game or execute the DLL.
+
+Reproduce in WatchCat with the built `paladinscat-release` Rust CLI:
+
+```text
+assemble-preview BUNDLE_JSON IME_PACKAGE_JSON LOCALE_REPO NEW_TAG LOCALE_COMMIT IME_COMMIT
+verify-downloads PUBLIC_CATALOG_URL NEW_EMPTY_CACHE_DIRECTORY
+use-catalog PUBLIC_CATALOG_URL
+```
+
+`assemble-preview` refuses an existing tag directory, prepares gzip payloads,
+final manifests, catalog and provenance under ignored `.release-staging`, and
+publishes nothing. Upload all assets to a draft GitHub prerelease, verify their
+identities and sizes, then publish under the user's release authorization.
+Run `verify-downloads` against the public asset catalog in a fresh cache before
+offering it. `use-catalog` downloads/verifies both families into the GUI cache
+and persists that catalog URL and prepared selections; it changes no game files.
+Submit the matching `game-client/catalog.json` through an owner-reviewed PR.
