@@ -1,0 +1,2271 @@
+{
+  "record_name_aliases": {
+  "156679": {
+    "aliases": {},
+    "champion": "grohk",
+    "source": "[Totem.] Cleanses and reduces damage by 60% inside the totem's radius.",
+    "translations": {
+      "Totem.": "토템"
+    }
+  },
+  "162005": {
+    "aliases": {},
+    "champion": "ruckus",
+    "source": "[Hover] You can fire during Hover, and you deal 5% more damage while Hovering.",
+    "translations": {
+      "Hover": "공중 부양"
+    }
+  },
+  "163666": {
+    "aliases": {},
+    "champion": "kinessa",
+    "source": "Scout Rifle",
+    "translations": {
+      "Scout Rifle": "정찰 소총"
+    }
+  },
+  "164070": {
+    "aliases": {},
+    "champion": "barik",
+    "source": "[Turret] Your turret is now a Mega Turret with increased Health, firing heat-seeking missiles at enemies that explode dealing 50 damage.",
+    "translations": {
+      "Mega Turret": "대형 포탑"
+    }
+  },
+  "164638": {
+    "aliases": {},
+    "champion": "grover",
+    "source": "[Axe Throw] Axe Throw deals 500 bonus damage to shields.",
+    "translations": {
+      "Axe Throw": "도끼 투척"
+    }
+  },
+  "165147": {
+    "aliases": {},
+    "champion": "skye",
+    "source": "[Toxic Time Bomb] Toxic Time Bomb grants 20% Movement Speed for 2s.",
+    "translations": {
+      "Toxic Time Bomb": "맹독 시한폭탄"
+    }
+  },
+  "165774": {
+    "aliases": {},
+    "champion": "barik",
+    "source": "[Lockdown] Using Lockdown reduces the Cooldown of your Turret and Barricade by {25}% if they are not deployed.",
+    "translations": {
+      "Lockdown": "봉쇄"
+    }
+  },
+  "166766": {
+    "aliases": {},
+    "champion": "barik",
+    "source": "[Turret] Your turret is now a Mega Turret with increased Health, firing heat-seeking missiles at enemies that explode dealing 100 damage.",
+    "translations": {
+      "Mega Turret": "대형 포탑"
+    }
+  },
+  "166769": {
+    "aliases": {},
+    "champion": "barik",
+    "source": "[Turret] Your turret is now a Mega Turret with increased Health, firing heat-seeking missiles at enemies that explode dealing 150 damage.",
+    "translations": {
+      "Mega Turret": "대형 포탑"
+    }
+  },
+  "167872": {
+    "aliases": {},
+    "champion": "barik",
+    "source": "[Lockdown] Using Lockdown reduces the Cooldown of your Turret and Barricade by {50}% if they are not deployed.",
+    "translations": {
+      "Lockdown": "봉쇄"
+    }
+  },
+  "167875": {
+    "aliases": {},
+    "champion": "barik",
+    "source": "[Lockdown] Using Lockdown reduces the Cooldown of your Turret and Barricade by {75}% if they are not deployed.",
+    "translations": {
+      "Lockdown": "봉쇄"
+    }
+  },
+  "167878": {
+    "aliases": {},
+    "champion": "barik",
+    "source": "[Lockdown] Using Lockdown reduces the Cooldown of your Turret and Barricade by {100}% if they are not deployed.",
+    "translations": {
+      "Lockdown": "봉쇄"
+    }
+  },
+  "168139": {
+    "aliases": {},
+    "champion": "ruckus",
+    "source": "[Hover] You can fire during Hover, and you deal 10% more damage while Hovering.",
+    "translations": {
+      "Hover": "공중 부양"
+    }
+  },
+  "168142": {
+    "aliases": {},
+    "champion": "ruckus",
+    "source": "[Hover] You can fire during Hover, and you deal 15% more damage while Hovering.",
+    "translations": {
+      "Hover": "공중 부양"
+    }
+  },
+  "168145": {
+    "aliases": {},
+    "champion": "ruckus",
+    "source": "[Hover] You can fire during Hover, and you deal 20% more damage while Hovering.",
+    "translations": {
+      "Hover": "공중 부양"
+    }
+  },
+  "168460": {
+    "aliases": {},
+    "champion": "skye",
+    "source": "[Toxic Time Bomb] Toxic Time Bomb grants 40% Movement Speed for 2s.",
+    "translations": {
+      "Toxic Time Bomb": "맹독 시한폭탄"
+    }
+  },
+  "168463": {
+    "aliases": {},
+    "champion": "skye",
+    "source": "[Toxic Time Bomb] Toxic Time Bomb grants 60% Movement Speed for 2s.",
+    "translations": {
+      "Toxic Time Bomb": "맹독 시한폭탄"
+    }
+  },
+  "168466": {
+    "aliases": {},
+    "champion": "skye",
+    "source": "[Toxic Time Bomb] Toxic Time Bomb grants 80% Movement Speed for 2s.",
+    "translations": {
+      "Toxic Time Bomb": "맹독 시한폭탄"
+    }
+  },
+  "168646": {
+    "aliases": {},
+    "champion": "grover",
+    "source": "[Axe Throw] Axe Throw deals 1000 bonus damage to shields.",
+    "translations": {
+      "Axe Throw": "도끼 투척"
+    }
+  },
+  "168649": {
+    "aliases": {},
+    "champion": "grover",
+    "source": "[Axe Throw] Axe Throw deals 1500 bonus damage to shields",
+    "translations": {
+      "Axe Throw": "도끼 투척"
+    }
+  },
+  "168652": {
+    "aliases": {},
+    "champion": "grover",
+    "source": "[Axe Throw] Axe Throw deals 2000 bonus damage to shields.",
+    "translations": {
+      "Axe Throw": "도끼 투척"
+    }
+  },
+  "168913": {
+    "aliases": {},
+    "champion": "drogoz",
+    "source": "[Expectorate] Detonating Expectorate reduces it's cooldown by {6}s",
+    "translations": {
+      "Expectorate": "침 뱉기"
+    }
+  },
+  "169031": {
+    "aliases": {},
+    "champion": "drogoz",
+    "source": "[Expectorate] Detonating Expectorate reduces it's cooldown by {4.5}s",
+    "translations": {
+      "Expectorate": "침 뱉기"
+    }
+  },
+  "169034": {
+    "aliases": {},
+    "champion": "drogoz",
+    "source": "[Expectorate] Detonating Expectorate reduces it's cooldown by {3}s",
+    "translations": {
+      "Expectorate": "침 뱉기"
+    }
+  },
+  "169037": {
+    "aliases": {},
+    "champion": "drogoz",
+    "source": "[Expectorate] Detonating Expectorate reduces it's cooldown by {1.5}s",
+    "translations": {
+      "Expectorate": "침 뱉기"
+    }
+  },
+  "169978": {
+    "aliases": {},
+    "champion": "buck",
+    "source": "Targets affected by Net Shot are marked for 3s. \r\nShooting a marked target with your Shrapnel Cannon consumes the mark and deals 15% more damage.",
+    "translations": {
+      "Shrapnel Cannon": "파편포"
+    }
+  },
+  "169991": {
+    "aliases": {},
+    "champion": "cassie",
+    "source": "Crit1: Your first shot after Dodge Rolling (within <CV1> seconds) deals <CV2>% more damage. Missing cancels the combo.\r\n\r\nCrit2: Targets hit by Disengage are marked for <CV3> seconds, hitting a marked target with your Shortbow deals <CV4>% more damage and consumes the mark. Hitting an unmarked pawn cancels the combo.",
+    "translations": {
+      "Shortbow": "단궁"
+    }
+  },
+  "170015": {
+    "aliases": {},
+    "champion": "grover",
+    "source": "Axe Throw deals up to 40% more damage based on distance traveled, interpolated across it's max range.\r\nHitting a target with Vine marks them for 3s. Hitting a marked target with your melee attacks LMB deals 25% more damage. Weapon attacks do not consume the mark.",
+    "translations": {
+      "Axe Throw": "도끼 투척"
+    }
+  },
+  "171525": {
+    "aliases": {},
+    "champion": "bombking",
+    "source": "[Poppy Bomb] Hitting an enemy with Poppy Bomb Dazes them for {1}s.",
+    "translations": {
+      "Daze": "혼미",
+      "Dazes": "혼미 상태로 만듭니다"
+    }
+  },
+  "171527": {
+    "aliases": {},
+    "champion": "bombking",
+    "source": "[Poppy Bomb] Hitting an enemy with Poppy Bomb Dazes them for {2}s.",
+    "translations": {
+      "Daze": "혼미",
+      "Dazes": "혼미 상태로 만듭니다"
+    }
+  },
+  "171529": {
+    "aliases": {},
+    "champion": "bombking",
+    "source": "[Poppy Bomb] Hitting an enemy with Poppy Bomb Dazes them for {3}s.",
+    "translations": {
+      "Daze": "혼미",
+      "Dazes": "혼미 상태로 만듭니다"
+    }
+  },
+  "171533": {
+    "aliases": {},
+    "champion": "bombking",
+    "source": "[Poppy Bomb] Hitting an enemy with Poppy Bomb Dazes them for {4}s.",
+    "translations": {
+      "Daze": "혼미",
+      "Dazes": "혼미 상태로 만듭니다"
+    }
+  },
+  "172557": {
+    "aliases": {},
+    "champion": "grohk",
+    "source": "[Healing Totem] Increase the Duration of Healing Totem.",
+    "translations": {
+      "Totem.": "토템"
+    }
+  },
+  "172558": {
+    "aliases": {},
+    "champion": "grohk",
+    "source": "[Healing Totem] Increase the area of Healing Totem.",
+    "translations": {
+      "Totem.": "토템"
+    }
+  },
+  "172561": {
+    "aliases": {},
+    "champion": "grohk",
+    "source": "[Healing Totem] Increase the Health of Healing Totem.",
+    "translations": {
+      "Totem.": "토템"
+    }
+  },
+  "174079": {
+    "aliases": {},
+    "champion": "cassie",
+    "source": "[Altfire] Heal for 100 over 6s when hitting an ally with Enveloping Spirits.",
+    "translations": {
+      "Enveloping Spirits": "감싸는 영혼"
+    }
+  },
+  "175339": {
+    "aliases": {},
+    "champion": "shalin",
+    "source": "[Planted] Reduce the cooldown of Planted.",
+    "translations": {
+      "Planted": "고정 사격"
+    }
+  },
+  "175502": {
+    "aliases": {},
+    "champion": "shalin",
+    "source": "[Planted] Regenerate Health every second during Planted.",
+    "translations": {
+      "Planted": "고정 사격"
+    }
+  },
+  "175509": {
+    "aliases": {},
+    "champion": "shalin",
+    "source": "[Planted] Gain movement speed for 3s after Planted ends.",
+    "translations": {
+      "Planted": "고정 사격"
+    }
+  },
+  "175554": {
+    "aliases": {},
+    "champion": "shalin",
+    "source": "[Impaler Arrow] Reduce the cooldown of Impaler Arrow.",
+    "translations": {
+      "Impaler Arrow": "꿰뚫는 화살"
+    }
+  },
+  "178237": {
+    "aliases": {
+      "Rapid Fire": "Rapid Shot"
+    },
+    "champion": "shalin",
+    "source": "[Planted] Killing an enemy resets the Cooldown of Rapid Fire and Rapid Fire deals 20% more damage.",
+    "translations": {
+      "Planted": "고정 사격"
+    }
+  },
+  "178461": {
+    "aliases": {},
+    "champion": "lex",
+    "source": "Energy charge device for the Lawman character.",
+    "translations": {
+      "Lawman": "법집행자"
+    }
+  },
+  "178895": {
+    "aliases": {},
+    "champion": "seris",
+    "source": "[Rend Soul] Each Soul Charge you detonate with Rend Soul increases your maximum Health and weapon damage by 2% until you die. Stacks up to 12 times.",
+    "translations": {
+      "Soul Charge": "영혼 충전"
+    }
+  },
+  "179235": {
+    "aliases": {},
+    "champion": "lex",
+    "source": "Alt Fire for Lawman's Pursuit",
+    "translations": {
+      "Lawman": "법집행자",
+      "Lawman's Pursuit": "법집행자의 추격"
+    }
+  },
+  "179713": {
+    "aliases": {},
+    "champion": "seris",
+    "source": "[Rend Soul] Soul Charge detonations grant you Movement Speed",
+    "translations": {
+      "Soul Charge": "영혼 충전"
+    }
+  },
+  "179793": {
+    "aliases": {},
+    "champion": "seris",
+    "source": "[Weapon] If an enemy is affected with a Soul Charge you move faster",
+    "translations": {
+      "Soul Charge": "영혼 충전"
+    }
+  },
+  "179835": {
+    "aliases": {},
+    "champion": "willo",
+    "source": "[Weapon] Gain {scale=850|50} knock up when hitting yourself with Spinfusor.",
+    "translations": {
+      "Spinfusor": "스핀퓨저"
+    }
+  },
+  "180103": {
+    "aliases": {},
+    "champion": "shalin",
+    "source": "Unlock in the Burrito Collection.",
+    "translations": {
+      "Burrito Collection": "부리토 컬렉션"
+    }
+  },
+  "183354": {
+    "aliases": {},
+    "champion": "lian",
+    "source": "Custom device for the support device fired by Princess's F ability halfway through her charge.",
+    "translations": {
+      "Princess": "프린세스"
+    }
+  },
+  "184572": {
+    "aliases": {},
+    "champion": "jenos",
+    "source": "[Gravity Lift] Increase the Range you can use Gravity Lift.",
+    "translations": {
+      "Gravity Lift": "중력 상승"
+    }
+  },
+  "185484": {
+    "aliases": {},
+    "champion": "strix",
+    "source": "[Weapon] Reduce maximum Side Arm inaccuracy.",
+    "translations": {
+      "Side Arm": "보조 무기"
+    }
+  },
+  "185671": {
+    "aliases": {},
+    "champion": "strix",
+    "source": "[Weapon] Reduce Side Arm recoil.",
+    "translations": {
+      "Side Arm": "보조 무기"
+    }
+  },
+  "185700": {
+    "aliases": {},
+    "champion": "strix",
+    "source": "[Quick Switch] Reduce the time to swap to your Side Arm by 10%.",
+    "translations": {
+      "Side Arm": "보조 무기"
+    }
+  },
+  "192199": {
+    "aliases": {},
+    "champion": "drogoz",
+    "source": "[Expectorate] Detonating Expectorate reduces it's cooldown by {6}s",
+    "translations": {
+      "Expectorate": "침 뱉기"
+    }
+  },
+  "192304": {
+    "aliases": {},
+    "champion": "grover",
+    "source": "[Axe Throw] Axe Throw deals 2000 bonus damage to shields.",
+    "translations": {
+      "Axe Throw": "도끼 투척"
+    }
+  },
+  "198106": {
+    "aliases": {},
+    "champion": "seris",
+    "source": "Rend Soul now stuns the victim when they are afflicted with 4 Soul Charges.",
+    "translations": {
+      "Soul Charge": "영혼 충전"
+    }
+  },
+  "198127": {
+    "aliases": {},
+    "champion": "shalin",
+    "source": "Crippling shot now silences enemies",
+    "translations": {
+      "Crippling shot": "속박 사격"
+    }
+  },
+  "198153": {
+    "aliases": {},
+    "champion": "shalin",
+    "source": "Killing an enemy resets the Cooldown of Planted and Planted deals more damage.",
+    "translations": {
+      "Planted": "고정 사격"
+    }
+  },
+  "198156": {
+    "aliases": {},
+    "champion": "grohk",
+    "source": "Your Lightning staff now heals allies. Curative",
+    "translations": {
+      "Curative": "치유"
+    }
+  },
+  "198161": {
+    "aliases": {},
+    "champion": "grohk",
+    "source": " Healing Totem heals for more and gains a third charge. Remedy",
+    "translations": {
+      "Remedy": "처방"
+    }
+  },
+  "198197": {
+    "aliases": {},
+    "champion": "grohk",
+    "source": "Your Weapon Shots reduce the Cooldown of Shock Pulse and Shock Pulse gains extra bounces. Surgery",
+    "translations": {
+      "Surgery": "수술"
+    }
+  },
+  "198210": {
+    "aliases": {},
+    "champion": "seris",
+    "source": "Each Soul Charge you detonate increases your Base Health and Weapon Damage until you die. Stacks up to 12 times.",
+    "translations": {
+      "Soul Charge": "영혼 충전"
+    }
+  },
+  "198228": {
+    "aliases": {},
+    "champion": "grover",
+    "source": "Increase your Axe's damage. Surgery",
+    "translations": {
+      "Surgery": "수술"
+    }
+  },
+  "198231": {
+    "aliases": {},
+    "champion": "viktor",
+    "source": "Battle Rifle",
+    "translations": {
+      "Battle Rifle": "전투 소총"
+    }
+  },
+  "199850": {
+    "aliases": {},
+    "champion": "seris",
+    "source": "[Weapon] If an enemy is affected with a Soul Charge you move faster",
+    "translations": {
+      "Soul Charge": "영혼 충전"
+    }
+  },
+  "199852": {
+    "aliases": {},
+    "champion": "seris",
+    "source": "[Weapon] If an enemy is affected with a Soul Charge you move {scale=8|8}% faster",
+    "translations": {
+      "Soul Charge": "영혼 충전"
+    }
+  },
+  "201304": {
+    "aliases": {},
+    "champion": "inara",
+    "source": "Test for Viktor Burst Rifle Talent",
+    "translations": {
+      "Burst Rifle": "점사 소총"
+    }
+  },
+  "201573": {
+    "aliases": {},
+    "champion": "viktor",
+    "source": "Burst Rifle Talent firemode",
+    "translations": {
+      "Burst Rifle": "점사 소총"
+    }
+  },
+  "203966": {
+    "aliases": {},
+    "champion": "imani",
+    "source": "[Totem.] Cleanses and reduces damage by 60% inside the totem's radius.",
+    "translations": {
+      "Totem.": "토템"
+    }
+  },
+  "205665": {
+    "aliases": {},
+    "champion": "grohk",
+    "source": "When you take lethal damage Self Destruct activates",
+    "translations": {
+      "Self Destruct": "자폭"
+    }
+  },
+  "205797": {
+    "aliases": {},
+    "champion": "viktor",
+    "source": "Burst Rifle Talent firemode",
+    "translations": {
+      "Burst Rifle": "점사 소총"
+    }
+  },
+  "207563": {
+    "aliases": {},
+    "champion": "androxus",
+    "source": "Firemode activated by the Cursed Cylinder talent",
+    "translations": {
+      "Cursed Cylinder": "저주받은 실린더"
+    }
+  },
+  "207717": {
+    "aliases": {},
+    "champion": "raum",
+    "source": "Slam talent ",
+    "translations": {
+      "Slam": "내려찍기"
+    }
+  },
+  "211373": {
+    "aliases": {},
+    "champion": "corvus",
+    "source": "Multibeacon",
+    "translations": {
+      "Multibeacon": "다중 신호기"
+    }
+  },
+  "212423": {
+    "aliases": {
+      "Siphon": "Dark Siphon"
+    },
+    "champion": "vora",
+    "source": "Your Dark Siphon now deals an additional 10% of the target's maximum Health as damage over 1.5s.\t\t\t",
+    "translations": {}
+  },
+  "212433": {
+    "aliases": {
+      "Siphon": "Dark Siphon"
+    },
+    "champion": "vora",
+    "source": "[Dark Siphon] Increase the Healing received from Dark Siphon by {scale=50|50} health.",
+    "translations": {}
+  },
+  "212435": {
+    "aliases": {
+      "Siphon": "Dark Siphon"
+    },
+    "champion": "vora",
+    "source": "[Dark Siphon] Reduce the Cooldown of Tendril by {scale=0.6|0.6}s after hitting an enemy with Dark Siphon.",
+    "translations": {}
+  },
+  "212437": {
+    "aliases": {
+      "Siphon": "Dark Siphon"
+    },
+    "champion": "vora",
+    "source": "[Dark Siphon] Reduce the Cooldown of Dark Siphon by {scale=1|1}s if it fails to hit a target.",
+    "translations": {}
+  },
+  "212439": {
+    "aliases": {
+      "Siphon": "Dark Siphon"
+    },
+    "champion": "vora",
+    "source": "[Dark Siphon] Reduce the damage you take by {scale=5|5}% for 3s after hitting an enemy with Dark Siphon.",
+    "translations": {}
+  },
+  "212447": {
+    "aliases": {
+      "Siphon": "Dark Siphon"
+    },
+    "champion": "vora",
+    "source": "[Obliteration] Reduce the Cooldown of Dark Siphon by {scale=0.4|0.4}s after hitting at least one enemy with Obliteration.",
+    "translations": {}
+  },
+  "212453": {
+    "aliases": {
+      "Siphon": "Dark Siphon"
+    },
+    "champion": "vora",
+    "source": "[Tendril] Reduce the Cooldown of Dark Siphon and Obliteration by {scale=0.4|0.4}s after activating Tendril.",
+    "translations": {}
+  },
+  "212835": {
+    "aliases": {
+      "Siphon": "Dark Siphon"
+    },
+    "champion": "vora",
+    "source": "Consume stacks with Dark Siphon (projectile) and Obliteration (ground slam) to heal per stack consumed. Use of Dark Siphon or Obliteration at max stacks will augment those abilities.",
+    "translations": {}
+  },
+  "213098": {
+    "aliases": {
+      "Siphon": "Dark Siphon"
+    },
+    "champion": "vora",
+    "source": "A Scythe that sends out projectiles that deal damage and bleed their victims for 100 damage over 1.25s. Its attack chain is: Medium, Light, Light, Heavy.<br> Light: 200 damage.<br>Medium: 300 damage.<br> Heavy: 600 damage. <br><br><b>Passive - Darkness</b><br>Hits with your scythe provide a Darkness stack to you. Using Dark Siphon or Obliteration will consume all Stacks, Healing you for 100 over 1s per Stack and augmenting the ability if at 5 Stacks. You can have a maximum of 5 Stacks.\t\t\t",
+    "translations": {}
+  },
+  "213118": {
+    "aliases": {
+      "Siphon": "Dark Siphon"
+    },
+    "champion": "vora",
+    "source": "Reduce CD of Siphon if hit with RMB",
+    "translations": {}
+  },
+  "213119": {
+    "aliases": {
+      "Siphon": "Dark Siphon"
+    },
+    "champion": "vora",
+    "source": "Reduce CD of siphon if it misses",
+    "translations": {}
+  },
+  "213120": {
+    "aliases": {
+      "Siphon": "Dark Siphon"
+    },
+    "champion": "vora",
+    "source": "DR for 2s after hitting siphon",
+    "translations": {}
+  },
+  "213142": {
+    "aliases": {},
+    "champion": "vora",
+    "source": "Ground Slam Knockup + short silence",
+    "translations": {
+      "Ground Slam": "지면 강타"
+    }
+  },
+  "215926": {
+    "aliases": {
+      "Leap": "Commanding Leap"
+    },
+    "champion": "octavia",
+    "source": "You can now hover for 4s and gain 50% increased air control. While in Commanding Leap, gain 10% increased weapon damage.",
+    "translations": {}
+  },
+  "215972": {
+    "aliases": {
+      "Leap": "Commanding Leap"
+    },
+    "champion": "octavia",
+    "source": "(172946) [Armor] Reset Leap cooldown on health threshold",
+    "translations": {}
+  },
+  "215973": {
+    "aliases": {
+      "Leap": "Commanding Leap"
+    },
+    "champion": "octavia",
+    "source": "[Armor] Reset the Cooldown of Commanding Leap after dropping to or below {scale=10|10}% Health.",
+    "translations": {}
+  },
+  "215987": {
+    "aliases": {
+      "Leap": "Commanding Leap"
+    },
+    "champion": "octavia",
+    "source": "Increase the speed of Octavia's Commanding Leap.",
+    "translations": {}
+  },
+  "215988": {
+    "aliases": {
+      "Leap": "Commanding Leap"
+    },
+    "champion": "octavia",
+    "source": "Increase the jump strength of Octavia's Commanding Leap by {scale=5|5}%.",
+    "translations": {}
+  },
+  "215991": {
+    "aliases": {
+      "Dist Field": "Distortion Field",
+      "Leap": "Commanding Leap"
+    },
+    "champion": "octavia",
+    "source": "Reduce the Cooldown of (Dist Field) by [0.6/0.6]s after activating Leap",
+    "translations": {}
+  },
+  "215992": {
+    "aliases": {
+      "Leap": "Commanding Leap"
+    },
+    "champion": "octavia",
+    "source": "Reduce the Cooldown of Distortion Field by {scale=0.6|0.6}s after activating Commanding Leap.",
+    "translations": {}
+  },
+  "215993": {
+    "aliases": {
+      "Leap": "Commanding Leap"
+    },
+    "champion": "octavia",
+    "source": "Reduce your weapon recoil while using Leap.",
+    "translations": {}
+  },
+  "215994": {
+    "aliases": {
+      "Leap": "Commanding Leap"
+    },
+    "champion": "octavia",
+    "source": "Reduce your weapon recoil by {scale=20|20}% while using Commanding Leap.\n",
+    "translations": {}
+  },
+  "216031": {
+    "aliases": {
+      "Leap": "Commanding Leap"
+    },
+    "champion": "octavia",
+    "source": "Reduce damage taken after activating Commanding Leap.",
+    "translations": {}
+  },
+  "216032": {
+    "aliases": {
+      "Leap": "Commanding Leap"
+    },
+    "champion": "octavia",
+    "source": "Reduce damage taken by {scale=5|5}% for 2.5s after activating Commanding Leap.",
+    "translations": {}
+  },
+  "216128": {
+    "aliases": {
+      "Leap": "Commanding Leap"
+    },
+    "champion": "octavia",
+    "source": "Landing Commander's Leap will create a healing pool for yourself and allies.",
+    "translations": {}
+  },
+  "216130": {
+    "aliases": {
+      "Leap": "Commanding Leap"
+    },
+    "champion": "octavia",
+    "source": "Upon landing with the Commanding Leap ability create a small pool underneath you that will heal both you and allies for 600 health over 1.5s. Octavia's ammo is not consumed while standing inside of this field. \n",
+    "translations": {}
+  },
+  "216280": {
+    "aliases": {
+      "Leap": "Commanding Leap"
+    },
+    "champion": "octavia",
+    "source": "Reduce the Cooldown of Commanding Leap by {scale=0.3|0.3}s every 1s while standing inside of your Distortion Field.",
+    "translations": {}
+  },
+  "216378": {
+    "aliases": {
+      "Leap": "Commanding Leap"
+    },
+    "champion": "octavia",
+    "source": "Reduce cooldown of Leap while standing in Distortion Field",
+    "translations": {}
+  },
+  "217592": {
+    "aliases": {},
+    "champion": "barik",
+    "source": "Turret Talent for LTM Dwarf Fortress",
+    "translations": {
+      "Dwarf Fortress": "드워프 요새"
+    }
+  },
+  "220511": {
+    "aliases": {
+      "Decoy": "Dead Ringer"
+    },
+    "champion": "saati",
+    "source": "Increase the length of Saati's invisbility after deployment of Decoy",
+    "translations": {}
+  },
+  "220513": {
+    "aliases": {
+      "Decoy": "Dead Ringer"
+    },
+    "champion": "saati",
+    "source": "Increase your Decoy's Health",
+    "translations": {}
+  },
+  "220515": {
+    "aliases": {},
+    "champion": "saati",
+    "source": "Increase the radius that Coin Shot explodes.",
+    "translations": {
+      "Coin Shot": "동전 사격"
+    }
+  },
+  "222359": {
+    "aliases": {},
+    "champion": "vatu",
+    "source": "Projectile Speed increase for TF2 in Claws Out",
+    "translations": {
+      "Claws Out": "발톱을 드러내라"
+    }
+  },
+  "223145": {
+    "aliases": {},
+    "champion": "vii",
+    "source": "Reduce the cooldown of Latch after using Dodge Roll",
+    "translations": {
+      "Latch": "갈고리 걸기"
+    }
+  },
+  "223148": {
+    "aliases": {},
+    "champion": "vii",
+    "source": "Reduce the cooldown of Dodge Roll after using Latch",
+    "translations": {
+      "Latch": "갈고리 걸기"
+    }
+  },
+  "235850": {
+    "aliases": {},
+    "champion": "octavia",
+    "source": "Lian's Glass Cannon Device",
+    "translations": {
+      "Glass Cannon": "유리 대포"
+    }
+  },
+  "239629": {
+    "aliases": {},
+    "champion": "kasumi",
+    "source": "Extend the duration of your Body and Soul by 1s. Heal for 70% of the damage your body took while traveling after the ability ends, unaffected by Cauterize.",
+    "translations": {
+      "Cauterize": "소작"
+    }
+  },
+  "242915": {
+    "aliases": {},
+    "champion": "nyx",
+    "source": "Ejects spent Soul Crystals dealing 100 reverse damage each in a massive implosion. If this ability is instead activated by an enemy player it will reset the allowed directions Nyx can travel.",
+    "translations": {
+      "Soul Crystals": "영혼 수정"
+    }
+  },
+  "248822": {
+    "aliases": {},
+    "champion": "omen",
+    "source": "[Aphotic Reaver] Aphotic Reaver is permanently set to Antumbra mode.",
+    "translations": {
+      "Antumbra": "반그림자"
+    }
+  },
+  "248913": {
+    "aliases": {},
+    "champion": "omen",
+    "source": "[Gravity Vice] Heal after using Darkness Grip.",
+    "translations": {
+      "Darkness Grip": "어둠의 손아귀"
+    }
+  },
+  "249153": {
+    "aliases": {},
+    "champion": "omen",
+    "source": "Blackout",
+    "translations": {
+      "Blackout": "암전"
+    }
+  },
+  "249165": {
+    "aliases": {},
+    "champion": "omen",
+    "source": "A hybrid shotgun with two firing modes. Has a Range of 300 units and is effective up to 100 units. Applies Ominous Brand. <br><br> Tap: Penumbra Mode: Deals 450 damage every 0.3s in a wide spread. <br><br> Hold: Antumbra Mode: Deals 500 damage every 0.48s in a narrow spread. Fire rate and spread scale down over the first 3 shots, which resets after 1s of not firing. <br><br> <b>Passive - Ominous Brand</b> <br> Branded enemies receive additional effects from Deadly Domain and Gravity Vice for 3s.",
+    "translations": {
+      "Antumbra": "반그림자"
+    }
+  },
+  "249166": {
+    "aliases": {},
+    "champion": "omen",
+    "source": "Channel and alter gravity, <font color=\"#1EBEF7\">Lifting</font> an enemy into the air for 1s before violently <font color=\"#1EBEF7\">Pushing</font> them away from your current position for 400 damage. After <font color=\"#1EBEF7\">Pushing</font> an enemy, Aphotic Reaver is set to Antumbra mode for 2s. <br><br>Enemies <font color=\"#1EBEF7\">Pushed</font> with Ominous Brand are <font color=\"#FF8271\">Weakened</font> by 15% to Aphotic Reaver and <font color=\"#FAAB67\">Burn</font> for 10 damage every 0.3s for 3s.",
+    "translations": {
+      "Antumbra": "반그림자"
+    }
+  },
+  "804541": {
+    "aliases": {},
+    "champion": "imani",
+    "source": "All Fire Stance abilities apply a 1s burn, dealing 10 damage every .1s.",
+    "translations": {
+      "Fire Stance": "화염 태세"
+    }
+  },
+  "805557": {
+    "aliases": {
+      "Leap": "Commanding Leap"
+    },
+    "champion": "octavia",
+    "source": "Increase the duration of Commanding Leap's rally point by {scale=.25|.25}s.",
+    "translations": {}
+  }
+},
+  "schema_version": 1,
+  "approved_name_overrides": {"VIP":"VIP", "The VIP":"VIP", "VIP of VIPs":"VIP 중의 VIP", "Merrymaker Bundle":"흥을 돋우는 자 번들", "The Burrows":"굴동네"},
+  "names_file":"champion-names-source-ko.json",
+  "approved_name_decisions": [
+    {"file":"../reviews/kor-burrows-v168-20261005-decision.json","sha256":"f8f6d6f7eaee679e27f3e45172abe5cfe8fb98ebf15e08dda1add4939b23e8f1"},
+  {
+    "file": "../reviews/kor-cosmetic-names-v114-20261005-decision.json",
+    "sha256": "b76b8222566a293ace2b4fb9b605e0235c39ee6f25c14aa51f4e5c03a33e54a4"
+  },
+  {
+    "file": "../reviews/kor-typed-core-names-v115-20261005-decision.json",
+    "sha256": "e7dfd2b4225ec9da6680bab67e5a97e2fcf05ac7b3221fbfda70a1fdd00c4e20"
+  },
+  {
+    "file": "../reviews/kor-all-wording-v164-20261005-r4-decision.json",
+    "sha256": "81194f29d8c718f7bbb892e8abde4c2a6066fae4ec0d90e9283bc27c3c8b53f8"
+  }
+],
+  "pending_sources":[],
+  "name_aliases":{"Hexafire":"Hexa Fire","Short Cut":"Shortcut","Barricades":"Barricade","Poison Bolt":"Poison Bolts","Calamity Blast":"Calamity Blasts","BombKing":"Bomb King","Maldamba":"Mal'Damba","Kinesssa":"Kinessa","Tremor":"Tremors"},
+  "source_alias_evidence":{"Hexafire":"Ruckus 165964; canonical NAME 165077","Short Cut":"Dredge 201809; canonical NAME 201479","Barricades":"Barik 165873/168424/168435/168446","Poison Bolt":"Skye 162037/168469; header Poison Bolts","Calamity Blast":"Terminus 198255, device offset 2618428","BombKing":"Bomb King typed DESC 174733/174717/184070/188926/188976/175421/184054/204178; case-insensitive source variants","Maldamba":"Mal'Damba typed DESC 175441","Kinesssa":"Kinessa typed DESC 224401","Tremor":"Inara Impasse mode DESC 220936, singular spelling of approved Tremors"},
+  "terms": {
+    "__your":"자신의 {body}", "__the":"{body}", "__a":"{body}", "__an":"{body}",
+    "__possessive":"{owner}의 {body}", "__seconds":"{number}초",
+    "Talent Card":"특성 카드", "Altfire":"보조 공격", "Ability1":"기술1", "Ability2":"기술2", "Ability3":"기술3", "F":"F",
+    "maximum Ammo capacity":"최대 탄약 용량", "Attack Speed":"공격 속도", "Turrets":"포탑",
+    "Armor":"방어구", "Weapon":"무기", "Health":"체력", "maximum Health":"최대 체력", "base maximum Health":"기본 최대 체력",
+    "Max Health":"최대 체력", "health gain":"체력 증가량", "Movement Speed":"이동 속도", "MS":"이동 속도", "Reload Speed":"재장전 속도",
+    "Speed":"속도", "range":"사거리", "duration":"지속시간", "distance":"이동 거리", "Cooldown":"재사용 대기시간", "Cooldowns":"재사용 대기시간",
+    "active Cooldowns":"사용 중인 스킬의 재사용 대기시간", "all active Cooldowns":"사용 중인 모든 스킬의 재사용 대기시간", "all Cooldowns":"모든 스킬의 재사용 대기시간",
+    "Ammo":"탄약", "Ammo count":"탄약 수", "ammunition":"탄약", "Fuel":"연료", "Fuel capacity":"연료 용량", "jump height":"점프 높이", "speed boost":"속도 증가 효과",
+    "Shield":"보호막", "Ultimate Charge":"궁극기 충전량", "Ultimate":"궁극기", "lifesteal":"생명력 흡수", "Healing":"치유량", "damage reduction":"받는 피해 감소",
+    "knockback":"밀쳐내기", "draw penalty":"활시위를 당기는 동안 받는 불이익", "Elimination":"처치 관여", "Eliminations":"처치 관여", "Kill":"처치", "Kills":"처치",
+    "Killing Blow":"처치", "Killing Blow or Elimination":"처치 또는 처치 관여", "Kills and Eliminations":"처치 또는 처치 관여", "KB or Elimination":"처치 또는 처치 관여",
+    "additional Movement Speed":"추가 이동 속도", "bonus Jump Speed":"추가 도약 속도", "Projectile Speed":"투사체 속도", "lifetime":"지속시간", "cast time":"시전 시간",
+    "dash distance":"돌진 거리", "jump strength":"도약력", "knockback distance":"밀쳐내는 거리", "knockback strength":"밀쳐내는 힘", "lift height":"띄우는 높이",
+    "leap distance":"도약 거리", "flight speed":"비행 속도", "Radius":"반경", "Area":"범위", "beam range":"광선 사거리", "vision range":"탐지 범위",
+    "recoil":"반동", "self damage":"자신이 받는 피해", "damage taken":"받는 피해", "damage":"피해량", "slow":"둔화", "self slow":"자신에게 적용되는 둔화",
+    "mana contribution":"마나 회복량", "Air Control":"공중 제어력", "ammo capacity":"탄약 용량", "ultimate charge rate":"궁극기 충전 속도",
+    "Illusions":"환영", "Oppressor Mines":"억압 지뢰", "Stamina":"기력", "Power Siphon charge":"힘 흡수 충전량", "Booster Fuel":"부스터 연료", "Health increase":"체력 증가",
+    "Scope":"조준경", "fully charged shot":"완전히 충전한 사격", "fully charged weapon shots":"완전히 충전한 무기 사격", "weapon":"무기",
+    "Grumpy Bombs":"심술 폭탄", "Calamity Blasts":"재앙의 폭발", "Spirit Trap":"영혼 덫", "blood cost":"혈액 소모량", "strength":"위력", "distance traveled":"이동 거리",
+    "stun duration":"기절 지속시간", "Mana":"마나", "reload speed":"재장전 속도", "moonlight":"달빛", "ult charge":"궁극기 충전량", "maximum Ammo":"최대 탄약",
+    "healing received":"받는 치유량", "Stealth":"은신", "marked targets":"표식이 부여된 대상", "marked enemy":"표식이 부여된 적", "Healing an ally":"아군 치유",
+    "Vertical Movement":"수직 이동 거리", "Knockup strength":"공중으로 띄우는 힘", "Knockback amount":"밀쳐내는 힘", "Bounce range":"튕기는 사거리", "Cook time":"폭발 지연 시간",
+    "Speed bonus":"속도 증가량", "strength of Slow":"둔화 효과", "reveal range":"드러내는 범위", "Deploy range":"배치 사거리", "Healing %":"치유 비율"
+  },
+  "record_exact": {
+    "205268":{"source":"Activate Stasis Field to longer consume ammo","support_message_id":"205270","support_source":"[Stasis Field] Your weapon doesn't consume Ammo for {scale=1.6|1.6}s after activating Stasis Field.","target":"{name:Stasis Field} 사용 후 일정 시간 무기가 탄약을 소모하지 않습니다."},
+    "172400":{"source":"Dropping below 30% of your max health grants you a shield for.","support_message_id":"165951","support_source":"[Armor] Gain a {scale=150|150}-Health Shield for 4s after dropping to or below 30% Health.","target":"최대 체력의 30% 미만으로 떨어지면 일정 시간 보호막을 얻습니다."},
+    "218728":{"source":"abc","support_message_id":"218730","support_source":"[Weapon] Increase your maximum Ammo by {scale=2|2}.","target":"최대 탄약 증가."},
+    "218731":{"source":"abc","support_message_id":"218733","support_source":"[Armor] Increase your Movement Speed by {scale=10|10}% for 5s after earning an Elimination.","target":"처치 관여 후 이동 속도 증가."},
+    "218737":{"source":"abc","support_message_id":"218739","support_source":"[Weapon] Increase your Healing received by {scale=5|5}% while at or below 50% Health.","target":"체력이 낮을 때 받는 치유량 증가."},
+    "218755":{"source":"abc","support_message_id":"218757","support_source":"[Envelop] Reduce the Cooldown of Envelop by {scale=0.8|0.8}s.","target":"{name:Envelop} 재사용 대기시간 감소."},
+    "218761":{"source":"abc","support_message_id":"218763","support_source":"[Envelop] Decrease the maximum damage taken per instance during Envelop to {scale=255|-20}.","target":"{name:Envelop} 중 한 번에 받는 최대 피해 감소."},
+    "218764":{"source":"abc","support_message_id":"218766","support_source":"[Envelop] Using Envelop reduces your linked friendly target's Cooldowns by {scale=7|7}%.","target":"{name:Envelop} 사용 시 연결된 아군의 재사용 대기시간 감소."},
+    "218767":{"source":"abc","support_message_id":"218769","support_source":"[Envelop] Heal for {scale=80|80} when you use Envelop.","target":"{name:Envelop} 사용 시 체력 회복."},
+    "218770":{"source":"abc","support_message_id":"218772","support_source":"[Chain Heal] Grant {scale=0.17|0.17}% Ultimate Charge to each player to which Chain Heal bounces.","target":"{name:Chain Heal}이 적중한 아군의 궁극기 충전량 증가."},
+    "218776":{"source":"abc","support_message_id":"218778","support_source":"[Chain Heal] After taking {scale=2000|-125} damage, your next use of Chain Heal does not cause it to go on Cooldown.","target":"일정 피해를 받으면 다음 {name:Chain Heal} 사용 시 재사용 대기시간이 발생하지 않습니다."},
+    "218779":{"source":"abc","support_message_id":"218781","support_source":"[Chain Heal] Grant 50% Reload Speed for {scale=0.5|0.5}s  to each player to which Chain Heal bounces.","target":"{name:Chain Heal}이 적중한 아군의 재장전 속도 증가."}
+  },
+  "patterns": [
+    ["Hitting an enemy with {skill} Dazes them for {time}","{skill} 적중 시 적을 {time} 동안 혼미 상태로 만듭니다."],
+    ["Cleanses and reduces damage by {amount} inside the totem's radius","토템 범위 안에서 해로운 효과를 제거하고 받는 피해를 {amount} 줄입니다."],
+    ["You can fire during Hover, and you deal {amount} more damage while Hovering","{name:Hover} 중 사격할 수 있으며 {name:Hover} 중 주는 피해가 {amount} 증가합니다."],
+    ["Using Lockdown reduces the Cooldown of your Turret and Barricade by {amount} if they are not deployed","{name:Lockdown} 사용 시 배치되지 않은 {name:Turret}과 {name:Barricade}의 재사용 대기시간이 {amount} 감소합니다."],
+    ["Gain movement speed for {time} after Planted ends","{name:Planted} 종료 후 {time} 동안 이동 속도가 증가합니다."],
+    ["Regenerate Health every second during Planted","{name:Planted} 중 매초 체력을 회복합니다."],
+    ["Hitting an enemy with Poppy Bomb Dazes them for {time}","{name:Poppy Bomb}을 적에게 적중시키면 {time} 동안 {name:Daze} 상태로 만듭니다."],
+    ["Toxic Time Bomb grants {amount} Movement Speed for {time}","{name:Toxic Time Bomb}이 {time} 동안 이동 속도를 {amount} 증가시킵니다."],
+    ["Your turret is now a Mega Turret with increased Health, firing heat-seeking missiles at enemies that explode dealing {amount} damage","{name:Turret}이 체력이 증가한 {name:Mega Turret}으로 바뀌어 적에게 폭발 시 {amount}의 피해를 주는 열추적 미사일을 발사합니다."],
+    ["Available from the {skill}","{skill}에서 획득할 수 있습니다."],
+    ["Available from {skill}","{skill}에서 획득할 수 있습니다."],
+    ["Available in the {skill}","{skill}에서 획득할 수 있습니다."],
+    ["Obtainable from the {skill}","{skill}에서 획득할 수 있습니다."],
+    ["Obtainable from {skill}","{skill}에서 획득할 수 있습니다."],
+    ["Obtainable in the {skill}","{skill}에서 획득할 수 있습니다."],
+    ["Obtainable in {skill}","{skill}에서 획득할 수 있습니다."],
+    ["{skill} fires {amount} faster","{skill} 발사 속도 {amount} 증가."],
+    ["Increase the forward distance of {skill} by {amount}","{skill}의 전방 이동 거리 {amount} 증가."],
+    ["Your attacks made in {skill} deal {amount} more damage for every {health} health more your opponent has than you","{skill} 공격 시 대상의 체력이 자신보다 {health} 높을 때마다 피해가 {amount} 증가합니다."],
+    ["You can now deploy {amount} turrets","포탑을 {amount}개 배치할 수 있습니다."],
+    ["You can now deploy {amount} turrets. !Use Rank {rank}!","포탑을 {amount}개 배치할 수 있습니다. !등급 {rank} 사용!"],
+    ["[{amount} Per Rank] +{health} Shield Health","[등급당 {amount}] 보호막 체력 +{health}."],
+    ["[{amount} Per Rank] Increase your Movement Speed by {speed}","[등급당 {amount}] 이동 속도 {speed} 증가."],
+    ["[{amount} Per Rank] While near an objective, you reveal all enemies within {distance} ft radius","[등급당 {amount}] 거점 주변에서 반경 {distance}피트 이내 모든 적의 위치를 드러냅니다."],
+    ["[{amount} Per Rank] While near an objective, you cannot be damaged for more than {health} of your maximum Health in one hit","[등급당 {amount}] 거점 주변에서 한 번에 받는 피해가 최대 체력의 {health}를 넘지 않습니다."],
+    ["[{amount} Per Rank] Taking fatal damage while {skill} is active instead heals you for {health} of your max Health","[등급당 {amount}] {skill} 활성화 중 치명적인 피해를 받으면 대신 최대 체력의 {health}를 회복합니다."],
+    ["Deal {amount} increased damage to Shields","보호막에 주는 피해 {amount} 증가."],
+    ["Deal {amount} more weapon damage to enemies below {health} Health","체력이 {health} 미만인 적에게 주는 무기 피해 {amount} 증가."],
+    ["Deal {amount} more damage to enemies within {distance}ft of you","자신의 {distance}피트 이내 적에게 주는 피해 {amount} 증가."],
+    ["Deal more damage to enemies within {distance}ft of you","자신의 {distance}피트 이내 적에게 주는 피해 증가."],
+    ["Deal up to {amount} more damage based on your missing Health","잃은 체력에 따라 피해 최대 {amount} 증가."],
+    ["Draw your bow {amount} faster","활시위를 당기는 속도 {amount} 증가."],
+    ["Fire a burst of smaller shells that deal a total of {amount} damage","총 {amount}의 피해를 주는 작은 포탄을 연속 발사합니다."],
+    ["{skill} now fires small fireballs that deal {amount} damage every {time}","{skill}이 {time}마다 {amount}의 피해를 주는 작은 화염구를 발사합니다."],
+    ["Gain {amount} Lifesteal","생명력 흡수 {amount} 획득."],
+    ["Gain {amount} bonus damage while Hip Firing","비조준 사격 시 피해 {amount} 증가."],
+    ["Generate {amount} point of Stamina for every {damage} damage done with your {skill}","자신의 {skill}로 피해를 {damage} 줄 때마다 기력 {amount} 회복."],
+    ["Headshots will deal an additional {amount} of your target's maximum health as damage","헤드샷이 대상의 최대 체력의 {amount}만큼 추가 피해를 줍니다."],
+    ["Hits with your {skill} reduce the Cooldown of all other skills by {time}","{skill} 적중 시 다른 모든 기술의 재사용 대기시간 {time} 감소."],
+    ["Hitting all {amount} shots on the same target deals an extra {damage} damage","사격 {amount}회를 모두 같은 대상에게 적중시키면 {damage}의 추가 피해를 줍니다."],
+    ["Hitting both daggers reduces the cooldown of {skill} by {time}","두 단검이 모두 적중하면 {skill}의 재사용 대기시간 {time} 감소."],
+    ["Increase the number of projectiles your weapon fires by {amount}","무기가 발사하는 투사체 수 {amount} 증가."],
+    ["Increase the width of your weapon shots by {amount}","무기 투사체의 폭 {amount} 증가."],
+    ["Successful Hits with your {skill} have a {amount} chance to cost no ammo","{skill} 적중 시 {amount} 확률로 탄약을 소모하지 않습니다."],
+    ["Targets hit by {skill} take {amount} increased damage for {time}","{skill}에 적중한 대상이 {time} 동안 받는 피해 {amount} 증가."],
+    ["Your {skill}'s ammo capacity is increased by {amount}","{skill} 탄약 용량 {amount} 증가."],
+    ["Your Weapon Shots deal {amount} more damage to targets over {health} Health","체력이 {health}를 넘는 대상에게 주는 무기 사격 피해 {amount} 증가."],
+    ["Your attack speed is increased by {amount} and after hitting a target your next shot does {damage} more damage to them","공격 속도가 {amount} 증가하며 적중 후 다음 사격이 해당 대상에게 주는 피해가 {damage} 증가합니다."],
+    ["Your weapon deals {amount} less Self-Damage and no longer applies a Knockback to yourself","무기가 자신에게 주는 피해가 {amount} 감소하고 자신을 밀쳐내지 않습니다."],
+    ["Your weapon no longer knocks you back and deals {amount} less self damage","무기가 자신을 밀쳐내지 않고 자신에게 주는 피해가 {amount} 감소합니다."],
+    ["Your weapon shots reduce the effect of healing on your target by {amount} for {time}","무기 사격에 적중한 대상이 {time} 동안 받는 치유량 {amount} 감소."],
+    ["Your weapon shots travel {amount} farther","무기 투사체 이동 거리 {amount} 증가."],
+    ["{skill} lasts {time} longer","{skill} 지속시간 {time} 증가."],
+    ["{skill} does up to {amount} increased damage based on your opponent’s missing health","대상이 잃은 체력에 따라 {skill} 피해 최대 {amount} 증가."],
+    ["Increase the travel distance of {skill} by {amount}","{skill} 이동 거리 {amount} 증가."],
+    ["Increase the Flight Speed of {skill} by {amount}","{skill} 비행 속도 {amount} 증가."],
+    ["Increase {skill} Attack Speed by {amount}","{skill} 공격 속도 {amount} 증가."],
+    ["Increase the damage of your {skill} by {amount} and reduce their Cooldown by {time}","자신의 {skill} 피해가 {amount} 증가하고 재사용 대기시간이 {time} 감소합니다."],
+    ["Heal {amount} Health per second during {skill}","{skill} 사용 중 매초 체력 {amount} 회복."],
+    ["Heal for {amount} Health over {skill}'s duration","{skill} 지속시간 동안 체력 {amount} 회복."],
+    ["Reduce the Cooldown of {skill} by {time} if you miss","{skill}이 빗나가면 재사용 대기시간 {time} 감소."],
+    ["Reduce the Cooldown on {skill} when you miss","{skill}이 빗나가면 재사용 대기시간 감소."],
+    ["Gain {amount} Lifesteal against targets you hit with {skill}","{skill}로 맞힌 대상에 대한 생명력 흡수 {amount} 획득."],
+    ["Gain lifesteal against targets you hit with {skill}","{skill}로 맞힌 대상에 대한 생명력 흡수 획득."],
+    ["Gain {amount} Lifesteal after using {skill}","{skill} 사용 후 생명력 흡수 {amount} 획득."],
+    ["Gain {amount} Damage Reduction for {time} after using {skill}","{skill} 사용 후 {time} 동안 받는 피해 {amount} 감소."],
+    ["{skill} now Silences enemies hit for {time}","{skill}에 적중한 적을 {time} 동안 침묵시킵니다."],
+    ["The duration of {skill} is increased by {time}","{skill} 지속시간 {time} 증가."],
+    ["{skill} now deals {amount} extra damage and cripples for {time}","{skill}이 {amount}의 추가 피해를 주고 {time} 동안 이동 기술을 봉쇄합니다."],
+    ["When using {skill} on full health players, your Healing becomes Shielding up to {amount}","체력이 가득 찬 대상에게 {skill}을 사용하면 치유 대신 최대 {amount}의 보호막을 부여합니다."],
+    ["{skill} disarms enemies for {time}","{skill}이 적을 {time} 동안 무장 해제합니다."],
+    ["Heal per second during {skill}","{skill} 사용 중 매초 체력 회복."],
+    ["While {skill} is active, gain {amount} Lifesteal","{skill} 활성화 중 생명력 흡수 {amount} 획득."],
+    ["You can use {skill} during {other}, and {other} lasts {time} longer","{other} 중 {skill}을 사용할 수 있으며 {other} 지속시간이 {time} 증가합니다."],
+    ["Allies gain a {amount} point Shield when you activate {skill}","{skill} 사용 시 아군에게 체력 {amount}의 보호막을 부여합니다."],
+    ["You are immune to damage while your Shield is deployed","보호막을 펼친 동안 피해에 면역이 됩니다."],
+    ["Allies may Pass through your {skill}","아군이 자신의 {skill}을 통과할 수 있습니다."],
+    ["Enemies inside {skill} are silenced","{skill} 안의 적을 침묵시킵니다."],
+    ["Enter Stealth for {time} after using {skill}","{skill} 사용 후 {time} 동안 은신합니다."],
+    ["Enter Stealth for {time} after using {skill} !Use Rank {rank}!","{skill} 사용 후 {time} 동안 은신합니다. !등급 {rank} 사용!"],
+    ["Weapon Shots made in Stealth deal {amount} more damage","은신 중 무기 사격 피해 {amount} 증가."],
+    ["You can now deploy {amount} turrets and the cooldown of turret is reduced by {time}","포탑을 {amount}개 배치할 수 있으며 포탑 재사용 대기시간이 {time} 감소합니다."],
+    ["{amount} more weapon damage","무기 피해 {amount} 증가."],
+    ["Taking fatal damage while {skill} is active instead heals you for {amount} of your max Health","{skill} 활성화 중 치명적인 피해를 받으면 대신 최대 체력의 {amount}를 회복합니다."],
+    ["If an enemy is within {distance} units of {skill} it explodes, dealing {amount} damage","적이 {skill}의 {distance} 유닛 이내에 오면 폭발해 {amount}의 피해를 줍니다."],
+    ["Successful {skill} hits heal you for {amount} health","{skill} 적중 시 체력 {amount} 회복."],
+    ["{skill} destroys all shields when it explodes and its blast radius is increased by {amount}","{skill}이 폭발할 때 모든 보호막을 파괴하며 폭발 범위가 {amount} 증가합니다."],
+    ["Reduce your weapon recoil by {amount} while using {skill}","{skill} 사용 중 무기 반동 {amount} 감소."],
+    ["While within {skill}, you are immune to Anti-Healing","{skill} 사용 중 치유 감소 효과에 면역이 됩니다."],
+    ["{skill} heals you for {amount} health","{skill}로 체력을 {amount} 회복합니다."],
+    ["{skill} now deals {amount} damage","{skill}이 주는 피해가 {amount}이 됩니다."],
+    ["{skill} deals {amount} bonus damage to shields","{skill}이 보호막에 {amount}의 추가 피해를 줍니다."],
+    ["Bleed enemies for {amount} damage over {time}","적에게 출혈을 적용해 {time} 동안 {amount}의 피해를 줍니다."],
+    ["{skill} now heals you for {amount} every time you teleport","{skill}로 순간이동할 때마다 체력을 {amount} 회복합니다."],
+    ["{skill} increases cast speed by {amount}","{skill}이 시전 속도를 {amount} 증가시킵니다."],
+    ["For {time} After using {skill} your cast speed is increased by {amount}","{skill} 사용 후 {time} 동안 시전 속도가 {amount} 증가합니다."],
+    ["Every tick of healing or damage from {skill} reduces the cooldown of {skill} by {time}","{skill}의 치유 또는 피해가 적용될 때마다 재사용 대기시간이 {time} 감소합니다."],
+    ["{skill} has a {amount} chance to not go on Cooldown","{skill}에 {amount} 확률로 재사용 대기시간이 적용되지 않습니다."],
+    ["{skill} now has {amount} charges, but its Cooldown is increased by {time}","{skill}을 {amount}회 사용할 수 있지만 재사용 대기시간이 {time} 증가합니다."],
+    ["Gain {amount} Lifesteal against enemies Slowed by your {skill}","자신의 {skill}로 둔화시킨 적에 대한 생명력 흡수가 {amount} 증가합니다."],
+    ["Your first shot after {skill} deals {amount} more damage in a {radius} larger radius","{skill} 사용 후 첫 사격의 피해가 {amount}, 범위가 {radius} 증가합니다."],
+    ["Deal {amount} bonus damage on your first successful Weapon Shot out of {skill}","{skill} 종료 후 처음 적중한 무기 사격이 {amount}의 추가 피해를 줍니다."],
+    ["Increase the passive healing of {skill} by {amount} and its radius by {radius}","{skill}의 지속 치유량이 {amount}, 범위가 {radius} 증가합니다."],
+    ["{skill} now charges {amount} faster and causes them to take {damage} more damage","{skill}의 충전 속도가 {amount} 증가하고 대상이 받는 피해가 {damage} 증가합니다."],
+    ["Deal up to {amount} more damage with {skill} based on your opponent’s missing health","대상이 잃은 체력에 따라 {skill}의 피해가 최대 {amount} 증가합니다."],
+    ["All enemies within {distance}ft of you are revealed to you","자신의 {distance}피트 이내에 있는 모든 적의 위치가 표시됩니다."],
+    ["The amount of {skill} you have also acts as a shield that can absorb up to {amount} damage","남은 {skill}의 양이 최대 {amount}의 피해를 흡수하는 보호막 역할도 합니다."],
+    ["Your knockbacks knock enemies back up to {amount} further based on their missing Health","적이 잃은 체력에 따라 밀쳐내는 거리가 최대 {amount} 증가합니다."],
+    ["Increase your vertical movement bonus while using {skill} by {amount}","{skill} 사용 중 수직 이동 보너스가 {amount} 증가합니다."],
+    ["Firing while drifting lifts you up {amount} ft in the air","활공 중 사격 시 공중으로 {amount}피트 상승."],
+    ["The cooldown of {skill} is reduced by {time}","{skill}의 재사용 대기시간 {time} 감소."],
+    ["{skill} deals {amount} more damage to deployables","{skill}이 설치물에 주는 피해 {amount} 증가."],
+    ["Gain {amount} bonus damage on your first shot after hitting an enemy with {skill}","{skill}로 적 적중 후 첫 사격의 피해 {amount} 증가."],
+    ["Gain {amount} bonus damage after hitting a target with {skill}","{skill} 적중 시 피해 {amount} 증가."],
+    ["Gain {amount} Shield Health","보호막 체력 {amount} 증가."],
+    ["Gain {amount} Health","체력 {amount} 증가."],
+    ["Gain a {amount} Shield during {skill} and for {time} after","{skill} 사용 중 및 사용 후 {time} 동안 체력 {amount}의 보호막 획득."],
+    ["{skill} may be used a second time within {time} to return to the initial casting location","{time} 이내에 {skill}을 다시 사용하면 최초 시전 위치로 돌아갑니다."],
+    ["Allies in your {skill} are healed for {amount} health per second","자신의 {skill} 안에 있는 아군의 체력을 매초 {amount} 회복."],
+    ["Deal {amount} more damage to successive targets with {skill}","{skill}이 연이어 적중하는 대상에게 주는 피해 {amount} 증가."],
+    ["Reduce the cooldown of Barricades by {time}","{name:Barricade}의 재사용 대기시간 {time} 감소."],
+    ["{skill} heals you for {amount} if it hits an enemy","{skill} 적중 시 체력 {amount} 회복."],
+    ["Increase the Health of {skill} by {amount}","{skill}의 체력 {amount} 증가."],
+    ["{skill} heals you for {amount} Health every second","{skill} 사용 중 매초 체력 {amount} 회복."],
+    ["Gain {amount} Weapon Damage","무기 피해 {amount} 증가."],
+    ["Decrease your weapon's accuracy by {accuracy}, but increase your damage dealt by {amount}","무기 정확도 {accuracy} 감소 및 주는 피해 {amount} 증가."],
+    ["Hitting a target with {skill} grants {amount} Lifesteal against that target for {time}","{skill} 적중 시 {time} 동안 해당 대상에 대한 생명력 흡수 {amount} 획득."],
+    ["{skill} now does base {amount} damage, has a {radius} larger capture","{skill}의 기본 피해가 {amount}이 되고 흡수 범위가 {radius} 증가합니다."],
+    ["You gain an additional {amount} Movement Speed during {skill}","{skill} 사용 중 이동 속도 추가로 {amount} 증가."],
+    ["Your first weapon shot after {skill} reduces healing by {amount} for {time}","{skill} 사용 후 첫 무기 사격 적중 시 {time} 동안 치유량 {amount} 감소."],
+    ["When standing on an Objective you pull healthdrops within {radius} units unless you are above {health} health","거점에 서 있는 동안 체력이 {health}를 초과하지 않으면 {radius}유닛 내 체력 회복 아이템을 끌어당깁니다."],
+    ["Deal {amount} more damage when you are in the air","공중에 있는 동안 주는 피해 {amount} 증가."],
+    ["Consecutive attacks stack increasing weapon damage by {amount}, max {stacks} stacks","연속 공격 시 무기 피해 {amount} 증가 효과 중첩. 최대 {stacks}회 중첩."],
+    ["Attacks Made from behind your enemy apply a Poison that deals {amount} of your targets maximum life as damage over {time}","적을 뒤에서 공격하면 독을 적용해 {time}에 걸쳐 대상의 최대 체력의 {amount}만큼 피해를 줍니다."],
+    ["Gain {amount} Attack Speed for each {health} missing of your Health","잃은 체력 {health}마다 공격 속도 {amount} 증가."],
+    ["Gain +{amount} Accuracy","정확도 +{amount} 증가."],
+    ["Your {skill}'s shots Slow enemy movement Speed by {amount} for {time}","{skill} 사격 적중 시 {time} 동안 적의 이동 속도 {amount} 감소."],
+    ["+{amount} damage to targets that are Slowed or Frozen","둔화 또는 빙결 상태인 대상에게 주는 피해 +{amount} 증가."],
+    ["Your shots slow targets by {amount} for {time}, stacking {stacks} times","사격 적중 시 대상에게 {time} 동안 {amount} 둔화 적용. {stacks}회 중첩."],
+    ["+{amount} Shield Health","보호막 체력 +{amount} 증가."],
+    ["When above {health} Health, your Attack Speed is increased by {amount}","체력이 {health}를 초과하면 공격 속도 {amount} 증가."],
+    ["Gain {amount} Damage on {skill}","{skill} 피해 {amount} 증가."],
+    ["When your {skill} is destroyed it leaves two HP Drops that heal for {amount}","{skill} 파괴 시 체력을 {amount} 회복하는 체력 회복 아이템 두 개 생성."],
+    ["Poison Bolt shots apply a {amount} stacking slow for {time}. Max {stacks} stacks","{name:Poison Bolts} 적중 시 {time} 동안 {amount} 둔화 중첩 적용. 최대 {stacks}회 중첩."],
+    ["{skill} grants {amount} Movement Speed for {time}","{skill} 사용 시 {time} 동안 이동 속도 {amount} 증가."],
+    ["{skill} Cripples enemies for {time}","{skill} 적중 시 적에게 {time} 동안 속박 적용."],
+    ["You cannot be hit for more than {amount} of your max HP for {time} after using {skill}","{skill} 사용 후 {time} 동안 한 번에 받는 피해가 최대 체력의 {amount}를 초과하지 않습니다."],
+    ["Increase Damage Reduction during {skill} by {amount}","{skill} 사용 중 받는 피해 {amount} 감소."],
+    ["If damage removes you from Stealth, gain {amount} increased Movement Speed for {time}","피해를 받아 은신이 해제되면 {time} 동안 이동 속도 {amount} 증가."],
+    ["You can take {amount} additional damage before being revealed out of stealth","은신이 해제되기 전까지 {amount}의 추가 피해를 받을 수 있습니다."],
+    ["You have a {amount} chance to strike your target twice","{amount} 확률로 대상을 두 번 공격합니다."],
+    ["Increase the time you have between dashes by {time}","연속 돌진 사이에 주어지는 시간 {time} 증가."],
+    ["Your rockets that directly hit your enemies deal {amount} increased damage","로켓이 적에게 직접 적중하면 피해 {amount} 증가."],
+    ["Firing while drifting lifts you up {amount} units in the air","활공 중 사격 시 공중으로 {amount}유닛 상승."],
+    ["Your weapon attacks deal {amount} additional damage for each target hit in a single swing","무기를 한 번 휘둘러 적중한 대상마다 무기 공격 피해 {amount} 증가."],
+    ["Enemies that your shield touches are slowed by {amount} for {time}","보호막에 닿은 적에게 {time} 동안 {amount} 둔화 적용."],
+    ["Your weapon attacks deal {amount} more damage when you are standing still","제자리에 서 있는 동안 무기 공격 피해 {amount} 증가."],
+    ["Your {skill} releases a pulse every {time} that reveals Stealthed enemies within {radius} units","{skill}에서 {time}마다 파동이 발생해 {radius}유닛 내 은신 중인 적의 위치를 표시합니다."],
+    ["Your Weapon attacks Mark the target, causing them to take {amount} increased damage for {time}","무기 공격 적중 시 대상에게 표식 부여. {time} 동안 대상이 받는 피해 {amount} 증가."],
+    ["Increase Attack Speed by {amount}. You and nearby allies are healed for {healing} of the damage you deal with your weapon attacks","공격 속도 {amount} 증가. 자신의 무기 공격 피해의 {healing}만큼 자신과 주변 아군의 체력 회복."],
+    ["You gain {amount} increased Movement Speed during {skill}","{skill} 사용 중 이동 속도 {amount} 증가."],
+    ["Entering your own {skill} grants you cc immunity for {time}","자신의 {skill}에 들어가면 {time} 동안 군중 제어 면역 획득."],
+    ["All {skill} effects apply to allies within {radius} ft with {amount} strength","{radius}피트 내 아군에게 모든 {skill} 효과가 {amount}의 위력으로 적용됩니다."],
+    ["Using {skill} reduces the Cooldown of your {other} and {third} by {amount} if they are not deployed","{skill} 사용 시 배치되지 않은 {other} 및 {third}의 재사용 대기시간 {amount} 감소."],
+    ["Successful weapon attacks reduce the cooldown of {skill} by {time}","무기 공격 적중 시 {skill}의 재사용 대기시간 {time} 감소."],
+    ["Detonating {skill} reduces it's cooldown by {time}","{skill} 폭발 시 해당 기술의 재사용 대기시간 {time} 감소."],
+    ["Enemies hit by {skill} are poisoned dealing {amount} damage over {time}","{skill}에 적중한 적에게 독을 적용해 {time}에 걸쳐 {amount}의 피해를 줍니다."],
+    ["Swapping to the spot of a dead Illusion spawns an illusion with {amount} Health","파괴된 환영의 위치로 이동하면 체력 {amount}의 환영 생성."],
+    ["Heal affected teammates for {amount} Health each second while {skill} is active","{skill} 활성화 중 영향을 받는 아군의 체력을 매초 {amount} 회복."],
+    ["{skill} reduces healing by {amount} for {time}","{skill} 적중 시 {time} 동안 치유량 {amount} 감소."],
+    ["Enemies damaged by illusions spawned by {skill} are revealed to you and your teammates for {time}","{skill}으로 생성된 환영에게 피해를 받은 적의 위치가 {time} 동안 자신과 아군에게 표시됩니다."],
+    ["Illusions deal {amount} more damage with their weapon attacks","환영의 무기 공격 피해 {amount} 증가."],
+    ["Deal {amount} bonus damage to targets hit by {skill}","{skill}에 적중한 대상에게 주는 피해 {amount} 증가."],
+    ["If an illusion is killed or despawned when a new illusion is spawned, it triggers a Shatter explosion dealing {amount} damage","새 환영 생성 시 기존 환영이 죽거나 사라지면 {amount}의 피해를 주는 {name:Shatter} 폭발 발생."],
+    ["You and your allies gain {amount} Movement Speed when inside {skill}","{skill} 안에 있는 자신과 아군의 이동 속도 {amount} 증가."],
+    ["Increase the self Knockback of {skill} by {amount}","{skill}의 자신을 밀쳐내는 효과 {amount} 증가."],
+    ["Increase the maximum duration of {skill} by {time}","{skill}의 최대 지속시간 {time} 증가."],
+    ["{skill} reduces the Cooldown of {other} by {time} if it hits {amount} or more enemy champions","{skill}이 적 챔피언 {amount}명 이상에게 적중하면 {other}의 재사용 대기시간 {time} 감소."],
+    ["During {skill}, you reveal all stealthed targets within {radius}ft to all teammates","{skill} 사용 중 {radius}피트 내 은신 중인 모든 대상의 위치가 모든 아군에게 표시됩니다."],
+    ["Gain +{amount} Attack Speed","공격 속도 +{amount} 증가."],
+    ["Gain {amount} bonus damage for {time} after using {skill}","{skill} 사용 후 {time} 동안 피해 {amount} 증가."],
+    ["You can fire during {skill}, and you deal {amount} more damage while Hovering","{skill} 사용 중 사격 가능 및 공중에 떠 있는 동안 피해 {amount} 증가."],
+    ["Allies inside {skill} gain {amount} Movement Speed for {time}","{skill} 안의 아군이 {time} 동안 이동 속도 {amount} 증가 효과 획득."],
+    ["{skill} lasts {time} longer, can fire {amount} more shots, and charges {rate} faster","{skill}의 지속시간 {time} 증가, 사격 횟수 {amount}회 추가 및 충전 속도 {rate} 증가."],
+    ["{skill} lasts {time} longer, can fire {amount} more shots, and charges faster","{skill}의 지속시간 {time} 증가, 사격 횟수 {amount}회 추가 및 충전 속도 증가."],
+    ["Gain {amount} damage reduction for each {skill} you have alive","활성화된 {skill}마다 받는 피해 {amount} 감소."],
+    ["You take {amount} less damage per hit","적중당 받는 피해 {amount} 감소."],
+    ["You take {amount} less from area damage","받는 범위 피해 {amount} 감소."],
+    ["Receive {amount} more healing","받는 치유량 {amount} 증가."],
+    ["Dealing a killing blow to a player restores {amount} of your max Health","플레이어 처치 시 최대 체력의 {amount} 회복."],
+    ["Eliminations increase your maximum Health by {amount} until you die. Stacks up to {stacks} times","처치 관여 시 사망할 때까지 최대 체력 {amount} 증가. 최대 {stacks}회 중첩."],
+    ["Kills increase your damage by {amount} up to {maximum} until you die","처치 시 사망할 때까지 피해 {amount} 증가. 최대 {maximum} 증가."],
+    ["On successful kill or elimination, lower all your active Cooldowns by {amount}","처치 또는 처치 관여 시 사용 중인 모든 재사용 대기시간 {amount} 감소."],
+    ["On successful kill or elimination, lower all your active Cooldowns","처치 또는 처치 관여 시 사용 중인 모든 재사용 대기시간 감소."],
+    ["Increase the duration of {skill} by {time}","{skill}의 지속시간 {time} 증가."],
+    ["Reduce the Cooldown of {skill} by {time}","{skill}의 재사용 대기시간 {time} 감소."],
+    ["{skill} deals {amount} bonus damage to shields","{skill}이 보호막에 {amount}의 추가 피해를 줍니다."],
+    ["Enemies are Slowed by {amount} for {time} when passing through {skill}","{skill}을 통과하는 적에게 {time} 동안 {amount} 둔화 적용."],
+    ["When you cast {skill} on an ally, they are immediately healed for {amount} of their maximum Health","아군에게 {skill} 사용 시 즉시 대상의 최대 체력의 {amount} 회복."],
+    ["Gain {stat}","{stat} 증가."],
+    ["Gain maximum {stat}","최대 {stat} 증가."],
+    ["Increase {stat}","{stat} 증가."],
+    ["Increased {stat}","{stat} 증가."],
+    ["Reduce {stat}","{stat} 감소."],
+    ["Increase {stat} of {skill}","{skill}의 {stat} 증가."],
+    ["Reduce {stat} of {skill}","{skill}의 {stat} 감소."],
+    ["Increase {skill}'s {stat}","{skill}의 {stat} 증가."],
+    ["Activating {skill} heals you","{skill} 사용 시 체력 회복."],
+    ["Activating {skill} generates {stat}","{skill} 사용 시 {stat} 생성."],
+    ["{skill} generates {stat}","{skill} 사용 시 {stat} 생성."],
+    ["{skill} heals you","{skill} 사용 시 체력 회복."],
+    ["{skill} grants {stat}","{skill} 사용 시 {stat} 획득."],
+    ["{skill} knocks enemies back","{skill} 적중 시 적을 밀쳐냄."],
+    ["{skill} knocks you up","{skill} 사용 시 공중으로 떠오름."],
+    ["The {stat} of {skill} is increased","{skill}의 {stat} 증가."],
+    ["{skill} explosion radius is increased","{skill} 폭발 반경 증가."],
+    ["Eliminations grant {stat}","처치 관여 시 {stat} 획득."],
+    ["Eliminations grant you {stat}","처치 관여 시 {stat} 획득."],
+    ["Eliminations reduce {stat}","처치 관여 시 {stat} 감소."],
+    ["Eliminations reduce the Cooldown of {skill}","처치 관여 시 {skill} 재사용 대기시간 감소."],
+    ["Reduce {stat} after getting an elimination","처치 관여 시 {stat} 감소."],
+    ["Gain {stat} after getting an elimination","처치 관여 시 {stat} 획득."],
+    ["Gain {stat} when Out of Combat","비전투 상태에서 {stat} 증가."],
+    ["Gain {stat} after using {skill}","{skill} 사용 후 {stat} 증가."],
+    ["Gain {stat} after you {skill}","{skill} 사용 후 {stat} 획득."],
+    ["Gain {stat} while {skill} is active","{skill} 활성화 중 {stat} 획득."],
+    ["Gain increased {stat} while {skill} is active","{skill} 활성화 중 {stat} 증가."],
+    ["Heal yourself while {skill} is active","{skill} 활성화 중 체력 회복."],
+    ["Standing near {skill} heals it","{skill} 근처에 있는 동안 {skill}의 체력 회복."],
+    ["Hitting with {skill} heals you","{skill} 적중 시 체력 회복."],
+    ["Hitting with {skill} restores {stat}","{skill} 적중 시 {stat} 회복."],
+    ["Hits with {skill} heal you","{skill} 적중 시 체력 회복."],
+    ["Successful hits with {skill} grant {stat}","{skill} 적중 시 {stat} 획득."],
+    ["Hitting enemies with {skill} generates {stat}","{skill} 적중 시 {stat} 생성."],
+    ["Hitting enemies with {skill} grants {stat}","{skill} 적중 시 {stat} 획득."],
+    ["Hitting an enemy with {skill} grants you {stat}","{skill} 적중 시 {stat} 획득."],
+    ["{skill} hits reduce {other} cooldown","{skill} 적중 시 {other} 재사용 대기시간 감소."],
+    ["Heal while using {skill}","{skill} 사용 중 체력 회복."],
+    ["Gain damage reduction based on the number of Charges you have stored","보유한 충전 횟수에 따라 받는 피해 감소."],
+    ["You and your allies gain Movement Speed when passing through {skill}","자신과 아군이 {skill} 통과 시 이동 속도 증가."],
+    ["Gain {stat} per {other}","{other}마다 {stat} 증가."],
+    ["Using {skill} heals you","{skill} 사용 시 체력 회복."],
+    ["Using {skill} generates {stat}","{skill} 사용 시 {stat} 생성."],
+    ["Using {skill} grants {stat} for {time}","{skill} 사용 시 {time} 동안 {stat} 획득."],
+    ["Using {skill} reduces {other} cooldown","{skill} 사용 시 {other} 재사용 대기시간 감소."],
+    ["Heal during {skill}","{skill} 사용 중 체력 회복."],
+    ["Heal while {skill} is active","{skill} 활성화 중 체력 회복."],
+    ["Heal when activating {skill}","{skill} 사용 시 체력 회복."],
+    ["Heal after activating {skill}","{skill} 사용 후 체력 회복."],
+    ["Heal after using {skill}","{skill} 사용 후 체력 회복."],
+    ["Heal when hitting with {skill}","{skill} 적중 시 체력 회복."],
+    ["Heal when striking an enemy with {skill}","{skill}로 적 적중 시 체력 회복."],
+    ["Heal after hitting an enemy with {skill}","{skill}로 적 적중 후 체력 회복."],
+    ["Heal for each enemy hit with {skill}","{skill}로 적 적중 시 적중한 적마다 체력 회복."],
+    ["Heal for every enemy hit with {skill}","{skill}로 적 적중 시 적중한 적마다 체력 회복."],
+    ["Heal for every enemy you hit with {skill}","{skill}로 적 적중 시 적중한 적마다 체력 회복."],
+    ["Heal each time {skill} hits a target","{skill} 적중 시 체력 회복."],
+    ["Heal every second during {skill}","{skill} 사용 중 매초 체력 회복."],
+    ["Heal every second while in {skill}","{skill} 안에 있는 동안 매초 체력 회복."],
+    ["Heal every second while standing in {skill}","{skill} 안에 서 있는 동안 매초 체력 회복."],
+    ["Regenerate Health every second during {skill}","{skill} 사용 중 매초 체력 회복."],
+    ["Regenerate Health every second while in {skill}","{skill} 사용 중 매초 체력 회복."],
+    ["While {skill} is active, heal every second","{skill} 활성화 중 매초 체력 회복."],
+    ["Gain {stat} during {skill}","{skill} 사용 중 {stat} 획득."],
+    ["Gain {stat} while using {skill}","{skill} 사용 중 {stat} 획득."],
+    ["Gain {stat} while in {skill}","{skill} 사용 중 {stat} 획득."],
+    ["Gain {stat} in {skill}","{skill} 사용 중 {stat} 획득."],
+    ["Gain {stat} after activating {skill}","{skill} 사용 후 {stat} 획득."],
+    ["Gain {stat} when activating {skill}","{skill} 사용 시 {stat} 획득."],
+    ["Gain {stat} when you activate {skill}","{skill} 사용 시 {stat} 획득."],
+    ["Gain {stat} for {time} after using {skill}","{skill} 사용 후 {time} 동안 {stat} 획득."],
+    ["Gain {stat} for {time} after activating {skill}","{skill} 사용 후 {time} 동안 {stat} 획득."],
+    ["Gain {stat} for {time} when using {skill}","{skill} 사용 시 {time} 동안 {stat} 획득."],
+    ["Gain {stat} for {time} when you activate {skill}","{skill} 사용 시 {time} 동안 {stat} 획득."],
+    ["{skill} grants {stat} for {time}","{skill} 사용 시 {time} 동안 {stat} 획득."],
+    ["Activating {skill} grants you {stat}","{skill} 사용 시 {stat} 획득."],
+    ["Activating {skill} grants {stat} for {time}","{skill} 사용 시 {time} 동안 {stat} 획득."],
+    ["Activating {skill} grants you {stat} for {time}","{skill} 사용 시 {time} 동안 {stat} 획득."],
+    ["Activating {skill} increases {stat}","{skill} 사용 시 {stat} 증가."],
+    ["{skill} heals you over {time} for each enemy hit","{skill}로 적 적중 시 적중한 적마다 {time}에 걸쳐 체력 회복."],
+    ["{skill} grants Movement Speed to allies","{skill} 사용 시 아군 이동 속도 증가."],
+    ["Generate {stat} after using {skill}","{skill} 사용 후 {stat} 생성."],
+    ["Generate {stat} when activating {skill}","{skill} 사용 시 {stat} 생성."],
+    ["Generate {stat} when you activate {skill}","{skill} 사용 시 {stat} 생성."],
+    ["Regenerate {stat} while using {skill}","{skill} 사용 중 {stat} 회복."],
+    ["Gain {stat} every second during {skill}","{skill} 사용 중 매초 {stat} 획득."],
+    ["Restore {stat} after using {skill}","{skill} 사용 후 {stat} 회복."],
+    ["Restore {stat} each time {skill} hits a target","{skill} 적중 시 {stat} 회복."],
+    ["Regain {stat} after using {skill}","{skill} 사용 후 {stat} 회복."],
+    ["Hitting an enemy with {skill} generates {stat}","{skill}로 적 적중 시 {stat} 생성."],
+    ["Hitting an enemy with {skill} restores {stat}","{skill}로 적 적중 시 {stat} 회복."],
+    ["Hitting an enemy with {skill} heals you","{skill}로 적 적중 시 체력 회복."],
+    ["Hits with {skill} restore {stat}","{skill} 적중 시 {stat} 회복."],
+    ["{skill} gains {stat}","{skill}의 {stat} 증가."],
+    ["{skill} lasts longer","{skill} 지속시간 증가."],
+    ["{skill} heals you for more","{skill}의 자기 치유량 증가."],
+    ["{skill} heals you on use","{skill} 사용 시 체력 회복."],
+    ["{skill} now heals","{skill}에 치유 효과 추가."],
+    ["Increases the duration of {skill}","{skill} 지속시간 증가."],
+    ["Decrease the cooldown of {skill}","{skill} 재사용 대기시간 감소."],
+    ["Reduces the cooldown of {skill}","{skill} 재사용 대기시간 감소."],
+    ["Reduce the cooldown on {skill}","{skill} 재사용 대기시간 감소."],
+    ["Reduce {skill} cooldown","{skill} 재사용 대기시간 감소."],
+    ["Reduce the cooldown of {skill}","{skill} 재사용 대기시간 감소."],
+    ["The cooldown of {skill} is reduced","{skill} 재사용 대기시간 감소."],
+    ["Increase the {stat} of {skill}","{skill}의 {stat} 증가."],
+    ["Increase the {stat} of your {skill}","자신의 {skill}의 {stat} 증가."],
+    ["Reduce the {stat} of {skill}","{skill}의 {stat} 감소."],
+    ["{skill}'s cooldown is reduced for every enemy hit","{skill}로 적 적중 시 적중한 적마다 재사용 대기시간 감소."],
+    ["{skill}'s cooldown is reduced for each enemy hit","{skill}로 적 적중 시 적중한 적마다 재사용 대기시간 감소."],
+    ["Reduce self damage taken from {skill}","{skill}로 자신이 받는 피해 감소."],
+    ["Reduce damage taken after activating {skill}","{skill} 사용 후 받는 피해 감소."],
+    ["Reduce damage taken after using {skill}","{skill} 사용 후 받는 피해 감소."],
+    ["Gain {stat} after {skill} ends","{skill} 종료 후 {stat} 획득."],
+    ["Gain {stat} for {time} after {skill} ends","{skill} 종료 후 {time} 동안 {stat} 획득."],
+    ["After using {skill} gain {stat} for {time}","{skill} 사용 후 {time} 동안 {stat} 획득."],
+    ["Reduce the cooldown of {skill} after using {other}","{other} 사용 후 {skill} 재사용 대기시간 감소."],
+    ["{skill} reduces the cooldown of {other}","{skill} 사용 시 {other} 재사용 대기시간 감소."],
+    ["Reduce the cooldown of {skill} for each enemy hit with {other}","{other}로 적 적중 시 적중한 적마다 {skill} 재사용 대기시간 감소."],
+    ["{skill} deals more damage","{skill} 피해량 증가."],
+    ["Increase {skill}'s shield health","{skill} 보호막 체력 증가."],
+    ["Increase your {skill}'s health","자신의 {skill} 체력 증가."],
+    ["{skill} hits reduce the cooldown of {other}","{skill} 적중 시 {other} 재사용 대기시간 감소."],
+    ["Increase {stat} after using {skill}","{skill} 사용 후 {stat} 증가."],
+    ["Eliminations restore {stat}","처치 관여 시 {stat} 회복."],
+    ["Kills and eliminations generate {stat}","처치 또는 처치 관여 시 {stat} 생성."],
+    ["Kills and eliminations refund {stat}","처치 또는 처치 관여 시 {stat} 회복."],
+    ["Increase {stat} and {other}","{stat} 및 {other} 증가."],
+    ["Gain {stat} after getting a kill","처치 시 {stat} 획득."],
+    ["Gain {stat} after getting a {event}","{event} 시 {stat} 획득."],
+    ["Kills grant {stat}","처치 시 {stat} 획득."],
+    ["Kills reduce {stat}","처치 시 {stat} 감소."],
+    ["Eliminations increase {stat}","처치 관여 시 {stat} 증가."],
+    ["Increase {stat} for {time} after getting a kill","처치 후 {time} 동안 {stat} 증가."],
+    ["Dropping to or below {amount} of your max Health grants you a Shield","체력이 최대 체력의 {amount} 이하로 떨어지면 보호막 획득."],
+    ["Dropping below {amount} of your max Health grants you a Shield","체력이 최대 체력의 {amount} 미만으로 떨어지면 보호막 획득."],
+    ["Gain lifesteal when below {amount} health","체력이 {amount} 미만일 때 생명력 흡수 획득."],
+    ["Take less damage when below {amount} health","체력이 {amount} 미만일 때 받는 피해 감소."],
+    ["Increase the {stat} that {skill} explodes","{skill} 폭발 {stat} 증가."],
+    ["Increase {stat} {skill} travels","{skill}의 {stat} 증가."],
+    ["Increase the distance {skill} travels","{skill} 이동 거리 증가."],
+    ["Increase {stat} of {skill}","{skill}의 {stat} 증가."],
+    ["Hitting {skill} generates {stat}","{skill} 적중 시 {stat} 생성."],
+    ["Hitting {skill} increases {stat}","{skill} 적중 시 {stat} 증가."],
+    ["Hitting {skill} reduces the cooldown of {other}","{skill} 적중 시 {other} 재사용 대기시간 감소."],
+    ["Heal every second while Healing an ally with {skill}","{skill}로 아군을 치유하는 동안 매초 체력 회복."],
+    ["Heal yourself over time after Healing an ally","아군 치유 후 지속적으로 체력 회복."],
+    ["Restore ammo after Healing an ally","아군 치유 후 탄약 회복."],
+    ["Healing an ally restores ammo","아군 치유 시 탄약 회복."],
+    ["Healing an ally with {skill} also heals you","{skill}로 아군 치유 시 자신의 체력도 회복."],
+    ["{skill} hits generate {stat}","{skill} 적중 시 {stat} 생성."],
+    ["While in {skill} generate {stat}","{skill} 사용 중 {stat} 생성."],
+    ["{skill} grants you and your allies {stat}","{skill} 사용 시 자신과 아군이 {stat} 획득."],
+    ["{skill} has increased {stat}","{skill}의 {stat} 증가."],
+    ["Increase {stat} while using {skill}","{skill} 사용 중 {stat} 증가."],
+    ["Increase {stat} in {skill}","{skill} 사용 중 {stat} 증가."],
+    ["Move faster during {skill}","{skill} 사용 중 이동 속도 증가."],
+    ["Move faster while {skill} is active","{skill} 활성화 중 이동 속도 증가."],
+    ["Reload faster during {skill}","{skill} 사용 중 재장전 속도 증가."],
+    ["Reduce recoil while using {skill}","{skill} 사용 중 반동 감소."],
+    ["Reduces recoil with {skill}","{skill} 사용 중 반동 감소."],
+    ["Damage Reduction while using {skill}","{skill} 사용 중 받는 피해 감소."],
+    ["Gain {stat} after getting an Elimination or Killing Blow","처치 또는 처치 관여 시 {stat} 획득."],
+    ["{event} grant Movement Speed for {time}","{event} 시 {time} 동안 이동 속도 증가."],
+    ["Reduce {stat} when you get an elimination","처치 관여 시 {stat} 감소."],
+    ["Reduce {stat} when getting an elimination","처치 관여 시 {stat} 감소."],
+    ["Increase the Range you can use {skill}","{skill} 사용 사거리 증가."],
+    ["Hitting an enemy with {skill} reduces the cooldown of {other}","{skill}로 적 적중 시 {other} 재사용 대기시간 감소."],
+    ["Hitting an enemy with {skill} reduces its Cooldown","{skill}로 적 적중 시 해당 스킬의 재사용 대기시간 감소."],
+    ["Hitting a target with {skill} reduces the cooldown of {other}","{skill} 적중 시 {other} 재사용 대기시간 감소."],
+    ["{skill} reduces the cooldown of {other} if it hits an enemy","{skill}로 적 적중 시 {other} 재사용 대기시간 감소."],
+    ["{skill} reduces the cooldown of {other} if it hits a target","{skill} 적중 시 {other} 재사용 대기시간 감소."],
+    ["Hitting an enemy lowers the remaining cooldown on {skill}","적 적중 시 {skill}의 남은 재사용 대기시간 감소."],
+    ["{skill}'s Cooldown is reduced if it hits an enemy","{skill}로 적 적중 시 해당 스킬의 재사용 대기시간 감소."],
+    ["{skill} heals you if it hits an enemy","{skill}로 적 적중 시 체력 회복."],
+    ["{skill} sends you further into the past","{skill} 사용 시 더 먼 과거로 되돌아감."],
+    ["{skill} sends enemies further into the past","{skill} 적중 시 적을 더 먼 과거로 되돌림."],
+    ["Increase your {stat}","{stat} 증가."],
+    ["Your {skill} last longer","{skill} 지속시간 증가."],
+    ["Your Shield has an infinite Duration","보호막 지속시간 무제한."],
+    ["Your shield recharges while it is raised","보호막을 들어 올린 동안 보호막 체력 회복."],
+    ["Generate mana in {skill}","{skill} 사용 중 마나 생성."],
+    ["Decrease the projectile speed of {skill}","{skill} 투사체 속도 감소."],
+    ["More ammunition","탄약 증가."],
+    ["Maximum Health increase","최대 체력 증가."],
+    ["Max Health Gain","최대 체력 증가."],
+    ["Reload faster","재장전 속도 증가."],
+    ["Regenerate ammo faster","탄약 회복 속도 증가."],
+    ["Increased ammo capacity","탄약 용량 증가."],
+    ["Getting an elimination reduces all active cooldowns","처치 관여 시 사용 중인 모든 스킬의 재사용 대기시간 감소."],
+    ["Gain Damage Reduction at low health","체력이 낮을 때 받는 피해 감소."],
+    ["Gain shield after dropping to low health","체력이 낮아지면 보호막 획득."],
+    ["Increased healing at low health","체력이 낮을 때 받는 치유량 증가."],
+    ["Below {amount} Health receive more Healing","체력이 {amount} 미만일 때 받는 치유량 증가."],
+    ["Receive increased healing when below {amount} Health","체력이 {amount} 미만일 때 받는 치유량 증가."],
+    ["At or below {amount} Health receive increased healing","체력이 {amount} 이하일 때 받는 치유량 증가."],
+    ["While below {amount} Health receive increased healing","체력이 {amount} 미만일 때 받는 치유량 증가."],
+    ["Dropping below {amount} hp grants shield","체력이 {amount} 미만으로 떨어지면 보호막 획득."],
+    ["Falling below {amount} health grants stamina","체력이 {amount} 미만으로 떨어지면 기력 획득."],
+    ["Direct shots deal increased damage","직격 피해 증가."],
+    ["Consecutive fully charged shots deal more damage","연속으로 완전히 충전한 사격 적중 시 피해 증가."],
+    ["Weapon shots deal increasing damage","무기 사격 피해 점차 증가."],
+    ["Fire more slowly but deal more damage","발사 속도 감소 및 피해 증가."],
+    ["Deal more damage after {skill} ends","{skill} 종료 후 피해 증가."],
+    ["Deal increased damage after firing for {time}","{time} 동안 발사한 후 피해 증가."],
+    ["Deal increased weapon damage if you hit all {count} shots","{count}발을 모두 적중시키면 무기 피해 증가."],
+    ["{skill} gains an extra charge","{skill} 충전 횟수 추가."],
+    ["{skill} is now instant","{skill} 즉시 발동."],
+    ["Your Weapon deals more damage, but fires more slowly and has a reduced ammo count","무기 피해가 증가하지만 발사 속도와 탄약 수는 감소."],
+    ["Draw your bow faster","활시위를 당기는 속도 증가."],
+    ["Bring up {skill} faster","{skill} 조준 전환 속도 증가."],
+    ["Increase {skill} duration","{skill} 지속시간 증가."],
+    ["Reduce {skill} recoil","{skill} 반동 감소."],
+    ["Successful hits with {skill} grant {stat}","{skill} 적중 시 {stat} 획득."],
+    ["{skill} hits restore {stat}","{skill} 적중 시 {stat} 회복."],
+    ["{skill} deals no damage, but it's Healing effects are doubled","{skill}이 피해를 주지 않지만 치유량은 두 배."],
+    ["{skill} consumes health instead of Stamina","{skill}이 기력 대신 체력 소모."],
+    ["{skill} bounces","{skill} 투사체가 튕김."],
+    ["{skill} decays slower","{skill} 감소 속도 저하."],
+    ["{skill}","{skill}"],
+    ["{skill} deal additional damage","{skill} 추가 피해."],
+    ["{skill} has larger AoE","{skill} 효과 범위 증가."],
+    ["{skill} has 2 charges but its knockback against enemies is reduced","{skill} 충전 횟수가 2회가 되지만 적을 밀쳐내는 힘 감소."],
+    ["{skill} now has {count} charges","{skill} 충전 횟수가 {count}회가 됨."],
+    ["Allies receive Movement Speed while in {skill}","{skill} 안의 아군 이동 속도 증가."],
+    ["Allies receive reduced Crowd Control effects while inside of {skill}!","{skill} 안의 아군이 받는 군중 제어 효과 감소."],
+    ["Increase the lateral movement of {skill}","{skill}의 수평 이동 거리 증가."],
+    ["Increase the size of {skill}","{skill} 크기 증가."],
+    ["Reduce the Blood Cost of {skill}!","{skill} 혈액 소모량 감소."],
+    ["Reduce Cooldown of {skill} after Healing an ally","아군 치유 후 {skill} 재사용 대기시간 감소."],
+    ["Reduce damage taken while {skill} is out","{skill}이 나가 있는 동안 받는 피해 감소."],
+    ["Regenerate Ammo for a duration after using {skill}","{skill} 사용 후 일정 시간 동안 탄약 회복."],
+    ["Regenerate {skill} and ally ammo while channeling {other}","{other} 집중 중 {skill} 및 아군 탄약 회복."],
+    ["Reduce your damage taken by {amount} for {time} after using {skill}","{skill} 사용 후 {time} 동안 받는 피해 {amount} 감소."],
+    ["{skill} hits reduce the cooldown of {other}","{skill} 적중 시 {other} 재사용 대기시간 감소."],
+    ["Successful {skill} attacks heal you","{skill} 공격 적중 시 체력 회복."],
+    ["{skill} attacks reduce the cooldown of {other}","{skill} 공격 적중 시 {other} 재사용 대기시간 감소."],
+    ["Grant Increased movement speed to your ally","아군 이동 속도 증가."],
+    ["Grant a shield when you mark an ally","아군에게 표식 부여 시 보호막 부여."],
+    ["Gain back Health when hitting a marked enemy","표식이 부여된 적 적중 시 체력 회복."],
+    ["Grant Damage Resistance to {skill} targets","{skill} 대상이 받는 피해 감소."],
+    ["Gain Movement Speed for a short duration after using {skill}","{skill} 사용 후 잠시 이동 속도 증가."],
+    ["Gain Damage Reduction while Channeling {skill}","{skill} 집중 중 받는 피해 감소."],
+    ["{skill} now deals more damage when the initial explosion hits an enemy","{skill} 최초 폭발로 적 적중 시 피해 증가."],
+    ["{skill} has 2 charges with increased Cooldown","{skill} 충전 횟수가 2회가 되고 재사용 대기시간 증가."],
+    ["{skill} deals more damage based on range, and its Cooldown is reduced","{skill}이 거리에 따라 추가 피해를 주며 재사용 대기시간 감소."],
+    ["{skill} gains more Health and its Cooldown is reduced","{skill} 체력 증가 및 재사용 대기시간 감소."],
+    ["{skill} heals for more and provides a shield","{skill} 치유량 증가 및 보호막 부여."],
+    ["{skill} explodes faster and does bonus damage to shields","{skill} 폭발 지연 시간 감소 및 보호막에 추가 피해."],
+    ["{skill} now hits all enemies in front of you, and its Cooldown is reduced","{skill}이 전방의 모든 적에게 적중하며 재사용 대기시간 감소."],
+    ["{skill} now deals damage and <font color=\"#1EBEF7\">Knockups</font> enemies near where you land","{skill} 착지 지점 주변의 적에게 피해를 주고 <font color=\"#1EBEF7\">공중으로 띄움</font>."],
+    ["{skill} <font color=\"#1EBEF7\">Cripples</font> enemies, and {other} explodes 1s later","{skill}이 적을 <font color=\"#1EBEF7\">속박</font>하며 {other}이 1초 후 폭발."],
+    ["{skill} now has 2 charges but its knockback against enemies is reduced","{skill} 충전 횟수가 2회가 되지만 적을 밀쳐내는 힘 감소."],
+    ["{skill} no longer automatically activates, and if not activated the Cooldown resets","{skill} 자동 발동 제거. 발동시키지 않으면 재사용 대기시간 초기화."],
+    ["{skill} now resets the Cooldown of {other} and {third}","{skill} 사용 시 {other} 및 {third} 재사용 대기시간 초기화."],
+    ["{skill} leaves a dust cloud behind that heals","{skill} 사용 시 치유하는 먼지구름 생성."],
+    ["{skill} now stuns enemies, but no longer slows","{skill}이 적을 기절시키지만 둔화 효과 제거."],
+    ["{skill} is now placed on the ground, is not Channeled, and lasts longer","{skill}을 지면에 설치하며 집중 유지가 필요 없어지고 지속시간 증가."],
+    ["{skill} moves slower, has more Health, and is larger","{skill} 이동 속도 감소 및 체력과 크기 증가."],
+    ["{skill} deals additional damage and travels faster","{skill} 추가 피해 및 투사체 속도 증가."],
+    ["{skill} now deals a portion of the targets maximum Health with every hit","{skill} 적중 시마다 대상 최대 체력에 비례하는 피해."],
+    ["{skill} fires slower and deals more damage","{skill} 발사 속도 감소 및 피해 증가."],
+    ["{skill} now knocks back and deals additional damage over 2s","{skill}이 적을 밀쳐내고 2초에 걸쳐 추가 피해."],
+    ["Heal a percent of your maximum Health during {skill}","{skill} 사용 중 최대 체력에 비례하여 체력 회복."],
+    ["Activating {skill} cleanses all Crowd Control effects and heals you","{skill} 사용 시 모든 군중 제어 효과를 해제하고 체력 회복."],
+    ["Activating {skill} heals yourself over time","{skill} 사용 시 지속적으로 체력 회복."],
+    ["{skill} gains increased Damage Reduction and now grants CC Immunity","{skill}의 받는 피해 감소 효과 증가 및 군중 제어 면역 부여."],
+    ["Eliminations reset the Cooldown of {skill} and {skill} deals more damage","처치 관여 시 {skill} 재사용 대기시간 초기화 및 피해 증가."],
+    ["Enemies affected by {skill} are crippled and take additional damage over its duration","{skill} 대상이 속박되고 지속시간 동안 추가 피해."],
+    ["{skill} deals more damage, and applies a reduced healing effect","{skill} 피해 증가 및 치유 감소 효과 적용."],
+    ["If an Illusion is killed or expires, it triggers a {skill} explosion","환영이 처치되거나 지속시간이 끝나면 {skill} 폭발 발동."],
+    ["Increase {skill}'s Shield Health, gain CC immunity, and reduce its Cooldown","{skill} 보호막 체력 증가, 군중 제어 면역 획득 및 재사용 대기시간 감소."],
+    ["Increase the damage of {skill} and reduce the Cooldown","{skill} 피해 증가 및 재사용 대기시간 감소."],
+    ["{skill} now always fires back and deals more minimum damage","{skill}이 항상 반격하며 최소 피해 증가."],
+    ["Successful hits with {skill} increase the damage of your next {other}","{skill} 적중 시 다음 {other} 피해 증가."],
+    ["Weapon hits increase your Reload Speed","무기 적중 시 재장전 속도 증가."],
+    ["Weapon shots heal","무기 사격 적중 시 체력 회복."],
+    ["Increase your healing while below a certain health threshold","체력이 일정 기준 미만일 때 받는 치유량 증가."],
+    ["Hover longer and gain increased weapon damage","공중에 머무는 시간 증가 및 무기 피해 증가."],
+    ["Hitting an enemy with {skill} grants {stat}","{skill}로 적 적중 시 {stat} 획득."],
+    ["Heal yourself while using {skill}","{skill} 사용 중 체력 회복."],
+    ["While in {skill} heal every second","{skill} 사용 중 매초 체력 회복."],
+    ["Heal yourself each second during {skill}","{skill} 사용 중 매초 체력 회복."],
+    ["Heal for each champion hit by {skill}","{skill}로 챔피언 적중 시 적중한 챔피언마다 체력 회복."],
+    ["Gain {stat} for each enemy hit","적 적중 시 적중한 적마다 {stat} 획득."],
+    ["Gain {stat} after hitting an ally with {skill}","{skill}로 아군 적중 시 {stat} 획득."],
+    ["Gain {stat} after {skill}","{skill} 사용 후 {stat} 획득."],
+    ["Increase {stat} after {skill}","{skill} 사용 후 {stat} 증가."],
+    ["Increases the {stat} of {skill}","{skill}의 {stat} 증가."],
+    ["Increase {stat} for {skill}","{skill}의 {stat} 증가."],
+    ["{skill} increases {stat} until you land","{skill} 사용 후 착지할 때까지 {stat} 증가."],
+    ["{skill} heals you when you teleport to it","{skill}로 순간이동 시 체력 회복."],
+    ["Increased {skill} {stat}","{skill}의 {stat} 증가."],
+    ["Reduced {skill} Cooldown","{skill} 재사용 대기시간 감소."],
+    ["Reduce cooldown of {skill} after using {other}","{other} 사용 후 {skill} 재사용 대기시간 감소."],
+    ["Reduce cooldown on {skill} if it hits an enemy","{skill}로 적 적중 시 재사용 대기시간 감소."],
+    ["For every enemy player hit by {skill}, reduce its cooldown","{skill}로 적 유저 적중 시 적중한 적마다 재사용 대기시간 감소."],
+    ["Reduce {skill}'s cooldown for each ally hit","{skill}로 아군 적중 시 적중한 아군마다 재사용 대기시간 감소."],
+    ["Standing in {skill} grants you {stat}","{skill} 안에 서 있는 동안 {stat} 획득."],
+    ["Standing in {skill} heals you every second","{skill} 안에 서 있는 동안 매초 체력 회복."],
+    ["{skill} lowers the cooldown of {other} when activated","{skill} 사용 시 {other} 재사용 대기시간 감소."],
+    ["Reduce {stat} by {amount}","{stat} {amount} 감소."],
+    ["Increase {stat} by {amount}","{stat} {amount} 증가."],
+    ["{skill} attacks reduce the cooldown of {other}","{skill} 공격 적중 시 {other} 재사용 대기시간 감소."],
+    ["Heal every time an enemy takes damage","적에게 피해를 줄 때마다 체력 회복."],
+    ["Reveal Marked Enemy to entire team","표식이 부여된 적의 위치를 아군 모두에게 드러냄."],
+    ["Increase the ammo count of both of your weapons","두 무기의 탄약 수 증가."],
+    ["Increase your movement speed while firing","발사 중 이동 속도 증가."],
+    ["Generate {amount} Ultimate charge every {time} while {skill} is active","{skill} 활성화 중 {time}마다 궁극기 충전량 {amount} 획득."]
+  ],
+  "exact": {
+  " CV1 is an additive vertical movement. CV2 is an additive lateral movement. CV3 is a vertical scaling based on aim. CV4 is a lateral scaling based on aim. ": "사용자 정의 값1은 추가 수직 이동, 값2는 추가 수평 이동입니다. 값3은 조준에 따른 수직 배율, 값4는 조준에 따른 수평 배율입니다.",
+  " Spinning swords (CV1 = length, CV2 = width of the hit box)": "회전하는 칼날 (사용자 정의 값1 = 길이, 값2 = 판정 영역 너비).",
+  "(172946) [Armor] Reset Leap cooldown on health threshold": "(172946) [방어구] 체력이 기준치에 도달하면 {name:Leap}의 재사용 대기시간이 초기화됩니다.",
+  "(172946) [Armor] Reset grappling hook": "(172946) [방어구] {name:Grappling Hook} 재사용 대기시간 초기화.",
+  "(215971) [Armor] Increase your Movement Speed after getting an Elimination or Killing Blow.": "(215971) [방어구] 처치 관여 또는 처치 후 이동 속도 증가.",
+  "1% max hp +dmg": "최대 체력의 1%만큼 추가 피해.",
+  "20% chance to reduce enemy movement speed by 65% for 3s.": "20% 확률로 3초 동안 적의 이동 속도를 65% 감소시킵니다.",
+  "<font color=\"#1EBEF7\">Rewind</font> yourself to where you physically were 4s in the past. This Rewind takes place over the course of 1s. Your Health is reverted to its highest value during that period.": "자신을 4초 전의 위치로 <font color=\"#1EBEF7\">되돌립니다</font>. 되돌리기는 1초에 걸쳐 진행되며 체력은 해당 기간 중 가장 높았던 수치로 돌아갑니다.",
+  "A hybrid shotgun with two firing modes. Has a Range of 300 units and is effective up to 100 units. Applies Ominous Brand. <br><br> Tap: Penumbra Mode: Deals 450 damage every 0.3s in a wide spread. <br><br> Hold: Antumbra Mode: Deals 500 damage every 0.48s in a narrow spread. Fire rate and spread scale down over the first 3 shots, which resets after 1s of not firing. <br><br> <b>Passive - Ominous Brand</b> <br> Branded enemies receive additional effects from Deadly Domain and Gravity Vice for 3s.": "두 가지 발사 방식이 있는 복합 산탄총입니다. 사거리는 300 유닛이며 100 유닛 거리까지 유효합니다. 불길한 낙인을 적용합니다. <br><br> 짧게 누르기: 반영 상태: 넓게 퍼지는 탄환으로 0.3초마다 450의 피해를 줍니다. <br><br> 길게 누르기: {name:Antumbra} 상태: 좁게 퍼지는 탄환으로 0.48초마다 500의 피해를 줍니다. 처음 3발에 걸쳐 발사 속도와 탄 퍼짐이 감소하며 1초 동안 발사하지 않으면 초기화됩니다. <br><br> <b>지속 효과 - 불길한 낙인</b> <br> 낙인이 있는 적은 3초 동안 죽음의 영역과 중력의 죔쇠의 추가 효과를 받습니다.",
+  "A longbow that draws back an arrow and releases it for up to 1000 damage every 1.5s.": "활시위를 당겼다가 화살을 놓아 1.5초마다 최대 1000의 피해를 주는 장궁입니다.",
+  "A medium range staff that creates a channeled beam of lightning dealing 75 damage per hit every 0.1 seconds. Deals up to 30% more damage the longer you are on target.": "중거리 번개 광선을 유지해 0.1초마다 적중당 75의 피해를 주는 지팡이입니다. 같은 대상을 계속 공격할수록 피해가 최대 30% 증가합니다.",
+  "A rifle and pistol combination for eliminating your targets. Your rifle deals 1200 damage every 1.20s and your pistol deals 165 damage every 0.15s while regenerating Stealth energy.": "대상을 처치하기 위한 소총과 권총입니다. 소총은 1.20초마다 1200의 피해를 주고, 권총은 은신 에너지를 회복하면서 0.15초마다 165의 피해를 줍니다.",
+  "A rifle that has been passed down through your noble house for ages. Deals 400 damage every 0.45s at medium range.": "귀족 가문에서 오랫동안 전해 내려온 소총입니다. 중거리에서 0.45초마다 400의 피해를 줍니다.",
+  "A semi-automatic pistol that deals 165 damage per shot.": "한 발마다 165의 피해를 주는 반자동 권총입니다.",
+  "A short range flamethrower that deals 35 damage per hit every 0.1s and applies a Damage Over Time effect for 200 damage over 2s. The Flame Lance recharges when not firing.": "0.1초마다 적중당 35의 피해를 주고, 2초에 걸쳐 200의 지속 피해를 적용하는 근거리 화염방사기입니다. {name:Flame Lance}은 발사하지 않을 때 재충전됩니다.",
+  "Accursed Arm Gun": "{name:Accursed Arm}의 총",
+  "Acid capacity increase while active": "활성화 중 산성액 용량 증가.",
+  "Activated while firing Rapid Shot": "{name:Rapid Shot} 발사 중 활성화됩니다.",
+  "After exiting Hidden, your Wrist Crossbow (LMB) attacks deal 3% stacking damage for each consecutive hit, losing all bonus on the first missed shot. Skye has 3s after exiting Hidden to fire her first LMB attack.": "{name:Hidden} 종료 후 {name:Wrist Crossbow} (마우스 왼쪽 버튼) 공격을 연속으로 적중시킬 때마다 피해가 3%씩 중첩 증가하며, 한 번이라도 빗나가면 추가 피해를 모두 잃습니다. {name:Skye}는 {name:Hidden} 종료 후 3초 이내에 첫 기본 공격을 해야 합니다.",
+  "After hitting an enemy with Disengage, subsequent shots will deal an additional percent of their max Health in damage for 6s.": "{name:Disengage}로 적 적중 후 6초 동안 후속 사격이 대상의 최대 체력에 비례하는 추가 피해를 줌.",
+  "Air scoping CVs: CV2=minimum jump height to scope, CV3=max time you can be frozen while scoped, CV4=time of lockout when leaping while scoped": "공중 조준의 사용자 정의 값: 값2=조준 가능한 최소 도약 높이, 값3=조준 중 정지 가능한 최대 시간, 값4=조준 중 도약 시 사용 불가 시간.",
+  "All Fire Stance abilities apply a 1s burn, dealing 10 damage every .1s.": "모든 {name:Fire Stance} 기술이 1초 동안 화상을 적용해 .1초마다 10의 피해를 줍니다.",
+  "All enemies within short range of you are revealed to you.": "자신과 가까운 모든 적의 위치가 표시됩니다.",
+  "Allies affected by Protection gain additional damage while shielded.": "{name:Protection} 대상 아군이 보호막을 유지하는 동안 피해 증가.",
+  "Allies affected by your Astral Mark deal 15% increased weapon damage.": "{name:Astral Mark}의 영향을 받는 아군의 무기 피해가 15% 증가합니다.",
+  "Alt Fire for Lawman's Pursuit": "{name:Lawman's Pursuit}의 보조 공격.",
+  "An Ice Staff that fires a frozen blast dealing 930 damage every half second that explodes in an area on impact. Applies Slow effect.\nBonus Damage: Deals up to 30% more damage to targets marked by your Ice Block.": "반초마다 930의 피해를 주고 적중 시 범위 폭발을 일으키는 얼음 탄환을 발사하는 {name:Ice Staff}입니다. 둔화를 적용합니다.\n추가 피해: {name:Ice Block}으로 표식이 부여된 대상에게 주는 피해가 최대 30% 증가합니다.",
+  "An old version of Magic in the Blood we shifted into base kit. Reduces Chain Heal cooldown for Sigil hits.": "기본 기술에 통합된 {name:Magic in the Blood}의 이전 버전입니다. {name:Sigil} 적중 시 {name:Chain Heal}의 재사용 대기시간을 감소시킵니다.",
+  "Ancient Rage inhands": "{name:Ancient Rage} 중 기본 공격.",
+  "Applied on enemies Moji hits with her Inhand or RMB. When a marked enemy dies, a magical burst heals anyone on Moji's team within a radius of the enemy.": "{name:Moji}의 기본 공격 또는 마우스 오른쪽 버튼 공격에 적중한 적에게 적용됩니다. 표식이 있는 적이 죽으면 마법 폭발이 발생해 적 주변에 있는 {name:Moji} 팀의 아군을 치유합니다.",
+  "Applies Blood Moon fx to self": "자신에게 {name:Blood Moon} 효과를 적용합니다.",
+  "Assert Dominance now charges {scale=12.75|.75}% faster, stuns enemies, and causes them to take more damage.": "{name:Assert Dominance}의 충전 속도가 {scale=12.75|.75}% 증가하며, 적을 기절시키고 받는 피해를 증가시킵니다.",
+  "Attack faster when you have no Charges of Calamity Blast.": "{name:Calamity Blast} 중첩이 없을 때 공격 속도가 증가합니다.",
+  "Automatically fire a weaker copy of Rogue's Tempo for every 4 Ammo consumed. This copy deals 400 damage and Cripples enemies for 1s.": "탄약을 4발 소모할 때마다 약화된 {name:Rogue's Tempo}을 자동으로 발사합니다. 이 공격은 400의 피해를 주고 적을 1초 동안 속박합니다.",
+  "Available from the Flair and Style Chest or by Direct Purchase.": "{name:Flair and Style} 보물상자에서 획득하거나 직접 구매할 수 있습니다.",
+  "Axe Throw deals up to 40% more damage based on distance traveled, interpolated across it's max range.\nHitting a target with Vine marks them for 3s. Hitting a marked target with your melee attacks LMB deals 25% more damage. Weapon attacks do not consume the mark.": "{name:Axe Throw}의 피해가 최대 사거리까지 이동한 거리에 비례해 최대 40% 증가합니다.\n{name:Vine}으로 적중한 대상에게 3초 동안 표식이 부여됩니다. 표식이 있는 대상에게 마우스 왼쪽 버튼 근접 공격을 적중시키면 피해가 25% 증가합니다. 무기 공격은 표식을 소모하지 않습니다.",
+  "Barik Turrets now shoot flames.": "{name:Barik}의 포탑이 화염을 발사합니다.",
+  "Base buff-while-marked talent": "표식이 부여된 동안 기본 강화 효과를 제공하는 특성.",
+  "Because of weirdness too complicated to explain, you must set the adjusted ammo count BOTH in the Mode Properties and in the While Active effect below.  It won't work if you don't!  Life is pain.": "복잡한 내부 동작 때문에 변경된 탄약 수를 발사 방식 속성과 아래의 활성 중 효과에 모두 설정해야 합니다. 둘 중 하나라도 빠지면 작동하지 않습니다.",
+  "Blast Back now knocks enemies straight up and they take more DMG from Saati.": "{name:Blast Back}이 적을 수직으로 띄우며 대상이 {name:Saati}에게 받는 피해 증가.",
+  "Blast Back talent.": "{name:Blast Back} 특성.",
+  "Blink may be used a second time within 4s to return to the initial casting location": "{name:Blink}을 4초 안에 다시 사용하면 최초 시전 위치로 돌아감.",
+  "Blood me please": "피를 주세요.",
+  "Blunderbuss fires faster.": "{name:Blunderbuss}의 발사 속도 증가.",
+  "Blunderbuss now fires a slug.": "{name:Blunderbuss}가 슬러그탄을 발사합니다.",
+  "BombKing": "{name:Bomb King}",
+  "Box hit. CV1 = length, CV2 = width of box": "상자 판정. 사용자 정의 값1 = 길이, 값2 = 상자 너비.",
+  "Bring retribution down on your enemies, executing targets below 65% health and destroying all shields. Enemies above 65% health take 600 damage.": "적에게 응징을 내려 체력이 65% 미만인 대상을 처형하고 모든 보호막을 파괴합니다. 체력이 65%를 초과하는 적은 600의 피해를 받습니다.",
+  "Buck leaps an incredible height and distance.": "{name:Buck}이 매우 높고 멀리 도약합니다.",
+  "Burst Rifle Talent firemode": "{name:Burst Rifle} 특성 발사 방식.",
+  "CD of deflector shield is halved if destroyed, 9s icd; increase shield health by 500": "{name:Deflector Shield} 파괴 시 재사용 대기시간이 절반으로 감소. 내부 재사용 대기시간 9초. 보호막 체력 500 증가.",
+  "CV1 is height, CV2 is lateral movement": "사용자 정의 값1은 높이, 값2는 수평 이동입니다.",
+  "CV1=max radius of prop spawn, CV2=min radius of prop spawn": "사용자 정의 값1=소품 생성 최대 반경, 값2=소품 생성 최소 반경.",
+  "Caspian Talent": "{name:Caspian} 특성.",
+  "Chain lightning does double damage to every enemy champion past the second.": "연쇄 번개가 세 번째부터 적중하는 적 챔피언에게 두 배의 피해를 줍니다.",
+  "Champions affected by Battle Shout now also deal 20% increased damage and gain CC immunity for 4s.": "{name:Battle Shout}의 영향을 받는 챔피언은 피해가 20% 증가하고 4초 동안 군중 제어 면역을 얻습니다.",
+  "Champions affected by Shout now also deal increased damage and gain CC immunity.": "{name:Battle Shout}의 영향을 받은 챔피언의 피해가 증가하고 군중 제어 면역을 얻습니다.",
+  "Channel and alter gravity, <font color=\"#1EBEF7\">Lifting</font> an enemy into the air for 1s before violently <font color=\"#1EBEF7\">Pushing</font> them away from your current position for 400 damage. After <font color=\"#1EBEF7\">Pushing</font> an enemy, Aphotic Reaver is set to Antumbra mode for 2s. <br><br>Enemies <font color=\"#1EBEF7\">Pushed</font> with Ominous Brand are <font color=\"#FF8271\">Weakened</font> by 15% to Aphotic Reaver and <font color=\"#FAAB67\">Burn</font> for 10 damage every 0.3s for 3s.": "중력을 바꿔 적을 1초 동안 공중으로 <font color=\"#1EBEF7\">들어 올린</font> 뒤 현재 자신의 위치에서 멀리 <font color=\"#1EBEF7\">밀어내며</font> 400의 피해를 줍니다. 적을 <font color=\"#1EBEF7\">밀어낸</font> 후 암흑의 약탈자가 2초 동안 {name:Antumbra} 상태가 됩니다. <br><br>불길한 낙인이 있는 적이 <font color=\"#1EBEF7\">밀려나면</font> 암흑의 약탈자에 대해 15% <font color=\"#FF8271\">취약</font>해지며 3초 동안 0.3초마다 10의 <font color=\"#FAAB67\">화상</font> 피해를 받습니다.",
+  "Channel nature's power, rapidly healing nearby allies for 2500 every 1s for a short duration.": "자연의 힘을 집중해 짧은 시간 동안 주변 아군의 체력을 1초마다 2500 빠르게 회복합니다.",
+  "Charge forward for 4s. Hitting an enemy will deal 500 damage and apply a <font color=\"#1EBEF7\">Knockup</font>. Cannot be canceled.": "4초 동안 전방으로 돌진합니다. 적중한 적에게 500의 피해를 주고 <font color=\"#1EBEF7\">공중으로 띄우기</font>를 적용합니다. 취소할 수 없습니다.",
+  "Charge now deals bonus damage.": "{name:Charge}이 추가 피해를 줍니다.",
+  "Charge your weapon. Your next shot deals 450 damage to nearby enemies and knocks them back.": "무기를 충전합니다. 다음 사격은 주변 적에게 450의 피해를 주고 밀쳐냅니다.",
+  "Cheap decoys, bigger explosions": "값싼 미끼, 더 큰 폭발.",
+  "Consume stacks with Dark Siphon (projectile) and Obliteration (ground slam) to heal per stack consumed. Use of Dark Siphon or Obliteration at max stacks will augment those abilities.": "{name:Dark Siphon} (투사체) 또는 {name:Obliteration} (지면 강타)으로 중첩을 소모하면 소모한 중첩마다 체력을 회복합니다. 최대 중첩에서 사용하면 해당 기술이 강화됩니다.",
+  "Consuming a victim of your ultimate recharges your ultimate and heals you.": "궁극기로 대상을 삼키면 궁극기 충전량과 체력을 회복합니다.",
+  "Consuming a victim of your ultimate recharges your ultimate by 50% and heals you for 1000.": "궁극기로 대상을 삼키면 궁극기 충전량을 50%, 체력을 1000 회복합니다.",
+  "Corvus abilities": "{name:Corvus}의 기술.",
+  "Countering an attack deals more damage and no longer takes you out of your Counter State.": "공격을 막아내면 피해가 증가하고 {name:Counter} 상태가 종료되지 않습니다.",
+  "Create a Shield in front of you. This Shield has 4500 Health and lasts 6s or until destroyed. Affected by Wrecker.": "전방에 체력이 4500인 보호막을 생성합니다. 보호막은 6초 동안 또는 파괴될 때까지 유지되며 파괴자의 영향을 받습니다.",
+  "Create an illusion that heals a nearby ally for 420 every second.": "주변 아군의 체력을 매초 420 회복하는 환영을 생성합니다.",
+  "Crippling shot now silences enemies": "{name:Crippling shot}이 적을 침묵시킵니다.",
+  "Crit1: Hitting all 3 shots of Defiance does and additional <CV1> damage.\r\n\r\nDefiance gains <CV2>% attack speed for <CV3> seconds after Androxus uses Nether Step.": "조건1: {name:Defiance}의 사격 3회를 모두 적중시키면 <CV1>의 추가 피해를 줍니다.\r\n\r\n{name:Androxus}의 {name:Nether Step} 사용 후 <CV3>초 동안 {name:Defiance}의 공격 속도가 <CV2>% 증가합니다.",
+  "Crit1: Your first shot after Dodge Rolling (within <CV1> seconds) deals <CV2>% more damage. Missing cancels the combo.\n\nCrit2: Targets hit by Disengage are marked for <CV3> seconds, hitting a marked target with your Shortbow deals <CV4>% more damage and consumes the mark. Hitting an unmarked pawn cancels the combo.": "연계1: {name:Dodge Roll} 후 <CV1>초 이내에 하는 첫 사격의 피해가 <CV2>% 증가합니다. 빗나가면 연계가 취소됩니다.\n\n연계2: {name:Disengage}에 적중한 대상에게 <CV3>초 동안 표식이 부여됩니다. 표식이 있는 대상에게 {name:Shortbow}을 적중시키면 피해가 <CV4>% 증가하며 표식을 소모합니다. 표식이 없는 대상에게 적중시키면 연계가 취소됩니다.",
+  "Crossbow shots deal 945 damage at long range.": "{name:Crossbow} 사격이 원거리에서 945의 피해를 줍니다.",
+  "Crossbow shots deal increased damage at range.": "{name:Crossbow} 사격의 원거리 피해 증가.",
+  "Custom Value 1: Gravity Multiplier": "사용자 지정 값 1: 중력 배수.",
+  "Custom device for the support device fired by Princess's F ability halfway through her charge.": "{name:Princess}가 돌진 도중 F 기술로 발사하는 지원 장치를 위한 맞춤 장치입니다.",
+  "DR and MS while Hidden is active": "{name:Hidden} 활성화 중 받는 피해 감소 및 이동 속도 증가.",
+  "DR for 2s after hitting siphon": "{name:Siphon} 적중 후 2초 동안 받는 피해가 감소합니다.",
+  "DR on activating latch": "{name:Latch} 사용 시 받는 피해가 감소합니다.",
+  "Dagger hits reduce cooldown of prowl": "단검 적중 시 {name:Prowl} 재사용 대기시간 감소.",
+  "Damage reduction after using blossom": "{name:Blossom} 사용 후 받는 피해 감소.",
+  "Damage/heal with slither": "{name:Slither}로 피해를 주거나 치유.",
+  "Dash forward at great speed dealing 200 damage.": "빠르게 전방으로 돌진해 200의 피해를 줍니다.",
+  "Dash forward at great speed dealing damage.": "빠르게 전방으로 돌진해 피해를 줍니다.",
+  "Dash forward at great speed poly anyone hit.": "빠르게 전방으로 돌진해 적중한 대상을 변이시킵니다.",
+  "Dash forward at great speed stunning anyone hit.": "빠르게 전방으로 돌진해 적중한 대상을 기절시킵니다.",
+  "Dashing": "돌진 중.",
+  "Dead Zone damages shields for half of their maximum Health per second, and its cooldown is reduced.": "{name:Dead Zone}이 매초 보호막 최대 체력의 절반만큼 피해를 주고 재사용 대기시간이 감소합니다.",
+  "Deadly Domain now has 2 charges with increased Cooldown.": "{name:Deadly Domain} 충전 횟수가 2회가 되고 재사용 대기시간 증가.",
+  "Deal bonus damage for your next shot after Dodge Roll.": "{name:Dodge Roll} 사용 후 다음 사격에 추가 피해.",
+  "Deal bonus damage on your first Weapon Shot out of Hidden": "{name:Hidden} 종료 후 첫 무기 사격의 피해 증가.",
+  "Deal extra inhand damage to targets marked by frag grenade. The first few shots of your clip deal extra damage.": "파편 수류탄으로 표식이 부여된 대상에게 기본 공격으로 추가 피해를 줍니다. 탄창의 처음 몇 발이 추가 피해를 줍니다.",
+  "Deal increased damage based on your missing Health.": "잃은 체력에 따라 피해가 증가합니다.",
+  "Deal increased damage to Shields.": "보호막에 주는 피해 증가.",
+  "Deal increased damage to low health enemies.": "체력이 낮은 적에게 주는 피해 증가.",
+  "Deal large damage to self": "자신에게 큰 피해를 줍니다.",
+  "Deal more damage from your first two Weapon Shots after Prowl ends.": "{name:Prowl} 종료 후 처음 두 번의 무기 사격 피해 증가.",
+  "Deal more damage to your Retribution target": "{name:Retribution} 대상에게 주는 피해 증가.",
+  "Deal more damage with Blitz Upper based on your opponent’s missing health.": "대상이 잃은 체력에 따라 {name:Blitz Upper}의 피해 증가.",
+  "Dealing damage with SMGs restores Stamina.": "{name:Submachine Guns}로 피해를 주면 기력을 회복합니다.",
+  "Decrease ability cooldowns by 10% for your team for the entire match.": "경기 내내 아군 팀의 기술 재사용 대기시간을 10% 감소시킵니다.",
+  "Decrease the projectile speed of Saati's Coin": "{name:Saati}의 동전 투사체 속도 감소.",
+  "Decrease the recoil of Mag dump by {scale=10|10}%": "{name:Mag Dump} 반동 {scale=10|10}% 감소.",
+  "Decreases base damage, gain un-scoped Accuracy, and Pistol gains perfect accuracy.": "기본 피해가 감소하지만 비조준 사격 정확도가 증가하며 권총은 완벽한 정확도 획득.",
+  "Deploy Luna to fight alongside you. Luna will rush and <font color=\"#1EBEF7\">Stun</font> enemies that have been Marked by your Light Bow for 1s every 15s. Luna strikes enemies twice for 200 damage and a third time for 350 damage. Luna can be redeployed to a new location every 8s while alive, with a deploy range of 50 units. Luna has 4000 Health and is affected by Bulldozer. Luna Heals allies within 30 units around her for 300 per second.": "루나를 배치해 함께 싸웁니다. 루나는 15초마다 빛의 활로 표식이 부여된 적에게 돌진해 1초 동안 <font color=\"#1EBEF7\">기절</font>시킵니다. 처음 두 번의 공격은 각각 200, 세 번째 공격은 350의 피해를 줍니다. 살아 있는 루나는 8초마다 다른 위치에 다시 배치할 수 있으며 배치 사거리는 50 유닛입니다. 루나의 체력은 4000이고 불도저의 영향을 받습니다. 루나 주변 30 유닛 안의 아군은 매초 체력을 300 회복합니다.",
+  "Deploy a healing totem that restores 300 health every 1s to allies within its area.": "범위 내 아군의 체력을 1초마다 300 회복하는 치유 토템을 배치합니다.",
+  "Deploy a totem with 1000 health that heals nearby allies for 420 Health every second and lasts 6 seconds.": "체력이 1000인 토템을 배치합니다. 6초 동안 유지되며 주변 아군의 체력을 매초 420 회복합니다.",
+  "Deploy an obelisk that channels nature's wrath in an area to <font color=\"#1EBEF7\">Slow</font> and deal 150 damage every 1s to enemies caught inside.": "자연의 분노를 집중시키는 석탑을 배치해 범위 안의 적을 <font color=\"#1EBEF7\">둔화</font>시키고 1초마다 150의 피해를 줍니다.",
+  "Deploy main beam deployable": "주 광선 설치물을 배치합니다.",
+  "Detonate all active Sticky Bombs, causing them to explode.": "활성화된 모든 {name:Sticky Bomb}을 폭발시킵니다.",
+  "Detonate your Soul Orb charges, dealing 100 damage for each stack on an enemy. Enemies with 4 charges will be <font color=\"#1EBEF7\">Stunned</font> for 1s. <br><br><b>Passive: Soul Collector</b><br>Each Soul Orb charge you detonate Heals you for 12% of your maximum Health, as well as increases your maximum Health and weapon damage by 1.5% until you die or the start of a new round. Buff effects stack up to 16 times.": "영혼 구슬 중첩을 폭발시켜 적에게 중첩당 100의 피해를 줍니다. 중첩이 4개인 적은 1초 동안 <font color=\"#1EBEF7\">기절</font>합니다. <br><br><b>지속 효과: 영혼 수집가</b><br>영혼 구슬 중첩을 폭발시킬 때마다 최대 체력의 12%를 회복하고, 사망하거나 새 라운드가 시작될 때까지 최대 체력과 무기 피해가 1.5% 증가합니다. 강화 효과는 최대 16회 중첩됩니다.",
+  "Detonating 10 stacks of Magic Mark increases allies Movement Speed.": "{name:Magic Mark} 10중첩 폭발 시 아군의 이동 속도 증가.",
+  "Detonating a Fire Spit within 2s of using Thrust causes it to deal 500 bonus damage.": "{name:Thrust} 사용 후 2초 이내에 {name:Fire Spit}를 폭발시키면 500의 추가 피해를 줍니다.",
+  "Device controlling the actual firing of the barrage - not the binoculars.": "쌍안경이 아닌 포격 발사를 제어하는 장치입니다.",
+  "Device that allows the owning pawn to climb walls. Intended for Koga, but with a little bit of work in the Pawn class can be used for other champions.": "소유 캐릭터가 벽을 오르게 하는 장치입니다. {name:Koga}용이지만 캐릭터 클래스를 약간 수정하면 다른 챔피언도 사용할 수 있습니다.",
+  "Device that shoots projectiles from living bomb target": "살아 있는 폭탄 대상에서 투사체를 발사하는 장치입니다.",
+  "Device used by deployable": "설치물이 사용하는 장치입니다.",
+  "Dimensional Link now heals you every time it is used.": "{name:Dimensional Link}을 사용할 때마다 체력 회복.",
+  "Distortion Filed damages enemies and heals allies": "{name:Distortion Field}이 적에게 피해를 주고 아군 치유.",
+  "Double Nullify's range.": "{name:Nullify} 사거리가 두 배가 됨.",
+  "Dummy device for death recap reporting override when killing with Frost Bolt.": "{name:Frost Bolt} 처치 시 사망 요약 표시를 변경하는 임시 장치입니다.",
+  "Dummy device for reporting death recap when killed by frost bomb.": "서리 폭탄으로 처치되었을 때 사망 요약을 표시하는 임시 장치입니다.",
+  "Each Soul Charge you detonate increases your Base Health and Weapon Damage until you die. Stacks up to 12 times.": "폭발시킨 {name:Soul Charge}마다 사망할 때까지 기본 체력과 무기 피해가 증가하며 최대 12회 중첩됩니다.",
+  "Ejects spent Soul Crystals dealing 100 reverse damage each in a massive implosion. If this ability is instead activated by an enemy player it will reset the allowed directions Nyx can travel.": "소모한 {name:Soul Crystals}을 방출하여 거대한 내파로 각각 100의 반전 피해를 줍니다. 적 플레이어가 이 기술을 활성화하면 {name:Nyx}가 이동할 수 있는 방향이 초기화됩니다.",
+  "Elemental Shift reduces the Cooldown of Frost Bomb and Inferno Cannon": "{name:Elemental Shift} 사용 시 {name:Frost Bomb} 및 {name:Inferno Cannon} 재사용 대기시간 감소.",
+  "Eliminations increase your attack speed by 20% for 10s.": "처치 관여 시 10초 동안 공격 속도가 20% 증가합니다.",
+  "Eliminations increase your attack speed for 10s.": "처치 관여 시 10초 동안 공격 속도가 증가합니다.",
+  "Eliminations increase your maximum Health until you die. Stacks up to 5 times.": "처치 관여 시 사망할 때까지 최대 체력 증가. 최대 5회 중첩.",
+  "Empowered Booster.": "강화된 {name:Booster}.",
+  "Enemies are Revealed take more weapon damage after walking through Abyssal Fortress. Reduce CD by 2s.": "{name:Abyssal Fortress}을 통과한 적의 위치를 드러내고 대상이 받는 무기 피해 증가. 재사용 대기시간 2초 감소.",
+  "Enemies are rooted in place when they are hit by the ult pre fire": "궁극기 발사 준비 공격에 맞은 적을 제자리에 속박.",
+  "Enemies inside Smoke Screen are silenced.": "{name:Smoke Screen} 안의 적을 침묵시킵니다.",
+  "Enemies that pass through Abyssal Fortress are <font color=\"#f3cf6f\">Revealed</font> and take 10% additional weapon damage from you and your allies for 3s. Reduce Abyssal Fortress' Cooldown by 2s.": "심연의 요새를 통과한 적의 위치가 <font color=\"#f3cf6f\">드러나며</font> 3초 동안 자신과 아군의 무기로 받는 피해가 10% 증가합니다. 심연의 요새의 재사용 대기시간이 2초 감소합니다.",
+  "Enemies within 300ft have their vision restricted to a 30 foot radius for 20s.": "300피트 내 적의 시야가 20초 동안 반경 30피트로 제한됩니다.",
+  "Energy charge device for Caspian": "{name:Caspian}의 에너지 충전 장치입니다.",
+  "Energy charge device for Kasumi": "{name:Kasumi}의 에너지 충전 장치입니다.",
+  "Energy charge device for the Lawman character.": "{name:Lawman} 캐릭터의 에너지 충전 장치입니다.",
+  "Energy charge device for the Vanguard character.": "{name:Vanguard} 캐릭터의 에너지 충전 장치입니다.",
+  "Enter a defensive state that lasts 5s where you and your deployables take 30% reduced damage and you take 40% increased healing.": "5초 동안 방어 상태에 들어가 자신과 설치물이 받는 피해가 30% 감소하고 자신이 받는 치유량이 40% 증가합니다.",
+  "Enter self destruct state for 2s then deal damage in a radius destroying yourself too.": "2초 동안 자폭 상태에 들어간 뒤 범위 피해를 주고 자신도 파괴됩니다.",
+  "Every 0.1s deal 50 damage in a column of magical energy. Every hit applies 1 Magic Mark to the victim, stacking up to 10.": "마법 에너지 기둥으로 0.1초마다 50의 피해를 줍니다. 적중할 때마다 대상에게 {name:Magic Mark} 1중첩을 부여하며 최대 10중첩까지 쌓입니다.",
+  "Every 0.7s fire an explosive projectile that deals 850 damage. Reloading fires a slow traveling projectile that deals 1000 damage.": "0.7초마다 850의 피해를 주는 폭발성 투사체를 발사합니다. 재장전 시 1000의 피해를 주는 느린 투사체를 발사합니다.",
+  "Every tick of healing or damage from Gourd reduces the cooldown of Gourd.": "{name:Gourd}의 치유 또는 피해가 적용될 때마다 {name:Gourd}의 재사용 대기시간 감소.",
+  "Evie gains <CV2>% damage bonus within <CV1> seconds after using Blink.\r\n\r\nWhen in Ice Block you have a radius that grows around you, when Ice Block ends or is terminated, anyone that is inside the radius will be stunned and marked for <CV3> seconds. Evie gains <CV4>% damage bonus on enemies marked by Ice Block.": "{name:Evie}의 {name:Blink} 사용 후 <CV1>초 안에 피해가 <CV2>% 증가합니다.\r\n\r\n{name:Ice Block} 중 자신 주변의 범위가 커집니다. 기술이 끝나거나 취소되면 범위 안의 모든 대상이 기절하고 <CV3>초 동안 표식이 부여됩니다. {name:Evie}는 이 표식이 있는 적에게 <CV4>%의 추가 피해를 줍니다.",
+  "Expand your shield to block 20,000 damage for 60s. You cannot attack while your shield is active.": "보호막을 확장해 60초 동안 20,000의 피해를 막습니다. 보호막이 활성화된 동안 공격할 수 없습니다.",
+  "Experiment for Ranged Terminus in-hand.": "{name:Terminus} 원거리 기본 공격 시험용.",
+  "Experimental Talent for Buck": "{name:Buck}의 시험용 특성.",
+  "Explosion, cooldown reduction, profit, repeat": "폭발, 재사용 대기시간 감소, 이득, 반복.",
+  "Extend the duration of your Body and Soul by 1s. Heal for 70% of the damage your body took while traveling after the ability ends, unaffected by Cauterize.": "{name:Body and Soul} 지속시간이 1초 증가합니다. 기술 종료 후 이동 중 몸이 받은 피해의 70%만큼 체력을 회복하며 {name:Cauterize}의 영향을 받지 않습니다.",
+  "Fire a concentrated ball of chronon energy that <font color=\"#1EBEF7\">Rewinds</font> its victim back to where they physically were 4s in the past. This Rewind takes place over the course of 1s. This blast reverts their Health to its lowest point during that period.": "응축된 시간 에너지 구체를 발사해 대상을 4초 전의 위치로 <font color=\"#1EBEF7\">되돌립니다</font>. 되돌리기는 1초에 걸쳐 진행되며 대상의 체력은 해당 기간 중 가장 낮았던 수치로 돌아갑니다.",
+  "Fire a flare that reveals enemies to your team in a large radius.": "넓은 범위의 적 위치를 아군 팀에 표시하는 조명탄을 발사합니다.",
+  "Fire a shot every 0.14s dealing 170 damage. Effective up to Medium range. While firing you move 50% slower.": "0.14초마다 170의 피해를 주는 탄환을 발사합니다. 중거리까지 효과적입니다. 발사 중 이동 속도가 50% 감소합니다.",
+  "Fire an explosive flask that deals 150 damage and slows enemies by 50% for 2.5s.": "{name:Explosive Flask}을 발사해 150의 피해를 주고 적을 2.5초 동안 50% 둔화시킵니다.",
+  "Fire mode for the Death Hastens talent": "{name:Death Hastens} 특성의 발사 방식.",
+  "Fire one shot every 0.09 seconds that deals 120 damage. Effective up to Medium Range.": "0.09초마다 120의 피해를 주는 탄환을 발사합니다. 중거리까지 효과적입니다.",
+  "Fire one shot every 0.1s that deals 135 damage. Effective up to Medium Range.": "0.1초마다 135의 피해를 주는 탄환을 발사합니다. 중거리까지 효과적입니다.",
+  "Fireball deals 50% more damage for each consecutive target it hits after the first.": "{name:Fireball}이 첫 대상 이후 연이어 적중하는 대상마다 피해가 50% 증가합니다.",
+  "Fireball deals more damage and even more for each subsequent target hit.": "{name:Fireball} 피해 증가 및 연속으로 맞힌 후속 대상마다 추가 피해.",
+  "Firemode 2 for Talent 1\n\nStorage for effects\n\nCustom Value 1 stores the health threshold at which they flip": "특성 1의 발사 방식 2.\n\n효과 보관용.\n\n사용자 정의 값 1에 전환되는 체력 기준값을 저장합니다.",
+  "Firemode 2 for talent that gives card benefits to allies.": "아군에게 카드 효과를 부여하는 특성의 발사 방식 2.",
+  "Firemode activated by the Cursed Cylinder talent": "{name:Cursed Cylinder} 특성이 활성화하는 발사 방식.",
+  "Firemode for Spirit's Domain Talent - Heals friendly allies. Update with base Lightning Staff.": "{name:Spirit's Domain} 특성의 발사 방식으로 아군을 치유합니다. 기본 {name:Lightning Staff} 변경 시 함께 갱신하십시오.",
+  "Firemode for Tremor Legendary": "{name:Tremor} 전설 특성의 발사 방식.",
+  "Firemode for old Talent that lets smoke Silence": "연막으로 침묵을 적용하는 이전 특성의 발사 방식.",
+  "Fires a continuous beam for a short period that deals 5 ticks of 90 damage over .2 seconds every .5s. Effective up to Medium Range.": "짧은 시간 동안 지속 광선을 발사해 .5초마다 .2초에 걸쳐 90의 피해를 5회 줍니다. 중거리까지 효과적입니다.",
+  "Fires a continuous beam for a short period that deals 5 ticks of 90 damage over 0.2s every 0.5s. Effective up to Medium Range.": "짧은 시간 동안 지속 광선을 발사해 0.5초마다 0.2초에 걸쳐 90의 피해를 5회 줍니다. 중거리까지 효과적입니다.",
+  "Flame Lance now shoots fireballs.": "{name:Flame Lance}이 화염구를 발사합니다.",
+  "Flare deals more Damage, its Projectile Speed is increased, and hit enemies take more damage, but aren't Revealed.": "{name:Flare} 피해와 투사체 속도가 증가하며 적중한 적이 받는 피해가 증가하지만 위치를 드러내지 않음.",
+  "Flare deals more Damage, its Projectile Speed is increased, and its Cooldown is reduced.": "{name:Flare}의 피해와 투사체 속도가 증가하고 재사용 대기시간이 감소합니다.",
+  "Focus the power of your gauntlet and channel a beam of energy on a single enemy for 2.5s, silencing them and dealing 800 damage over the duration.": "건틀릿의 힘을 집중해 적 하나에게 2.5초 동안 에너지 광선을 발사합니다. 대상을 침묵시키고 지속시간 동안 800의 피해를 줍니다.",
+  "For 4s, swap locations with the furthest illusion. If none are deployed, it will take Ying to the location of the last active Illusion.": "4초 동안 가장 멀리 있는 환영과 위치를 바꿉니다. 배치된 환영이 없으면 {name:Ying}이 마지막으로 활성화되었던 환영의 위치로 이동합니다.",
+  "For Grover LTM. Applies a very small knock back up to override current knockback.": "{name:Grover} 기간 한정 모드용입니다. 기존 밀쳐내기를 덮어쓰기 위해 아주 약한 위쪽 밀쳐내기를 적용합니다.",
+  "For Wisps of Sylvanus Talent": "{name:Wisps of Sylvanus} 특성용.",
+  "For each subsequent sticky bomb that hits a target after the first, it deals 30% more damage.": "첫 {name:Sticky Bomb} 이후 같은 대상에 적중하는 폭탄마다 피해가 30% 증가합니다.",
+  "For every 6 champions eliminated by your team, each member gains 100 credits.": "아군 팀이 챔피언을 6명 처치할 때마다 각 팀원이 크레딧 100을 얻습니다.",
+  "For every enemy you hit with Valor gain increased damage.": "{name:Valor}로 적을 맞힐 때마다 피해 증가.",
+  "For healing talent": "치유 특성용.",
+  "For use with talent that hurt enemies and heals allies.": "적에게 피해를 주고 아군을 치유하는 특성용.",
+  "Gain 80% Movement and 120% Attack Speed after a kill": "처치 후 이동 속도가 80%, 공격 속도가 120% 증가합니다.",
+  "Gain Damage Reduction and CC Immunity while using Combat Slide. Increase its Cooldown.": "{name:Combat Slide} 사용 중 받는 피해 감소 및 군중 제어 면역 획득. 재사용 대기시간 증가.",
+  "Gain a personal shield for 1.75s after falling to or below 75% Health. ICD 35s": "체력이 75% 이하로 떨어지면 1.75초 동안 개인 보호막 획득. 내부 재사용 대기시간 35초.",
+  "Gain a second charge of Protection.": "{name:Protection}의 추가 사용 횟수 획득.",
+  "Gain bonus damage on your first shot after hitting an enemy with Dredge Anchor.": "{name:Dredge Anchor}로 적 적중 후 첫 사격에 추가 피해.",
+  "Generate {scale= 1|1}% Ultimate charge after getting Killing Blow or Elimination while Designated Sights is active.": "지정 조준경 사용 중 처치 또는 처치 관여 시 궁극기 충전량을 {scale= 1|1}% 얻습니다.",
+  "Give lifesteal to ally and heal based on their lifesteal healing": "아군에게 생명력 흡수를 부여하고 아군이 흡수한 체력에 비례해 체력 회복.",
+  "Gourd has a 50% chance to not go on Cooldown": "{name:Gourd}에 50% 확률로 재사용 대기시간이 적용되지 않습니다.",
+  "Grabs people near to you, and rewinds them": "주변 대상을 붙잡고 시간을 되돌립니다.",
+  "Grapple to walls and stick to them for up to 5s becoming stealthed for the duration. VII can also hit enemy Champions, dealing 200 damage.": "갈고리로 벽에 매달려 최대 5초 동안 은신합니다. {name:Vii}은 적 챔피언을 맞혀 200의 피해를 줄 수도 있습니다.",
+  "Ground Slam Knockup + short silence": "{name:Ground Slam}의 공중 띄우기 + 짧은 침묵.",
+  "Grumpy Bomb destroys all shields when it explodes and has a larger blast radius.": "{name:Grumpy Bomb}이 폭발할 때 모든 보호막을 파괴하며 폭발 범위가 증가합니다.",
+  "Headshot/Body DMG modifier": "헤드샷/몸통 피해 배율.",
+  "Headshots deal additional damage.": "헤드샷이 추가 피해를 줍니다.",
+  "Headshots deal an additional percent of your target's maximum health as damage.": "헤드샷이 대상의 최대 체력에 비례하는 추가 피해를 줍니다.",
+  "Heal all allies near your Restore Soul target.": "{name:Restore Soul} 대상 주변의 모든 아군을 치유합니다.",
+  "Heal aura activated through talent": "특성으로 활성화되는 치유 오라.",
+  "Heal for a portion of the damage you deal.": "주는 피해의 일부만큼 체력 회복.",
+  "Healing Totem heals for more and gains a third charge. Remedy": "{name:Healing Totem}의 치유량이 증가하고 세 번째 사용 횟수를 얻습니다. {name:Remedy}.",
+  "Healing allies with Blossom will heal them for an additional amount over time.": "{name:Blossom}으로 아군을 치유하면 일정 시간 동안 추가로 치유합니다.",
+  "Heroic Leap now deals damage and knocks up enemies near where you land.": "{name:Heroic Leap} 착지 시 주변 적에게 피해를 주고 공중으로 띄웁니다.",
+  "Hits with your SMGs cost no ammo.": "{name:Submachine Guns} 적중 시 탄약을 소모하지 않습니다.",
+  "Hitting a fully charged shot increases the damage of your next fully charged shot as a stacking buff. Stacks reset when you miss.": "완전히 충전한 사격이 적중하면 다음 완전히 충전한 사격의 피해를 증가시키는 효과가 중첩됩니다. 빗나가면 중첩이 초기화됩니다.",
+  "Hitting a target with Vine marks them for 3s. Hitting a marked target with your melee attacks LMB deals 25% more damage. Weapon attacks do not consume the mark.": "{name:Vine}로 적을 맞히면 3초 동안 표식이 부여됩니다. 표식이 있는 적을 마우스 왼쪽 버튼 근접 공격으로 맞히면 피해가 25% 증가합니다. 무기 공격은 표식을 소모하지 않습니다.",
+  "Hitting all shots on the same target deals extra damage.": "모든 사격을 같은 대상에게 적중시키면 추가 피해를 줍니다.",
+  "Hitting an ally with Healing Potion increases your attack speed.": "{name:Healing Potion}로 아군 적중 시 공격 속도 증가.",
+  "Hitting both daggers reduces the cooldown of Nine Lives.": "두 단검을 모두 적중시키면 {name:Nine Lives}의 재사용 대기시간 감소.",
+  "Hitting marked enemies increases movement and attack speed by 10% for 4s. Stacks 3 times.": "표식이 부여된 적 적중 시 4초 동안 이동 및 공격 속도 10% 증가. 최대 3회 중첩.",
+  "Holder for reducing base pyre ball damage while this device is equipped.": "이 장치 장착 중 기본 화염구 피해를 감소시키는 효과를 보관합니다.",
+  "Hunter's Mark's damage increase now benefits allies, it's damage increase is stronger, and has a reduced Cooldown.": "{name:Hunter's Mark} 피해 증가 효과가 아군에게도 적용되며 효과 증가 및 재사용 대기시간 감소.",
+  "Hurl an incendiary device that leaves a pool of fire for 6s. Enemies that contact the fire will burn for 9% of their maximum health over 0.6s and have their healing reduced by 50%. Continued Contact refreshes this effect.": "소이 장치를 던져 6초 동안 화염 지대를 만듭니다. 불에 닿은 적은 0.6초 동안 최대 체력의 9%에 해당하는 화상 피해를 받고 받는 치유량이 50% 감소합니다. 계속 불에 닿으면 효과가 갱신됩니다.",
+  "Hurl an incendiary device that leaves a pool of fire on impact for 6s. Enemies that contact the fire will <font color=\"#FAAB67\">Burn</font> for 9% of their maximum Health over 0.6s. Continued contact refreshes the effect. The pool spreads from the initial point of contact and does 33% reduced damage to you. Fire Bomb has a range of 500 units.": "소이 장치를 던져 충돌 지점에 6초 동안 화염 웅덩이를 만듭니다. 불에 닿은 적은 0.6초에 걸쳐 최대 체력의 9%만큼 <font color=\"#FAAB67\">화상</font> 피해를 받으며 계속 닿아 있으면 효과가 갱신됩니다. 화염은 최초 충돌 지점에서 퍼지며 자신에게 주는 피해는 33% 감소합니다. 화염 폭탄의 사거리는 500 유닛입니다.",
+  "Hurl your anchor and reel in an unsuspecting enemy.": "닻을 던져 적을 끌어당깁니다.",
+  "Ice Storm deals more damage and costs less energy, but doesn't last as long.": "{name:Ice Storm} 피해 증가 및 에너지 소모 감소. 지속시간 감소.",
+  "If an enemy is close to your Sensor Drone, it explodes dealing damage and knocking back": "적이 {name:Sensor Drone} 가까이 오면 드론이 폭발해 피해를 주고 밀쳐냄.",
+  "If an enemy is close to your Sensor Drone, it explodes dealing damage.": "적이 {name:Sensor Drone} 가까이 오면 드론이 폭발해 피해를 줍니다.",
+  "If you hit the same target with all 5 ticks of your mirror, you will deal 100 bonus damage.": "거울의 피해 5회를 모두 같은 대상에게 적중시키면 100의 추가 피해를 줍니다.",
+  "Illusions can now target two allies when Healing, but Illusions heal for less.": "환영이 아군 둘을 동시에 치유할 수 있지만 치유량이 감소합니다.",
+  "Impasse has 2 charges and reduced cooldown, but can't get rid of walls": "{name:Impasse} 충전 횟수가 2회가 되고 재사용 대기시간 감소. 벽을 제거할 수 없음.",
+  "Increase Damage of Vatu's Ult": "{name:Vatu}의 궁극기 피해 증가.",
+  "Increase Second Chances healing": "{name:Second Chance} 치유량 증가.",
+  "Increase damage done on enemies hit by Cataclysm.": "{name:Cataclysm}에 적중한 적에게 주는 피해 증가.",
+  "Increase heal of corruption stack consumption": "타락 중첩을 소모할 때의 치유량 증가.",
+  "Increase healing % of mark": "표식 치유량 % 증가.",
+  "Increase the area of effectiveness of missile launcher explosions": "미사일 발사기 폭발 유효 범위 증가.",
+  "Increase the duration of Body and Soul by {scale=0.1|0.1}s.": "몸과 영혼의 지속시간이 {scale=0.1|0.1}초 증가합니다.",
+  "Increase the duration of Shadow Travel and allow casting of Restore Soul.": "{name:Shadow Travel}의 지속시간이 증가하고 {name:Restore Soul}을 사용할 수 있습니다.",
+  "Increase the duration of Spirit Trap's Crowd Control effects by {0.2|0.2}s.": "영혼 덫의 군중 제어 효과 지속시간이 {0.2|0.2}초 증가합니다.",
+  "Increase the heal from Savage Tear on hitting an enemy with Curse stacks by {scale=10|10} per stack.": "잔혹한 찢기로 저주가 중첩된 적 적중 시 중첩당 치유량이 {scale=10|10} 증가합니다.",
+  "Increase the health of your shield by {scale=150|150}.": "보호막 체력 {scale=150|150} 증가.",
+  "Increase the length of Saati's invisbility after deployment of Decoy": "{name:Saati}가 {name:Decoy}를 배치한 후 은신하는 시간이 증가합니다.",
+  "Increase the passive healing and radius of Blossom.": "{name:Blossom}의 지속 치유량과 범위 증가.",
+  "Increase the radius that Coin Shot explodes.": "{name:Coin Shot}의 폭발 반경이 증가합니다.",
+  "Increase your Axe's damage. Surgery": "도끼 피해 증가. {name:Surgery}.",
+  "Increase your Blood Health.": "혈액 체력 증가.",
+  "Increase your Decoy's Health": "{name:Decoy}의 체력이 증가합니다.",
+  "Increase your air control while drifting by 25%": "활공 중 공중 제어력이 25% 증가합니다.",
+  "Increase your vertical movement bonus while using booster by 100/200/300/400%.": "{name:Booster} 사용 중 수직 이동 보너스가 100/200/300/400% 증가합니다.",
+  "Increased Ghost Walk Duration": "{name:Ghost Walk} 지속시간 증가.",
+  "Increased damage while hip firing.": "비조준 사격 시 피해 증가.",
+  "Increased the damage of each seedling, reduce their fuse time, and apply a DoT to deployable shields.": "각 {name:Seedling}의 피해 증가 및 폭발 지연 시간 감소. 설치형 보호막에 지속 피해 적용.",
+  "Increased tickrate talent": "효과 적용 빈도를 증가시키는 특성.",
+  "Increases the amount of hits Nyx can miss with Realm Breaker before resetting. Increase healing near objectives.": "{name:Nyx}가 {name:Realm Breaker} 연속 공격 초기화 전까지 빗나갈 수 있는 횟수가 증가합니다. 거점 주변에서 치유량이 증가합니다.",
+  "Instantly dash forward, passing through all enemies and dealing 650 damage.": "즉시 전방으로 돌진해 모든 적을 관통하고 650의 피해를 줍니다.",
+  "Killing an enemy resets the Cooldown of Planted and Planted deals more damage.": "적을 처치하면 {name:Planted}의 재사용 대기시간이 초기화되며 {name:Planted}의 피해가 증가합니다.",
+  "Killing your Retribution target grants a damage buff.": "{name:Retribution} 대상을 처치하면 피해 증가 효과 획득.",
+  "Kills increase your damage until you die.": "처치 시 사망할 때까지 피해 증가.",
+  "Kindle Soul heals allies within 50 units of your target at 50% effectiveness.": "{name:Kindle Soul}이 대상 주변 50 유닛 안의 아군을 50% 효율로 치유.",
+  "Kinesssa": "{name:Kinessa}",
+  "Knockback nearby enemies": "주변 적을 밀쳐냅니다.",
+  "Landing Commander's Leap will create a healing pool for yourself and allies.": "{name:Commanding Leap} 착지 시 자신과 아군을 치유하는 영역을 생성합니다.",
+  "Launch a vine from your body and pull yourself to a targeted location.": "몸에서 덩굴을 발사해 목표 위치로 이동.",
+  "Launch upward into the air, whirling your blade around you and blocking all incoming damage. Upon landing, deal 900 damage to all enemies in an 30-unit area around you.": "공중으로 뛰어올라 칼날을 휘두르며 모든 피해를 막습니다. 착지 시 주변 30 유닛 범위의 모든 적에게 900의 피해를 줍니다.",
+  "Launch upward into the air, whirling your blade around you and blocking all incoming damage. Upon landing, deal 900 damage to all enemies in an area around you.": "공중으로 뛰어올라 칼날을 휘두르며 모든 피해를 막습니다. 착지 시 주변 범위의 모든 적에게 900의 피해를 줍니다.",
+  "Let out a fearsome shout, briefly granting damage immunity to yourself. Additionally, heal yourself and nearby allies for 1000 health.": "위협적인 함성을 질러 잠시 피해에 면역이 됩니다. 자신과 주변 아군의 체력을 1000 회복합니다.",
+  "Lian's Glass Cannon Device": "리안의 {name:Glass Cannon} 장치",
+  "Lower your weapon and run 65% slower.": "무기를 내리고 65% 느리게 달립니다.",
+  "MVP": "최우수 선수 연출.",
+  "Magic Marks are applied to enemies, and deal bonus damage on detonation in an AoE.": "적에게 {name:Magic Mark}을 부여하며 폭발 시 범위 안에 추가 피해.",
+  "Maldamba": "{name:Mal'Damba}",
+  "Manifest arcane forces and send it forth, bouncing between your initial target and up to 4 additional allies, Healing them for 550 per bounce. <font color=\"#E74CA7\">Linked</font> allies are healed for 30% more.": "비전의 힘을 발사해 최초 대상과 최대 4명의 추가 아군 사이를 튕기며 적중할 때마다 체력을 550 회복합니다. <font color=\"#E74CA7\">연결된</font> 아군은 치유량이 30% 증가합니다.",
+  "Manifest arcane forces and send them outward, Chaining between your initial target and up to 4 additional allies, Healing them for 550 per bounce. <font color=\"#E74CA7\">Linked</font> allies are Healed for 30% more.": "비전의 힘을 발사해 최초 대상과 최대 4명의 추가 아군 사이를 연결하며 적중할 때마다 체력을 550 회복합니다. <font color=\"#E74CA7\">연결된</font> 아군은 치유량이 30% 증가합니다.",
+  "Marking 2 enemies grants healing per second.": "적 2명에게 표식이 있으면 매초 체력 회복.",
+  "Mending Spirits now can be cast on enemies to deal 560 damage over 2s.": "{name:Mending Spirits}을 적에게 시전해 2초 동안 560의 피해를 줄 수 있습니다.",
+  "Midnight now executes targets at or below 25% Health.": "{name:Midnight}이 체력이 25% 이하인 대상을 처형합니다.",
+  "More Missiles for Ruckus": "{name:Ruckus}용 추가 미사일.",
+  "Movement speed bonus while stealthed": "은신 중 이동 속도 증가.",
+  "Net Shot grants bonus damage for as long as the target is slowed.": "{name:Net Shot}으로 대상이 둔화된 동안 추가 피해.",
+  "New Aegis Talent 2024": "2024년의 새 {name:Aegis} 특성.",
+  "New Talent Two: Different Placement Mode": "새 두 번째 특성: 다른 배치 방식.",
+  "Number test": "숫자 시험.",
+  "Nyx gains passive Bonus Healing from all sources the closer she is to the Objective.": "{name:Nyx}는 거점에 가까울수록 모든 치유로부터 받는 추가 치유량이 지속적으로 증가합니다.",
+  "Obtainable from the Flair & Style Chest.": "{name:Flair and Style} 보물상자에서 획득할 수 있습니다.",
+  "Obtainable from the Flair and Style Chest.": "{name:Flair and Style} 보물상자에서 획득할 수 있습니다.",
+  "Obtainable in Gold Chest.": "황금 보물상자에서 획득할 수 있습니다.",
+  "Obtainable via the Flair & Style Chest or by Direct Purchase.": "{name:Flair and Style} 보물상자에서 획득하거나 직접 구매할 수 있습니다.",
+  "Octavia Ultimate sub device that handles firing each cluster.": "{name:Octavia} 궁극기의 각 포탄 묶음 발사를 처리하는 보조 장치입니다.",
+  "Offer their souls as tribute.": "그들의 영혼을 제물로 바치십시오.",
+  "Oppressor Mines can now affect 2 more targets and Sniper Shots against enemies affected by Mines deal more damage.": "{name:Oppressor Mine}이 대상을 2명 더 공격할 수 있으며 지뢰의 영향을 받은 적에게 저격 사격으로 주는 피해가 증가합니다.",
+  "Oppressor Mines now target you to supercharge, healing you for 25 every .2s and providing 100% increased Jump Height. Carbine Mode gains 15% damage while supercharged.": "{name:Oppressor Mine}이 자신을 강화해 .2초마다 체력을 25 회복하고 도약 높이를 100% 증가시킵니다. 강화 중 {name:Carbine}의 피해가 15% 증가합니다.",
+  "Overcharge your Grappling Hook to now pull Non-Frontline Champions to VII.": "{name:Grappling Hook}을 강화해 프론트라인 이외의 챔피언을 {name:Vii}에게 끌어당길 수 있습니다.",
+  "Oww boi, he zooming": "와, 엄청 빨라요.",
+  "Part of all damage dealt to you is instead taken by your deployables if they are active.": "설치물이 활성화되어 있으면 자신이 받는 모든 피해의 일부를 설치물이 대신 받습니다.",
+  "Performs the pulsing explosion for the deployable spawned by Nyx's claws": "{name:Nyx}의 발톱이 생성한 설치물의 반복 폭발을 실행합니다.",
+  "Pip gains 1.5% bonus inhand damage for every 3 feet the projectile travels.": "투사체가 3피트 이동할 때마다 {name:Pip}의 기본 공격 피해가 1.5% 증가합니다.",
+  "Place up to 3 vengeful spirit traps. When an enemy walks within 20 units, these traps explode after a 1s delay. Enemies caught in the blast take 200 damage, are <font color=\"#1EBEF7\">Slowed</font> by 20% for 1.5s, and have 3 Curse stacks applied to them. Traps deal 20% more damage per stack of Curse on a target.\n\n<br> Spirit Traps have 300 Health and are fully Invisible until enemies get within 40 units of them, then become fully Visible within 20 units.": "복수심에 불타는 영혼 덫을 최대 3개 설치합니다. 적이 20 유닛 안으로 접근하면 덫이 1초 후 폭발합니다. 폭발에 맞은 적은 200의 피해를 받고 1.5초 동안 20% <font color=\"#1EBEF7\">둔화</font>되며 저주가 3회 중첩됩니다. 대상의 저주 중첩당 덫 피해가 20% 증가합니다.\n\n<br> 영혼 덫의 체력은 300입니다. 적이 40 유닛 안으로 접근하기 전까지 완전히 보이지 않으며 20 유닛 안으로 접근하면 완전히 드러납니다.",
+  "Poison Bolts deals more damage, twice as fast.": "{name:Poison Bolts} 피해 증가 및 피해 적용 속도 두 배.",
+  "Poppy Bomb now deals bonus damage and cripples.": "{name:Poppy Bomb}이 추가 피해를 주고 이동 기술을 봉쇄합니다.",
+  "Pounce executes targets below 40% health.": "{name:Pounce}: 체력이 40% 미만인 대상을 처형합니다.",
+  "Primary fire short blast": "기본 공격의 짧은 폭발.",
+  "Project a frontal shield that blocks 1400 damage for 6s. You may fire while Deflector Shield is active.": "전방에 6초 동안 1400의 피해를 막는 방패를 펼칩니다. {name:Deflector Shield} 활성화 중에도 사격할 수 있습니다.",
+  "Projectile Speed increase for TF2 in Claws Out": "{name:Claws Out} 모드에서 TF2 투사체 속도 증가",
+  "Projectiles size is decreased by 20% but now pierces enemies, dealing more dmg for each subsequent enemy hit by 90 damage.": "투사체 크기가 20% 감소하지만 적을 관통하며 후속 적을 맞힐 때마다 피해가 90씩 증가.",
+  "Pyre Strike can now be refired to stop movement, and it heals allies within.": "{name:Pyre Strike}을 다시 사용하면 이동을 멈추고 내부 아군 치유.",
+  "Pyre Strike stops moving when it hits an enemy and deals more damage the longer enemies stay within.": "{name:Pyre Strike}이 적에게 적중하면 이동을 멈춥니다. 적이 범위 안에 오래 머무를수록 피해가 증가합니다.",
+  "Pyreball hits reduce the Cooldown of Frost Bomb": "{name:Pyre Ball} 적중 시 {name:Frost Bomb} 재사용 대기시간 감소.",
+  "Quickly dodge in the direction you are moving and fire a rifle shot, dealing 400 damage to the enemy nearest to where you are aiming. This ability has a movement range of 30 units.": "이동 중인 방향으로 빠르게 회피하며 소총을 발사해 조준 지점에 가장 가까운 적에게 400의 피해를 줍니다. 이동 거리는 30 유닛입니다.",
+  "Quickly launch yourself in the air and jump higher for 2.5s.": "빠르게 공중으로 뛰어올라 2.5초 동안 더 높이 도약합니다.",
+  "Range = length of \"handle\"": "사거리 = 손잡이 길이.",
+  "Rapidly Heal allies within 40 units for 2500 every 1s. This effect lasts 4s. Can be refired to cancel.": "40 유닛 이내 아군의 체력을 1초마다 2500 빠르게 회복합니다. 4초 동안 유지되며 다시 사용해 취소할 수 있습니다.",
+  "Rapidly damage nearby enemies for 2000 health per second for 2s.": "2초 동안 주변 적에게 매초 2000의 피해를 빠르게 줍니다.",
+  "Receive more healing.": "받는 치유량 증가.",
+  "Recovery heals for an additional amount instantly and increases your maximum Health.": "{name:Recovery} 사용 시 추가 체력을 즉시 회복하고 최대 체력 증가.",
+  "Reduce CD of Siphon if hit with RMB": "마우스 오른쪽 버튼 공격을 적중시키면 {name:Siphon}의 재사용 대기시간이 감소합니다.",
+  "Reduce CD of siphon if it misses": "{name:Siphon}이 빗나가면 재사용 대기시간이 감소합니다.",
+  "Reduce Cooldown of Projection based on number of enemies hit": "적중한 적 수에 비례해 {name:Projection} 재사용 대기시간 감소.",
+  "Reduce DMG taken while standing inside of the distortion field": "{name:Distortion Field} 안에 서 있는 동안 받는 피해 감소.",
+  "Reduce cooldown of Leap while standing in Distortion Field": "{name:Distortion Field} 안에 서 있는 동안 {name:Leap}의 재사용 대기시간이 감소합니다.",
+  "Reduce damage taken by ally who has been healed for a short duration": "치유한 아군이 잠시 받는 피해 감소.",
+  "Reduce damage taken by {scale=5|5}% for 2.5s after activating Commanding Leap.": "지휘관의 도약 사용 후 2.5초 동안 받는 피해가 {scale=5|5}% 감소합니다.",
+  "Reduce effectiveness of CC": "군중 제어 효과 감소.",
+  "Reduce incoming slows by 50%.": "받는 둔화 효과 50% 감소.",
+  "Reduce other ability cooldown": "다른 기술의 재사용 대기시간 감소.",
+  "Reduce the Cooldown of (Dist Field) by [0.6/0.6]s after activating Leap": "{name:Leap} 사용 후 ({name:Dist Field})의 재사용 대기시간이 [0.6/0.6]초 감소합니다.",
+  "Reduce the Cooldown of other basic abilities on Cooldown by 25% after using a basic ability.": "일반 기술 사용 후 재사용 대기 중인 다른 일반 기술의 재사용 대기시간이 25% 감소합니다.",
+  "Reduce the blood cost of her movement ability while an enemy is marked": "적에게 표식이 있는 동안 이동 스킬의 혈액 소모량 감소.",
+  "Reduce the cooldown of Blood Hex after activating Death Wings.": "{name:Death Wings} 사용 후 {name:Blood Hex} 재사용 대기시간 감소.",
+  "Reduce the cooldown of Dodge Roll after using Latch": "{name:Latch} 사용 후 {name:Dodge Roll}의 재사용 대기시간이 감소합니다.",
+  "Reduce the cooldown of Latch after using Dodge Roll": "{name:Dodge Roll} 사용 후 {name:Latch}의 재사용 대기시간이 감소합니다.",
+  "Reduce the time it takes to bring up Scope": "조준경을 올리는 시간 감소.",
+  "Reduce your damage taken by {6|6}% for 2s after using Savage Tear.": "잔혹한 찢기 사용 후 2초 동안 받는 피해가 {6|6}% 감소합니다.",
+  "Reduce your weapon recoil while using Leap.": "{name:Leap} 사용 중 무기 반동이 감소합니다.",
+  "Refill {scale=4|4} ammo when you swap alt-fire": "보조 발사를 전환하면 탄약을 {scale=4|4} 회복합니다.",
+  "Release an infallible surge of Judgement, destroying Shields and Executing enemies at or below 65% Health. Deals 600 damage to enemies above 65% Health. Has a range of 120 units.": "피할 수 없는 심판의 파동을 방출해 보호막을 파괴하고 체력이 65% 이하인 적을 처형합니다. 체력이 65%를 넘는 적에게는 600의 피해를 줍니다. 사거리는 120 유닛입니다.",
+  "Rend Soul now stuns the victim when they are afflicted with 4 Soul Charges.": "{name:Rend Soul}이 {name:Soul Charge} 중첩이 4개인 대상을 기절시킵니다.",
+  "Resonance talent boost the blast of the clones and their movement speed.": "{name:Resonance} 특성이 환영의 폭발과 이동 속도를 강화합니다.",
+  "Revolver now applies a Stacking Damage Over Time per shot.": "{name:Revolver} 사격이 적중할 때마다 지속 피해 효과가 중첩됩니다.",
+  "Ricocheted shots now target two enemies and deal 200% more damage to Shields, but only deal 200 damage.": "도탄이 적 둘을 대상으로 하고 보호막에 주는 피해가 200% 증가하지만 기본 피해가 200이 됩니다.",
+  "Rift Slash <font color=\"#1EBEF7\">Cripples</font> enemies it hits for 1.25s, and the resulting Abyssal Rift lasts 1s longer.": "균열 베기에 맞은 적을 1.25초 동안 <font color=\"#1EBEF7\">속박</font>하고, 생성된 심연의 균열의 지속시간이 1초 증가합니다.",
+  "Royal Presence reactivation now roots, but only hits the first person and has range increased.": "{name:Royal Presence} 재사용 시 첫 대상만 적중해 속박하며 사거리 증가.",
+  "SMG will fire all of the remaining ammo in the clip within .5s": "기관단총이 .5초 안에 탄창의 남은 탄약을 모두 발사합니다.",
+  "SUBDEVICE\n\nNeeds to be named Shock Pulse for the purpose of death recap": "하위 장치\n\n사망 정보 표시를 위해 {name:Shock Pulse}로 이름을 지정해야 함.",
+  "Saati - Card - 1/1": "{name:Saati} - 카드 - 1/1",
+  "Saati - Card - 1/2": "{name:Saati} - 카드 - 1/2",
+  "Saati gains 20% bonus inhand damage against enemies hitby blast back.": "{name:Saati}가 {name:Blast Back}에 적중한 적에게 주는 기본 공격 피해가 20% 증가합니다.",
+  "Salvo now activates instantly, always fires 6 shots, and has a lower cooldown.": "{name:Salvo}이 즉시 발동해 항상 6발을 발사하며 재사용 대기시간이 감소합니다.",
+  "Secondary fire long range": "보조 공격의 긴 사거리.",
+  "Sensor Drones explode near enemies.": "{name:Sensor Drone}이 적 주변에서 폭발합니다.",
+  "Sequence for Rocket Barrage talent -- increased AoE": "{name:Rocket Barrage} 특성의 실행 순서 -- 범위 증가.",
+  "Set Ammo to 2 while increasing Projectile speed.": "탄약 수가 2가 되며 투사체 속도 증가.",
+  "Set's grover's inhand to firemode 2 for an LTM.": "기간 한정 모드에서 {name:Grover}의 기본 공격을 발사 방식 2로 설정합니다.",
+  "Set's grover's vine ability to firemode 2 for an LTM.": "기간 한정 모드에서 {name:Grover}의 {name:Vine} 기술을 발사 방식 2로 설정합니다.",
+  "Setback is now a lobbed projectile that explodes": "{name:Setback}이 포물선으로 날아가 폭발하는 투사체로 바뀜.",
+  "Shatter now instantly heals your target for 800 health but does not explode Illusions. Reduces Cooldown of Shatter if you miss.": "{name:Shatter}이 대상의 체력을 즉시 800 회복하지만 환영을 폭발시키지 않음. 빗나가면 재사용 대기시간 감소.",
+  "Shoot a ball of fire that Fears an enemy for 2s.": "적을 2초 동안 공포에 빠뜨리는 화염구를 발사합니다.",
+  "Slam talent ": "{name:Slam} 특성",
+  "Slower version of Form Swap": "{name:Form Swap}의 느린 버전.",
+  "Slowly propel yourself upwards while draining your fuel meter": "연료를 소모하며 천천히 위로 상승합니다.",
+  "Smaller initial hit, but perfect non-scoped accuracy": "첫 적중 피해가 감소하지만 비조준 사격의 정확도가 완벽해집니다.",
+  "Snow Globe talent": "{name:Snow Globe} 특성.",
+  "Spawns a scaling acid pool beneath Yago when she activates Hardening. Defunct - use Firemode 1": "{name:Yagorath}의 {name:Hardening} 사용 시 발밑에 크기가 변하는 산성 웅덩이를 생성합니다. 폐기됨 - 발사 방식 1 사용.",
+  "Spirit Traps no longer automatically explode. Reactive the ability when a trap triggers to teleport to it and increase the potency of the explosion.": "{name:Spirit Traps}이 자동으로 폭발하지 않음. 덫 발동 후 스킬을 다시 사용하면 해당 위치로 순간이동하며 폭발 위력 증가.",
+  "Statis Field is larger but has a shorter duration.": "{name:Stasis Field} 크기 증가 및 지속시간 감소.",
+  "Step into another plane of reality for 4s. While this ability is active you are in stealth and immune to all harmful effects.": "4초 동안 다른 차원으로 이동합니다. 기술 활성화 중 은신하고 모든 해로운 효과에 면역이 됩니다.",
+  "Storage for effects\n\nCustom Value 1 stores the health threshold at which they flip": "효과 보관용.\n\n사용자 정의 값 1에 전환되는 체력 기준값을 저장합니다.",
+  "Strong crossbow for forcefeedback testing. Deals 1000 damage.": "포스 피드백 시험용 강한 석궁입니다. 1000의 피해를 줍니다.",
+  "Sub device for Saati's wall bang ULT device.": "{name:Saati}의 벽 관통 궁극기 장치용 보조 장치입니다.",
+  "Successful Calamity Blast hits heal you.": "{name:Calamity Blast} 적중 시 자신을 치유합니다.",
+  "Summon a beam of searing light that travels forward through obstacles. Enemies caught in its path are <font color=\"#1EBEF7\">Stunned</font> for 1s and take 350 damage. Remaining in the beam deals an additional 20 damage every 0.07s.": "장애물을 관통하며 전진하는 뜨거운 빛줄기를 소환합니다. 경로상의 적은 1초 동안 <font color=\"#1EBEF7\">기절</font>하고 350의 피해를 받습니다. 빛줄기 안에 계속 머무는 적에게는 0.07초마다 20의 추가 피해를 줍니다.",
+  "Summon a beam of searing wrath that travels forward, stunning and dealing damage to enemies. Enemies who remain in the beam take an additional 20 damage every 0.07s.": "전방으로 이동하는 뜨거운 분노의 광선을 소환해 적에게 기절과 피해를 줍니다. 광선 안에 머무르는 적은 0.07초마다 20의 추가 피해를 받습니다.",
+  "Summon the biggest bomb in your arsenal and hop on, gaining the ability to control your flight for 7s. Hitting an enemy will cause an explosion, dealing 1900 damage and <font color=\"#1EBEF7\">Knocking</font> the enemy and you away from each other. Reactivate this ability or fire to send the rocket flying out in a straight line towards where you are looking.": "가장 큰 폭탄을 소환해 올라타고 7초 동안 비행 방향을 조종합니다. 적과 충돌하면 폭발해 1900의 피해를 주고 적과 자신을 서로 반대 방향으로 <font color=\"#1EBEF7\">밀쳐냅니다</font>. 스킬을 다시 사용하거나 발사하면 바라보는 방향으로 로켓을 직선 발사합니다.",
+  "Summon two Sentinel Drones that fire energy blasts while you shoot your Light Machine Gun. Each Sentinel fires once per second dealing 200 damage and has 1200 health. Sentinels persist until destroyed or the player is killed.": "{name:Light Machine Gun} 발사 중 에너지 탄을 쏘는 {name:Sentinels} 둘을 소환합니다. 각 드론은 매초 한 번 발사해 200의 피해를 주며 체력이 1200입니다. 파괴되거나 자신이 사망할 때까지 유지됩니다.",
+  "Summon your mount, gaining increased Movement Speed.": "탈것을 소환해 이동 속도가 증가합니다.",
+  "Surge forward to grab and <font color=\"#1EBEF7\">Stun</font> an enemy for 1s, then throw them behind you. This ability deals 600 damage and has a range of 50 units.": "앞으로 돌진해 적을 붙잡고 1초 동안 <font color=\"#1EBEF7\">기절</font>시킨 뒤 자신의 뒤로 던집니다. 600의 피해를 주며 사거리는 50 유닛입니다.",
+  "Surge with power for 3s, slowing and striking 2 nearby enemies at a time for 200 damage and speeding up and healing yourself and 2 nearby allies for 500 health every 0.5 seconds.": "3초 동안 힘을 방출해 주변 적 2명에게 한 번에 200의 피해와 둔화를 적용합니다. 0.5초마다 자신과 주변 아군 2명의 체력을 500 회복하고 이동 속도를 증가시킵니다.",
+  "Swap between one of three different fire modes -- Burst Mode, Mag Dump Mode, and Automatic Mode.": "세 가지 발사 방식인 {name:Burst Mode}, {name:Mag Dump}, {name:Automatic} 사이를 전환합니다.",
+  "Swap between the 3 fire modes on activation, starting on burst mode.": "사용 시 3가지 발사 방식을 전환하며 처음에는 점사 방식으로 시작합니다.",
+  "Swing your axe in a large arc every 1.1s. Enemies hit will take 650 damage.": "1.1초마다 도끼를 크게 휘둘러 적중한 적에게 650의 피해를 줍니다.",
+  "Talent 2 - Vatu's sticky bombs are homing and have increased damage and radius": "특성 2 - {name:Vatu}의 점착 폭탄이 적을 추적하며 피해와 범위가 증가합니다.",
+  "Talent 3 - [31305] modifies CV1 which is used as a % healing multiplier": "특성 3 - [31305]가 치유 비율 배율로 사용하는 사용자 정의 값1을 변경합니다.",
+  "Talent 3 [Deprecated, I think]": "특성 3 [폐기된 것으로 추정].",
+  "Talent for Friendly Tendril": "아군용 {name:Tendril} 특성.",
+  "Talented -- percentage max HP damage": "특성 적용 -- 최대 체력 비례 피해.",
+  "Talon Rifle: A powerful rifle that fires every 1.20s, dealing 1200 damage. Has a maximum Ammo count of 5 and is fully effective up to 500 units.<br><br>Pistol: An automatic pistol that shoots every 0.15s, dealing 165 damage. Has a maximum Ammo count of 15 and is fully effective up to 55 units. Generates 3 Stealth Energy on a successful hit.\n\n<br><br><b>Passive - Bushwhack</b><br>Your first shot from Stealth ignores up to 10% DR, with higher DR% values subtracted by 10.": "{name:Talon Rifle}: 1.20초마다 1200의 피해를 주는 강력한 소총입니다. 최대 탄약은 5발이며 500 유닛 거리까지 최대 효과를 냅니다.<br><br>{name:Pistol}: 0.15초마다 165의 피해를 주는 자동 권총입니다. 최대 탄약은 15발이며 55 유닛 거리까지 최대 효과를 냅니다. 적중 시 은신 에너지가 3 생성됩니다.\n\n<br><br><b>지속 효과 - {name:Bushwhack}</b><br>은신 상태에서 발사하는 첫 사격이 피해 감소 효과를 최대 10% 무시하며, 피해 감소율(%)이 그보다 높으면 그 값에서 10을 차감합니다.",
+  "Targets affected by Net Shot are marked for 3s. Shooting a marked target with your Shrapnel Cannon consumes the mark and deals 15% more damage.": "{name:Net Shot}에 적중한 대상에게 3초 동안 표식이 부여됩니다. {name:Shrapnel Cannon}으로 표식이 있는 대상을 맞히면 표식을 소모하고 피해가 15% 증가합니다.",
+  "Targets below 65% Health are revealed to you and your Ultimate charge rate is increased.": "체력이 65% 미만인 대상의 위치가 자신에게 드러나며 궁극기 충전 속도 증가.",
+  "Targets hit with Explosive Flask take increased damage from your Weapon Shots for 4s.": "{name:Explosive Flask}에 맞은 대상이 4초 동안 자신의 무기 사격으로 받는 피해 증가.",
+  "Teleport forward a short distance. Bonus Damage: Using Blink increases your damage by 20% for 4 seconds.": "짧은 거리를 전방으로 순간이동합니다. 추가 피해: {name:Blink} 사용 시 4초 동안 피해가 20% 증가합니다.",
+  "Terminus Ultimate": "{name:Terminus} 궁극기",
+  "Test device for Life Exchange Talent": "{name:Life Exchange} 특성 시험용 장치입니다.",
+  "Test for Viktor Burst Rifle Talent": "빅토르 {name:Burst Rifle} 특성 테스트",
+  "Tether your spirit to an ally or enemy player. While <font color=\"#E74CA7\">Linked</font> to an ally, you Heal them for 50 and grant them 0.5% Ultimate charge every 1s. While <font color=\"#E74CA7\">Linked</font> to an enemy, <font color=\"#1EBEF7\">Slow</font> them by 10% and deal 50 damage to them every 0.75s. Losing sight of your <font color=\"#E74CA7\">Linked</font> target for more than 3s breaks Spirit Link.": "자신의 영혼을 아군 또는 적 유저에게 연결합니다. 아군과 <font color=\"#E74CA7\">연결</font>되어 있으면 1초마다 체력을 50 회복시키고 궁극기 충전량을 0.5% 부여합니다. 적과 <font color=\"#E74CA7\">연결</font>되어 있으면 이동 속도를 10% <font color=\"#1EBEF7\">둔화</font>시키고 0.75초마다 50의 피해를 줍니다. <font color=\"#E74CA7\">연결</font>된 대상이 시야에서 3초 넘게 벗어나면 {name:Spirit Link}이 끊어집니다.",
+  "Tether your spirit to an ally or enemy player. While Linked to an ally, you Heal them for 200 and grant them 1% Ultimate charge every 1s. While Linked to an enemy, reduce their Movement Speed by 10% and deal 50 damage every 0.75s.": "자신의 영혼을 아군 또는 적과 연결합니다. 아군과 연결하면 1초마다 체력을 200 회복하고 궁극기 충전량 1%를 부여합니다. 적과 연결하면 이동 속도가 10% 감소하고 0.75초마다 50의 피해를 줍니다.",
+  "The amount of Booster you have also acts as a shield that can absorb damage.": "남은 {name:Booster}의 양이 피해를 흡수하는 보호막 역할도 합니다.",
+  "Thiccer shield": "더 두꺼운 보호막.",
+  "This is basically a placeholder for the passive effects": "지속 효과를 위한 임시 항목입니다.",
+  "Throw a Grumpy Bomb that grows angrier over 3s, exploding dealing 800 damage and stunning all targets in range for 2s.": "3초 동안 점점 화가 나는 {name:Grumpy Bomb}을 던집니다. 폭발 시 범위 안의 모든 적에게 800의 피해를 주고 2초 동안 기절시킵니다.",
+  "Throw a fragmentation grenade dealing up to 750 damage. Holding <CMD=GBA_Ability_2> will cook the grenade and reduce its detonation time.": "최대 750의 피해를 주는 파편 수류탄을 던집니다. <CMD=GBA_Ability_2>을 길게 누르면 수류탄의 폭발 지연 시간이 줄어듭니다.",
+  "Throw a vicious axe, dealing 450 damage and <font color=\"#1EBEF7\">Crippling</font> an enemy for 1s. Has a range of 300 units.": "도끼를 던져 적에게 450의 피해를 주고 1초 동안 <font color=\"#1EBEF7\">속박</font>합니다. 사거리는 300 유닛입니다.",
+  "Throw a vine that latches onto the first ally or terrain that it touches and then pull yourself towards it. If Vine would fail to latch onto anything, it will not fire. Has a range of 95 units.": "처음 닿은 아군이나 지형에 붙는 덩굴을 던져 자신을 끌어당깁니다. {name:Vine}이 아무것에도 붙을 수 없으면 발사되지 않습니다. 사거리는 95 유닛입니다.",
+  "Throw out up to 2 deployable sensors that reveal enemies to your team in a large radius.": "넓은 범위의 적 위치를 아군 팀에 표시하는 감지기를 최대 2개 배치합니다.",
+  "Trap Reactivation (CV1 = length, CV2 = width of the hit box)": "덫 재활성화 (사용자 정의 값1 = 길이, 값2 = 판정 영역 너비).",
+  "Trap auto pops when someone gets near it.": "누군가 다가오면 덫이 자동으로 발동합니다.",
+  "Turret Talent for LTM Dwarf Fortress": "{name:Dwarf Fortress} LTM의 포탑 특성",
+  "Turrets have more health and shoot more often": "포탑의 체력과 발사 빈도가 증가합니다.",
+  "Turrets now deal more damage, and have a faster Cooldown.": "포탑의 피해가 증가하고 재사용 대기시간이 감소합니다.",
+  "Turrets now mark enemy players for 3s. Hitting a marked target with your Rifle consumes the mark and causes it to deal 20% more damage. This stacks up to 2 times. Turrets cannot apply more than one stack, a player must be hit by 2 turrets to reach 2 stacks. One shot will consume all stacks and deal appropriate damage.": "포탑이 적에게 3초 동안 표식을 부여합니다. 소총으로 표식이 있는 대상을 맞히면 표식을 소모하고 피해가 20% 증가하며 최대 2회 중첩됩니다. 포탑 하나는 한 중첩만 부여할 수 있으므로 2중첩을 얻으려면 포탑 2개에 맞아야 합니다. 한 발이 모든 중첩을 소모해 해당 피해를 줍니다.",
+  "Turtle ults more and goes fast when ulting.": "거북이가 궁극기를 더 자주 쓰고 궁극기 사용 중 더 빠르게 이동합니다.",
+  "Twirl forwards, dealing 300 damage and <font color=\"#1EBEF7\">Knocking Back</font> enemies hit during the dash. While dashing, the damage you take is reduced by 30%. Reactivate the ability within 1s to stop and whirl in place, dealing 450 damage to enemies in a 5-unit area and reducing the Cooldown of this ability by 1s for each enemy hit. Has 2 charges that refill simultaneously.": "앞으로 회전하며 돌진해 경로상의 적에게 300의 피해를 주고 <font color=\"#1EBEF7\">밀쳐냅니다</font>. 돌진 중 받는 피해가 30% 감소합니다. 1초 안에 다시 사용하면 멈춰서 제자리에서 회전하며 주변 5 유닛 안의 적에게 450의 피해를 주고 적중한 적마다 이 스킬의 재사용 대기시간이 1초 감소합니다. 동시에 재충전되는 충전 횟수 2회를 가집니다.",
+  "Two charges of latch": "{name:Latch}을 두 번 충전할 수 있습니다.",
+  "Unlock in the Burrito Collection.": "{name:Burrito Collection}에서 잠금 해제할 수 있습니다.",
+  "Unused currently - Projectile part of ult": "현재 사용하지 않음 - 궁극기의 투사체 부분.",
+  "Update the illusion version of the mirror when this changes.": "이 항목을 변경하면 환영의 거울 버전도 갱신하십시오.",
+  "Upon landing with the Commanding Leap ability create a small pool underneath you that will heal both you and allies for 600 health over 1.5s. Octavia's ammo is not consumed while standing inside of this field.": "{name:Commanding Leap} 착지 시 발밑에 작은 영역을 생성해 자신과 아군의 체력을 1.5초 동안 600 회복합니다. {name:Octavia}는 이 영역 안에서 탄약을 소모하지 않습니다.",
+  "Used when we explode by direct hit, rather than indirect. Intention is to have a different explosion radius, effects, and damage.": "직접 적중으로 폭발할 때 사용합니다. 폭발 범위, 효과 및 피해를 구분하기 위한 항목입니다.",
+  "Victim's of Commander's Grab are stunned for an additional 1.4s.": "{name:Commander's Grab} 대상의 기절 지속시간 1.4초 증가.",
+  "Warder's Field has increased radius and now <font color=\"#1EBEF7\">Cripples</font>": "{name:Warder's Field} 반경 증가 및 적 <font color=\"#1EBEF7\">속박</font>.",
+  "Weak crossbow for forcefeedback testing. Deals 1 damage.": "포스 피드백 시험용 약한 석궁입니다. 1의 피해를 줍니다.",
+  "Weapon Shots made in Stealth deal more damage.": "은신 중 무기 사격의 피해 증가.",
+  "Weapon shots deal more damage to high-health targets.": "체력이 높은 대상에게 주는 무기 사격 피해 증가.",
+  "Weapon shots reduce ability cooldowns.": "무기 사격 시 기술의 재사용 대기시간이 감소합니다.",
+  "Weapon shots travel 250% faster while your stim is active.": "강화제 활성화 중 무기 투사체의 이동 속도가 250% 증가합니다.",
+  "Weapons card (altfire) 1": "무기 카드 (보조 공격) 1",
+  "Weapons card (altfire) 4": "무기 카드 (보조 공격) 4",
+  "WepArm Card 4": "무기/방어구 카드 4.",
+  "When a pet dies, refill its spawn device 1 ammo": "소환수가 죽으면 소환 장치에 탄약 1 회복.",
+  "When hitting an enemy with multiple bombs, each bomb after the first deals more damage.": "한 적에게 여러 폭탄 적중 시 첫 폭탄 이후의 폭탄 피해 증가.",
+  "When receiving fatal damage, instead gain a shield.": "치명적인 피해를 받으면 대신 보호막을 얻습니다.",
+  "When using Restore Soul on full health players, they gain a shield.": "체력이 가득 찬 대상에게 {name:Restore Soul}을 사용하면 보호막을 부여합니다.",
+  "When you cast Astral Mark on an ally, they are immediately healed for a percent of their max Health.": "아군에게 {name:Astral Mark}을 시전하면 대상의 최대 체력에 비례해 즉시 치유합니다.",
+  "When you take lethal damage Ghost Walk activates and heals you for a portion of your maximum Health.": "치명적인 피해를 받으면 {name:Ghost Walk}가 발동해 최대 체력의 일부를 회복합니다.",
+  "When you take lethal damage Self Destruct activates": "치명적인 피해를 받으면 {name:Self Destruct}이 활성화됩니다.",
+  "Wind up and take off charging, dealing 500 damage and <font color=\"#1EBEF7\">Knockup</font> players hit.": "힘을 모아 돌진하며 적중한 대상에게 500의 피해를 주고 <font color=\"#1EBEF7\">공중으로 띄웁니다</font>.",
+  "Wings of Wrath Supporting Device": "{name:Wings of Wrath} 보조 장치",
+  "Wings of Wrath gains an additional charge": "{name:Wings of Wrath}을 한 번 더 사용할 수 있습니다.",
+  "Wrath's Attack Speed bonus is increased to 15%.": "{name:Wrath} 공격 속도 증가 효과가 15%가 됨.",
+  "Yagorath Acid": "{name:Yagorath} 산성액.",
+  "Yagorath Acid Buff Talent firemode": "{name:Yagorath} 산성액 강화 특성의 발사 방식.",
+  "Yagorath Caustic Spray Poison": "{name:Yagorath}의 {name:Caustic Spray} 독 효과.",
+  "Yagorath Hardening Poison": "{name:Yagorath}의 {name:Hardening} 독 효과.",
+  "Yagorath Piercing Quill": "{name:Yagorath}의 {name:Piercing Quills}.",
+  "Yokai Doll now requires pinpoint accuracy and deals 400 damage.": "{name:Yokai Doll}이 정밀한 조준을 요구하며 400의 피해를 줍니다.",
+  "You always respawn with one Sentinel active.": "항상 감시자 하나가 활성화된 상태로 부활합니다.",
+  "You and allies affected by Astral Mark deal 15% more damage.": "자신과 {name:Astral Mark}의 영향을 받은 아군이 주는 피해가 15% 증가합니다.",
+  "You can now double jump during Weightless.": "{name:Weightless} 중 이단 점프를 할 수 있습니다.",
+  "Your Lightning staff now heals allies. Curative": "{name:Lightning Staff}로 아군을 치유할 수 있습니다. {name:Curative}.",
+  "Your Shell Spin now lasts until canceled and you can control its direction.": "{name:Shell Spin}이 취소할 때까지 유지되며 방향을 조절할 수 있습니다.",
+  "Your Stealth bar consumes slower and you move faster in Stealth.": "은신 게이지 소모량이 감소하고 은신 중 이동 속도가 증가합니다.",
+  "Your Weapon Shots reduce the Cooldown of Shock Pulse and Shock Pulse gains extra bounces. Surgery": "무기 사격이 {name:Shock Pulse}의 재사용 대기시간을 감소시키며 {name:Shock Pulse}의 튕기는 횟수가 증가합니다. {name:Surgery}.",
+  "Your first shot after Flutter deals increased damage.": "{name:Flutter} 사용 후 첫 사격의 피해 증가.",
+  "Your knockbacks knock enemies back further based on their missing Health.": "적이 잃은 체력에 따라 밀쳐내는 거리가 증가합니다.",
+  "Your projectile bounces around the enemies, marking them for networked damage from primary fire.": "투사체가 적들 사이에서 튕기며 기본 공격의 연쇄 피해를 받도록 표식을 부여합니다.",
+  "Your team gains a 15% increased ultimate rate charge for the entire match.": "경기 내내 아군 팀의 궁극기 충전 속도가 15% 증가합니다.",
+  "Your team receives a 575 health shield upon respawning.": "아군 팀이 부활할 때 체력 575의 보호막을 얻습니다.",
+  "Your weapon shots reduce the effect of healing on your targets.": "무기 사격에 적중한 대상이 받는 치유량이 감소합니다.",
+  "Zhin's counter attack": "{name:Zhin}의 반격 공격.",
+  "[Ability2] Activating Slither heals you.": "[기술2] {name:Slither} 사용 시 체력 회복.",
+  "[Abyssal Reconstruction] Healing an ally with Abyssal Reconstruction reduces the Cooldown of Projection by {scale=0.5|0.5}s. This effect can only occur once every 5s.": "[{name:Abyssal Reconstruction}] {name:Abyssal Reconstruction}으로 아군 치유 시 {name:Projection} 재사용 대기시간이 {scale=0.5|0.5}초 감소합니다. 5초마다 한 번 발동합니다.",
+  "[Advance] Reduce your damage taken by {scale=3|3}% for 3s after activating Advance.": "[{name:Advance}] {name:Advance} 사용 후 3초 동안 받는 피해가 {scale=3|3}% 감소합니다.",
+  "[Altfire] Heal for 100 over 6s when hitting an ally with Enveloping Spirits.": "[보조 공격] {name:Enveloping Spirits}로 아군을 맞히면 6초 동안 체력을 100 회복합니다.",
+  "[Aphotic Reaver] Aphotic Reaver is permanently set to Antumbra mode.": "[{name:Aphotic Reaver}] {name:Aphotic Reaver}의 발사 방식이 {name:Antumbra}로 고정됩니다.",
+  "[Armor] 30% of all damage dealt to you is instead taken by your deployables if they are active.": "[방어구] 설치물이 활성화되어 있으면 자신이 받는 모든 피해의 30%를 설치물이 대신 받습니다.",
+  "[Armor] Dropping below a Health threshold resets the cooldown of Rocket Boots": "[방어구] 체력이 일정 기준 미만으로 떨어지면 {name:Rocket Boots} 재사용 대기시간 초기화.",
+  "[Armor] Dropping to low health resets the cooldown of Dodge Roll.": "[방어구] 체력이 낮아지면 {name:Dodge Roll} 재사용 대기시간 초기화.",
+  "[Armor] Gain Ultimate Charge for headshots": "[방어구] 헤드샷 적중 시 궁극기 충전량 획득.",
+  "[Armor] Gain a {scale=130|130}-Health Shield for 3s after dropping to or below 35% Health.": "[방어구] 체력이 35% 이하로 떨어지면 3초 동안 체력이 {scale=130|130}인 보호막 획득.",
+  "[Armor] Gain a {scale=150|150}-Health Shield after dropping to or below 50% Health.": "[방어구] 체력이 50% 이하로 떨어지면 체력이 {scale=150|150}인 보호막을 획득합니다.",
+  "[Armor] Gain a {scale=150|150}-Health Shield for 3s after dropping to or below 50% Health.": "[방어구] 체력이 50% 이하로 떨어지면 3초 동안 체력이 {scale=150|150}인 보호막 획득.",
+  "[Armor] Gain a {scale=50|50}-Health Shield for 3s after falling to or below 50% Health.": "[방어구] 체력이 50% 이하로 떨어지면 3초 동안 체력이 {scale=50|50}인 보호막 획득.",
+  "[Armor] Generate Ultimate Charge on max Magic Mark triggers.": "[방어구] {name:Magic Mark} 최대 중첩 발동 시 궁극기 충전량 획득.",
+  "[Armor] Increase your Movement Speed by {scale=6|6}% for 2.5s after getting a Killing Blow or Elimination.": "[방어구] 처치 또는 처치 관여 후 2.5초 동안 이동 속도가 {scale=6|6}% 증가합니다.",
+  "[Armor] Increase your maximum Health by {scale=50|50}": "[방어구] 최대 체력이 {scale=50|50} 증가합니다.",
+  "[Armor] Reduce Longbow draw penalty": "[방어구] {name:Longbow} 시위를 당기는 동안 받는 불이익 감소.",
+  "[Armor] Restore Booster Fuel when you get a Kill or Elimination.": "[방어구] 처치 또는 처치 관여 시 부스터 연료 회복.",
+  "[Armor] This card does nothing :)": "[방어구] 이 카드는 아무 효과가 없습니다 :)",
+  "[Armor] Upon reaching 40% health the Cooldown of Shell Spin is reset.": "[방어구] 체력이 40%에 도달하면 {name:Shell Spin} 재사용 대기시간 초기화.",
+  "[Armor] When receiving fatal damage, instead gain a shield that absorbs 1000 damage and lasts 3 seconds.": "[방어구] 치명적인 피해를 받으면 대신 3초 동안 1000의 피해를 흡수하는 보호막을 얻습니다.",
+  "[Armor] When you take lethal damage Ghost Walk activates and heals you for 15% of your maximum Health.": "[방어구] 치명적인 피해를 받으면 {name:Ghost Walk}가 발동해 최대 체력의 15%를 회복합니다.",
+  "[Armor] While in your Ice Storm, heal and gain movement speed.": "[방어구] 자신의 {name:Ice Storm} 안에 있는 동안 체력 회복 및 이동 속도 증가.",
+  "[Armor] While within your Ice Storm, Heal for {scale=32|32} every 1s and gain {scale=10|10}% Movement Speed. The Movement Speed lingers for 3s after leaving Ice Storm.": "[방어구] 자신의 {name:Ice Storm} 안에 있는 동안 1초마다 체력을 {scale=32|32} 회복하고 이동 속도가 {scale=10|10}% 증가합니다. 이동 속도 증가는 {name:Ice Storm}을 벗어난 후에도 3초 동안 유지됩니다.",
+  "[Armor] Zoom your sniper scope": "[방어구] 저격 조준경 확대율 증가.",
+  "[Armor][+10 Per Rank] While near an objective, you reveal all enemies within {10/20/30/40} ft radius.": "[방어구][등급당 +10] 거점 주변에서 반경 {10/20/30/40}피트 이내 모든 적의 위치를 드러냅니다.",
+  "[Armor][+2% Per Rank] While near an objective, you cannot be damaged for more than {21/19/17/15}% of your maximum Health in one hit": "[방어구][등급당 +2%] 거점 주변에서 한 번에 받는 피해가 최대 체력의 {21/19/17/15}%를 넘지 않습니다.",
+  "[Armor][+5% Per Rank] Increase your Movement Speed by {15/20/25/30}%": "[방어구][등급당 +5%] 이동 속도 {15/20/25/30}% 증가.",
+  "[Astral Mark] Applying Astral Mark heals you over 10 seconds.": "[{name:Astral Mark}] {name:Astral Mark} 부여 시 10초에 걸쳐 체력 회복.",
+  "[Astral Mark] Applying an Astral Mark grants a {scale=40|40}-Health Shield for 4s to target ally.": "[{name:Astral Mark}] {name:Astral Mark} 부여 시 대상 아군이 4초 동안 체력이 {scale=40|40}인 보호막 획득.",
+  "[Billow] Regenerate 2 Ammo every 0.5s for {scale=0.5|0.5}s after activating Billow.": "[{name:Billow}] {name:Billow} 사용 후 {scale=0.5|0.5}초 동안 0.5초마다 탄약 2 회복.",
+  "[Blitz Upper] Activating Blitz Upper heals you for 70 Health.": "[{name:Blitz Upper}] {name:Blitz Upper} 사용 시 체력 70 회복.",
+  "[Blitz Upper] Increase blitz uppers knockback": "[{name:Blitz Upper}] {name:Blitz Upper} 밀쳐내는 힘 증가.",
+  "[Commander's Grab] Heal for {scale=100|100} after activating Commander's Grab.": "[사령관의 손아귀] 사령관의 손아귀 사용 후 체력을 {scale=100|100} 회복합니다.",
+  "[Counter] Countering attacks reduces Whirl CD": "[{name:Counter}] 공격 반격 시 {name:Whirl} 재사용 대기시간 감소.",
+  "[Counter] Successfully Countering an attack will Heal you.": "[{name:Counter}] 공격 반격 성공 시 체력 회복.",
+  "[Counter] Successfully Countering an attack will generate ammo.": "[{name:Counter}] 공격 반격 성공 시 탄약 생성.",
+  "[Counter] Within your Counter stance, you continually Counter and deal 10% more damage. Counter lasts an additional second.": "[{name:Counter}] {name:Counter} 자세 중 계속 반격하며 피해가 10% 증가합니다. {name:Counter}가 추가로 한 초 동안 유지됩니다.",
+  "[Crippling Arrow] Crippling Arrow now explodes in a 20-unit-area, dealing up to 300 additional Area Damage to enemies hit, but its <font color=\"#1EBEF7\">Cripple</font> is reduced by 1s. The blast is fully effective within 12 units.": "[{name:Crippling Arrow}] {name:Crippling Arrow}이 20 유닛 범위에서 폭발해 적중한 적에게 최대 300의 추가 범위 피해를 주지만 <font color=\"#1EBEF7\">속박</font> 지속시간이 1초 감소합니다. 폭발은 12 유닛 안에서 최대 효과를 냅니다.",
+  "[Crippling Throw] Crippling Throw chains to nearby enemies up to 2 times, causing a Healing aura to manifest around the nearby enemies and the original one, Healing nearby allies for 50 every 0.5s. <font color=\"#86aeff\"><b>Remedy</b> (+5% Damage and +10% Healing Done)</font>": "[{name:Crippling Throw}] {name:Crippling Throw}이 주변 적에게 최대 2회 연쇄 적중하며 처음 적중한 적과 주변 적에게 치유 오라를 생성하여 주변 아군의 체력을 0.5초마다 50 회복합니다. <font color=\"#86aeff\"><b>{name:Remedy}</b> (주는 피해 +5%, 치유량 +10%)</font>",
+  "[Crippling Throw] Crippling Throw now instead Roots targets affected.": "[{name:Crippling Throw}] {name:Crippling Throw}이 대상을 이동 불가 상태로 만듭니다.",
+  "[Crippling Throw] Crippling Throw travels 35% slower, but now instead <font color=\"#1EBEF7\">Roots</font> targets affected.": "[속박 투척] 속박 투척의 투사체 속도가 35% 감소하지만 적중한 대상을 <font color=\"#1EBEF7\">속박</font>합니다.",
+  "[Cyclone Strike] Cyclone Strike now deals 100% of target's health as damage over its duration.": "[{name:Cyclone Strike}] {name:Cyclone Strike} 지속시간 동안 대상 체력의 100%만큼 피해.",
+  "[Dash] Heal for {scale=100|-7.5} every 0.5s for {scale=0.5|0.5}s after activating Dash. This effect stacks.": "[{name:Dash}] {name:Dash} 사용 후 {scale=0.5|0.5}초 동안 0.5초마다 체력 {scale=100|-7.5} 회복. 효과 중첩 가능.",
+  "[Dash] Reduce the Cooldown of Dash by {scale=0.5|0.5s} after hitting at least one enemy with Shadow Bombs.": "[돌진] 그림자 폭탄으로 적을 한 명 이상 맞히면 돌진의 재사용 대기시간이 {scale=0.5|0.5s} 감소합니다.",
+  "[Dead Zone] Dead Zone Heal talent test": "[{name:Dead Zone}] {name:Dead Zone} 치유 특성 시험.",
+  "[Dead Zone] Dead Zone damages shields for 50% of their maximum Health per second, and its cooldown is reduced by 3s.": "[{name:Dead Zone}] {name:Dead Zone}이 보호막에 매초 최대 체력의 50%에 해당하는 피해를 주며 재사용 대기시간이 3초 감소합니다.",
+  "[Dead Zone] Dead Zone now deals 600 damage when the initial explosion hits an enemy.": "[{name:Dead Zone}] {name:Dead Zone}의 첫 폭발이 적에게 적중하면 600의 피해를 줍니다.",
+  "[Deadly Domain] Regenerate {scale=1|1} Ammo every 0.5s for 1s after casting Deadly Domain.": "[{name:Deadly Domain}] {name:Deadly Domain} 사용 후 1초 동안 0.5초마다 탄약 {scale=1|1} 회복.",
+  "[Defiance] Defiance generates Ammo if it hits a champion.": "[{name:Defiance}] {name:Defiance}로 챔피언 적중 시 탄약 생성.",
+  "[Defiance] Killing an enemy with Defiance grants you Health.": "[{name:Defiance}] {name:Defiance}로 적 처치 시 체력 회복.",
+  "[Defiance] Killing enemies with Defiance generates Ultimate Charge": "[{name:Defiance}] {name:Defiance}로 적 처치 시 궁극기 충전량 획득.",
+  "[Deflector Shield] While Deflector Shield is active a percent of damage dealt to you is instead dealt to the Shield.": "[{name:Deflector Shield}] {name:Deflector Shield} 활성화 중 자신이 받는 피해 일부를 보호막이 대신 받음.",
+  "[Detonate] Heal for every Sticky Bomb Detonated": "[{name:Detonate}] {name:Sticky Bomb}을 폭발시킬 때마다 체력 회복.",
+  "[Detonate] Reduce the cooldown of Poppy Bomb for every Sticky Bomb detonated.": "[{name:Detonate}] {name:Sticky Bomb}을 폭발시킬 때마다 {name:Poppy Bomb} 재사용 대기시간 감소.",
+  "[Dimensional Link] Swapping to the spot of a dead Illusion spawns an illusion.": "[{name:Dimensional Link}] 파괴된 환영의 위치로 이동하면 환영 생성.",
+  "[Dodge Roll] Your first shot after rolling reduces the cooldown of Dodge Roll if it hits.": "[{name:Dodge Roll}] 구른 후 첫 사격 적중 시 {name:Dodge Roll} 재사용 대기시간 감소.",
+  "[Dragon Punch] Dragon Punch deals damage equal to your victims maximum health in a radius around their location and charges 15% faster.": "[{name:Dragon Punch}] 대상 주변 범위에 대상의 최대 체력만큼 피해를 주며 충전 속도가 15% 증가합니다.",
+  "[Dragon Punch] Dragon Punch deals damage equal to your victims maximum health in a radius around their location and charges faster.": "[{name:Dragon Punch}] 대상 주변 범위에 대상의 최대 체력만큼 피해를 주며 충전 속도가 증가합니다.",
+  "[Dragon Stance] Enemies hit by Claw attacks receive reduced healing.": "[{name:Dragon Stance}] 발톱 공격에 맞은 적이 받는 치유량 감소.",
+  "[Dredge Anchor] Activating Dredge Anchor causes your Weapon Shots to not cost ammo for a duration.": "[{name:Dredge Anchor}] {name:Dredge Anchor} 사용 시 일정 시간 동안 무기 사격이 탄약을 소모하지 않음.",
+  "[Dredge Anchor] Regenerate 1 Ammo every 0.5s for {scale=0.5|0.5}s after activating Dredge Anchor.": "[{name:Dredge Anchor}] {name:Dredge Anchor} 사용 후 {scale=0.5|0.5}초 동안 0.5초마다 탄약 1 회복.",
+  "[Dredge Anchor] Your Shell Spin now lasts until canceled and you can control its direction.": "[{name:Dredge Anchor}] {name:Shell Spin}이 취소할 때까지 유지되며 방향을 조절할 수 있습니다.",
+  "[Emitter] Increase the Shield granted by Emitter by 1300.": "[방출기] 방출기로 얻는 보호막의 체력이 1300 증가합니다.",
+  "[Evil Mojo] You deal 100% more damage to chickens and for every chicken that dies your ult recharges partially.": "[{name:Evil Mojo}] 닭에게 주는 피해가 100% 증가하며 닭이 죽을 때마다 궁극기 충전량을 일부 회복합니다.",
+  "[Evil Mojo] You deal 100% more damage to chickens, and for every chicken that dies your ult recharges by 20%.": "[{name:Evil Mojo}] 닭에게 주는 피해가 100% 증가하며 닭이 죽을 때마다 궁극기 충전량을 20% 회복합니다.",
+  "[Explosive Personality] Increase your Air Control for 2s after using Explosive Personality by {scale=20|20}%.": "[{name:Explosive Personality}] {name:Explosive Personality} 사용 후 2초 동안 공중 제어력 {scale=20|20}% 증가.",
+  "[F] F cooldown is reset when falling below a health threshold": "[F] 체력이 일정 수치 미만으로 떨어지면 F 재사용 대기시간 초기화.",
+  "[Fire Bomb] Fire Bomb reduces healing more.": "[{name:Fire Bomb}] {name:Fire Bomb}의 치유 감소 효과 증가.",
+  "[Fireball] Hitting an enemy with Fireball reduces cooldown of Charge": "[{name:Fireball}] {name:Fireball}로 적 적중 시 {name:Charge} 재사용 대기시간 감소.",
+  "[Flare] Flare deals 200% base damage & Projectile Speed, and <font color=\"#FF8271\">Weakens</font> targets by 20% to your weapons on a direct hit for 2s, but it no longer Reveals. Reduce Flare's Cooldown by 8s.": "[{name:Flare}] {name:Flare}의 기본 피해와 투사체 속도가 200%가 됩니다. 직격 시 대상이 2초 동안 자신의 무기로 받는 피해가 20% 증가하도록 <font color=\"#FF8271\">취약</font>하게 만들지만 위치를 드러내지 않습니다. 재사용 대기시간이 8초 감소합니다.",
+  "[Flare] Flare deals 250% base damage, has significantly increased Projectile Speed, and has its Cooldown reduced by 10s, but no longer Reveals enemies.": "[{name:Flare}] {name:Flare}이 기본 피해의 250%를 주고 투사체 속도가 크게 증가하며 재사용 대기시간이 10초 감소하지만 적의 위치를 드러내지 않습니다.",
+  "[Flare] Flare's reveal effect lasts longer.": "[{name:Flare}] {name:Flare}로 적의 위치를 드러내는 효과 지속시간 증가.",
+  "[Frag Grenade] Gain % Movement Speed after using Frag Grenade": "[{name:Frag Grenade}] {name:Frag Grenade} 사용 후 이동 속도 % 증가.",
+  "[Frag Grenade] Hitting an enemy with Grenade generates ammo.": "[{name:Frag Grenade}] 수류탄으로 적 적중 시 탄약 생성.",
+  "[Gourd] Increase Movement Speed for yourself and allies while in your gourd": "[{name:Gourd}] {name:Gourd} 안에 있는 자신과 아군의 이동 속도 증가.",
+  "[Gravity Vice] Heal after using Darkness Grip.": "[{name:Gravity Vice}] {name:Darkness Grip} 사용 후 체력을 회복합니다.",
+  "[Grumpy Bomb] Increased Grumpy Bombs stun duration": "[{name:Grumpy Bomb}] {name:Grumpy Bomb} 기절 지속시간 증가.",
+  "[Guardian Spirit] Fox cooldown is reduced": "[{name:Guardian Spirit}] 여우 재사용 대기시간 감소.",
+  "[Guardian Spirit] Fox restores moonlight": "[{name:Guardian Spirit}] 여우가 {name:Moonlight} 회복.",
+  "[Guardian Spirit] Increase Spirits deploy range": "[{name:Guardian Spirit}] {name:Guardian Spirit} 배치 사거리 증가.",
+  "[Guardian Spirit] Luna Heals allies around her for 320 per second. Reduce Moonlight's Healing to 135 every 0.15s.": "[{name:Guardian Spirit}] {name:Luna}가 주변 아군의 체력을 매초 320 회복합니다. {name:Moonlight}의 치유량이 0.15초마다 135로 감소합니다.",
+  "[Healing Potion] Healing Potions now only activate when directly hitting a target, and may persist in the world for 10s after hitting a surface. Reduces cooldown of Healing Potion by 3s.": "[{name:Healing Potion}] {name:Healing Potion}이 대상에게 직접 적중할 때만 발동하며 표면에 닿으면 최대 10초 동안 남아 있습니다. {name:Healing Potion} 재사용 대기시간이 3초 감소합니다.",
+  "[Healing Potion] You gain a portion of Healing Potion’s effect if you hit a teammate but not yourself.": "[{name:Healing Potion}] 자신에게 닿지 않고 아군에게 적중하면 {name:Healing Potion} 효과의 일부를 받습니다.",
+  "[Healing Totem] Allies inside your Healing Totem are healed for more based on their Maximum health.": "[{name:Healing Totem}] {name:Healing Totem} 안의 아군이 자신의 최대 체력에 비례해 추가 치유를 받음.",
+  "[Heroic Leap] Heroic Leap now deals 600 damage, knocks up enemies straight up and has a 20% increased radius": "[{name:Heroic Leap}] {name:Heroic Leap}이 600의 피해를 주고 적을 수직으로 띄우며 범위가 20% 증가합니다.",
+  "[Heroic Leap] Reduce the Cooldown of Heroic Leap by 6s. Increase Damage done.": "[{name:Heroic Leap}] {name:Heroic Leap} 재사용 대기시간이 6초 감소하고 피해가 증가합니다.",
+  "[Hidden] Deal 400 damage on your first shot after leaving stealth. !Use Rank 2!": "[{name:Hidden}] 은신 종료 후 첫 사격이 400의 피해를 줍니다. !등급 2 사용!",
+  "[Hidden] You automatically enter Stealth when you drop below 30% Health.": "[{name:Hidden}] 체력이 30% 미만으로 떨어지면 자동으로 은신.",
+  "[Hunter's Mark] Gain Health if you kill your Hunter's Mark target.": "[{name:Hunter's Mark}] {name:Hunter's Mark} 대상 처치 시 체력 회복.",
+  "[Hunter's Mark] Hunter's Mark's damage increase now also benefits allies, is increased to 25% bonus damage, and has a 2s reduced Cooldown.": "[{name:Hunter's Mark}] {name:Hunter's Mark}의 피해 증가 효과가 아군에게도 적용되고 25%로 증가하며 재사용 대기시간이 2초 감소합니다.",
+  "[Hustle] Increase speed after Hustle for a short period after deactivation.": "[{name:Hustle}] {name:Hustle} 종료 후 잠시 이동 속도 증가.",
+  "[Hustle] Reduce time it takes to scope after hustle ends": "[{name:Hustle}] {name:Hustle} 종료 후 조준 전환 시간 감소.",
+  "[Ignition] Reduce your damage taken by {scale=3|3}% for 3s after activating Ignition.": "[{name:Ignition}] {name:Ignition} 사용 후 3초 동안 받는 피해 {scale=3|3}% 감소.",
+  "[Illusion] Illusions can now target two allies when Healing, but Illusions heal for 20% less.": "[{name:Illusion}] 환영이 아군 둘을 동시에 치유할 수 있지만 치유량이 20% 감소합니다.",
+  "[In Pursuit] Every shot hit with In Pursuit heals you.": "[{name:In Pursuit}] {name:In Pursuit} 사격 적중 시마다 체력 회복.",
+  "[In Pursuit] In Pursuit now deals {scale=51|3}% of the target's maximum health in damage over its duration.": "[{name:In Pursuit}] {name:In Pursuit}가 지속시간 동안 대상의 최대 체력의 {scale=51|3}%만큼 피해를 줍니다.",
+  "[Juggernaut] Grant shield for 3s after Juggernaut activation": "[{name:Juggernaut}] {name:Juggernaut} 사용 후 3초 동안 보호막 획득.",
+  "[Kindle Soul] Allies affected Kindle Soul reveal enemies with their weapon attacks.": "[{name:Kindle Soul}] {name:Kindle Soul}의 영향을 받은 아군이 무기 공격으로 적의 위치를 드러냅니다.",
+  "[Kindle Soul] Allies affected by Kindle Soul reveal enemies with their weapon attacks for {scale=1|1}s": "[{name:Kindle Soul}] {name:Kindle Soul}의 영향을 받은 아군이 무기 공격으로 적의 위치를 {scale=1|1}초 동안 드러냅니다.",
+  "[Kindle Soul] Allys affected by Kindle Soul gain a shield": "[{name:Kindle Soul}] {name:Kindle Soul}로 치유한 아군이 보호막 획득.",
+  "[Kinetic Burst] Heal for each enemy hit by Kinetic burst.": "[{name:Kinetic Burst}] {name:Kinetic Burst}로 적 적중 시 적중한 적마다 체력 회복.",
+  "[Kinetic Burst] Reduce the cooldown of Siege Shield for hitting an enemy with Kinetic Burst.": "[{name:Kinetic Burst}] {name:Kinetic Burst}로 적 적중 시 {name:Siege Shield} 재사용 대기시간 감소.",
+  "[Longbow] Increase your bow's maximum draw time by 10% and damage by 200": "[{name:Longbow}] 활시위를 당기는 최대 시간이 10%, 피해가 200 증가합니다.",
+  "[Lunar Leap] F cooldown is reduced": "[{name:Lunar Leap}] F 재사용 대기시간 감소.",
+  "[Lunar Leap] F restores ammo": "[{name:Lunar Leap}] F 사용 시 탄약 회복.",
+  "[Lunar Leap] Shield on F": "[{name:Lunar Leap}] F 사용 시 보호막 획득.",
+  "[Mending Spirits] Generate 0.25% Ultimate charge every 1s for {scale=1|1}s after hitting an ally with Mending Spirits.": "[{name:Mending Spirits}] {name:Mending Spirits}로 아군 적중 후 {scale=1|1}초 동안 1초마다 궁극기 충전량 0.25% 획득.",
+  "[Mending Spirits] Heal every second while healing an ally with Mending spirits.": "[{name:Mending Spirits}] {name:Mending Spirits}로 아군을 치유하는 동안 매초 체력 회복.",
+  "[Mending Spirits] Reduce your damage taken by {scale=4|4}% for 4s after hitting an ally with Mending Spirits.": "[{name:Mending Spirits}] {name:Mending Spirits}로 아군 적중 후 4초 동안 받는 피해 {scale=4|4}% 감소.",
+  "[Mending Spirits] Your Gourd no longer damages enemies, but it Heals for twice as much.": "[치유의 영혼] 박이 적에게 피해를 주지 않지만 치유량이 두 배가 됩니다.",
+  "[Midnight] Activating Midnight resets Pounce's Cooldown. During Midnight, Pounce Executes targets at or below 75% Health. Midnight's duration is increased by 2s and its charge rate is 20% faster.": "[{name:Midnight}] {name:Midnight} 사용 시 {name:Pounce} 재사용 대기시간이 초기화됩니다. {name:Midnight} 중 {name:Pounce}가 체력이 75% 이하인 대상을 처형합니다. {name:Midnight}의 지속시간이 2초, 충전 속도가 20% 증가합니다.",
+  "[Moonlight] Allies healed have increased movement speed": "[{name:Moonlight}] 치유한 아군의 이동 속도 증가.",
+  "[Moonlight] Hits heal Io": "[{name:Moonlight}] 적중 시 {name:Io} 체력 회복.",
+  "[Moonlight] Hits reduce Guardian Spirit Cooldown": "[{name:Moonlight}] 적중 시 {name:Guardian Spirit} 재사용 대기시간 감소.",
+  "[Moonlight] Passive moonlight regeneration": "[{name:Moonlight}] {name:Moonlight} 지속 회복.",
+  "[Moonlight] Regenerate {scale=1|1}% Moonlight every 1s while not using Moonlight.": "[{name:Moonlight}] {name:Moonlight}을 사용하지 않는 동안 1초마다 {name:Moonlight} {scale=1|1}% 회복.",
+  "[Net Shot] Net Shot roots all additional enemies within {8}ft.": "[{name:Net Shot}] {name:Net Shot}이 {8}피트 이내의 다른 모든 적을 이동 불가 상태로 만듭니다.",
+  "[Oppressor Mine] Oppressor Mines can now affect 2 more targets and Sniper Shots against enemies affected by Mines deal 30% more damage.": "[{name:Oppressor Mine}] {name:Oppressor Mine}이 대상을 2명 더 공격할 수 있으며 지뢰의 영향을 받은 적에게 저격 사격으로 주는 피해가 30% 증가합니다.",
+  "[Oppressor Mine] Oppressor Mines cause a lingering Slow.": "[{name:Oppressor Mine}] {name:Oppressor Mine}이 지속되는 둔화 효과 적용.",
+  "[Oppressor Mine] You can have two additional Oppressor Mines out at one time and you throw out two Mines per use of the ability instead of one, but your Mines have a lifetime of 6s and the Cooldown of Oppressor Mine is increased by 2s.": "[{name:Oppressor Mine}] 지뢰를 동시에 둘 더 배치하고 한 번에 하나 대신 둘을 던집니다. 지뢰 지속시간은 6초가 되고 {name:Oppressor Mine} 재사용 대기시간이 2초 증가합니다.",
+  "[Overcharge] Hitting an enemy while Overcharge is active reduces the cooldown of Blitz Upper.": "[{name:Overcharge}] {name:Overcharge} 활성화 중 적 적중 시 {name:Blitz Upper} 재사용 대기시간 감소.",
+  "[Planted] Killing an enemy resets the Cooldown of Rapid Fire and Rapid Fire deals 20% more damage.": "[{name:Planted}] 적을 처치하면 {name:Rapid Fire}의 재사용 대기시간이 초기화되며 {name:Rapid Fire}의 피해가 20% 증가합니다.",
+  "[Poison Bolts] Deal 5% more max health damage with each hit of Poison Bolts. !Use Rank 2!": "[{name:Poison Bolts}] {name:Poison Bolts}이 적중할 때마다 최대 체력 비례 피해가 5% 증가합니다. !등급 2 사용!",
+  "[Poison Bolts] Hitting poison bolts cause you to not consume ammo": "[{name:Poison Bolts}] {name:Poison Bolts} 적중 시 탄약을 소모하지 않음.",
+  "[Poppy Bomb] Detonating Poppy Bomb Heals you.": "[{name:Poppy Bomb}] {name:Poppy Bomb} 폭발 시 체력 회복.",
+  "[Poppy Bomb] Poppy Bomb has increased Knockback against enemies and explodes on contact with any surface.": "[{name:Poppy Bomb}] {name:Poppy Bomb}이 적을 밀쳐내는 힘 증가 및 표면 접촉 시 폭발.",
+  "[Power Siphon] Channeling Power Siphon for 4s grants a number of charges.": "[{name:Power Siphon}] {name:Power Siphon}을 4초 동안 집중하면 충전 횟수 획득.",
+  "[Power Siphon] Heal for a portion of the damage absorbed by Power Siphon.": "[{name:Power Siphon}] {name:Power Siphon}으로 흡수한 피해의 일부만큼 체력 회복.",
+  "[Power Siphon] Reduce the damage required to generate a charge.": "[{name:Power Siphon}] 충전 횟수 생성에 필요한 피해량 감소.",
+  "[Precision Sights] Every shot made in Precision Sights has a chance to not cost ammo.": "[{name:Precision Sights}] {name:Precision Sights} 사격이 일정 확률로 탄약을 소모하지 않음.",
+  "[Precision Sights] Successful shots in Precision Sights reduce the Cooldown of Sensor Drone.": "[{name:Precision Sights}] {name:Precision Sights} 사격 적중 시 {name:Sensor Drone} 재사용 대기시간 감소.",
+  "[Presence] Hits with presence reduce Valor cooldown": "[{name:Presence}] {name:Presence} 적중 시 {name:Valor} 재사용 대기시간 감소.",
+  "[Projection] Enemies hit by Projection are <font color=\"#1EBEF7\">Stunned</font> for 1s and any enemy caught between your Projection and you when you Teleport takes 800 damage. Reduce Projection's Cooldown by 3s.": "[{name:Projection}] {name:Projection}에 맞은 적은 1초 동안 <font color=\"#1EBEF7\">기절</font>합니다. 순간이동 시 자신과 {name:Projection} 사이의 적에게 800의 피해를 줍니다. 재사용 대기시간이 3초 감소합니다.",
+  "[Projection] Regenerate 10 Ammo every 0.5s for {scale=0.5|0.5}s after using Projection.": "[{name:Projection}] {name:Projection} 사용 후 {scale=0.5|0.5}초 동안 0.5초마다 탄약 10 회복.",
+  "[Protection] Activating Protection heals your protection ally": "[{name:Protection}] {name:Protection} 사용 시 대상 아군의 체력 회복.",
+  "[Protection] Gain a second charge of Protection.": "[{name:Protection}] {name:Protection}을 한 번 더 사용할 수 있습니다.",
+  "[Protection] Generate ammo for your prot target": "[{name:Protection}] {name:Protection} 대상의 탄약 생성.",
+  "[Protection] Protection grants Movement Speed to its target for 2s.": "[{name:Protection}] {name:Protection} 대상이 2초 동안 이동 속도 획득.",
+  "[Pyre Strike] When Pyre Strike hits an enemy champion it stops moving until it ends and deals up to 100% more damage to enemies under it, increasing based on the number of hits they take. <font color=\"#ff8271\"><b>Surgery</b> (+10% Damage Done)</font>": "[{name:Pyre Strike}] {name:Pyre Strike}이 적 챔피언에게 적중하면 종료될 때까지 이동을 멈추며 그 아래의 적에게 적중 횟수에 따라 최대 100%의 추가 피해를 줍니다. <font color=\"#ff8271\"><b>{name:Surgery}</b> (주는 피해 +10%)</font>",
+  "[Quick Switch] Every 2s your inactive Weapon generates Ammo.": "[{name:Quick Switch}] 사용하지 않는 무기의 탄약이 2초마다 생성.",
+  "[Quick Switch] Every second your rifle is out, the cooldown of Flare is reduced.": "[{name:Quick Switch}] 소총을 든 동안 매초 {name:Flare} 재사용 대기시간 감소.",
+  "[Quick Switch] Reduce the time to swap to your Side Arm by 10%.": "[{name:Quick Switch}] {name:Side Arm}으로 교체하는 시간 10% 감소.",
+  "[Quick Switch] Swapping to your Pistol grants Lifesteal for 3s.": "[{name:Quick Switch}] 권총으로 교체하면 3초 동안 생명력 흡수 획득.",
+  "[Quick Switch] Your inactive weapon generates {scale=2|2} Ammo every 2s.": "[{name:Quick Switch}] 사용하지 않는 무기의 탄약이 2초마다 {scale=2|2} 생성.",
+  "[Rapid Shot] Rapid Shot arrows now reduce enemies' movement speed.": "[{name:Rapid Shot}] {name:Rapid Shot} 화살이 적의 이동 속도 감소.",
+  "[Recharge] Recharge reduces Protection's Cooldown.": "[{name:Recharge}] {name:Recharge} 사용 시 {name:Protection} 재사용 대기시간 감소.",
+  "[Recovery] +40% Attack Speed and +40% Damage when you activate Recovery.": "[{name:Recovery}] {name:Recovery} 사용 시 공격 속도 +40% 및 피해 +40%.",
+  "[Recovery] MS during recovery": "[{name:Recovery}] {name:Recovery} 사용 중 이동 속도 증가.",
+  "[Recovery] Regenerate 1 Ammo every 0.5s for {scale=0.5|0.5}s after activating Recovery.": "[{name:Recovery}] {name:Recovery} 사용 후 {scale=0.5|0.5}초 동안 0.5초마다 탄약 1 회복.",
+  "[Recovery][+10% Per Rank] Taking fatal damage while Recovery is active instead heals you for {30}% of your max Health": "[{name:Recovery}][등급당 +10%] {name:Recovery} 활성화 중 치명적인 피해를 받으면 대신 최대 체력의 {30}%를 회복합니다.",
+  "[Rend Soul] Each Soul Charge you detonate with Rend Soul increases your maximum Health and weapon damage by 2% until you die. Stacks up to 12 times.": "[{name:Rend Soul}] {name:Rend Soul}로 폭발시킨 {name:Soul Charge}마다 사망할 때까지 최대 체력과 무기 피해가 2% 증가하며 최대 12회 중첩됩니다.",
+  "[Rend Soul] Soul Charge detonations grant you Movement Speed": "[영혼 찢기] {name:Soul Charge} 폭발 시 이동 속도 획득.",
+  "[Restore Soul] Every Second channeling Restore Soul generates ammo.": "[{name:Restore Soul}] {name:Restore Soul} 집중 중 매초 탄약 생성.",
+  "[Restore Soul] For each stack of Soul Orb detonated by Rend Soul, Restore Soul heals an additional 5% True Healing (excluding Healing disable effects) up to 25% for 10s.": "[{name:Restore Soul}] {name:Rend Soul}로 폭발시킨 {name:Soul Orb} 중첩마다 10초 동안 {name:Restore Soul}이 치유 봉쇄 효과를 제외한 치유 감소를 무시하는 치유량을 5% 추가하며 최대 25%까지 증가합니다.",
+  "[Restore Soul] Heal all allies within 50ft of your Restore Soul target for 50% of the healing value.": "[{name:Restore Soul}] {name:Restore Soul} 대상의 50피트 이내 모든 아군을 원래 치유량의 50%만큼 치유합니다.",
+  "[Restore Soul] Increases AOE heal range": "[{name:Restore Soul}] 범위 치유 사거리 증가.",
+  "[Restore Soul] While channeling Restore Soul you heal yourself every second.": "[{name:Restore Soul}] {name:Restore Soul} 집중 중 매초 자신의 체력 회복.",
+  "[Retribution] Increase the range at which your target becomes visible.": "[{name:Retribution}] 대상의 위치가 드러나는 사거리 증가.",
+  "[Retribution] You gain Lifesteal against your Retribution target.": "[{name:Retribution}] {name:Retribution} 대상 공격 시 생명력 흡수 획득.",
+  "[Reversal] Heal for a percent of the Damage absorbed by Reversal.": "[{name:Reversal}] {name:Reversal}로 흡수한 피해에 비례해 체력 회복.",
+  "[Rogue's Tempo] Gain credits for each enemy Champion hit with Rogue's Tempo.": "[{name:Rogue's Tempo}] {name:Rogue's Tempo}로 챔피언 적중 시 적중한 챔피언마다 크레딧 획득.",
+  "[Salvo] Salvo now activates instantly, always fires 6 shots, and has its cooldown reduced by 5s.": "[{name:Salvo}] {name:Salvo}이 즉시 발동해 항상 6발을 발사하며 재사용 대기시간이 5초 감소합니다.",
+  "[Salvo] Salvo's Cooldown is reduced for every shot hit.": "[{name:Salvo}] {name:Salvo} 사격 적중 시마다 재사용 대기시간 감소.",
+  "[Scope] Eliminations or kills while scoped generate Ult charge.": "[조준경] 조준 중 처치 또는 처치 관여 시 궁극기 충전량 획득.",
+  "[Scout] While Scout is active, gain 50% Lifesteal.": "[{name:Scout}] {name:Scout} 활성화 중 생명력 흡수 50% 획득.",
+  "[Second Chance] Activating Second Chance leaves behind an unstable fissure that explodes after 3s, dealing 1,000 damage.": "[{name:Second Chance}] {name:Second Chance} 사용 시 3초 후 폭발해 1,000의 피해를 주는 불안정한 균열을 남깁니다.",
+  "[Seedling] Projectile Speed increase for Seedling": "[{name:Seedling}] {name:Seedling} 투사체 속도 증가.",
+  "[Seedling] Reduce the Cooldown of Seedling when hitting enemies.": "[{name:Seedling}] 적 적중 시 {name:Seedling} 재사용 대기시간 감소.",
+  "[Sensor Drone] Gain Lifesteal against revealed enemies": "[{name:Sensor Drone}] 위치가 드러난 적 공격 시 생명력 흡수 획득.",
+  "[Sensor Drone] Heal if an enemy revealed by your drone dies.": "[{name:Sensor Drone}] 드론으로 위치가 드러난 적 사망 시 체력 회복.",
+  "[Sensor Drone] Sensor Drone's reveal lasts an additional duration after an enemy leaves iss vision range.": "[{name:Sensor Drone}] 적이 {name:Sensor Drone} 탐지 범위를 벗어난 후에도 잠시 위치가 드러남.",
+  "[Sensor Drone] Your Sensor Drones explode dealing 500 damage and knocking back when an enemy is within 20ft.": "[{name:Sensor Drone}] 적이 20피트 이내에 오면 {name:Sensor Drone}이 폭발해 500의 피해를 주고 밀쳐냅니다.",
+  "[Sensor Drone] more booms": "[{name:Sensor Drone}] 추가 폭발.",
+  "[Sentinels] You always respawn with one Sentinel active.": "[{name:Sentinels}] 항상 감시자 하나가 활성화된 상태로 부활합니다.",
+  "[Setback] Hitting with Setback grants yourself a shield.": "[{name:Setback}] {name:Setback} 적중 시 보호막 획득.",
+  "[Shatter] Activating Shatter heals your illusions.": "[{name:Shatter}] {name:Shatter} 사용 시 환영의 체력 회복.",
+  "[Shatter] zzzzShatter now instantly heals your target for 800 health per active illusion, but consumes your illusions. The Cooldown of Shatter is reduced by 1s.": "[{name:Shatter}] {name:Shatter}이 활성화된 환영마다 대상의 체력을 즉시 800 회복하지만 환영을 소모합니다. {name:Shatter}의 재사용 대기시간이 1초 감소합니다.",
+  "[Shatterfall] Gain damage reduction for 3s after landing from Shatterfall.": "[{name:Shatterfall}] {name:Shatterfall} 착지 후 3초 동안 받는 피해 감소.",
+  "[Shatterfall] Shatterfall <font color=\"#1EBEF7\">Stuns</font> enemies hit for 1s, but no longer Slows.": "[{name:Shatterfall}] {name:Shatterfall}에 맞은 적이 1초 동안 <font color=\"#1EBEF7\">기절</font>하지만 둔화 효과 제거.",
+  "[Shell Shield] Reduce the cooldown of Shell Shield based on amount of damage absorbed.": "[{name:Shell Shield}] 흡수한 피해에 비례해 {name:Shell Shield} 재사용 대기시간 감소.",
+  "[Shell Spin] After using Shell Spin you gain Movement Speed.": "[{name:Shell Spin}] {name:Shell Spin} 사용 후 이동 속도 획득.",
+  "[Shell Spin] Shell Spin heals you if it hits an enemy.": "[{name:Shell Spin}] {name:Shell Spin}으로 적을 맞히면 체력 회복.",
+  "[Shield] Every 600 Damage your shield takes reduces the cooldown of Charge.": "[보호막] 보호막이 600의 피해를 받을 때마다 {name:Charge} 재사용 대기시간 감소.",
+  "[Shield] While Shield is active and you are below 35% Health, you heal every second until you reach 35% Health.": "[보호막] 보호막 활성화 중 체력이 35% 미만이면 35%에 도달할 때까지 매초 체력 회복.",
+  "[Shield][+500 Per Rank] +2500 Shield Health.": "[보호막][등급당 +500] 보호막 체력 +2500.",
+  "[Shock Pulse] Gain movement speed if Shock Pulse hits an enemy.": "[{name:Shock Pulse}] {name:Shock Pulse}로 적 적중 시 이동 속도 획득.",
+  "[Shock Pulse] Increse the bounce range of Shock Pulse.": "[{name:Shock Pulse}] {name:Shock Pulse} 튕기는 사거리 증가.",
+  "[Shock Pulse] Recharge your ammo for every unique enemy hit by Shock Pulse.": "[{name:Shock Pulse}] {name:Shock Pulse}로 서로 다른 적을 적중시킬 때마다 탄약 회복.",
+  "[Siege Shield] Reduce the Cooldown of Siege Shield by 0.8s.": "[{name:Siege Shield}] {name:Siege Shield} 재사용 대기시간 0.8초 감소.",
+  "[Slither] While using Slither, passing through an ally will Heal them for 800 and passing through an enemy will damage them for 650.": "[{name:Slither}] {name:Slither}로 아군을 통과하면 체력을 800 회복하고 적을 통과하면 650의 피해를 줍니다.",
+  "[Smoke Screen] Generate {scale=4|4} Ammo after entering Smoke Screen. You must spend at least 4s out of Smoke Screen before this effect can apply again.": "[{name:Smoke Screen}] {name:Smoke Screen} 진입 시 탄약 {scale=4|4} 생성. 효과가 다시 적용되려면 {name:Smoke Screen} 밖에서 최소 4초 대기.",
+  "[Smoke Screen] Grants Health over 2s while in Smoke Screen.": "[{name:Smoke Screen}] {name:Smoke Screen} 안에 있는 동안 2초에 걸쳐 체력 회복.",
+  "[Smoke Screen] Heal for {scale=125|125} over 2s while in Smoke Screen.": "[{name:Smoke Screen}] {name:Smoke Screen} 안에 있는 동안 2초에 걸쳐 체력 {scale=125|125} 회복.",
+  "[Smoke Screen] Smoke Screen card benefits now also affect allies": "[{name:Smoke Screen}] {name:Smoke Screen} 카드 효과가 아군에게도 적용.",
+  "[Sniper Mode] Enemies Revealed longer by Tag 'Em and Bag 'Em.": "[{name:Sniper Mode}] {name:Tag 'Em and Bag 'Em}으로 적의 위치를 드러내는 시간 증가.",
+  "[Sniper Mode] Increase your movement speed while scoped.": "[{name:Sniper Mode}] 조준 중 이동 속도 증가.",
+  "[Soul Harvest] Soul Harvest reduces the damage you take by 3s after use": "[{name:Soul Harvest}] {name:Soul Harvest} 사용 후 3초 동안 받는 피해 감소.",
+  "[Soul Harvest] Souls heal when gathered": "[{name:Soul Harvest}] 영혼 수집 시 체력 회복.",
+  "[Stasis Field] You and your allies gain Movement Speed after passing through Stasis Field.": "[{name:Stasis Field}] 자신과 아군이 {name:Stasis Field}을 통과하면 이동 속도 획득.",
+  "[Stealth] Eliminations grant Stealth Resource.": "[은신] 처치 관여 시 은신 자원을 얻습니다.",
+  "[Stealth] Entering stealth below 65% health heals you.": "[은신] 체력이 65% 미만일 때 은신하면 체력 회복.",
+  "[Stealth] Gain Movement Speed for 2s when entering stealth.": "[은신] 은신 시 2초 동안 이동 속도 획득.",
+  "[Stealth] Heal for {scale=15|15} every 1s while Stealth is active.": "[은신] 은신 활성화 중 1초마다 체력 {scale=15|15} 회복.",
+  "[Stealth] Reduce the rate of Stealth Energy consumption by 50% and increase your Movement Speed by 20% while in Stealth.": "[은신] 은신 에너지 소모 속도가 50% 감소하고 은신 중 이동 속도가 20% 증가합니다.",
+  "[Stellar Wind] Increase air control during Stellar Wind": "[{name:Stellar Wind}] {name:Stellar Wind} 사용 중 공중 제어력 증가.",
+  "[Talent Card] Deal 30 bonus damage when hitting all 5 shots on the same target.": "[특성 카드] 사격 5회를 모두 같은 대상에게 적중시키면 30의 추가 피해를 줍니다.",
+  "[Tendril] Gain a {scale=75|75} Shield for 5s after activating Tendril.": "[{name:Tendril}] {name:Tendril} 사용 후 5초 동안 체력이 {scale=75|75}인 보호막 획득.",
+  "[Tendril] Tendril gains a second charge, but its Cooldown is increased by 2s.": "[{name:Tendril}] {name:Tendril}을 한 번 더 사용할 수 있지만 재사용 대기시간이 2초 증가합니다.",
+  "[Thrust] Booster consumes less fuel after using Thrust.": "[{name:Thrust}] {name:Thrust} 사용 후 부스터 연료 소모량 감소.",
+  "[Thrust] Consume {scale=15|15}% less Booster fuel for 5s after using Thrust.": "[{name:Thrust}] {name:Thrust} 사용 후 5초 동안 부스터 연료 소모량 {scale=15|15}% 감소.",
+  "[Thrust] Dropping below a certain percentage of your max Health reduces the Cooldown of Thrust by 100%.": "[{name:Thrust}] 체력이 최대 체력의 일정 비율 미만으로 떨어지면 {name:Thrust} 재사용 대기시간 100% 감소.",
+  "[Thrust] Increased the forward distance of Thrust.": "[{name:Thrust}] {name:Thrust}의 전방 이동 거리 증가.",
+  "[Thrust] Thrust's Cooldown is reduced when you get a Elimination.": "[{name:Thrust}] 처치 관여 시 {name:Thrust} 재사용 대기시간 감소.",
+  "[Transporter]  Increase your movement speed after teleporting through Transporter.": "[{name:Transporter}] {name:Transporter}로 순간이동 후 이동 속도 증가.",
+  "[Transporter] Heal after teleporting to your Transporter beacon.": "[{name:Transporter}] {name:Transporter} 신호기로 순간이동 후 체력 회복.",
+  "[Transporter] Increase your Movement Speed by {scale=27|27}% for 2s after Teleporting with Transporter.": "[{name:Transporter}] {name:Transporter}로 순간이동 후 2초 동안 이동 속도 {scale=27|27}% 증가.",
+  "[Transporter] Increases the flight speed of Transporter,": "[{name:Transporter}] {name:Transporter} 비행 속도 증가.",
+  "[Turret] Barik Turrets now shoot flames dealing 400 damage per second.": "[{name:Turret}] {name:Barik}의 포탑이 매초 400의 피해를 주는 화염을 발사합니다.",
+  "[Turret] Heal all of your Turrets for {scale=100|100} every 1s while you are standing near them.": "[{name:Turret}] 자신의 포탑 근처에 서 있는 동안 1초마다 모든 포탑의 체력 {scale=100|100} 회복.",
+  "[Turret] Heals when a turret shot hits an enemy.": "[{name:Turret}] 포탑 사격으로 적 적중 시 체력 회복.",
+  "[Turret] Standing near and of your Turrets heals you.": "[{name:Turret}] 자신의 포탑 근처에 서 있으면 체력 회복.",
+  "[Turret] Your turret now fires heat-seeking missiles at enemies that explode in an area. Turret has +{80}% Health": "[{name:Turret}] 포탑이 적에게 유도 미사일을 발사해 범위 폭발을 일으킵니다. 포탑 체력 +{80}%.",
+  "[Valor] For every enemy you hit with Valor gain 10% increased damage for 4s.": "[{name:Valor}] {name:Valor}로 적을 맞힐 때마다 4초 동안 피해가 10% 증가합니다.",
+  "[Valor] Hits with Valor reduced cooldown of presence": "[{name:Valor}] {name:Valor} 적중 시 {name:Presence} 재사용 대기시간 감소.",
+  "[Valor] Reduce the Cooldown of Grace for every enemy hit with Valor once every 3s.": "[{name:Valor}] {name:Valor}로 적 적중 시 적중한 적마다 {name:Grace} 재사용 대기시간 감소. 3초마다 한 번 발동.",
+  "[Vengeance] Killing your target refills of your maximum Health.": "[{name:Vengeance}] 대상 처치 시 최대 체력에 비례해 체력 회복.",
+  "[Vine] Heal for a burst of 350 and an additional 200 over 2s in a 50-unit radius at your location when you finish Vining.": "[{name:Vine}] {name:Vine} 이동이 끝나면 자신의 위치를 중심으로 50 유닛 범위를 즉시 350 치유하고 2초 동안 200 추가 치유합니다.",
+  "[Void Grip] If a victim of Void Grip dies within 4s of being hit by the ability, reduce all active cooldowns.": "[{name:Void Grip}] {name:Void Grip}에 맞은 적이 4초 안에 사망하면 진행 중인 모든 재사용 대기시간 감소.",
+  "[Weapon] Attack 25% faster when you have no Charges of Calamity Blast stored.": "[무기] 저장된 {name:Calamity Blasts} 중첩이 없으면 공격 속도가 25% 증가합니다.",
+  "[Weapon] Elims grant ammo": "[무기] 처치 관여 시 탄약 획득.",
+  "[Weapon] Explosive damage sets enemies on fire for 0.175% of their maximum Health every 0.1s for 1.5s. Additional hits refresh the duration.": "[무기] 폭발 피해가 적에게 화상을 적용해 1.5초 동안 0.1초마다 최대 체력의 0.175%에 해당하는 피해를 줍니다. 추가 적중 시 지속시간이 갱신됩니다.",
+  "[Weapon] Gain {scale=850|50} knock up when hitting yourself with Spinfusor.": "[무기] {name:Spinfusor}로 자신을 맞히면 공중으로 띄우는 힘이 {scale=850|50} 증가합니다.",
+  "[Weapon] Generate Ammo after getting a Killing Blow or Elimination while Scope is active.": "[무기] 조준경 사용 중 처치 또는 처치 관여 시 탄약 생성.",
+  "[Weapon] Hits restore moonlight": "[무기] 적중 시 {name:Moonlight} 회복.",
+  "[Weapon] Hits with Grenade Launcher increase Reload Speed by 5% for {scale=0.5|0.5}s, stacking up to 3 times. Additional hits refresh the duration.": "[무기] {name:Grenade Launcher} 적중 시 {scale=0.5|0.5}초 동안 재장전 속도 5% 증가. 최대 3회 중첩하며 추가 적중 시 지속시간 갱신.",
+  "[Weapon] Hitting a shot has a chance to not cost ammo. ": "[무기] 사격 적중 시 일정 확률로 탄약을 소모하지 않음.",
+  "[Weapon] Hitting an enemy with your Carbine lowers the cooldown of Transporter.": "[무기] 카빈으로 적 적중 시 {name:Transporter} 재사용 대기시간 감소.",
+  "[Weapon] Hitting fully charged weapon shots restores ammo.": "[무기] 완전히 충전한 무기 사격 적중 시 탄약 회복.",
+  "[Weapon] If an enemy is affected with a Soul Charge you move faster": "[무기] {name:Soul Charge}이 있는 적 존재 시 이동 속도 증가.",
+  "[Weapon] If an enemy is affected with a Soul Charge you move {scale=8|8}% faster": "[무기] {name:Soul Charge}가 적용된 적이 있으면 이동 속도가 {scale=8|8}% 증가합니다.",
+  "[Weapon] Increase Projectile Speed by {scale=25|10}%, but set your maximum Ammo to 2.": "[무기] 투사체 속도가 {scale=25|10}% 증가하지만 최대 탄약은 2발이 됩니다.",
+  "[Weapon] Increase the explosion size of Sticky bombs by 100%.": "[무기] {name:Sticky Bomb}의 폭발 범위가 100% 증가합니다.",
+  "[Weapon] Increase your Healing received by {scale=5|5}% while firing your SMGs.": "[무기] 기관단총 발사 중 받는 치유량이 {scale=5|5}% 증가합니다.",
+  "[Weapon] Killing your Retribution target grants a 5% damage buff that stacks up to 5 times.": "[무기] {name:Retribution} 대상을 처치하면 피해를 5% 증가시키는 효과를 얻으며 최대 5회 중첩됩니다.",
+  "[Weapon] Leave fire behind you on the ground as you move": "[무기] 이동할 때 지나간 땅에 불을 남깁니다.",
+  "[Weapon] Reduce maximum Side Arm inaccuracy.": "[무기] {name:Side Arm} 최대 부정확도 감소.",
+  "[Weapon] Reduce the Cooldown of Piercing Quills by {scale=0.03|0.03}s each time you hit an enemy with Caustic Spray.": "[무기] 부식성 분사로 적을 맞힐 때마다 관통 가시의 재사용 대기시간이 {scale=0.03|0.03}초 감소합니다.",
+  "[Weapon] Reduce the Cooldown of your basic abilities by 10% after hitting an enemy with at least one Kunai. This can activate only once per throw.": "[무기] {name:Kunai}를 하나 이상 적중시키면 일반 기술의 재사용 대기시간이 10% 감소합니다. 한 번 던질 때마다 한 번만 발동합니다.",
+  "[Weapon] Reduce the Movement Speed penalty of Scope .": "[무기] 조준경 사용 중 이동 속도 감소 효과 완화.",
+  "[Weapon] Reduce the ammo cost of firing your flame lance.": "[무기] {name:Flame Lance} 발사 시 탄약 소모량 감소.",
+  "[Weapon] Regenerate {scale=1|1} Ammo every 0.5s for 1s after earning an Elimination.": "[무기] 처치 관여 후 1초 동안 0.5초마다 탄약 {scale=1|1} 회복.",
+  "[Weapon] Sticky Bombs deal reduced Self Damage.": "[무기] {name:Sticky Bomb}으로 자신이 받는 피해 감소.",
+  "[Weapon] Weapon hits reduce Healing Potion’s cooldown": "[무기] 무기 적중 시 {name:Healing Potion} 재사용 대기시간 감소.",
+  "[Weapon] Weapon shots cause targets to take 1% additional damage from your Miniguns for 3s, stacking up to 25%": "[무기] 무기 사격에 적중한 대상이 3초 동안 자신의 {name:Miniguns}에서 받는 피해가 1% 증가하며 최대 25%까지 중첩됩니다.",
+  "[Weapon] Weapon shots increase the duration of active Astral Marks by .1s.": "[무기] 무기 사격이 활성화된 {name:Astral Mark}의 지속시간을 .1초 증가시킵니다.",
+  "[Weapon] While firing SMGs increase healing received.": "[무기] 기관단총 발사 중 받는 치유량 증가.",
+  "[Weapon] Your Revolver applies a Bleed for 1s, dealing damage every 0.1s that increases the longer it remains on the enemy. Maximum damage per 0.1s is 20. Additional hits refresh the duration.": "[무기] {name:Revolver}이 1초 동안 출혈을 적용해 0.1초마다 피해를 줍니다. 적에게 유지되는 시간이 길수록 피해가 증가하며 0.1초당 최대 피해는 20입니다. 추가 적중 시 지속시간이 갱신됩니다.",
+  "[Weapon] Your Weapon deals less Self Damage and no longer knocks you back.": "[무기] 무기가 자신에게 주는 피해가 감소하고 자신을 밀쳐내지 않습니다.",
+  "[Weapon] Your projectiles from The Crimson Heart now pierce and deal 90 more damage to subsequent enemies hit after piercing, but their size is reduced by 20%.": "[무기] {name:Heart of Crimson} 투사체가 적을 관통하며 후속 적 적중 시 피해가 90씩 증가하지만 투사체 크기는 20% 감소합니다.",
+  "[Weapon] Your weapon no longer knocks you back and deals less self damage.": "[무기] 무기가 자신을 밀쳐내지 않고 자신에게 주는 피해가 감소합니다.",
+  "[Weapon] Your weapon shots travel 50% faster and 100% farther, but no longer explode.": "[무기] 무기 사격의 투사체 속도가 50%, 사거리가 100% 증가하지만 더 이상 폭발하지 않습니다.",
+  "[Weapon] increase rev-up speed": "[무기] 회전 가속 속도 증가.",
+  "[Weapon][+15% Dmg Per Rank] Deal up to +{15/30/45/60}% damage to farther targets, dealing more damage the farther they are away": "[무기][등급당 피해 +15%] 멀리 있는 대상에게 주는 피해가 최대 +{15/30/45/60}% 증가하며 거리가 멀수록 더 큰 피해를 줍니다.",
+  "[Weapon][+50% Per Rank] Deal +{50/100/150/200}% damage to deployables": "[무기][등급당 +50%] 설치물에 주는 피해 +{50/100/150/200}%.",
+  "[Whirl] Movement speed for duration after whirl ends.": "[{name:Whirl}] {name:Whirl} 종료 후 일정 시간 동안 이동 속도 증가.",
+  "[Whirl] Reduce the cooldown of Whirl by for every enemy hit.": "[{name:Whirl}] 적을 맞힐 때마다 {name:Whirl}의 재사용 대기시간이 감소합니다.",
+  "[Whirl] Whirl does up increased damage based on your opponent’s missing health.": "[{name:Whirl}] 대상이 잃은 체력에 따라 {name:Whirl}의 피해가 증가합니다.",
+  "[Wings of Wrath] Wings of Wrath gains an additional charge.": "[{name:Wings of Wrath}] {name:Wings of Wrath}을 한 번 더 사용할 수 있습니다.",
+  "[Withdraw] Dropping to low health resets the cooldown of Withdraw.": "[{name:Withdraw}] 체력이 낮아지면 {name:Withdraw} 재사용 대기시간 초기화.",
+  "base fire mode": "기본 발사 방식.",
+  "crack shot talent": "{name:Crack Shot} 특성.",
+  "damage burst": "순간 피해.",
+  "damage on teleport": "순간이동 시 피해.",
+  "firemode for Heroism": "{name:Heroism}의 발사 방식.",
+  "jubilation fire mode for old mark functionality": "이전 표식 기능을 위한 {name:Jubilation} 발사 방식.",
+  "more health": "체력 증가.",
+  "no longer in use": "더 이상 사용하지 않음.",
+  "old Aegis Talent (now base kit)": "이전 {name:Aegis} 특성 (현재 기본 기술에 포함).",
+  "original functionality": "기존 기능.",
+  "reduce CD of charge after activating harden": "{name:Harden} 사용 후 돌진 재사용 대기시간 감소.",
+  "stacking slow": "중첩되는 둔화.",
+  "stealth patch 23.6 talent": "23.6 패치의 은신 특성.",
+  "talent 1": "특성 1.",
+  "the heal": "치유.",
+  "the slam down": "내려치는 공격.",
+  "zzzzDeprecated Trace Heal for Life Exchange": "폐기된 {name:Life Exchange}의 조준 치유.",
+  "zzzzShatter now instantly heals your target for an amount health per active illusion, but consumes your illusions. The Cooldown of Shatter is reduced.": "{name:Shatter}이 활성화된 환영마다 대상의 체력을 즉시 회복하지만 환영을 소모합니다. {name:Shatter}의 재사용 대기시간이 감소합니다."
+}
+}

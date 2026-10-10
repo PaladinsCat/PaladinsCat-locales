@@ -1,0 +1,42 @@
+{
+  "champions.androxus.skills.accursedarm.description": {
+    "source_sha256": "649f61651f198e3c478f9ea853d197c0f34210b689f2efd9742d25312dcb1aac",
+    "korean": "4초 동안 비행하며 리볼버를 변형합니다. 변형된 리볼버는 0.5초마다 발사해 반경 15 유닛 범위에 1000의 피해를 줍니다. 사용 시 궁극기 충전량 40%를 소모하며 발사할 때마다 추가로 15%를 소모합니다. 탄약은 최대 4발, 사거리는 400 유닛입니다. 다시 사용하면 취소할 수 있습니다."
+  },
+  "champions.androxus.skills.defiance.description": {
+    "source_sha256": "d73c6cc356a24b6b0664855aa00d6a6dc44cf30a5d8ab3c6db02b7460cd1d3c0",
+    "korean": "앞으로 주먹을 내질러 전방의 적을 공격합니다. 520의 피해를 주며 20 유닛 거리까지 최대 피해를 줍니다."
+  },
+  "champions.androxus.skills.netherstep.description": {
+    "source_sha256": "2342cbe8b3b6a822b3d6d4d0f1384fe4047ce7deb473a470f4009bc34c20ea16",
+    "korean": "재충전이 필요해지기 전까지 원하는 방향으로 최대 3회 빠르게 돌진합니다. 사거리는 31.5 유닛입니다. <br><br><b>지속 효과 - 부유</b><br><CMD=GBA_Jump>을 길게 누르면 공중에서 낙하 속도가 감소합니다."
+  },
+  "champions.androxus.skills.reversal.description": {
+    "source_sha256": "91b71d0c33579931032766eb90a426cc48ccfe72c7bd804d08b6df1f36afcaab",
+    "korean": "전방에서 날아오는 적의 원거리 공격을 흡수합니다. 1.4초 후 폭발을 발사해 흡수한 피해의 75%만큼 피해를 줍니다."
+  },
+  "champions.androxus.skills.revolver.description": {
+    "source_sha256": "66e218f7dbaee7022a797a882ed6f50ca3cdc9c9a8530ceaf06773bcd2c0a541",
+    "korean": "자동 리볼버를 발사해 0.5초마다 550의 피해를 줍니다. 탄약은 최대 6발이며 50 유닛 거리까지 최대 피해를 줍니다."
+  },
+  "champions.vora.skills.darksiphon.description": {
+    "source_sha256": "54c8e55fd1d8e7e892188b79f1bed44f491603ef7ceb1b2be46988b8def8714f",
+    "korean": "낫에서 거센 투사체를 발사해 적중 시 200의 피해를 주고 1.5초 동안 추가로 400의 피해를 줍니다. 적에게 적중하면 2초 동안 체력을 300 회복합니다.<br><br>어둠이 5중첩일 때 이 능력을 사용하면 적중한 적을 1.5초 동안 <font color=\"#1EBEF7\">속박</font>합니다."
+  },
+  "champions.vora.skills.deadlyscythe.description": {
+    "source_sha256": "b5f8988d2b8a10d92f28701dcdd9c959dbe7b49f25fa5cf3608ad3c028ebbf2c",
+    "korean": "투사체를 날리는 낫입니다. 투사체는 적에게 피해를 주고 1.25초 동안 출혈로 100의 피해를 줍니다. 공격 연계는 중간, 약, 약, 강 순서입니다.<br> 약공격: 200의 피해.<br>중간 공격: 300의 피해.<br> 강공격: 600의 피해. <br><br><b>지속 효과 - 어둠</b><br>낫으로 적중하면 어둠 중첩을 얻습니다. 어둠의 흡수 또는 말살을 사용하면 모든 중첩을 소모하고 중첩당 1초 동안 체력을 100 회복하며, 중첩이 5일 때 능력을 강화합니다. 어둠은 최대 5중첩까지 쌓입니다."
+  },
+  "champions.vora.skills.harbingerswrath.description": {
+    "source_sha256": "41c9f9eac771f2c84e31cdb48bd0e73ae84ba37944707dd9caf90f29573af4a3",
+    "korean": "분노를 집중해 적을 사냥합니다. 이동 속도가 75% 증가하고 받는 피해가 40% 감소합니다.<br><br> 사거리 내 대상을 <CMD=GBA_Fire>로 선택해 공격하면 <font color=\"#1EBEF7\">기절, 속박, 침묵</font>시킵니다. 체력이 최대 체력의 66%를 초과하는 적에게는 1100의 피해를 주고, 66% 이하인 적은 처형합니다. 능력은 5초 동안 또는 대상을 선택할 때까지 유지됩니다. 다시 사용하면 취소할 수 있습니다. 대상이 <font color=\"#1EBEF7\">기절</font> 중 사망하면 궁극기 충전량을 25% 돌려받습니다."
+  },
+  "champions.vora.skills.obliteration.description": {
+    "source_sha256": "bf22290c4ea8aca348ac278798a40baba50f805e49be4779d6dce74bef02c9c7",
+    "korean": "도약한 뒤 주변을 내려베어 600의 피해를 주고 적중한 적을 약하게 <font color=\"#1EBEF7\">밀쳐냅니다</font>. 이 능력을 사용하는 동안 피해와 군중 제어 효과에 면역입니다.<br><br>어둠이 5중첩일 때 사용하면 추가로 300의 피해를 주고 적중한 적을 2초 동안 30% <font color=\"#1EBEF7\">둔화</font>시킵니다."
+  },
+  "champions.vora.skills.tendril.description": {
+    "source_sha256": "dd7d868144656c9b0c992a39fc5d56d464045705eb21c49fe1eac28095c0c761",
+    "korean": "의지를 실체화한 덩굴손으로 대상 쪽으로 이동합니다. 플레이어에게 적중시키면 그쪽으로 끌려갑니다. 가까운 대상에게 사용하면 대상 위쪽 공중으로 도약합니다. 충전량은 2회입니다."
+  }
+}

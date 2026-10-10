@@ -1,0 +1,2 @@
+# Native dictionaries and approval receipts are hash-pinned. Preserve exact bytes.
+game-client/native/**/*.json -text whitespace=blank-at-eol,blank-at-eof,space-before-tab,cr-at-eol

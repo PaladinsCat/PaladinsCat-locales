@@ -1,0 +1,42 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "PaladinsCat game-client release catalog",
+  "type": "object",
+  "required": ["schema_version", "packages"],
+  "additionalProperties": false,
+  "properties": {
+    "$schema": {"type": "string"},
+    "schema_version": {"const": 1},
+    "packages": {"type": "array", "maxItems": 256, "items": {"$ref": "#/$defs/localeRelease"}},
+    "ime_packages": {"type": "array", "maxItems": 256, "items": {"$ref": "#/$defs/imeRelease"}}
+  },
+  "$defs": {
+    "sha256": {"type": "string", "pattern": "^[a-fA-F0-9]{64}$"},
+    "url": {"type": "string", "pattern": "^https://(github\\.com|raw\\.githubusercontent\\.com)/"},
+    "identity": {"type": "string", "minLength": 1, "maxLength": 128, "pattern": "^[a-zA-Z0-9_-]+$"},
+    "localeRelease": {
+      "type": "object", "additionalProperties": false,
+      "required": ["bundle_id", "locale", "game_build", "manifest_url", "manifest_sha256"],
+      "properties": {
+        "bundle_id": {"$ref": "#/$defs/identity"},
+        "locale": {"type": "string", "pattern": "^[A-Z]{3}$"},
+        "game_build": {"type": "string", "minLength": 1},
+        "manifest_url": {"$ref": "#/$defs/url"},
+        "manifest_sha256": {"$ref": "#/$defs/sha256"},
+        "notes": {"type": "string"}
+      }
+    },
+    "imeRelease": {
+      "type": "object", "additionalProperties": false,
+      "required": ["package_id", "version", "game_build", "manifest_url", "manifest_sha256"],
+      "properties": {
+        "package_id": {"$ref": "#/$defs/identity"},
+        "version": {"type": "string", "pattern": "^[0-9]{1,8}\\.[0-9]{1,8}\\.[0-9]{1,8}$"},
+        "game_build": {"type": "string", "minLength": 1},
+        "manifest_url": {"$ref": "#/$defs/url"},
+        "manifest_sha256": {"$ref": "#/$defs/sha256"},
+        "notes": {"type": "string"}
+      }
+    }
+  }
+}
