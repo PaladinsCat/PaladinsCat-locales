@@ -1,6 +1,23 @@
 {
-  "$schema": "../schema/game-client-catalog.schema.json",
-  "schema_version": 1,
-  "packages": [],
-  "ime_packages": []
+  "ime_packages": [
+    {
+      "game_build": "8.1",
+      "manifest_sha256": "b64c71f21d472afd62ccc114f9faa68c23f76e53c52e83bcdf26815085581f7e",
+      "manifest_url": "https://github.com/PaladinsCat/PaladinsCat-locales/releases/download/game-client-preview-20261010-r1/ime-package.json",
+      "notes": "PREVIEW · Korean IME compatibility for pinned Win64 8.1. Esc, rapid-I and Korean typing passed on frozen v4-r1; this portable build and live disable still require a fresh client trial.",
+      "package_id": "paladinscat-ime-0-1-0",
+      "version": "0.1.0"
+    }
+  ],
+  "packages": [
+    {
+      "bundle_id": "kor-ui-v172-approved-62241eb24e4e",
+      "game_build": "8.1",
+      "locale": "KOR",
+      "manifest_sha256": "a67cdc912b2420e4885f2eb0fcfb628c5c08b6ba20e0f2eb5bfc3e6a6474ea5c",
+      "manifest_url": "https://github.com/PaladinsCat/PaladinsCat-locales/releases/download/game-client-preview-20261010-r1/locale-package.json",
+      "notes": "PREVIEW · Korean v172 with Tmoney RoundWind Regular. Approved repairs only; remaining translation and targeted visual reviews are incomplete. Supports the pinned Win64 8.1 client only."
+    }
+  ],
+  "schema_version": 1
 }
