@@ -1,0 +1,6 @@
+{
+  "$schema": "../schema/game-client-catalog.schema.json",
+  "schema_version": 1,
+  "packages": [],
+  "ime_packages": []
+}

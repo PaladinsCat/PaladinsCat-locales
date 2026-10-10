@@ -17,6 +17,9 @@ tolgeerc.json
 # Local dev temp directory
 .tmp/
 
+# Generated native release drafts; published payloads use immutable release assets.
+game-client/.release-staging/
+
 # Untracked test/fix scripts (ad-hoc, not for tracking)
 scripts/fixers/
 scripts/*.mjs

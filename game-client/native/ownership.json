@@ -1,0 +1,108 @@
+{
+  "files": [
+    {
+      "previous_path": "tools/localization-build/translations/activity-ui-source-ko.json",
+      "sha256": "81af69e395b572b6efe698bab6f5dc77feca7dd722c5ed72989d1a46dcdc3e5b",
+      "previous_repository": "PaladinsCat-WatchCat",
+      "path": "translations/activity-ui-source-ko.json"
+    },
+    {
+      "previous_path": "tools/localization-build/translations/approved-wording-ui-ko-20261005.json",
+      "sha256": "2a961b7b40e640de9e0ad5fa4e17853b54fbe51325bb3dcb8ecd99434cf13640",
+      "previous_repository": "PaladinsCat-WatchCat",
+      "path": "translations/approved-wording-ui-ko-20261005.json"
+    },
+    {
+      "previous_path": "tools/localization-build/translations/champion-detailed-skills-source-ko.json",
+      "sha256": "f24365646bf6b897420a5ab1722108dc43d152ad76485a859beb1cb3dfad34d6",
+      "previous_repository": "PaladinsCat-WatchCat",
+      "path": "translations/champion-detailed-skills-source-ko.json"
+    },
+    {
+      "previous_path": "tools/localization-build/translations/champion-lore-source-ko.json",
+      "sha256": "3097f22d62d49683d119e4527e4b4a88beffc363317afe52d4f3cd0ce1e818f6",
+      "previous_repository": "PaladinsCat-WatchCat",
+      "path": "translations/champion-lore-source-ko.json"
+    },
+    {
+      "previous_path": "tools/localization-build/translations/champion-names-semantic-en.json",
+      "sha256": "c602a5069ff7b1956b212133be0ae92881abdfbfb274b4404f388a642587d5fa",
+      "previous_repository": "PaladinsCat-WatchCat",
+      "path": "translations/champion-names-semantic-en.json"
+    },
+    {
+      "previous_path": "tools/localization-build/translations/champion-names-semantic-ko.json",
+      "sha256": "344f929bc94c16f0c0fc1000eda57f1054be498e53d3aac50041e9ec9241e81a",
+      "previous_repository": "PaladinsCat-WatchCat",
+      "path": "translations/champion-names-semantic-ko.json"
+    },
+    {
+      "previous_path": "tools/localization-build/translations/champion-names-source-ko.json",
+      "sha256": "de677ff1fccb138418d6b67ec1025b64688b1370ce70b36dbd4e21e2211598b5",
+      "previous_repository": "PaladinsCat-WatchCat",
+      "path": "translations/champion-names-source-ko.json"
+    },
+    {
+      "previous_path": "tools/localization-build/translations/display-source-ko.json",
+      "sha256": "59c0a55d5a6379510c1d4c0ad51febc8527a2de21192588dcbcee22b8737bdb4",
+      "previous_repository": "PaladinsCat-WatchCat",
+      "path": "translations/display-source-ko.json"
+    },
+    {
+      "previous_path": "tools/localization-build/translations/movie-ui-source-ko.json",
+      "sha256": "dcd2c5f0501db09894237982366fbbca2b393d89d06715685b9afe440a473a06",
+      "previous_repository": "PaladinsCat-WatchCat",
+      "path": "translations/movie-ui-source-ko.json"
+    },
+    {
+      "previous_path": "tools/localization-build/translations/native-long-skills-ko.json",
+      "sha256": "2b7292afc849092f0ae5f04cd66dc8cabc498e150c1900ba4e2c731e8013be18",
+      "previous_repository": "PaladinsCat-WatchCat",
+      "path": "translations/native-long-skills-ko.json"
+    },
+    {
+      "previous_path": "tools/localization-build/translations/native-short-skills-rules-ko-v1.json",
+      "sha256": "76617fc69fab24401d7bf311f82ab1cf6512de46be5106ccaf7cf8606f44c06e",
+      "previous_repository": "PaladinsCat-WatchCat",
+      "path": "translations/native-short-skills-rules-ko-v1.json"
+    },
+    {
+      "previous_path": "tools/localization-build/translations/skills-a-m-v1.json",
+      "sha256": "cad513a7b6964ef34ef92bb64cf726b61e5dea58932f0730890ed7dc9b1f7058",
+      "previous_repository": "PaladinsCat-WatchCat",
+      "path": "translations/skills-a-m-v1.json"
+    },
+    {
+      "previous_path": "tools/localization-build/translations/skills-n-z-v1.json",
+      "sha256": "df4dbc1e431b7f26b9c957a1b1500c906a2d5d216cbaae0b8a8f999eeb115cdf",
+      "previous_repository": "PaladinsCat-WatchCat",
+      "path": "translations/skills-n-z-v1.json"
+    },
+    {
+      "previous_path": "tools/localization-build/reviews/kor-burrows-v168-20261005-decision.json",
+      "sha256": "f8f6d6f7eaee679e27f3e45172abe5cfe8fb98ebf15e08dda1add4939b23e8f1",
+      "path": "reviews/kor-burrows-v168-20261005-decision.json",
+      "previous_repository": "PaladinsCat-WatchCat"
+    },
+    {
+      "previous_path": "tools/localization-build/reviews/kor-cosmetic-names-v114-20261005-decision.json",
+      "sha256": "b76b8222566a293ace2b4fb9b605e0235c39ee6f25c14aa51f4e5c03a33e54a4",
+      "path": "reviews/kor-cosmetic-names-v114-20261005-decision.json",
+      "previous_repository": "PaladinsCat-WatchCat"
+    },
+    {
+      "previous_path": "tools/localization-build/reviews/kor-typed-core-names-v115-20261005-decision.json",
+      "sha256": "e7dfd2b4225ec9da6680bab67e5a97e2fcf05ac7b3221fbfda70a1fdd00c4e20",
+      "path": "reviews/kor-typed-core-names-v115-20261005-decision.json",
+      "previous_repository": "PaladinsCat-WatchCat"
+    },
+    {
+      "previous_path": "tools/localization-build/reviews/kor-all-wording-v164-20261005-r4-decision.json",
+      "sha256": "81194f29d8c718f7bbb892e8abde4c2a6066fae4ec0d90e9283bc27c3c8b53f8",
+      "path": "reviews/kor-all-wording-v164-20261005-r4-decision.json",
+      "previous_repository": "PaladinsCat-WatchCat"
+    }
+  ],
+  "source_repository": "PaladinsCat/PaladinsCat-locales",
+  "schema_version": 1
+}

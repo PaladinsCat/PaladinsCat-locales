@@ -1,5 +1,14 @@
 # Game-client translation artifacts
 
+## Client patch releases
+
+Reviewed custom native inputs live in [native/translations](native/README.md).
+The localization and IME download catalog is `catalog.json`. Rust implementation
+source belongs to WatchCat; this repository owns locale data and release metadata.
+See [release preparation and publication](../docs/GAME_CLIENT_RELEASES.md).
+The initial empty catalog offers no release until
+approved immutable assets and their catalog entries are published.
+
 Approved game translations are stored as one UTF-8 CSV per game language:
 
 ```text

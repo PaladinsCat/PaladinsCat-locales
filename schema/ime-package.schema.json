@@ -1,0 +1,32 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "PaladinsCat IME package v1",
+  "type": "object", "additionalProperties": false,
+  "required": ["schema_version", "package_id", "version", "game_build", "platform", "locale", "native_abi", "game_fingerprint", "dll_sha256", "dll_bytes", "source_commit", "draft"],
+  "properties": {
+    "schema_version": {"const": 1},
+    "package_id": {"type": "string", "pattern": "^[a-zA-Z0-9_-]{1,128}$"},
+    "version": {"type": "string", "pattern": "^[0-9]{1,8}\\.[0-9]{1,8}\\.[0-9]{1,8}$"},
+    "game_build": {"type": "string", "minLength": 1},
+    "platform": {"const": "Win64"}, "locale": {"const": "KOR"},
+    "native_abi": {"const": [4,9,7,1]},
+    "game_fingerprint": {
+      "type": "object", "additionalProperties": false, "required": ["path", "sha256"],
+      "properties": {"path": {"const": "Binaries/Win64/Paladins.exe"}, "sha256": {"$ref": "#/$defs/sha256"}}
+    },
+    "dll_sha256": {"$ref": "#/$defs/sha256"},
+    "dll_bytes": {"type": "integer", "minimum": 1, "maximum": 16777216},
+    "source_commit": {"type": "string"}, "draft": {"type": "boolean"}, "notes": {"type": "string"},
+    "download": {"oneOf": [{"type": "null"}, {
+      "type": "object", "additionalProperties": false, "required": ["url", "sha256", "bytes", "encoding"],
+      "properties": {
+        "url": {"type": "string", "pattern": "^https://(github\\.com|raw\\.githubusercontent\\.com)/"},
+        "sha256": {"$ref": "#/$defs/sha256"}, "bytes": {"type": "integer", "minimum": 1, "maximum": 16777216}, "encoding": {"const": "raw"}
+      }
+    }]}
+  },
+  "allOf": [{"if": {"properties": {"draft": {"const": false}}}, "then": {
+    "properties": {"source_commit": {"pattern": "^[a-fA-F0-9]{40}$"}, "download": {"type": "object"}}, "required": ["download"]
+  }}],
+  "$defs": {"sha256": {"type": "string", "pattern": "^[a-fA-F0-9]{64}$"}}
+}

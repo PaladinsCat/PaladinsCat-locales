@@ -1,0 +1,1047 @@
+{
+  "schemaVersion": 1,
+  "entries": [
+    {
+      "key": "champions.nyx.skills.abyssalfortress.description",
+      "messageId": "246234",
+      "source": "Place a 5000 shield at the target location. The shield loses health the farther it is placed from you.",
+      "webValue": "대상 위치에 내구도 5000의 보호막을 설치합니다. 보호막은 자신에게서 멀리 설치할수록 내구도가 감소합니다.",
+      "gameValue": "대상 위치에 내구도 5000의 보호막을 설치합니다. 보호막은 자신에게서 멀리 설치할수록 내구도가 감소합니다.",
+      "preserveEnglish": []
+    },
+    {
+      "key": "champions.nyx.skills.chaosnexus.description",
+      "messageId": "247830",
+      "source": "Pull enemies towards you before exploding and Stunning hit enemies.",
+      "webValue": "적을 자신 쪽으로 끌어당긴 뒤 폭발하여 적중한 적을 기절시킵니다.",
+      "gameValue": "적을 자신 쪽으로 끌어당긴 뒤 폭발하여 적중한 적을 <font color=\"#1EBEF7\">기절</font>시킵니다.",
+      "preserveEnglish": []
+    },
+    {
+      "key": "champions.nyx.skills.realmbreaker.description",
+      "messageId": "246233",
+      "source": "Punch in a five hit attack chain, dealing 200 three times and 425 two times. Resets to the first hit after missing 2 hits or after 1.25s.",
+      "webValue": "다섯 번의 연속 주먹 공격을 가해 200의 피해를 세 번, 425의 피해를 두 번 줍니다. 공격이 2회 빗나가거나 1.25초가 지나면 첫 공격으로 초기화됩니다.",
+      "gameValue": "다섯 번의 연속 주먹 공격을 가해 200의 피해를 세 번, 425의 피해를 두 번 줍니다. 공격이 2회 빗나가거나 1.25초가 지나면 첫 공격으로 초기화됩니다.",
+      "preserveEnglish": []
+    },
+    {
+      "key": "champions.nyx.skills.riftslash.description",
+      "messageId": "247775",
+      "source": "Fire a projectile that deals damage and leaves behind an Abyssal Rift. The Rift slows enemies within 30 units and explodes after 2s.",
+      "webValue": "피해를 주고 Abyssal Rift를 남기는 투사체를 발사합니다. Abyssal Rift는 30유닛 안의 적을 둔화시키고 2초 후 폭발합니다.",
+      "gameValue": "피해를 주고 Abyssal Rift를 남기는 투사체를 발사합니다. Abyssal Rift는 30유닛 안의 적을 둔화시키고 2초 후 폭발합니다.",
+      "preserveEnglish": [
+        "Abyssal Rift"
+      ]
+    },
+    {
+      "key": "champions.nyx.skills.royalpresence.description",
+      "messageId": "247809",
+      "source": "Summon a Poison aura that damages enemies and stores damage you take, dealing it to you over time. Reactivate to summon chains that Pull enemies towards you.",
+      "webValue": "적에게 피해를 주고 자신이 받은 피해를 저장한 뒤 시간에 걸쳐 적용하는 독 오라를 소환합니다. 다시 활성화하면 사슬을 소환해 적을 자신 쪽으로 끌어당깁니다.",
+      "gameValue": "적에게 피해를 주고 자신이 받은 피해를 저장한 뒤 시간에 걸쳐 적용하는 <font color=\"#BF0FAA\">독</font> 오라를 소환합니다. 다시 활성화하면 사슬을 소환해 적을 자신 쪽으로 <font color=\"#1EBEF7\">끌어당깁니다</font>.",
+      "preserveEnglish": []
+    },
+    {
+      "key": "champions.octavia.skills.commandingleap.description",
+      "messageId": "216665",
+      "source": "Leap into the air to gain control of the battlefield, then place a healing rally point at your landing zone.",
+      "webValue": "공중으로 도약해 전장을 장악한 뒤 착지 지점에 치유 집결지를 설치합니다.",
+      "gameValue": "공중으로 도약해 전장을 장악한 뒤 착지 지점에 치유 집결지를 설치합니다.",
+      "preserveEnglish": []
+    },
+    {
+      "key": "champions.octavia.skills.creepingbarrage.description",
+      "messageId": "216670",
+      "source": "Rain down a laser barrage upon your enemies that deals 850 damage per beam.",
+      "webValue": "적에게 레이저 포격을 퍼부어 광선마다 850의 피해를 줍니다.",
+      "gameValue": "적에게 레이저 포격을 퍼부어 광선마다 850의 피해를 줍니다.",
+      "preserveEnglish": []
+    },
+    {
+      "key": "champions.octavia.skills.distortionfield.description",
+      "messageId": "216663",
+      "source": "Create an opaque, anti-gravity dome that hides allies and disorients and Slows enemies while inside of it – lasts for 3.5s.",
+      "webValue": "불투명한 반중력 돔을 생성합니다. 돔 안에서는 아군이 숨겨지고 적은 방향 감각을 잃으며 둔화됩니다. 3.5초 동안 지속됩니다.",
+      "gameValue": "불투명한 반중력 돔을 생성합니다. 돔 안에서는 아군이 숨겨지고 적은 방향 감각을 잃으며 <font color=\"#1EBEF7\">둔화</font>됩니다. 3.5초 동안 지속됩니다.",
+      "preserveEnglish": []
+    },
+    {
+      "key": "champions.octavia.skills.marksmanrifle.description",
+      "messageId": "216661",
+      "source": "A fully-automatic marksman rifle that deals 415 damage every 0.3s while scoped, and 250 damage every 0.2s from the hip.",
+      "webValue": "완전 자동 지정사수 소총으로, 조준경 사용 시 0.3초마다 415의 피해를 주고 비조준 사격 시 0.2초마다 250의 피해를 줍니다.",
+      "gameValue": "완전 자동 지정사수 소총으로, 조준경 사용 시 0.3초마다 420의 피해를 주고 비조준 사격 시 0.2초마다 250의 피해를 줍니다.",
+      "preserveEnglish": [],
+      "allowGameDivergence": true
+    },
+    {
+      "key": "champions.omen.skills.aphoticreaver.description",
+      "messageId": "249573",
+      "source": "A hybrid weapon that deals 450 damage every 0.3s in a wide spread, and with a narrower spread and slower fire rate while the trigger is held down. Applies Ominous Brand",
+      "webValue": "넓게 퍼지는 사격으로 0.3초마다 450의 피해를 주는 혼합형 무기입니다. 방아쇠를 계속 당기면 탄 퍼짐이 좁아지고 발사 속도가 느려집니다. Ominous 낙인을 부여합니다.",
+      "gameValue": "넓게 퍼지는 사격으로 0.3초마다 450의 피해를 주는 혼합형 무기입니다. 방아쇠를 계속 당기면 탄 퍼짐이 좁아지고 발사 속도가 느려집니다. Ominous 낙인을 부여합니다.",
+      "preserveEnglish": []
+    },
+    {
+      "key": "champions.omen.skills.darkstride.description",
+      "messageId": "249571",
+      "source": "Dash in the direction you're moving, leaving a trail that deals 30 damage every 0.2s. Colliding with an enemy deals 200 damage and knocks them back. Applies Ominous Brand",
+      "webValue": "이동 방향으로 돌진하며 0.2초마다 30의 피해를 주는 흔적을 남깁니다. 적과 충돌하면 200의 피해를 주고 밀쳐냅니다. Ominous 낙인을 부여합니다.",
+      "gameValue": "이동 방향으로 돌진하며 0.2초마다 30의 피해를 주는 흔적을 남깁니다. 적과 충돌하면 200의 피해를 주고 밀쳐냅니다. Ominous 낙인을 부여합니다.",
+      "preserveEnglish": []
+    },
+    {
+      "key": "champions.omen.skills.deadlydomain.description",
+      "messageId": "249574",
+      "source": "Place a damaging pool of Poison that expands over time and deals 60 damage every 0.2s. Enemies with Ominous Brand are also Slowed for 15%.",
+      "webValue": "시간이 지날수록 넓어지며 0.2초마다 60의 피해를 주는 독 웅덩이를 생성합니다. Ominous 낙인이 있는 적은 추가로 15% 둔화됩니다.",
+      "gameValue": "시간이 지날수록 넓어지며 0.2초마다 60의 피해를 주는 <font color=\"#BF0FAA\">독</font> 웅덩이를 생성합니다. Ominous 낙인이 있는 적은 추가로 15% <font color=\"#1EBEF7\">둔화</font>됩니다.",
+      "preserveEnglish": []
+    },
+    {
+      "key": "champions.omen.skills.gravityvice.description",
+      "messageId": "249586",
+      "source": "Alter gravity and Lift targeted enemy into the air. before Pushing them away and dealing 400 damage. Enemies with Ominous Brand are Weakened to Aphotic Reaver and Burn for 3s.",
+      "webValue": "중력을 바꿔 대상 적을 공중에 띄운 뒤 밀쳐내며 400의 피해를 줍니다. Ominous 낙인이 있는 적은 암흑의 약탈자에 약화되고 3초 동안 화상 피해를 받습니다.",
+      "gameValue": "중력을 바꿔 대상 적을 공중에 <font color=\"#1EBEF7\">띄운</font> 뒤 <font color=\"#1EBEF7\">밀쳐내며</font> 400의 피해를 줍니다. Ominous 낙인이 있는 적은 암흑의 약탈자에 <font color=\"#FF8271\">약화</font>되고 3초 동안 <font color=\"#FAAB67\">화상</font> 피해를 받습니다.",
+      "preserveEnglish": []
+    },
+    {
+      "key": "champions.omen.skills.heavensasunder.description",
+      "messageId": "249577",
+      "source": "Call forth a Rift into the Abyss which Blinds enemies in its range. After a delay, a beam fires upwards dealing 666 damage every 0.15s. Applies Ominous Brand.",
+      "webValue": "Abyss로 이어지는 Rift를 불러내 범위 안의 적을 실명시킵니다. 잠시 후 광선이 발사되어 0.15초마다 666의 피해를 줍니다. Ominous 낙인을 부여합니다.",
+      "gameValue": "Abyss로 이어지는 Rift를 불러내 범위 안의 적을 실명시킵니다. 잠시 후 광선이 발사되어 0.15초마다 666의 피해를 줍니다. Ominous 낙인을 부여합니다.",
+      "preserveEnglish": ["Abyss","Rift"]
+    },
+    {
+      "key": "champions.pip.skills.evilmojo.description",
+      "messageId": "208862",
+      "source": "Launch a mysterious flask that Polymorphs enemies and deals 200 damage, turning enemies caught in its blast into helpless chickens. Polymorph has a minimum duration of 2s.",
+      "webValue": "신비한 플라스크를 던져 적을 변이시키고 200의 피해를 주며, 폭발에 휘말린 적을 무력한 닭으로 만듭니다. 변이는 최소 2초 동안 지속됩니다.",
+      "gameValue": "신비한 플라스크를 던져 적을 <font color=\"#1EBEF7\">변이</font>시키고 200의 피해를 주며, 폭발에 휘말린 적을 무력한 닭으로 만듭니다. 변이는 최소 2초 동안 지속됩니다.",
+      "preserveEnglish": []
+    },
+    {
+      "key": "champions.pip.skills.explosiveflask.description",
+      "messageId": "208864",
+      "source": "A deadly concoction that bursts to deal 145 damage and Slows enemies in an area.",
+      "webValue": "치명적인 혼합물이 폭발하여 범위 안의 적에게 145의 피해를 주고 둔화시킵니다.",
+      "gameValue": "치명적인 혼합물이 폭발하여 범위 안의 적에게 145의 피해를 주고 <font color=\"#1EBEF7\">둔화</font>시킵니다.",
+      "preserveEnglish": []
+    },
+    {
+      "key": "champions.pip.skills.healingpotion.description",
+      "messageId": "208885",
+      "source": "Throw a potion that heals allies for 1200 when it explodes. Reactivate this ability to explode the potion in the air.",
+      "webValue": "폭발하면 아군의 체력을 1200 회복하는 물약을 던집니다. 능력을 다시 활성화하면 공중에서 물약을 폭발시킵니다.",
+      "gameValue": "폭발하면 아군의 체력을 1000 회복하는 물약을 던집니다. 능력을 다시 활성화하면 공중에서 물약을 폭발시킵니다.",
+      "preserveEnglish": [],
+      "allowGameDivergence": true
+    },
+    {
+      "key": "champions.pip.skills.potionlauncher.description",
+      "messageId": "208935",
+      "source": "A custom-made launcher that fires volatile potions that explode in an area on impact, dealing 600 damage.",
+      "webValue": "충돌 시 범위 폭발을 일으켜 600의 피해를 주는 불안정한 물약을 발사하는 주문 제작 발사기입니다.",
+      "gameValue": "충돌 시 범위 폭발을 일으켜 600의 피해를 주는 불안정한 물약을 발사하는 주문 제작 발사기입니다.",
+      "preserveEnglish": []
+    },
+    {
+      "key": "champions.pip.skills.weightless.description",
+      "messageId": "209006",
+      "source": "Launch yourself upwards, increasing your Movement Speed and jump strength for 3s.",
+      "webValue": "위로 뛰어오르며 3초 동안 이동 속도와 점프력을 증가시킵니다.",
+      "gameValue": "위로 뛰어오르며 3초 동안 이동 속도와 점프력을 증가시킵니다.",
+      "preserveEnglish": []
+    },
+    {
+      "key": "champions.raum.skills.cataclysm.description",
+      "messageId": "209795",
+      "source": "Stomp the ground and send forth a shockwave that deals 999 damage and Stuns enemies for 1.2s. This ability destroys Shields and Deployable walls.",
+      "webValue": "지면을 내리쳐 충격파를 방출하고 적에게 999의 피해를 주며 1.2초 동안 기절시킵니다. 이 능력은 보호막과 설치형 벽을 파괴합니다.",
+      "gameValue": "지면을 내리쳐 충격파를 방출하고 적에게 999의 피해를 주며 1.2초 동안 <font color=\"#1EBEF7\">기절</font>시킵니다. 이 능력은 보호막과 설치형 벽을 파괴합니다.",
+      "preserveEnglish": []
+    },
+    {
+      "key": "champions.raum.skills.hellfiregatling.description",
+      "messageId": "209953",
+      "source": "An Abyssal Gatling gun that shreds its targets' souls every 5 hits. Deals 40 damage every 0.05s when fully spun up. Each soul fragment can be consumed to gain soul armor.",
+      "webValue": "5회 적중할 때마다 대상의 영혼을 파쇄하는 Abyssal Gatling입니다. 완전히 회전하면 0.05초마다 40의 피해를 줍니다. 영혼 조각을 소모해 영혼 방어력을 얻을 수 있습니다.",
+      "gameValue": "6회 적중할 때마다 대상의 영혼을 파쇄하는 Abyssal Gatling입니다. 완전히 회전하면 0.05초마다 40의 피해를 줍니다. 영혼 조각을 소모해 영혼 방어력을 얻을 수 있습니다.",
+      "preserveEnglish": [
+        "Abyssal Gatling"
+      ],
+      "allowGameDivergence": true
+    },
+    {
+      "key": "champions.raum.skills.ignition.description",
+      "messageId": "209796",
+      "source": "Ignite your Gatling gun to fully spin it up and consume no ammo for 3s.",
+      "webValue": "Gatling gun을 점화해 완전히 회전시키고 3초 동안 탄약을 소모하지 않습니다.",
+      "gameValue": "Gatling gun을 점화해 완전히 회전시키고 3초 동안 탄약을 소모하지 않습니다.",
+      "preserveEnglish": [
+        "Gatling gun"
+      ]
+    },
+    {
+      "key": "champions.raum.skills.juggernaut.description",
+      "messageId": "209794",
+      "source": "Wind up and take off charging, dealing 600 damage and Knock Up players hit.",
+      "webValue": "힘을 모아 돌진하며 적중한 플레이어에게 600의 피해를 주고 공중으로 띄웁니다.",
+      "gameValue": "힘을 모아 돌진하며 적중한 플레이어에게 600의 피해를 주고 <font color=\"#1EBEF7\">공중으로 띄웁니다</font>.",
+      "preserveEnglish": []
+    },
+    {
+      "key": "champions.raum.skills.soulharvest.description",
+      "messageId": "209793",
+      "source": "Harvest your enemies' shattered souls, drawing loose souls in and gaining 2000 soul armor on activation, as well as an additional 200 soul armor for each fragment collected.",
+      "webValue": "적의 부서진 영혼을 수확해 흩어진 영혼을 끌어당깁니다. 활성화 시 영혼 방어력 2000을 얻고 수집한 조각마다 영혼 방어력 200을 추가로 얻습니다.",
+      "gameValue": "적의 부서진 영혼을 수확해 흩어진 영혼을 끌어당깁니다. 활성화 시 영혼 방어력 2000을 얻고 수집한 조각마다 영혼 방어력 200을 추가로 얻습니다.",
+      "preserveEnglish": []
+    },
+    {
+      "key": "champions.rei.skills.chainheal.description",
+      "messageId": "219675",
+      "source": "Manifest arcane forces and send it forth, bouncing between your initial target and up to 4 additional allies, Healing them for 550 per bounce. Linked allies are healed for 30% more.",
+      "webValue": "비전의 힘을 발현해 최초 대상과 추가 아군 최대 4명 사이를 튕기며, 튕길 때마다 체력을 550 회복합니다. 연결된 아군은 치유량이 30% 증가합니다.",
+      "gameValue": "비전의 힘을 발현해 최초 대상과 추가 아군 최대 4명 사이를 튕기며, 튕길 때마다 체력을 550 회복합니다. <font color=\"#E74CA7\">연결</font>된 아군은 치유량이 30% 증가합니다.",
+      "preserveEnglish": []
+    },
+    {
+      "key": "champions.rei.skills.envelop.description",
+      "messageId": "219677",
+      "source": "Reduce the max damage you can take to 275 per instance of damage and increase your Movement Speed and Jump Height for 3s. Linked allies are also affected by Envelop.",
+      "webValue": "3초 동안 한 번에 받을 수 있는 최대 피해가 275로 제한되고 이동 속도와 점프 높이가 증가합니다. 연결된 아군에게도 감싸기가 적용됩니다.",
+      "gameValue": "3초 동안 한 번에 받을 수 있는 최대 피해가 275로 제한되고 이동 속도와 점프 높이가 증가합니다. <font color=\"#E74CA7\">연결</font>된 아군에게도 감싸기가 적용됩니다.",
+      "preserveEnglish": []
+    },
+    {
+      "key": "champions.rei.skills.sigil.description",
+      "messageId": "219368",
+      "source": "Unleash magical energy from your hands, dealing 450 damage every 0.7s.",
+      "webValue": "손에서 마법 에너지를 방출해 0.7초마다 450의 피해를 줍니다.",
+      "gameValue": "손에서 마법 에너지를 방출해 0.7초마다 450의 피해를 줍니다.",
+      "preserveEnglish": []
+    },
+    {
+      "key": "champions.rei.skills.spiritlink.description",
+      "messageId": "219676",
+      "source": "Tether to an ally or enemy. While Linked to an ally, you passively Heal them and grant them Ultimate charge. While Linked to an enemy, passively Slow and deal damage to them.",
+      "webValue": "아군 또는 적과 연결됩니다. 아군과 연결된 동안 지속적으로 치유하고 궁극기 충전량을 부여합니다. 적과 연결된 동안 지속적으로 둔화시키고 피해를 줍니다.",
+      "gameValue": "아군 또는 적과 연결됩니다. 아군과 <font color=\"#E74CA7\">연결</font>된 동안 지속적으로 치유하고 궁극기 충전량을 부여합니다. 적과 연결된 동안 지속적으로 <font color=\"#1EBEF7\">둔화</font>시키고 피해를 줍니다.",
+      "preserveEnglish": []
+    },
+    {
+      "key": "champions.rei.skills.vivify.description",
+      "messageId": "219678",
+      "source": "Infuse a Linked ally with life, making them Immune to damage for 2s and Healing them by 75% after a brief delay. You gain Damage Immunity and 75% Healing.",
+      "webValue": "연결된 아군에게 생명력을 불어넣어 2초 동안 피해 면역 상태로 만들고 잠시 후 체력의 75%를 회복합니다. 자신도 피해 면역과 75%의 치유를 얻습니다.",
+      "gameValue": "<font color=\"#E74CA7\">연결</font>된 아군에게 생명력을 불어넣어 2초 동안 피해 면역 상태로 만들고 잠시 후 체력의 75%를 회복합니다. 자신도 피해 면역과 75%의 치유를 얻습니다.",
+      "preserveEnglish": []
+    },
+    {
+      "key": "champions.ruckus.skills.advance.description",
+      "messageId": "208811",
+      "source": "Jet in the direction you're moving, maintaining your ability to fire. Stationary use launches upward.",
+      "webValue": "사격 능력을 유지한 채 이동 방향으로 분사 추진합니다. 정지 상태에서 사용하면 위로 솟아오릅니다.",
+      "gameValue": "사격 능력을 유지한 채 이동 방향으로 분사 추진합니다. 정지 상태에서 사용하면 위로 솟아오릅니다.",
+      "preserveEnglish": []
+    },
+    {
+      "key": "champions.ruckus.skills.emitter.description",
+      "messageId": "208860",
+      "source": "Shield yourself for up to 2500 damage for a brief time.",
+      "webValue": "잠시 동안 최대 2500의 피해를 흡수하는 보호막을 얻습니다.",
+      "gameValue": "잠시 동안 최대 2500의 피해를 흡수하는 보호막을 얻습니다.",
+      "preserveEnglish": []
+    },
+    {
+      "key": "champions.ruckus.skills.hexafire.description",
+      "messageId": "208891",
+      "source": "Unleash 2 miniguns and rocket launchers that unload their ammo over a short duration. The guns deal 120 damage every 0.04s and the launchers deal 250 damage every 0.25s.",
+      "webValue": "미니건 2정과 로켓 발사기를 꺼내 짧은 시간 동안 탄약을 퍼붓습니다. 미니건은 0.04초마다 120의 피해를 주고 발사기는 0.25초마다 250의 피해를 줍니다.",
+      "gameValue": "미니건 2정과 로켓 발사기를 꺼내 짧은 시간 동안 탄약을 퍼붓습니다. 미니건은 0.04초마다 120의 피해를 주고 발사기는 0.25초마다 250의 피해를 줍니다.",
+      "preserveEnglish": []
+    },
+    {
+      "key": "champions.ruckus.skills.miniguns.description",
+      "messageId": "208923",
+      "source": "Fast-firing miniguns that shred your enemies with bullets, dealing 40 damage every 0.05s when fully spun up.",
+      "webValue": "빠르게 발사되는 미니건으로 적을 갈가리 찢습니다. 완전히 회전하면 0.05초마다 40의 피해를 줍니다.",
+      "gameValue": "빠르게 발사되는 미니건으로 적을 갈가리 찢습니다. 완전히 회전하면 0.05초마다 40의 피해를 줍니다.",
+      "preserveEnglish": []
+    },
+    {
+      "key": "champions.ruckus.skills.missilelauncher.description",
+      "messageId": "208924",
+      "source": "Fire large missiles that explode and deal 225 damage each. Has 3 charges.",
+      "webValue": "폭발하여 각각 225의 피해를 주는 대형 미사일을 발사합니다. 3회 충전됩니다.",
+      "gameValue": "폭발하여 각각 225의 피해를 주는 대형 미사일을 발사합니다. 3회 충전됩니다.",
+      "preserveEnglish": []
+    },
+    {
+      "key": "champions.saati.skills.blastback.description",
+      "messageId": "220062",
+      "source": "Costs 5 Pips. Flip to Knock yourself and enemies away, damaging and Burning them.",
+      "webValue": "핍 5를 소모합니다. 공중제비를 돌며 자신은 뒤로, 적은 멀리 밀쳐내고 피해와 화상 피해를 줍니다.",
+      "gameValue": "핍 5를 소모합니다. 공중제비를 돌며 자신은 뒤로, 적은 멀리 <font color=\"#1EBEF7\">밀쳐내고</font> 피해와 <font color=\"#FAAB67\">화상</font> 피해를 줍니다.",
+      "preserveEnglish": []
+    },
+    {
+      "key": "champions.saati.skills.deadringer.description",
+      "messageId": "221335",
+      "source": "Costs 4 Pips. Place a decoy that fires in a line & Reveals enemies that damage it.",
+      "webValue": "핍 4를 소모합니다. 직선으로 사격하며 자신에게 피해를 준 적을 드러내는 미끼를 설치합니다.",
+      "gameValue": "핍 4를 소모합니다. 직선으로 사격하며 자신에게 피해를 준 적을 드러내는 미끼를 설치합니다.",
+      "preserveEnglish": []
+    },
+    {
+      "key": "champions.saati.skills.handcannon.description",
+      "messageId": "220078",
+      "source": "A heavy pistol that deals 530 damage every 0.5s.",
+      "webValue": "0.5초마다 530의 피해를 주는 중권총입니다.",
+      "gameValue": "0.5초마다 530의 피해를 주는 중권총입니다.",
+      "preserveEnglish": []
+    },
+    {
+      "key": "champions.saati.skills.ricochet.description",
+      "messageId": "221009",
+      "source": "Costs 3 Pips. Toss & fire a coin to deal damage to the weakest enemy in range. Shoot at it again to cause an explosion.",
+      "webValue": "핍 3을 소모합니다. 동전을 던진 뒤 사격하여 범위 안에서 가장 약한 적에게 피해를 줍니다. 다시 사격하면 폭발합니다.",
+      "gameValue": "핍 3을 소모합니다. 동전을 던진 뒤 사격하여 범위 안에서 가장 약한 적에게 피해를 줍니다. 다시 사격하면 폭발합니다.",
+      "preserveEnglish": []
+    },
+    {
+      "key": "champions.saati.skills.wallbang.description",
+      "messageId": "220104",
+      "source": "You have 3 shots that deal 777 damage and can Pierce all enemies and the world.",
+      "webValue": "모든 적과 지형을 관통하며 777의 피해를 주는 탄환을 3발 얻습니다.",
+      "gameValue": "모든 적과 지형을 관통하며 777의 피해를 주는 탄환을 3발 얻습니다.",
+      "preserveEnglish": []
+    },
+    {
+      "key": "champions.seris.skills.convergence.description",
+      "messageId": "208838",
+      "source": "Cast your soul core onto the battlefield, causing a tear in reality to manifest, dealing 200 damage and dragging nearby enemies in to Stun.",
+      "webValue": "전장에 영혼의 핵을 던져 현실의 균열을 만들고 200의 피해를 줍니다. 주변 적을 끌어당겨 기절시킵니다.",
+      "gameValue": "전장에 영혼의 핵을 던져 현실의 균열을 만들고 200의 피해를 줍니다. 주변 적을 끌어당겨 <font color=\"#1EBEF7\">기절</font>시킵니다.",
+      "preserveEnglish": []
+    },
+    {
+      "key": "champions.seris.skills.rendsoul.description",
+      "messageId": "208947",
+      "source": "Detonate your Soul Orb charges, dealing 100 damage for each stack on an enemy and Stunning enemies with 4 stacks. Each stack detonated Heals you for 12% of your maximum Health.",
+      "webValue": "영혼 구슬 중첩을 폭발시켜 적에게 중첩당 100의 피해를 주고, 중첩이 4개인 적을 기절시킵니다. 폭발한 중첩마다 최대 체력의 12%를 회복하고 해당 생명 동안 강화 효과를 얻습니다.",
+      "gameValue": "영혼 구슬 중첩을 폭발시켜 적에게 중첩당 100의 피해를 주고, 중첩이 4개인 적을 <font color=\"#1EBEF7\">기절</font>시킵니다. 폭발한 중첩마다 최대 체력의 12%를 회복하고 해당 생명 동안 강화 효과를 얻습니다.",
+      "preserveEnglish": []
+    },
+    {
+      "key": "champions.seris.skills.restoresoul.description",
+      "messageId": "208948",
+      "source": "Target an ally, restoring 1650 health over 1.5s. Nearby allies are healed for 1000 over 1.5s.",
+      "webValue": "아군 한 명을 지정해 1.5초에 걸쳐 체력을 1650 회복합니다. 주변 아군은 1.5초에 걸쳐 체력을 1000 회복합니다.",
+      "gameValue": "아군 한 명을 지정해 1.5초에 걸쳐 체력을 1650 회복합니다. 주변 아군은 1.5초에 걸쳐 체력을 1000 회복합니다.",
+      "preserveEnglish": []
+    },
+    {
+      "key": "champions.seris.skills.shadowtravel.description",
+      "messageId": "208966",
+      "source": "Phase into another plane of existence for a brief duration, increasing your Movement Speed and becoming Stealthed and Ethereal, immune to harmful effects.",
+      "webValue": "잠시 다른 차원으로 이동하여 이동 속도가 증가하고 은신 및 영체 상태가 되며 해로운 효과에 면역이 됩니다.",
+      "gameValue": "잠시 다른 차원으로 이동하여 이동 속도가 증가하고 은신 및 영체 상태가 되며 해로운 효과에 면역이 됩니다.",
+      "preserveEnglish": []
+    },
+    {
+      "key": "champions.seris.skills.soulorb.description",
+      "messageId": "208981",
+      "source": "Fire magical projectiles every 0.3s that pierce and apply a Soul Orb charge to each enemy hit, dealing 210 damage.",
+      "webValue": "0.3초마다 관통하는 마법 투사체를 발사하여 적중한 적에게 210의 피해를 주고 영혼 구슬 중첩을 부여합니다.",
+      "gameValue": "0.3초마다 관통하는 마법 투사체를 발사하여 적중한 적에게 210의 피해를 주고 영혼 구슬 중첩을 부여합니다.",
+      "preserveEnglish": []
+    },
+    {
+      "key": "champions.shalin.skills.cripplingarrow.description",
+      "messageId": "208903",
+      "source": "Your next Longbow arrow will Cripple enemies, preventing them from using movement abilities for 2s.",
+      "webValue": "다음 장궁 화살이 적을 불구 상태로 만들어 2초 동안 이동 능력을 사용하지 못하게 합니다.",
+      "gameValue": "다음 장궁 화살이 적을 <font color=\"#1EBEF7\">불구</font> 상태로 만들어 2초 동안 이동 능력을 사용하지 못하게 합니다.",
+      "preserveEnglish": []
+    },
+    {
+      "key": "champions.shalin.skills.longbow.description",
+      "messageId": "208916",
+      "source": "Draw back your longbow every 1.4s to fire deadly arrows that deals up to 1000 damage.",
+      "webValue": "1.4초마다 장궁을 당겨 최대 1000의 피해를 주는 치명적인 화살을 발사합니다.",
+      "gameValue": "1.4초마다 장궁을 당겨 최대 1000의 피해를 주는 치명적인 화살을 발사합니다.",
+      "preserveEnglish": []
+    },
+    {
+      "key": "champions.shalin.skills.rapidshot.description",
+      "messageId": "208933",
+      "source": "Rapidly fire off a barrage of arrows while moving, each dealing 625 damage.",
+      "webValue": "이동하며 화살을 빠르게 연사해 각각 625의 피해를 줍니다.",
+      "gameValue": "이동하며 화살을 빠르게 연사해 각각 625의 피해를 줍니다.",
+      "preserveEnglish": []
+    },
+    {
+      "key": "champions.shalin.skills.withdraw.description",
+      "messageId": "209010",
+      "source": "Leap backwards and become stealthed.",
+      "webValue": "뒤로 도약하고 은신 상태가 됩니다.",
+      "gameValue": "뒤로 도약하고 은신 상태가 됩니다.",
+      "preserveEnglish": []
+    },
+    {
+      "key": "champions.skye.skills.hidden.description",
+      "messageId": "208892",
+      "source": "Blend with the shadows and become stealthed.",
+      "webValue": "그림자 속에 섞여 은신 상태가 됩니다.",
+      "gameValue": "그림자 속에 섞여 은신 상태가 됩니다.",
+      "preserveEnglish": []
+    },
+    {
+      "key": "champions.skye.skills.poisonbolts.description",
+      "messageId": "208934",
+      "source": "Fire 3 bolts that Poison for 10% of the target's health as damage over 4s.",
+      "webValue": "볼트 3발을 발사해 4초에 걸쳐 대상 체력의 10%만큼 독 피해를 줍니다.",
+      "gameValue": "볼트 3발을 발사해 4초에 걸쳐 대상 체력의 10%만큼 <font color=\"#BF0FAA\">독</font> 피해를 줍니다.",
+      "preserveEnglish": []
+    },
+    {
+      "key": "champions.skye.skills.smokescreen.description",
+      "messageId": "208977",
+      "source": "Throw a smoke screen that grants stealth to you if you stand in it. Has 2 Charges.",
+      "webValue": "연막탄을 던집니다. 연막 안에 서 있으면 은신 상태가 됩니다. 2회 충전됩니다.",
+      "gameValue": "연막탄을 던집니다. 연막 안에 서 있으면 은신 상태가 됩니다. 2회 충전됩니다.",
+      "preserveEnglish": []
+    },
+    {
+      "key": "champions.skye.skills.timebomb.description",
+      "messageId": "208997",
+      "source": "Throw a massive bomb that destroys shields and deals 3000 damage to enemies caught in its blast.",
+      "webValue": "보호막을 파괴하고 폭발에 휘말린 적에게 3000의 피해를 주는 거대한 폭탄을 던집니다.",
+      "gameValue": "보호막을 파괴하고 폭발에 휘말린 적에게 3000의 피해를 주는 거대한 폭탄을 던집니다.",
+      "preserveEnglish": []
+    },
+    {
+      "key": "champions.skye.skills.wristcrossbow.description",
+      "messageId": "209011",
+      "source": "A fast-firing wrist-mounted crossbow for close-range engagements that deals 130 damage every 0.1s.",
+      "webValue": "근거리 교전용 손목 장착 연사 석궁으로, 0.1초마다 130의 피해를 줍니다.",
+      "gameValue": "근거리 교전용 손목 장착 연사 석궁으로, 0.1초마다 130의 피해를 줍니다.",
+      "preserveEnglish": []
+    },
+    {
+      "key": "champions.strix.skills.flashbang.description",
+      "messageId": "208872",
+      "source": "Blind your enemies and deal 250 damage with an explosive flashbang.",
+      "webValue": "폭발성 섬광탄으로 적을 실명시키고 250의 피해를 줍니다.",
+      "gameValue": "폭발성 섬광탄으로 적을 <font color=\"#1EBEF7\">실명</font>시키고 250의 피해를 줍니다.",
+      "preserveEnglish": []
+    },
+    {
+      "key": "champions.strix.skills.quickswitch.description",
+      "messageId": "186354",
+      "source": "Swap between your Talon Rifle and Pistol.",
+      "webValue": "발톱 소총과 권총을 전환합니다.",
+      "gameValue": "발톱 소총과 권총을 전환합니다.",
+      "preserveEnglish": []
+    },
+    {
+      "key": "champions.strix.skills.scopeflare.description",
+      "messageId": "208957",
+      "source": "Look down your rifle scope to gain increased accuracy or fire off a flare to Reveal your enemies.",
+      "webValue": "소총 조준경을 사용해 정확도를 높이거나 조명탄을 발사해 적을 드러냅니다.",
+      "gameValue": "소총 조준경을 사용해 정확도를 높이거나 조명탄을 발사해 적을 <font color=\"#f3cf6f\">드러냅니다</font>.",
+      "preserveEnglish": []
+    },
+    {
+      "key": "champions.strix.skills.stealth.description",
+      "messageId": "209176",
+      "source": "Enter stealth and hide yourself from vision. While in Stealth your energy is consumed.",
+      "webValue": "은신 상태가 되어 시야에서 사라집니다. 은신 중에는 에너지가 소모됩니다.",
+      "gameValue": "은신 상태가 되어 시야에서 사라집니다. 은신 중에는 에너지가 소모됩니다.",
+      "preserveEnglish": []
+    },
+    {
+      "key": "champions.strix.skills.talonriflepistol.description",
+      "messageId": "208991",
+      "source": "A rifle and pistol combination for eliminating your targets. Your rifle deals 1200 damage every 1.2s and your pistol deals 165 damage every 0.15s while regenerating Stealth energy.",
+      "webValue": "대상을 제거하기 위한 소총과 권총의 조합입니다. 소총은 1.2초마다 1200의 피해를 주고, 권총은 은신 에너지를 재생하며 0.15초마다 165의 피해를 줍니다.",
+      "gameValue": "대상을 제거하기 위한 소총과 권총의 조합입니다. 소총은 1.2초마다 1200의 피해를 주고, 권총은 은신 에너지를 재생하며 0.15초마다 165의 피해를 줍니다.",
+      "preserveEnglish": []
+    },
+    {
+      "key": "champions.talus.skills.blitzupper.description",
+      "messageId": "208824",
+      "source": "Charge forward to deal 600 damage and Knock enemies straight back.",
+      "webValue": "전방으로 돌진해 600의 피해를 주고 적을 곧장 뒤로 밀쳐냅니다.",
+      "gameValue": "전방으로 돌진해 600의 피해를 주고 적을 곧장 뒤로 <font color=\"#1EBEF7\">밀쳐냅니다</font>.",
+      "preserveEnglish": []
+    },
+    {
+      "key": "champions.talus.skills.overcharge.description",
+      "messageId": "208931",
+      "source": "Overcharge your weapon to enhance its attack speed by 33% and consume no ammo.",
+      "webValue": "무기를 과충전하여 공격 속도를 33% 증가시키고 탄약을 소모하지 않습니다.",
+      "gameValue": "무기를 과충전하여 공격 속도를 33% 증가시키고 탄약을 소모하지 않습니다.",
+      "preserveEnglish": []
+    },
+    {
+      "key": "champions.talus.skills.runeoftravel.description",
+      "messageId": "208954",
+      "source": "Inscribe a rune on the ground that can be used to escape back to its location after 10s and heal you for 500. You can reactivate the rune to teleport sooner.",
+      "webValue": "지면에 룬을 새깁니다. 10초 후 룬 위치로 탈출하며 체력을 500 회복합니다. 룬을 다시 활성화하면 더 일찍 순간이동할 수 있습니다.",
+      "gameValue": "지면에 룬을 새깁니다. 10초 후 룬 위치로 탈출하며 체력을 500 회복합니다. 룬을 다시 활성화하면 더 일찍 순간이동할 수 있습니다.",
+      "preserveEnglish": []
+    },
+    {
+      "key": "champions.talus.skills.truepower.description",
+      "messageId": "208999",
+      "source": "Teleport directly to an unsuspecting enemy, dealing 600 damage and applying Knockback.",
+      "webValue": "방심한 적에게 즉시 순간이동해 600의 피해를 주고 밀쳐냅니다.",
+      "gameValue": "방심한 적에게 즉시 순간이동해 600의 피해를 주고 <font color=\"#1EBEF7\">밀쳐냅니다</font>.",
+      "preserveEnglish": []
+    },
+    {
+      "key": "champions.talus.skills.veracharger.description",
+      "messageId": "209001",
+      "source": "A fast-firing weapon for short-range engagements that deals 110 damage every 0.095s.",
+      "webValue": "근거리 교전용 연사 무기로, 0.095초마다 110의 피해를 줍니다.",
+      "gameValue": "근거리 교전용 연사 무기로, 0.095초마다 110의 피해를 줍니다.",
+      "preserveEnglish": []
+    },
+    {
+      "key": "champions.terminus.skills.calamityblast.description",
+      "messageId": "208832",
+      "source": "Fire a mass of Calamity from your hand and an additional one for every stored charge, dealing 250 damage per blast.",
+      "webValue": "손에서 Calamity 덩어리를 발사하고 저장된 중첩마다 하나를 추가로 발사하여 폭발당 250의 피해를 줍니다.",
+      "gameValue": "손에서 Calamity 덩어리를 발사하고 저장된 중첩마다 하나를 추가로 발사하여 폭발당 250의 피해를 줍니다.",
+      "preserveEnglish": [
+        "Calamity"
+      ]
+    },
+    {
+      "key": "champions.terminus.skills.massacreaxe.description",
+      "messageId": "208920",
+      "source": "Swing a massive axe every 1.1s to rend foes in front of you for 650 damage.",
+      "webValue": "1.1초마다 거대한 도끼를 휘둘러 전방의 적을 베고 650의 피해를 줍니다.",
+      "gameValue": "1.1초마다 거대한 도끼를 휘둘러 전방의 적을 베고 650의 피해를 줍니다.",
+      "preserveEnglish": []
+    },
+    {
+      "key": "champions.terminus.skills.powersiphon.description",
+      "messageId": "208937",
+      "source": "Create a powerful funnel that absorbs enemy attacks to generate Calamity Charges.",
+      "webValue": "적의 공격을 흡수하는 강력한 소용돌이를 생성하여 Calamity Charges를 얻습니다.",
+      "gameValue": "적의 공격을 흡수하는 강력한 소용돌이를 생성하여 Calamity Charges를 얻습니다.",
+      "preserveEnglish": [
+        "Calamity Charges"
+      ]
+    },
+    {
+      "key": "champions.terminus.skills.reanimate.description",
+      "messageId": "208799",
+      "source": "Revive yourself after a short time and deal 2600 damage to enemies upon reviving.",
+      "webValue": "잠시 후 부활하며 부활할 때 적에게 2,600의 피해를 줍니다.",
+      "gameValue": "잠시 후 부활하며 부활할 때 적에게 2,600의 피해를 줍니다.",
+      "preserveEnglish": []
+    },
+    {
+      "key": "champions.terminus.skills.shatterfall.description",
+      "messageId": "208968",
+      "source": "Leap into the air and smash down in a vicious attack in an area in front of you, dealing 500 damage to enemies hit and Slowing them.",
+      "webValue": "공중으로 도약한 뒤 전방 범위를 강타하여 적중한 적에게 500의 피해를 주고 둔화시킵니다.",
+      "gameValue": "공중으로 도약한 뒤 전방 범위를 강타하여 적중한 적에게 500의 피해를 주고 <font color=\"#1EBEF7\">둔화</font>시킵니다.",
+      "preserveEnglish": []
+    },
+    {
+      "key": "champions.tiberius.skills.bladedance.description",
+      "messageId": "210055",
+      "source": "Flourish your Heavy Blade and gain the ability to use Striking Tigron and Whirling Blades up to 5 times for 15s.",
+      "webValue": "중검을 휘둘러 15초 동안 Striking 티그론과 Whirling Blades를 최대 5회 사용할 수 있게 됩니다.",
+      "gameValue": "중검을 휘둘러 15초 동안 Striking 티그론과 Whirling Blades를 최대 5회 사용할 수 있게 됩니다.",
+      "preserveEnglish": ["Whirling Blades"]
+    },
+    {
+      "key": "champions.tiberius.skills.bladedchakrams.description",
+      "messageId": "210051",
+      "source": "Sling Bladed Chakrams from your hand every 0.7s, dealing 675 damage with each, and bouncing off floors and walls up to 4 times.",
+      "webValue": "0.7초마다 칼날 차크람을 던져 각각 675의 피해를 주며, 바닥과 벽에서 최대 4회 튕깁니다.",
+      "gameValue": "0.7초마다 칼날 차크람을 던져 각각 675의 피해를 주며, 바닥과 벽에서 최대 4회 튕깁니다.",
+      "preserveEnglish": []
+    },
+    {
+      "key": "champions.tiberius.skills.combattrance.description",
+      "messageId": "209889",
+      "source": "Channel your energy, increasing your Attack and Movement Speed for 4s.",
+      "webValue": "에너지를 집중하여 4초 동안 공격 속도와 이동 속도를 증가시킵니다.",
+      "gameValue": "에너지를 집중하여 4초 동안 공격 속도와 이동 속도를 증가시킵니다.",
+      "preserveEnglish": []
+    },
+    {
+      "key": "champions.tiberius.skills.crouchingtigron.description",
+      "messageId": "209890",
+      "source": "Crouch down, then launch yourself forward through the air.",
+      "webValue": "몸을 웅크린 뒤 공중을 가르며 앞으로 도약합니다.",
+      "gameValue": "몸을 웅크린 뒤 공중을 가르며 앞으로 도약합니다.",
+      "preserveEnglish": []
+    },
+    {
+      "key": "champions.tiberius.skills.heavyblade.description",
+      "messageId": "210054",
+      "source": "Throw your Heavy Blade in a straight line to pierce shields and enemies, dealing 850 damage and Slowing. Can be recalled through enemies to deal 500 damage to them.",
+      "webValue": "중검을 직선으로 던져 보호막과 적을 관통하고 850의 피해를 주며 둔화시킵니다. 적을 관통하도록 회수해 500의 피해를 줄 수 있습니다.",
+      "gameValue": "중검을 직선으로 던져 보호막과 적을 관통하고 850의 피해를 주며 <font color=\"#1EBEF7\">둔화</font>시킵니다. 적을 관통하도록 회수해 500의 피해를 줄 수 있습니다.",
+      "preserveEnglish": []
+    },
+    {
+      "key": "champions.torvald.skills.gauntlet.description",
+      "messageId": "208878",
+      "source": "Fire bursts of magical energy from your Gauntlet every 0.25s, dealing 195 damage per shot.",
+      "webValue": "건틀릿에서 0.25초마다 마법 에너지를 연사하여 사격당 195의 피해를 줍니다.",
+      "gameValue": "건틀릿에서 0.25초마다 마법 에너지를 연사하여 사격당 195의 피해를 줍니다.",
+      "preserveEnglish": []
+    },
+    {
+      "key": "champions.torvald.skills.hyperbeam.description",
+      "messageId": "208895",
+      "source": "Unleash the latent power of your Gauntlet to channel a massive wave of energy that deals 60 damage every 0.1s and Knocks enemies back.",
+      "webValue": "건틀릿의 잠재력을 해방해 거대한 에너지 파동을 집중시켜 0.1초마다 60의 피해를 주고 적을 밀쳐냅니다.",
+      "gameValue": "건틀릿의 잠재력을 해방해 거대한 에너지 파동을 집중시켜 0.1초마다 60의 피해를 주고 적을 <font color=\"#1EBEF7\">밀쳐냅니다</font>.",
+      "preserveEnglish": []
+    },
+    {
+      "key": "champions.torvald.skills.nullify.description",
+      "messageId": "208930",
+      "source": "Focus your Gauntlet, Silencing your target and Shocking for 800 damage over 2s.",
+      "webValue": "건틀릿을 집중하여 대상을 침묵시키고 2초에 걸쳐 800의 감전 피해를 줍니다.",
+      "gameValue": "건틀릿을 집중하여 대상을 <font color=\"#1EBEF7\">침묵</font>시키고 2초에 걸쳐 800의 <font color=\"#6D74BC\">감전</font> 피해를 줍니다.",
+      "preserveEnglish": []
+    },
+    {
+      "key": "champions.torvald.skills.protection.description",
+      "messageId": "208940",
+      "source": "Project a shield onto an ally for a short duration that prevents up to 500 damage.",
+      "webValue": "아군에게 잠시 최대 500의 피해를 막는 보호막을 부여합니다.",
+      "gameValue": "아군에게 잠시 최대 500의 피해를 막는 보호막을 부여합니다.",
+      "preserveEnglish": []
+    },
+    {
+      "key": "champions.torvald.skills.recharge.description",
+      "messageId": "208945",
+      "source": "Regenerate 2750 of your shield over a short duration.",
+      "webValue": "짧은 시간에 걸쳐 자신의 보호막을 2750 회복합니다.",
+      "gameValue": "짧은 시간에 걸쳐 자신의 보호막을 2750 회복합니다.",
+      "preserveEnglish": []
+    },
+    {
+      "key": "champions.tyra.skills.autorifle.description",
+      "messageId": "208816",
+      "source": "A fast-firing automatic rifle that deals 115 damage every 0.09s.",
+      "webValue": "빠르게 발사되는 자동소총으로, 0.09초마다 115의 피해를 줍니다.",
+      "gameValue": "빠르게 발사되는 자동소총으로, 0.09초마다 115의 피해를 줍니다.",
+      "preserveEnglish": []
+    },
+    {
+      "key": "champions.tyra.skills.crossfire.description",
+      "messageId": "208842",
+      "source": "Enhance your rate of fire by 67% and increase your speed while no longer consuming ammo.",
+      "webValue": "발사 속도가 67% 증가하고 이동 속도가 증가하며 탄약을 소모하지 않습니다.",
+      "gameValue": "발사 속도가 67% 증가하고 이동 속도가 증가하며 탄약을 소모하지 않습니다.",
+      "preserveEnglish": []
+    },
+    {
+      "key": "champions.tyra.skills.firebomb.description",
+      "messageId": "208868",
+      "source": "Hurl an incendiary device, leaving a pool of fire on impact that Burns 9% of the target's maximum health as damage over 0.6s. Standing in the fire refreshes this damage effect.",
+      "webValue": "소이 장치를 던져 충돌 지점에 불 웅덩이를 남깁니다. 불은 0.6초에 걸쳐 대상 최대 체력의 9%만큼 화상 피해를 줍니다. 불 안에 서 있으면 이 피해 효과가 갱신됩니다.",
+      "gameValue": "소이 장치를 던져 충돌 지점에 불 웅덩이를 남깁니다. 불은 0.6초에 걸쳐 대상 최대 체력의 9%만큼 <font color=\"#FAAB67\">화상</font> 피해를 줍니다. 불 안에 서 있으면 이 피해 효과가 갱신됩니다.",
+      "preserveEnglish": []
+    },
+    {
+      "key": "champions.tyra.skills.huntersmark.description",
+      "messageId": "208893",
+      "source": "Mark your prey to Reveal them and Weaken them by 15% to your weapon.",
+      "webValue": "사냥감에게 표식을 남겨 드러내고 자신의 무기에 받는 피해를 15% 증가시킵니다.",
+      "gameValue": "사냥감에게 표식을 남겨 <font color=\"#f3cf6f\">드러내고</font> 자신의 무기에 <font color=\"#FF8271\">받는 피해를 15% 증가</font>시킵니다.",
+      "preserveEnglish": []
+    },
+    {
+      "key": "champions.tyra.skills.nadelauncher.description",
+      "messageId": "208926",
+      "source": "Fire a grenade that explodes on impact, dealing 700 damage.",
+      "webValue": "충돌 시 폭발하여 700의 피해를 주는 수류탄을 발사합니다.",
+      "gameValue": "충돌 시 폭발하여 700의 피해를 주는 수류탄을 발사합니다.",
+      "preserveEnglish": []
+    },
+    {
+      "key": "champions.vatu.skills.ambush.description",
+      "messageId": "216149",
+      "source": "Teleport next to your target, dealing damage in an area on arrival. Can be refired on another enemy within 4s of teleporting.",
+      "webValue": "대상 옆으로 순간이동하여 도착 지점의 범위에 피해를 줍니다. 순간이동 후 4초 안에 다른 적에게 다시 사용할 수 있습니다.",
+      "gameValue": "대상 옆으로 순간이동하여 도착 지점의 범위에 피해를 줍니다. 순간이동 후 4초 안에 다른 적에게 다시 사용할 수 있습니다.",
+      "preserveEnglish": []
+    },
+    {
+      "key": "champions.vatu.skills.dash.description",
+      "messageId": "216160",
+      "source": "Quickly dash in the direction of your movement input.",
+      "webValue": "입력한 이동 방향으로 빠르게 돌진합니다.",
+      "gameValue": "입력한 이동 방향으로 빠르게 돌진합니다.",
+      "preserveEnglish": []
+    },
+    {
+      "key": "champions.vatu.skills.kunai.description",
+      "messageId": "216132",
+      "source": "Launch 3 Kunai in an arc from your hands, dealing 280 damage per Kunai.",
+      "webValue": "손에서 수리검 3개를 부채꼴로 던져 수리검마다 280의 피해를 줍니다.",
+      "gameValue": "손에서 수리검 3개를 부채꼴로 던져 수리검마다 280의 피해를 줍니다.",
+      "preserveEnglish": []
+    },
+    {
+      "key": "champions.vatu.skills.nightfall.description",
+      "messageId": "216142",
+      "source": "Activate to start charging up and fire to dash forward through enemies dealing 800 damage and Stunning them for 1.25s.",
+      "webValue": "활성화하여 충전한 뒤 발사하면 적을 관통해 전방으로 돌진하고 800의 피해를 주며 1.25초 동안 기절시킵니다.",
+      "gameValue": "활성화하여 충전한 뒤 발사하면 적을 관통해 전방으로 돌진하고 800의 피해를 주며 1.25초 동안 <font color=\"#1EBEF7\">기절</font>시킵니다.",
+      "preserveEnglish": []
+    },
+    {
+      "key": "champions.vatu.skills.shadowbombs.description",
+      "messageId": "217599",
+      "source": "Throw out 3 explosive projectiles that stick to their target and deal a small amount of damage on hit and an additional damage when they explode.",
+      "webValue": "대상에게 달라붙는 폭발 투사체 3개를 던져 적중 시 소량의 피해를 주고 폭발할 때 추가 피해를 줍니다.",
+      "gameValue": "대상에게 달라붙는 폭발 투사체 3개를 던져 적중 시 소량의 피해를 주고 폭발할 때 추가 피해를 줍니다.",
+      "preserveEnglish": []
+    },
+    {
+      "key": "champions.vii.skills.decree77.description",
+      "messageId": "226123",
+      "source": "Target up to 5 enemies, Fearing them and dealing damage.",
+      "webValue": "최대 5명의 적을 지정하여 공포에 빠뜨리고 피해를 줍니다.",
+      "gameValue": "최대 5명의 적을 지정하여 <font color=\"#1EBEF7\">공포</font>에 빠뜨리고 피해를 줍니다.",
+      "preserveEnglish": []
+    },
+    {
+      "key": "champions.vii.skills.explosivedodge.description",
+      "messageId": "222410",
+      "source": "Dodge in 8 different directions while leaving behind an explosive trap for your enemies.",
+      "webValue": "8개 방향 중 하나로 회피하며 적을 위한 폭발 함정을 남깁니다.",
+      "gameValue": "8개 방향 중 하나로 회피하며 적을 위한 폭발 함정을 남깁니다.",
+      "preserveEnglish": []
+    },
+    {
+      "key": "champions.vii.skills.grapplinghook.description",
+      "messageId": "222503",
+      "source": "Grapple to walls and stick to them for up to 5s becoming stealthed for the duration.",
+      "webValue": "벽에 갈고리를 걸어 최대 5초 동안 매달리며 지속시간 동안 은신 상태가 됩니다.",
+      "gameValue": "벽에 갈고리를 걸어 최대 5초 동안 매달리며 지속시간 동안 은신 상태가 됩니다.",
+      "preserveEnglish": []
+    },
+    {
+      "key": "champions.vii.skills.heavysmg.description",
+      "messageId": "222397",
+      "source": "A weapon with 3 fire modes that is fit for an assassin. Mag Dump is only effective at short range. Automatic is effective at mid-range, and Burst is effective at longer ranges.",
+      "webValue": "암살자에게 적합한 3가지 발사 모드를 갖춘 무기입니다. Mag Dump는 근거리, Automatic은 중거리, Burst는 장거리에서 효과적입니다.",
+      "gameValue": "암살자에게 적합한 3가지 발사 모드를 갖춘 무기입니다. Mag Dump는 근거리, Automatic은 중거리, Burst는 장거리에서 효과적입니다.",
+      "preserveEnglish": [
+        "Mag Dump",
+        "Automatic",
+        "Burst"
+      ]
+    },
+    {
+      "key": "champions.vii.skills.triggerdiscipline.description",
+      "messageId": "225799",
+      "source": "Swap between the 3 fire modes of your Heavy SMG on activation, from Burst to Mag Dump to Automatic.",
+      "webValue": "활성화할 때 중기관단총의 3가지 발사 모드를 Burst, Mag Dump, Automatic 순서로 전환합니다.",
+      "gameValue": "활성화할 때 중기관단총의 3가지 발사 모드를 Burst, Mag Dump, Automatic 순서로 전환합니다.",
+      "preserveEnglish": ["Burst","Mag Dump","Automatic"]
+    },
+    {
+      "key": "champions.viktor.skills.assaultrifle.description",
+      "messageId": "208813",
+      "source": "A Sentinel-issued military assault rifle that deals 140 damage every 0.1s.",
+      "webValue": "Sentinel이 지급한 군용 돌격소총으로, 0.1초마다 140의 피해를 줍니다.",
+      "gameValue": "Sentinel이 지급한 군용 돌격소총으로, 0.1초마다 140의 피해를 줍니다.",
+      "preserveEnglish": [
+        "Sentinel"
+      ]
+    },
+    {
+      "key": "champions.viktor.skills.barrage.description",
+      "messageId": "208817",
+      "source": "Call down your wrath in a series of artillery barrages on your foes' heads, dealing 1400 damage in an area per shell.",
+      "webValue": "적의 머리 위에 연속 포격을 퍼부어 포탄마다 범위에 1400의 피해를 줍니다.",
+      "gameValue": "적의 머리 위에 연속 포격을 퍼부어 포탄마다 범위에 1400의 피해를 줍니다.",
+      "preserveEnglish": []
+    },
+    {
+      "key": "champions.viktor.skills.fraggrenade.description",
+      "messageId": "208874",
+      "source": "Throw a cookable frag grenade that deals 750 damage when it explodes.",
+      "webValue": "신관 시간을 조절할 수 있으며 폭발 시 750의 피해를 주는 파편 수류탄을 던집니다.",
+      "gameValue": "신관 시간을 조절할 수 있으며 폭발 시 750의 피해를 주는 파편 수류탄을 던집니다.",
+      "preserveEnglish": []
+    },
+    {
+      "key": "champions.viktor.skills.hustle.description",
+      "messageId": "208894",
+      "source": "Start hustling, gaining 65% movement speed while runnning.",
+      "webValue": "달리기 시작하여 달리는 동안 이동 속도가 65% 증가합니다.",
+      "gameValue": "달리기 시작하여 달리는 동안 이동 속도가 65% 증가합니다.",
+      "preserveEnglish": []
+    },
+    {
+      "key": "champions.viktor.skills.ironsights.description",
+      "messageId": "208908",
+      "source": "Look down your sights and increase your accuracy.",
+      "webValue": "조준기를 사용해 정확도를 높입니다.",
+      "gameValue": "조준기를 사용해 정확도를 높입니다.",
+      "preserveEnglish": []
+    },
+    {
+      "key": "champions.vivian.skills.deflectorshield.description",
+      "messageId": "208848",
+      "source": "Project a shield in front of your gun to prevent up to 1500 damage.",
+      "webValue": "총 앞에 최대 1500의 피해를 막는 보호막을 투사합니다.",
+      "gameValue": "총 앞에 최대 1500의 피해를 막는 보호막을 투사합니다.",
+      "preserveEnglish": []
+    },
+    {
+      "key": "champions.vivian.skills.lightmachinegun.description",
+      "messageId": "208914",
+      "source": "A versatile light machine gun that deals 165 damage every 0.14s.",
+      "webValue": "다목적 경기관총으로, 0.14초마다 165의 피해를 줍니다.",
+      "gameValue": "다목적 경기관총으로, 0.14초마다 165의 피해를 줍니다.",
+      "preserveEnglish": []
+    },
+    {
+      "key": "champions.vivian.skills.precisionsights.description",
+      "messageId": "208938",
+      "source": "Look down the barrel of your gun and gain increased accuracy.",
+      "webValue": "총열을 따라 조준하여 정확도를 높입니다.",
+      "gameValue": "총열을 따라 조준하여 정확도를 높입니다.",
+      "preserveEnglish": []
+    },
+    {
+      "key": "champions.vivian.skills.sensordrone.description",
+      "messageId": "208962",
+      "source": "Throw out drones that Reveal your enemies to all allies.",
+      "webValue": "모든 아군에게 적을 드러내는 드론을 던집니다.",
+      "gameValue": "모든 아군에게 적을 <font color=\"#f3cf6f\">드러내는</font> 드론을 던집니다.",
+      "preserveEnglish": []
+    },
+    {
+      "key": "champions.vivian.skills.sentinels.description",
+      "messageId": "208963",
+      "source": "Summon 2 drones that fire Shock blasts where you are shooting every 1s, dealing 150 damage.",
+      "webValue": "드론 2기를 소환하여 자신이 사격하는 지점에 1초마다 감전 폭발을 발사하고 150의 피해를 줍니다.",
+      "gameValue": "드론 2기를 소환하여 자신이 사격하는 지점에 1초마다 <font color=\"#6D74BC\">감전</font> 폭발을 발사하고 150의 피해를 줍니다.",
+      "preserveEnglish": []
+    },
+    {
+      "key": "champions.vora.skills.darksiphon.description",
+      "messageId": "212125",
+      "source": "Deals 200 damage on hit and an additional 400 damage over time. Hitting an enemy Heals for 300 over 2s. Consuming maximum Darkness stacks Cripples on hit for 1.5s.",
+      "webValue": "적중 시 200의 피해와 지속적으로 400의 추가 피해를 줍니다. 적에게 적중하면 2초에 걸쳐 체력을 300 회복합니다. 어둠 중첩을 최대로 소모하면 적중한 대상을 1.5초 동안 불구 상태로 만듭니다.",
+      "gameValue": "적중 시 200의 피해와 지속적으로 400의 추가 피해를 줍니다. 적에게 적중하면 2초에 걸쳐 체력을 300 회복합니다. 어둠 중첩을 최대로 소모하면 적중한 대상을 1.5초 동안 <font color=\"#1EBEF7\">불구</font> 상태로 만듭니다.",
+      "preserveEnglish": []
+    },
+    {
+      "key": "champions.vora.skills.deadlyscythe.description",
+      "messageId": "213097",
+      "source": "Fire projectiles to deal damage over time and gain a stack of Darkness. Consuming Darkness heals Vora over time. Consuming maximum stacks augments other abilities.",
+      "webValue": "투사체를 발사해 지속 피해를 주고 어둠 중첩을 얻습니다. 어둠을 소모하면 보라의 체력이 지속적으로 회복됩니다. 최대 중첩을 소모하면 다른 능력이 강화됩니다.",
+      "gameValue": "투사체를 발사해 지속 피해를 주고 어둠 중첩을 얻습니다. 어둠을 소모하면 보라의 체력이 지속적으로 회복됩니다. 최대 중첩을 소모하면 다른 능력이 강화됩니다.",
+      "preserveEnglish": []
+    },
+    {
+      "key": "champions.vora.skills.harbingerswrath.description",
+      "messageId": "212776",
+      "source": "Hunt your enemies, increasing Movement Speed and reducing the damage you take. Select a nearby target to lock down, damaging or executing them if they are low health.",
+      "webValue": "적을 사냥하여 이동 속도가 증가하고 받는 피해가 감소합니다. 주변 대상을 선택해 제압하고 피해를 주며, 체력이 낮으면 처형합니다.",
+      "gameValue": "적을 사냥하여 이동 속도가 증가하고 받는 피해가 감소합니다. 주변 대상을 선택해 제압하고 피해를 주며, 체력이 낮으면 처형합니다.",
+      "preserveEnglish": []
+    },
+    {
+      "key": "champions.vora.skills.obliteration.description",
+      "messageId": "213096",
+      "source": "Jump up and slash down, becoming Immune. On impact, deal 600 damage and apply Knockback. Consuming maximum Darkness deals increased damage and Slows.",
+      "webValue": "도약해 아래로 베어내며 면역 상태가 됩니다. 충돌 시 600의 피해를 주고 밀쳐냅니다. 어둠 중첩을 최대로 소모하면 피해가 증가하고 적을 둔화시킵니다.",
+      "gameValue": "도약해 아래로 베어내며 면역 상태가 됩니다. 충돌 시 600의 피해를 주고 밀쳐냅니다. 어둠 중첩을 최대로 소모하면 피해가 증가하고 적을 <font color=\"#1EBEF7\">둔화</font>시킵니다.",
+      "preserveEnglish": []
+    },
+    {
+      "key": "champions.vora.skills.tendril.description",
+      "messageId": "212456",
+      "source": "Manifest your will, propelling yourself towards your target with a tendril. Can hit players to pull you to them.",
+      "webValue": "의지를 구현해 덩굴손으로 대상 쪽으로 자신을 끌어당깁니다. 플레이어에게 적중시키면 해당 플레이어 쪽으로 이동합니다.",
+      "gameValue": "의지를 구현해 덩굴손으로 대상 쪽으로 자신을 끌어당깁니다. 플레이어에게 적중시키면 해당 플레이어 쪽으로 이동합니다.",
+      "preserveEnglish": []
+    },
+    {
+      "key": "champions.willo.skills.deadzone.description",
+      "messageId": "208846",
+      "source": "Launch a toxic spore that deals 100 damage and infects enemies in an area, preventing them from being healed.",
+      "webValue": "독성 포자를 발사해 100의 피해를 주고 범위 안의 적을 감염시켜 치유받지 못하게 합니다.",
+      "gameValue": "독성 포자를 발사해 100의 피해를 주고 범위 안의 적을 감염시켜 치유받지 못하게 합니다.",
+      "preserveEnglish": []
+    },
+    {
+      "key": "champions.willo.skills.faeflight.description",
+      "messageId": "208865",
+      "source": "Take to the skies and rain down Fae vengeance.",
+      "webValue": "하늘로 날아올라 Fae의 복수를 퍼붓습니다.",
+      "gameValue": "하늘로 날아올라 Fae의 복수를 퍼붓습니다.",
+      "preserveEnglish": [
+        "Fae"
+      ]
+    },
+    {
+      "key": "champions.willo.skills.flutter.description",
+      "messageId": "208873",
+      "source": "Quickly flutter your wings and propel yourself forwards and upwards. Hold Jump to use Pixie Dust, reducing your fall speed in air.",
+      "webValue": "날개를 빠르게 퍼덕여 전방과 위쪽으로 이동합니다. 점프 키를 길게 눌러 요정 가루를 사용하면 공중 낙하 속도가 감소합니다.",
+      "gameValue": "날개를 빠르게 퍼덕여 전방과 위쪽으로 이동합니다. <CMD=GBA_Jump>를 길게 눌러 요정 가루를 사용하면 공중 낙하 속도가 감소합니다.",
+      "preserveEnglish": [],
+      "gameSubstitutions": {
+        "<CMD=GBA_Jump>": "점프 키"
+      }
+    },
+    {
+      "key": "champions.willo.skills.seedling.description",
+      "messageId": "208960",
+      "source": "Throw an explosive seed that deals 400 damage and spawns 4 more damaging seeds in an area around it.",
+      "webValue": "폭발하여 400의 피해를 주고 주변 범위에 피해를 주는 씨앗 4개를 추가로 생성하는 씨앗을 던집니다.",
+      "gameValue": "폭발하여 400의 피해를 주고 주변 범위에 피해를 주는 씨앗 4개를 추가로 생성하는 씨앗을 던집니다.",
+      "preserveEnglish": []
+    },
+    {
+      "key": "champions.willo.skills.wandofovergrowth.description",
+      "messageId": "209004",
+      "source": "Fire a blast of Fae energy every 0.75s that deals 500 damage in an area.",
+      "webValue": "0.75초마다 Fae 에너지 폭발을 발사해 범위에 500의 피해를 줍니다.",
+      "gameValue": "0.75초마다 Fae 에너지 폭발을 발사해 범위에 500의 피해를 줍니다.",
+      "preserveEnglish": [
+        "Fae"
+      ]
+    },
+    {
+      "key": "champions.yagorath.skills.causticspraytrailofacid.description",
+      "messageId": "215631",
+      "source": "Planted: Spray acid, dealing 38 damage every 0.1s and leaving behind pools of acid. Travel: Leave a series of acid pools behind as you roll. Each pool damages and Slows enemies.",
+      "webValue": "고정 형태: 산을 분사해 0.1초마다 38의 피해를 주고 산성 웅덩이를 남깁니다. 이동 형태: 구르는 동안 뒤에 산성 웅덩이를 연속으로 남깁니다. 각 웅덩이는 적에게 피해를 주고 둔화시킵니다.",
+      "gameValue": "고정 형태: 산을 분사해 0.1초마다 38의 피해를 주고 산성 웅덩이를 남깁니다. 이동 형태: 구르는 동안 뒤에 산성 웅덩이를 연속으로 남깁니다. 각 웅덩이는 적에게 피해를 주고 <font color=\"#1EBEF7\">둔화</font>시킵니다.",
+      "preserveEnglish": []
+    },
+    {
+      "key": "champions.yagorath.skills.devour.description",
+      "messageId": "215637",
+      "source": "Target an enemy to pull in and devour them, gaining a new Health pool while doing so. If their team breaks your Health, they are released.",
+      "webValue": "적을 지정해 끌어당겨 집어삼키며 그동안 새로운 체력 풀을 얻습니다. 적 팀이 이 체력을 모두 소진시키면 대상이 풀려납니다.",
+      "gameValue": "적을 지정해 끌어당겨 집어삼키며 그동안 새로운 체력 풀을 얻습니다. 적 팀이 이 체력을 모두 소진시키면 대상이 풀려납니다.",
+      "preserveEnglish": []
+    },
+    {
+      "key": "champions.yagorath.skills.formswap.description",
+      "messageId": "215635",
+      "source": "Swap between Planted and Travel forms, gaining access to new abilities.",
+      "webValue": "고정 형태와 이동 형태를 전환하여 새로운 능력을 사용할 수 있게 됩니다.",
+      "gameValue": "고정 형태와 이동 형태를 전환하여 새로운 능력을 사용할 수 있게 됩니다.",
+      "preserveEnglish": []
+    },
+    {
+      "key": "champions.yagorath.skills.hardeningprimalvision.description",
+      "messageId": "215633",
+      "source": "Planted: Reduce the damage you take for up to 4s and deal damage to nearby enemies based on ability duration. Travel: Pulse 5 times, briefly Revealing nearby enemies to allies.",
+      "webValue": "고정 형태: 최대 4초 동안 받는 피해를 줄이고 능력 지속시간에 따라 주변 적에게 피해를 줍니다. 이동 형태: 파동을 5회 방출해 주변 적을 잠시 아군에게 드러냅니다.",
+      "gameValue": "고정 형태: 최대 4초 동안 받는 피해를 줄이고 능력 지속시간에 따라 주변 적에게 피해를 줍니다. 이동 형태: 파동을 5회 방출해 주변 적을 잠시 아군에게 <font color=\"#f3cf6f\">드러냅니다</font>.",
+      "preserveEnglish": []
+    },
+    {
+      "key": "champions.yagorath.skills.piercingquillsacceleration.description",
+      "messageId": "215151",
+      "source": "Planted: Fire Piercing Quills that deal 200 damage and explode in a small area. Travel: Charge forward through enemies, dealing 500 damage and Knocking them back.",
+      "webValue": "고정 형태: 관통 가시를 발사해 200의 피해를 주고 좁은 범위에서 폭발시킵니다. 이동 형태: 적을 관통해 전방으로 돌진하며 500의 피해를 주고 밀쳐냅니다.",
+      "gameValue": "고정 형태: 관통 가시를 발사해 200의 피해를 주고 좁은 범위에서 폭발시킵니다. 이동 형태: 적을 관통해 전방으로 돌진하며 500의 피해를 주고 밀쳐냅니다.",
+      "preserveEnglish": []
+    },
+    {
+      "key": "champions.ying.skills.dimensionallink.description",
+      "messageId": "208849",
+      "source": "For a short duration, manipulate dimensions, swapping locations with your farthest illusion.",
+      "webValue": "잠시 차원을 조작하여 가장 멀리 있는 환영과 위치를 바꿉니다.",
+      "gameValue": "잠시 차원을 조작하여 가장 멀리 있는 환영과 위치를 바꿉니다.",
+      "preserveEnglish": []
+    },
+    {
+      "key": "champions.ying.skills.illusion.description",
+      "messageId": "208899",
+      "source": "Create a lifelike illusion that heals nearby allies for 450 every 1.6s.",
+      "webValue": "실물 같은 환영을 생성해 1.6초마다 주변 아군의 체력을 450 회복합니다.",
+      "gameValue": "실물 같은 환영을 생성해 1.6초마다 주변 아군의 체력을 450 회복합니다.",
+      "preserveEnglish": []
+    },
+    {
+      "key": "champions.ying.skills.illusorymirror.description",
+      "messageId": "208900",
+      "source": "Fire a burst of energy every 0.5s from your mirror over a short period of time, hitting 5 times over 0.2s for 90 damage per shot.",
+      "webValue": "거울에서 0.5초마다 짧게 에너지를 연사하여 0.2초 동안 5회 적중시키고 사격당 90의 피해를 줍니다.",
+      "gameValue": "거울에서 0.5초마다 짧게 에너지를 연사하여 0.2초 동안 5회 적중시키고 사격당 90의 피해를 줍니다.",
+      "preserveEnglish": []
+    },
+    {
+      "key": "champions.ying.skills.illusoryrift.description",
+      "messageId": "208901",
+      "source": "Shatter your mirror, restoring 4800 health to all allies over 8s and make them immune to Crowd Control for 1s. While active, you may teleport to any ally with Dimensional Link.",
+      "webValue": "거울을 산산이 깨뜨려 8초에 걸쳐 모든 아군의 체력을 4800 회복하고 1초 동안 군중 제어 면역을 부여합니다. 활성화 중에는 차원 연결로 어느 아군에게나 순간이동할 수 있습니다.",
+      "gameValue": "거울을 산산이 깨뜨려 8초에 걸쳐 모든 아군의 체력을 4800 회복하고 1초 동안 군중 제어 면역을 부여합니다. 활성화 중에는 차원 연결로 어느 아군에게나 순간이동할 수 있습니다.",
+      "preserveEnglish": []
+    },
+    {
+      "key": "champions.ying.skills.shatter.description",
+      "messageId": "208967",
+      "source": "Shatter your illusions, causing them to chase down enemies and explode for 500 damage.",
+      "webValue": "환영을 산산이 깨뜨려 적을 추격하게 한 뒤 폭발시켜 500의 피해를 줍니다.",
+      "gameValue": "환영을 산산이 깨뜨려 적을 추격하게 한 뒤 폭발시켜 500의 피해를 줍니다.",
+      "preserveEnglish": []
+    },
+    {
+      "key": "champions.zhin.skills.billow.description",
+      "messageId": "208821",
+      "source": "Disperse into smoke to become ethereal and increase your movement speed by 10%.",
+      "webValue": "연기로 흩어져 영체 상태가 되고 이동 속도가 10% 증가합니다.",
+      "gameValue": "연기로 흩어져 영체 상태가 되고 이동 속도가 10% 증가합니다.",
+      "preserveEnglish": []
+    },
+    {
+      "key": "champions.zhin.skills.counter.description",
+      "messageId": "208839",
+      "source": "Counter a single attack from the front and unleash a vicious counterattack that deals 600 damage.",
+      "webValue": "전방에서 오는 공격 하나를 반격하고 사나운 반격을 날려 600의 피해를 줍니다.",
+      "gameValue": "전방에서 오는 공격 하나를 반격하고 사나운 반격을 날려 600의 피해를 줍니다.",
+      "preserveEnglish": []
+    },
+    {
+      "key": "champions.zhin.skills.infernoblade.description",
+      "messageId": "208906",
+      "source": "Launch 3 burning oil projectiles through the air every 2s to scorch your foes to a crisp, dealing 400 damage with the first two swings and 700 damage with the final swing.",
+      "webValue": "2초마다 불타는 기름 투사체 세 개를 공중으로 날려 적을 불태웁니다. 처음 두 번의 공격은 400, 마지막 공격은 700의 피해를 줍니다.",
+      "gameValue": "2초마다 불타는 기름 투사체 세 개를 공중으로 날려 적을 불태웁니다. 처음 두 번의 공격은 400, 마지막 공격은 700의 피해를 줍니다.",
+      "preserveEnglish": []
+    },
+    {
+      "key": "champions.zhin.skills.spite.description",
+      "messageId": "208982",
+      "source": "Launch forward and Stun an enemy for a brief time while dealing 2000 damage over 1.5s in a series of vicious melee attacks.",
+      "webValue": "전방으로 돌진하여 적을 잠시 기절시키고, 1.5초에 걸쳐 사나운 근접 연속 공격으로 2000의 피해를 줍니다.",
+      "gameValue": "전방으로 돌진하여 적을 잠시 <font color=\"#1EBEF7\">기절</font>시키고, 1.5초에 걸쳐 사나운 근접 연속 공격으로 2000의 피해를 줍니다.",
+      "preserveEnglish": []
+    }
+  ]
+}

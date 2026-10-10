@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "approved": true,
+  "caption_targets": {"The Burrows": "굴동네"},
+  "human_approval": "User 2026-10-05: The Burrows - 굴동네; approve the remaining.",
+  "scope": "Override the previously approved place name in captions and named-place prose. Approve the remaining presented region wording and the pending request to install the verified bundle and restart the inspection instance. This does not approve empty-proposal or unknown historical trigger names.",
+  "supersedes_wording": "The Burrows - 버로스",
+  "native_review": "kor-burrows-v168-20261005-approved.csv",
+  "ini_review": "kor-burrows-v168-20261005-ini.json"
+}
