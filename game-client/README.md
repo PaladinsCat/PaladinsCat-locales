@@ -9,7 +9,8 @@ See [release preparation and publication](../docs/GAME_CLIENT_RELEASES.md).
 The catalog offers the explicitly marked Korean v172 and IME 0.1.0 preview.
 Its immutable release assets are separate from authoring commits; stable
 translation and portable IME acceptance remain pending. The GUI can use the
-published release's catalog asset before the protected-main catalog PR merges.
+published release's catalog asset while a reviewed catalog update is awaiting
+authorized publication to `main`.
 
 Approved game translations are stored as one UTF-8 CSV per game language:
 
@@ -26,7 +27,9 @@ message_id,value
 ```
 
 `message_id` is the stable identity from the decoded game catalog. Files are
-committed on a translation branch and reviewed as a normal GitHub pull request.
+reviewed and committed in the existing `main` checkout for owner-directed agent
+work. The human prohibits agent-created branches, worktrees, forks and PRs.
+External contributor and Weblate review procedures are separate.
 Do not replace IDs with the repeated game `key` field.
 
 ## Native game sources

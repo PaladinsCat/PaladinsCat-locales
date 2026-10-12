@@ -1,5 +1,13 @@
 # Contributing translations
 
+## Owner-directed agent work
+
+The human's native game-localization workflow uses the existing `main` checkout
+and prohibits agent-created branches, worktrees, forks and PRs. Review and run
+the relevant validators before an authorized publication; respect remote
+protections. The external contributor/Weblate procedures below are separate
+and do not override this direct owner instruction.
+
 ## Rules
 
 - Create a branch from the current `main` branch.

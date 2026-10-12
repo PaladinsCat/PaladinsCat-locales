@@ -26,7 +26,7 @@ Catalog v1 has `packages` for locale bundles and optional `ime_packages` for IME
 releases. An empty array offers no release. A source/catalog commit does not
 publish downloadable packages. The GUI also accepts an explicit public GitHub
 catalog asset URL in Repository settings, while retaining the repository link.
-This permits inspection of a published preview before its catalog PR is merged.
+This permits inspection of a published preview before its catalog update reaches `main`.
 
 Every entry identifies an immutable manifest URL and its SHA-256. Each manifest
 pins the supported game executable and every payload hash/size. HTTPS GitHub
@@ -84,8 +84,11 @@ loads it on the next launch; no resident WatchCat background service is needed.
 
 ## Source publication
 
-Publish reviewed authoring data on a branch from the current `main`, then open a
-pull request. Protected `main` requires an owner review. Keep immutable approval
+Owner-directed agent work stays in the existing `main` checkout. The human
+prohibits creating branches, worktrees, forks or pull requests for this workflow.
+Review and validate the source before an authorized publication, respecting
+remote protections. External contributor/Weblate PR procedures are separate.
+Keep immutable approval
 receipts byte-identical and validate their pins before committing. Commit the
 native dictionaries, receipts, ownership snapshot, catalog contracts and docs;
 exclude ignored staging data and machine-specific diagnostic manifests.
@@ -94,7 +97,8 @@ The WatchCat Rust native repository validator checks dictionary dependencies and
 approval hashes. Its local publication guard additionally checks the exact
 checkout and GitHub destination, a clean worktree, the permitted source paths,
 credential patterns in all reachable blobs, and non-deleting, forward-moving
-`codex/` branches. Guard source and local hook wrappers belong to WatchCat. This
+updates from the existing `main` checkout to `refs/heads/main`. Feature-branch
+publication is refused. Guard source and local hook wrappers belong to WatchCat. This
 source push is independent of uploading binary release assets or completing the
 full localization coverage and visual acceptance gates.
 
@@ -134,4 +138,6 @@ identities and sizes, then publish under the user's release authorization.
 Run `verify-downloads` against the public asset catalog in a fresh cache before
 offering it. `use-catalog` downloads/verifies both families into the GUI cache
 and persists that catalog URL and prepared selections; it changes no game files.
-Submit the matching `game-client/catalog.json` through an owner-reviewed PR.
+Review the matching `game-client/catalog.json` in existing `main`, then publish
+under the user's established release authorization. Do not create a PR or bypass
+remote protections.
