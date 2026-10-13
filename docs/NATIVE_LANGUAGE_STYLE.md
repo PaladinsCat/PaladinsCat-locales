@@ -37,6 +37,20 @@ the surrounding description.
 
 ## Language-specific guidance
 
+### Korean gameplay terminology, approved October 13, 2026
+
+Use **스킬** for a combat skill, ability or abilities, in both labels and
+descriptions. Use **스킬 확인** for View Abilities/View Skills and **선택** for
+the champion-selection Lock In action; its completed state is **선택 완료**.
+Keep actual locking/unlocking, 능력치, general capabilities and biography prose
+in their own meanings. In particular, firing/turning capability and prowess
+are not skill activations. After replacing 능력, use the correct instrumental
+particle **스킬로**. Preserve numeric values, native IDs, markup and placeholders.
+
+The canonical native dictionaries and the dated native review record carry
+these decisions; changing terminology does not approve unrelated proper names
+or establish complete translation or runtime visual acceptance.
+
 These are working conventions observed in native strings and existing
 contributions, not claims of independent native-speaker approval. Match the
 surrounding module's voice. Do not mechanically replace words in contributor text.

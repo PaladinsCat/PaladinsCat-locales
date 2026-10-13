@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "approved": true,
+  "approvalSource": "Direct owner request, 2026-10-13: 능력 보기 - 스킬 확인; 잠그기 - 선택; all skill must be 스킬; abilities = 스킬",
+  "scope": "Korean combat skill terminology and viewing/champion-selection captions",
+  "terms": {"skill": "스킬", "skills": "스킬", "ability": "스킬", "abilities": "스킬"},
+  "captions": {"View Abilities": "스킬 확인", "View Skills": "스킬 확인", "To View Skills": "스킬 확인", "Lock In": "선택", "LOCK IN": "선택", "Locked In": "선택 완료"},
+  "iniIdentities": ["TgClient.UIMatchLobby.ViewSkills", "GFxTranslation.GameLobby2.match_lobby_lockIn", "GFxTranslation.GameLobby2.match_lobby_lockinButton"],
+  "preserve": ["Actual lock and unlock operations", "능력치", "General firing/turning capability", "Prowess and biography prose", "Source IDs, numbers, native markup and runtime placeholders"],
+  "fullLocalizationComplete": false
+}

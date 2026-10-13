@@ -128,8 +128,8 @@
       "key": "champions.azaan.skills.conviction.description",
       "messageId": "221048",
       "source": "Dash forward, carrying an enemy with you. Deals damage and Stuns on hitting any wall. While above the Ire threshold, this ability is used faster.",
-      "webValue": "앞으로 돌진하며 적 한 명을 함께 끌고 갑니다. 벽에 충돌하면 피해를 주고 기절시킵니다. 분노 한계치를 넘은 동안에는 이 능력이 더 빠르게 사용됩니다.",
-      "gameValue": "앞으로 돌진하며 적 한 명을 함께 끌고 갑니다. 벽에 충돌하면 피해를 주고 <font color=\"#1EBEF7\">기절</font>시킵니다. 분노 한계치를 넘은 동안에는 이 능력이 더 빠르게 사용됩니다.",
+      "webValue": "앞으로 돌진하며 적 한 명을 함께 끌고 갑니다. 벽에 충돌하면 피해를 주고 기절시킵니다. 분노 한계치를 넘은 동안에는 이 스킬이 더 빠르게 사용됩니다.",
+      "gameValue": "앞으로 돌진하며 적 한 명을 함께 끌고 갑니다. 벽에 충돌하면 피해를 주고 <font color=\"#1EBEF7\">기절</font>시킵니다. 분노 한계치를 넘은 동안에는 이 스킬이 더 빠르게 사용됩니다.",
       "preserveEnglish": []
     },
     {
@@ -208,8 +208,8 @@
       "key": "champions.bettylabomba.skills.explosivepersonality.description",
       "messageId": "234440",
       "source": "Jump forwards and upwards, damaging and Knocking Back enemies caught behind and below you. You can use this ability up to three times before it goes on Cooldown.",
-      "webValue": "앞쪽 위로 도약하며 뒤쪽과 아래쪽에 걸린 적에게 피해를 주고 밀쳐냅니다. 재사용 대기시간이 시작되기 전에 이 능력을 최대 세 번 사용할 수 있습니다.",
-      "gameValue": "앞쪽 위로 도약하며 뒤쪽과 아래쪽에 걸린 적에게 피해를 주고 <font color=\"#1EBEF7\">밀쳐냅니다</font>. 재사용 대기시간이 시작되기 전에 이 능력을 최대 세 번 사용할 수 있습니다.",
+      "webValue": "앞쪽 위로 도약하며 뒤쪽과 아래쪽에 걸린 적에게 피해를 주고 밀쳐냅니다. 재사용 대기시간이 시작되기 전에 이 스킬을 최대 세 번 사용할 수 있습니다.",
+      "gameValue": "앞쪽 위로 도약하며 뒤쪽과 아래쪽에 걸린 적에게 피해를 주고 <font color=\"#1EBEF7\">밀쳐냅니다</font>. 재사용 대기시간이 시작되기 전에 이 스킬을 최대 세 번 사용할 수 있습니다.",
       "preserveEnglish": []
     },
     {
@@ -224,8 +224,8 @@
       "key": "champions.bettylabomba.skills.longlivethequeen.description",
       "messageId": "234441",
       "source": "Summon and control a large rocket that you can ride into enemies or send flying in the direction of your crosshairs by reactivating the ability.",
-      "webValue": "대형 로켓을 소환해 조종합니다. 로켓에 타고 적에게 돌진하거나, 능력을 다시 사용해 조준선 방향으로 날려 보낼 수 있습니다.",
-      "gameValue": "대형 로켓을 소환해 조종합니다. 로켓에 타고 적에게 돌진하거나, 능력을 다시 사용해 조준선 방향으로 날려 보낼 수 있습니다.",
+      "webValue": "대형 로켓을 소환해 조종합니다. 로켓에 타고 적에게 돌진하거나, 스킬을 다시 사용해 조준선 방향으로 날려 보낼 수 있습니다.",
+      "gameValue": "대형 로켓을 소환해 조종합니다. 로켓에 타고 적에게 돌진하거나, 스킬을 다시 사용해 조준선 방향으로 날려 보낼 수 있습니다.",
       "preserveEnglish": []
     },
     {
@@ -304,8 +304,8 @@
       "key": "champions.caspian.skills.deadlymomentum.description",
       "messageId": "238239",
       "source": "Twirl forwards to damage and Knockback enemies while taking less damage. Reactivate to whirl and deal damage around you to reduce the Cooldown of this ability.",
-      "webValue": "앞으로 회전하며 받는 피해가 감소하고, 적에게 피해를 주며 밀쳐냅니다. 다시 사용하면 회전해 주변에 피해를 주고 이 능력의 재사용 대기시간을 감소시킵니다.",
-      "gameValue": "앞으로 회전하며 받는 피해가 감소하고, 적에게 피해를 주며 <font color=\"#1EBEF7\">밀쳐냅니다</font>. 다시 사용하면 회전해 주변에 피해를 주고 이 능력의 재사용 대기시간을 감소시킵니다.",
+      "webValue": "앞으로 회전하며 받는 피해가 감소하고, 적에게 피해를 주며 밀쳐냅니다. 다시 사용하면 회전해 주변에 피해를 주고 이 스킬의 재사용 대기시간을 감소시킵니다.",
+      "gameValue": "앞으로 회전하며 받는 피해가 감소하고, 적에게 피해를 주며 <font color=\"#1EBEF7\">밀쳐냅니다</font>. 다시 사용하면 회전해 주변에 피해를 주고 이 스킬의 재사용 대기시간을 감소시킵니다.",
       "preserveEnglish": []
     },
     {
@@ -672,8 +672,8 @@
       "key": "champions.imani.skills.elementalshift.description",
       "messageId": "208859",
       "source": "Shift your elemental alignment between freezing ice and scorching fire, gaining access to new abilities.",
-      "webValue": "원소 조율을 얼어붙는 냉기와 타오르는 화염 사이에서 전환하여 새로운 능력을 사용할 수 있게 됩니다.",
-      "gameValue": "원소 조율을 얼어붙는 냉기와 타오르는 화염 사이에서 전환하여 새로운 능력을 사용할 수 있게 됩니다.",
+      "webValue": "원소 조율을 얼어붙는 냉기와 타오르는 화염 사이에서 전환하여 새로운 스킬을 사용할 수 있게 됩니다.",
+      "gameValue": "원소 조율을 얼어붙는 냉기와 타오르는 화염 사이에서 전환하여 새로운 스킬을 사용할 수 있게 됩니다.",
       "preserveEnglish": []
     },
     {
@@ -1024,8 +1024,8 @@
       "key": "champions.lillith.skills.bloodhex.description",
       "messageId": "235896",
       "source": "Lillith hexes an enemy or ally, dealing current Health damage to enemies or Healing allies for an increasing value based on duration. You regenerate Blood while this ability is active.",
-      "webValue": "릴리트가 적 또는 아군에게 저주를 부여하여 적에게 현재 체력 비례 피해를 주거나 아군을 지속시간에 따라 점점 더 많이 치유합니다. 이 능력이 활성화된 동안 혈액을 재생합니다.",
-      "gameValue": "릴리트가 적 또는 아군에게 저주를 부여하여 적에게 현재 체력 비례 피해를 주거나 아군을 지속시간에 따라 점점 더 많이 치유합니다. 이 능력이 활성화된 동안 혈액을 재생합니다.",
+      "webValue": "릴리트가 적 또는 아군에게 저주를 부여하여 적에게 현재 체력 비례 피해를 주거나 아군을 지속시간에 따라 점점 더 많이 치유합니다. 이 스킬이 활성화된 동안 혈액을 재생합니다.",
+      "gameValue": "릴리트가 적 또는 아군에게 저주를 부여하여 적에게 현재 체력 비례 피해를 주거나 아군을 지속시간에 따라 점점 더 많이 치유합니다. 이 스킬이 활성화된 동안 혈액을 재생합니다.",
       "preserveEnglish": []
     },
     {
@@ -1048,8 +1048,8 @@
       "key": "champions.lillith.skills.heartofcrimson.description",
       "messageId": "236020",
       "source": "The Heart-Cube fires blood, dealing 650 damage per shot. Consume no ammo while Hex or Swarm affect Champions. Your Blood pool acts as health and is used to cast abilities.",
-      "webValue": "Heart-Cube가 피를 발사하여 사격당 650의 피해를 줍니다. Hex 또는 군집이 챔피언에게 적용된 동안 탄약을 소모하지 않습니다. 혈액 보유량은 체력으로 기능하며 능력 사용에 소모됩니다.",
-      "gameValue": "Heart-Cube가 피를 발사하여 사격당 650의 피해를 줍니다. Hex 또는 군집이 챔피언에게 적용된 동안 탄약을 소모하지 않습니다. 혈액 보유량은 체력으로 기능하며 능력 사용에 소모됩니다.",
+      "webValue": "Heart-Cube가 피를 발사하여 사격당 650의 피해를 줍니다. Hex 또는 군집이 챔피언에게 적용된 동안 탄약을 소모하지 않습니다. 혈액 보유량은 체력으로 기능하며 스킬 사용에 소모됩니다.",
+      "gameValue": "Heart-Cube가 피를 발사하여 사격당 650의 피해를 줍니다. Hex 또는 군집이 챔피언에게 적용된 동안 탄약을 소모하지 않습니다. 혈액 보유량은 체력으로 기능하며 스킬 사용에 소모됩니다.",
       "preserveEnglish": ["Heart-Cube","Hex"]
     },
     {
@@ -1080,8 +1080,8 @@
       "key": "champions.maeve.skills.ninelives.description",
       "messageId": "208929",
       "source": "Reset the cooldowns of your other abilities and heal for 400.",
-      "webValue": "다른 능력의 재사용 대기시간을 초기화하고 체력을 400 회복합니다.",
-      "gameValue": "다른 능력의 재사용 대기시간을 초기화하고 체력을 400 회복합니다.",
+      "webValue": "다른 스킬의 재사용 대기시간을 초기화하고 체력을 400 회복합니다.",
+      "gameValue": "다른 스킬의 재사용 대기시간을 초기화하고 체력을 400 회복합니다.",
       "preserveEnglish": []
     },
     {
@@ -1096,8 +1096,8 @@
       "key": "champions.maeve.skills.prowl.description",
       "messageId": "208941",
       "source": "Go on the prowl, moving faster and jumping higher until you use your weapon or another ability.",
-      "webValue": "사냥에 나서 무기나 다른 능력을 사용할 때까지 이동 속도와 점프 높이가 증가합니다.",
-      "gameValue": "사냥에 나서 무기나 다른 능력을 사용할 때까지 이동 속도와 점프 높이가 증가합니다.",
+      "webValue": "사냥에 나서 무기나 다른 스킬을 사용할 때까지 이동 속도와 점프 높이가 증가합니다.",
+      "gameValue": "사냥에 나서 무기나 다른 스킬을 사용할 때까지 이동 속도와 점프 높이가 증가합니다.",
       "preserveEnglish": []
     },
     {
@@ -1216,8 +1216,8 @@
       "key": "champions.azaan.skills.judgement.description",
       "messageId": "220915",
       "source": "Throw your hammer in an attack chain, dealing 525, 525, 630 damage. Dealing and taking damage increases your Ire, which can augment your abilities and provide passive benefits.",
-      "webValue": "망치를 연속으로 던져 525, 525, 630의 피해를 줍니다. 피해를 주거나 받으면 분노가 증가하며, 분노는 능력을 강화하고 지속 효과를 제공합니다.",
-      "gameValue": "망치를 연속으로 던져 525, 525, 630의 피해를 줍니다. 피해를 주거나 받으면 분노가 증가하며, 분노는 능력을 강화하고 지속 효과를 제공합니다.",
+      "webValue": "망치를 연속으로 던져 525, 525, 630의 피해를 줍니다. 피해를 주거나 받으면 분노가 증가하며, 분노는 스킬을 강화하고 지속 효과를 제공합니다.",
+      "gameValue": "망치를 연속으로 던져 525, 525, 630의 피해를 줍니다. 피해를 주거나 받으면 분노가 증가하며, 분노는 스킬을 강화하고 지속 효과를 제공합니다.",
       "preserveEnglish": []
     },
     {
@@ -1336,8 +1336,8 @@
       "key": "champions.maldamba.skills.mendingspirits.description",
       "messageId": "208921",
       "source": "Channel the spirits to enchant an ally at your crosshair location, restoring 85 health every 0.16s for 3s. The Cooldown of this ability is reduced by 1.25s if you miss.",
-      "webValue": "영혼의 힘을 집중하여 조준점에 있는 아군을 강화하고 3초 동안 0.16초마다 체력을 85 회복합니다. 빗나가면 이 능력의 재사용 대기시간이 1.25초 감소합니다.",
-      "gameValue": "영혼의 힘을 집중하여 조준점에 있는 아군을 강화하고 3초 동안 0.16초마다 체력을 85 회복합니다. 빗나가면 이 능력의 재사용 대기시간이 1.25초 감소합니다.",
+      "webValue": "영혼의 힘을 집중하여 조준점에 있는 아군을 강화하고 3초 동안 0.16초마다 체력을 85 회복합니다. 빗나가면 이 스킬의 재사용 대기시간이 1.25초 감소합니다.",
+      "gameValue": "영혼의 힘을 집중하여 조준점에 있는 아군을 강화하고 3초 동안 0.16초마다 체력을 85 회복합니다. 빗나가면 이 스킬의 재사용 대기시간이 1.25초 감소합니다.",
       "preserveEnglish": []
     }
   ]
