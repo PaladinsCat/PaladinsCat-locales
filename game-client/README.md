@@ -3,8 +3,11 @@
 ## Client patch releases
 
 Reviewed custom native inputs live in [native/translations](native/README.md).
-The localization and IME download catalog is `catalog.json`. Rust implementation
-source belongs to WatchCat; this repository owns locale data and release metadata.
+The localization and IME download catalog is `catalog.json`. Native patching,
+font, localization, and IME implementation belongs to WatchCat. The public
+[PaladinsCat Launcher](https://github.com/PaladinsCat/PaladinsCat-Launcher)
+owns the launcher GUI, package installation, and public release tooling;
+this repository owns locale data and release metadata.
 See [release preparation and publication](../docs/GAME_CLIENT_RELEASES.md).
 The catalog offers the explicitly marked Korean v175 and IME 0.1.0 previews.
 Its immutable release assets are separate from authoring commits; stable
