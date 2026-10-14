@@ -11,12 +11,12 @@
   ],
   "packages": [
     {
-      "bundle_id": "kor-ui-v175-messages-dda1158c2f68",
+      "bundle_id": "kor-ui-v176-objective-ebc8c79b0c0b",
       "game_build": "8.1",
       "locale": "KOR",
-      "manifest_sha256": "678e684513159582e4d6bbc3dc29534e5a214c2ec3939ffe0863a190ebeb10c9",
-      "manifest_url": "https://github.com/PaladinsCat/PaladinsCat-locales/releases/download/game-client-preview-20261014-v175-r1/locale-package.json",
-      "notes": "PREVIEW · Korean v175."
+      "manifest_sha256": "f1ffab96a98f7115163eabba05588700cb0bd101dc92d49de01a1949b60aa1fe",
+      "manifest_url": "https://github.com/PaladinsCat/PaladinsCat-locales/releases/download/game-client-preview-20261014-v176-r1/locale-package.json",
+      "notes": "PREVIEW · Korean v176 objective terminology: objective → 거점."
     }
   ],
   "schema_version": 1

@@ -201,3 +201,24 @@ With a maintainer build containing the pending CLI modes, run
 actual launcher contract; locale entries require `bundle_id`, while IME entries
 use `package_id`. This package remains a preview; unrelated native source
 coverage remains pending. Wording/visual feedback for this batch is on demand.
+
+## Korean objective terminology preview: 2026-10-14
+
+[game-client-preview-20261014-v176-r1](https://github.com/PaladinsCat/PaladinsCat-locales/releases/tag/game-client-preview-20261014-v176-r1)
+standardizes five source-bound capture-point objective messages with 거점.
+The reviewed rows are MSG_BONUS_OBJ_POINTS (23028), Objective Captured (%)
+(1000011383), Distance From Current Objective (1000022297), Has Current
+Objective (1000022332), and the objective mitigation description (1000146978).
+Other uses of “point” for locations, checkpoints, and abilities are unchanged.
+
+Locale source: `587c38b8042b1eefa8150f55ff04456e8abbad41`.
+Bundle: `kor-ui-v176-objective-ebc8c79b0c0b`.
+Final `locale-package.json` SHA256:
+`f1ffab96a98f7115163eabba05588700cb0bd101dc92d49de01a1949b60aa1fe`.
+DAT SHA256:
+`ebc8c79b0c0b44f6fb93446b125f80778d111a5506f8b61ffe57630373266041`.
+Only the compressed DAT is new; nine unchanged payloads keep their immutable
+v174 URLs and hashes. The existing IME entry is unchanged. The GitHub prerelease
+contains the DAT, manifest, catalog, provenance, font notice and release notes.
+The package remains a preview; full translation coverage and in-game visual
+acceptance are pending. No game files were changed.
