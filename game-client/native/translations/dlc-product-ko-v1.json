@@ -1,0 +1,749 @@
+{
+  "records": [
+    {
+      "before": "Frostmare Mount|Booster (7 Days)|10 Radiant Chests|2 Flair Chests",
+      "key": "ITEM_desc",
+      "message_id": 188738,
+      "reason": "Owner-authorized general Korean translation of typed shop/DLC product body; provisional wording for later issue reports.",
+      "source": "Frostmare Mount|Booster (7 Days)|10 Radiant Chests|2 Flair Chests",
+      "target": "서리의 악몽 탈것|부스터(7일)|빛나는 상자 10개|플레어 상자 2개"
+    },
+    {
+      "before": "Save 80%",
+      "key": "ITEM_short_desc",
+      "message_id": 190896,
+      "reason": "Owner-authorized general Korean translation of typed shop/DLC product body; provisional wording for later issue reports.",
+      "source": "Save 80%",
+      "target": "80% 할인"
+    },
+    {
+      "before": "14 Day Membership, Plus:|20,000 VIP Points|5 VIP Team Boosters|Earn Extra VIP Points|+100 Points per Win|+35 Points per Loss|+100 Points from picks|+300% Points per daily quest",
+      "key": "ITEM_desc",
+      "message_id": 188320,
+      "reason": "Owner-authorized general Korean translation of typed shop/DLC product body; provisional wording for later issue reports.",
+      "source": "14 Day Membership, Plus:|20,000 VIP Points|5 VIP Team Boosters|Earn Extra VIP Points|+100 Points per Win|+35 Points per Loss|+100 Points from picks|+300% Points per daily quest",
+      "target": "14일 멤버십과 추가 혜택:|20,000 VIP 포인트|VIP 팀 부스터 5개|추가 VIP 포인트 획득|승리당 +100 포인트|패배당 +35 포인트|예측당 +100 포인트|일일 퀘스트당 +300% 포인트"
+    },
+    {
+      "before": "Zhin Conqueror Collection|70 Day VIP Membership|25x Radiant Chests|25x Match Boosters|100,000 VIP Points",
+      "key": "ITEM_desc",
+      "message_id": 188378,
+      "reason": "Owner-authorized general Korean translation of typed shop/DLC product body; provisional wording for later issue reports.",
+      "source": "Zhin Conqueror Collection|70 Day VIP Membership|25x Radiant Chests|25x Match Boosters|100,000 VIP Points",
+      "target": "진 정복자 컬렉션|70일 VIP 멤버십|빛나는 상자 25개|대전 부스터 25개|100,000 VIP 포인트"
+    },
+    {
+      "before": "Excellent Value!",
+      "key": "ITEM_short_desc",
+      "message_id": 190897,
+      "reason": "Owner-authorized general Korean translation of typed shop/DLC product body; provisional wording for later issue reports.",
+      "source": "Excellent Value!",
+      "target": "뛰어난 가성비!"
+    },
+    {
+      "before": "Unlock All Current and Future Champions!",
+      "key": "ITEM_short_desc",
+      "message_id": 190893,
+      "reason": "Owner-authorized general Korean translation of typed shop/DLC product body; provisional wording for later issue reports.",
+      "source": "Unlock All Current and Future Champions!",
+      "target": "현재와 앞으로 출시될 모든 챔피언을 잠금 해제하세요!"
+    },
+    {
+      "before": "Fernando Enforcer Collection|Front Line Victory Spray|5x Radiant Chests|5x Legendary Front Line Keys|10,000 VIP Points",
+      "key": "ITEM_desc",
+      "message_id": 190935,
+      "reason": "Owner-authorized general Korean translation of typed shop/DLC product body; provisional wording for later issue reports.",
+      "source": "Fernando Enforcer Collection|Front Line Victory Spray|5x Radiant Chests|5x Legendary Front Line Keys|10,000 VIP Points",
+      "target": "페르난도 집행자 컬렉션|프론트라인 승리 스프레이|빛나는 상자 5개|전설 프론트라인 열쇠 5개|10,000 VIP 포인트"
+    },
+    {
+      "before": "Must Have for Front Line Players!",
+      "key": "ITEM_short_desc",
+      "message_id": 190934,
+      "reason": "Owner-authorized general Korean translation of typed shop/DLC product body; provisional wording for later issue reports.",
+      "source": "Must Have for Front Line Players!",
+      "target": "프론트라인 플레이어의 필수품!"
+    },
+    {
+      "before": "Lian Galactic Scion Collection|Damage Victory Spray|5x Radiant Chests|5x Legendary Damage Keys|10,000 VIP Points",
+      "key": "ITEM_desc",
+      "message_id": 192615,
+      "reason": "Owner-authorized general Korean translation of typed shop/DLC product body; provisional wording for later issue reports.",
+      "source": "Lian Galactic Scion Collection|Damage Victory Spray|5x Radiant Chests|5x Legendary Damage Keys|10,000 VIP Points",
+      "target": "리안 은하의 후예 컬렉션|대미지 승리 스프레이|빛나는 상자 5개|전설 대미지 열쇠 5개|10,000 VIP 포인트"
+    },
+    {
+      "before": "Damage Players Get Great Value!",
+      "key": "ITEM_short_desc",
+      "message_id": 192614,
+      "reason": "Owner-authorized general Korean translation of typed shop/DLC product body; provisional wording for later issue reports.",
+      "source": "Damage Players Get Great Value!",
+      "target": "대미지 플레이어를 위한 알뜰 상품!"
+    },
+    {
+      "before": "Lian Champion|Lian Goddess Collection|7 Day Booster",
+      "key": "ITEM_desc",
+      "message_id": 192754,
+      "reason": "Owner-authorized general Korean translation of typed shop/DLC product body; provisional wording for later issue reports.",
+      "source": "Lian Champion|Lian Goddess Collection|7 Day Booster",
+      "target": "리안 챔피언|리안 여신 컬렉션|7일 부스터"
+    },
+    {
+      "before": "Start in Style!",
+      "key": "ITEM_short_desc",
+      "message_id": 192753,
+      "reason": "Owner-authorized general Korean translation of typed shop/DLC product body; provisional wording for later issue reports.",
+      "source": "Start in Style!",
+      "target": "멋지게 시작하세요!"
+    },
+    {
+      "before": "Unlock All Current and Future Champions!",
+      "key": "ITEM_short_desc",
+      "message_id": 197837,
+      "reason": "Owner-authorized general Korean translation of typed shop/DLC product body; provisional wording for later issue reports.",
+      "source": "Unlock All Current and Future Champions!",
+      "target": "현재와 앞으로 출시될 모든 챔피언을 잠금 해제하세요!"
+    },
+    {
+      "before": "Jenos Exarch Collection|Pip Arctic Collection|4x Diamond Chests|4x Gold Chests|30 Day Booster|5 Champion Chests for all Current and Future Champions",
+      "key": "ITEM_desc",
+      "message_id": 197841,
+      "reason": "Owner-authorized general Korean translation of typed shop/DLC product body; provisional wording for later issue reports.",
+      "source": "Jenos Exarch Collection|Pip Arctic Collection|4x Diamond Chests|4x Gold Chests|30 Day Booster|5 Champion Chests for all Current and Future Champions",
+      "target": "제노스 총독 컬렉션|핍 북극 컬렉션|다이아몬드 상자 4개|골드 상자 4개|30일 부스터|현재와 앞으로 출시될 모든 챔피언을 위한 챔피언 상자 5개"
+    },
+    {
+      "before": "Get the Edge in Battle and Style!",
+      "key": "ITEM_short_desc",
+      "message_id": 197840,
+      "reason": "Owner-authorized general Korean translation of typed shop/DLC product body; provisional wording for later issue reports.",
+      "source": "Get the Edge in Battle and Style!",
+      "target": "전투와 스타일 모두에서 앞서 나가세요!"
+    },
+    {
+      "before": "Champion Pack|Season Pass 2018 Bundle",
+      "key": "ITEM_desc",
+      "message_id": 197844,
+      "reason": "Owner-authorized general Korean translation of typed shop/DLC product body; provisional wording for later issue reports.",
+      "source": "Champion Pack|Season Pass 2018 Bundle",
+      "target": "챔피언 팩|시즌 패스 2018 번들"
+    },
+    {
+      "before": "Get both DLCs at even Greater Value",
+      "key": "ITEM_short_desc",
+      "message_id": 197843,
+      "reason": "Owner-authorized general Korean translation of typed shop/DLC product body; provisional wording for later issue reports.",
+      "source": "Get both DLCs at even Greater Value",
+      "target": "두 DLC를 더욱 저렴하게 구매하세요"
+    },
+    {
+      "before": "Skye Pilot Suit Collection|60 Day VIP Membership|6500 VIP Points",
+      "key": "ITEM_desc",
+      "message_id": 198467,
+      "reason": "Owner-authorized general Korean translation of typed shop/DLC product body; provisional wording for later issue reports.",
+      "source": "Skye Pilot Suit Collection|60 Day VIP Membership|6500 VIP Points",
+      "target": "스카이 파일럿 수트 컬렉션|60일 VIP 멤버십|6500 VIP 포인트"
+    },
+    {
+      "before": "Excellent Value!",
+      "key": "ITEM_short_desc",
+      "message_id": 198465,
+      "reason": "Owner-authorized general Korean translation of typed shop/DLC product body; provisional wording for later issue reports.",
+      "source": "Excellent Value!",
+      "target": "뛰어난 가성비!"
+    },
+    {
+      "before": "1500 Crystals|Battle Pass 1|Battle Pass 2|Battle Pass 3",
+      "key": "ITEM_desc",
+      "message_id": 199822,
+      "reason": "Owner-authorized general Korean translation of typed shop/DLC product body; provisional wording for later issue reports.",
+      "source": "1500 Crystals|Battle Pass 1|Battle Pass 2|Battle Pass 3",
+      "target": "크리스탈 1500개|배틀 패스 1|배틀 패스 2|배틀 패스 3"
+    },
+    {
+      "before": "Break into Battle Pass and earn Exclusive Content All Year Long!",
+      "key": "ITEM_short_desc",
+      "message_id": 199831,
+      "reason": "Owner-authorized general Korean translation of typed shop/DLC product body; provisional wording for later issue reports.",
+      "source": "Break into Battle Pass and earn Exclusive Content All Year Long!",
+      "target": "배틀 패스를 시작하고 일 년 내내 독점 콘텐츠를 획득하세요!"
+    },
+    {
+      "before": "Frostmare Mount|2x Gold Chests|100,000 Gold",
+      "key": "ITEM_desc",
+      "message_id": 199756,
+      "reason": "Owner-authorized general Korean translation of typed shop/DLC product body; provisional wording for later issue reports.",
+      "source": "Frostmare Mount|2x Gold Chests|100,000 Gold",
+      "target": "서리의 악몽 탈것|골드 상자 2개|골드 100,000개"
+    },
+    {
+      "before": "A Great Deal for New Players",
+      "key": "ITEM_short_desc",
+      "message_id": 199755,
+      "reason": "Owner-authorized general Korean translation of typed shop/DLC product body; provisional wording for later issue reports.",
+      "source": "A Great Deal for New Players",
+      "target": "신규 플레이어를 위한 알뜰 상품"
+    },
+    {
+      "before": "Star Slayer Skin|1x Diamond Chest|400 Crystals",
+      "key": "ITEM_desc",
+      "message_id": 199759,
+      "reason": "Owner-authorized general Korean translation of typed shop/DLC product body; provisional wording for later issue reports.",
+      "source": "Star Slayer Skin|1x Diamond Chest|400 Crystals",
+      "target": "별의 학살자 스킨|다이아몬드 상자 1개|크리스탈 400개"
+    },
+    {
+      "before": "Become Legendary Today!",
+      "key": "ITEM_short_desc",
+      "message_id": 199758,
+      "reason": "Owner-authorized general Korean translation of typed shop/DLC product body; provisional wording for later issue reports.",
+      "source": "Become Legendary Today!",
+      "target": "오늘 전설이 되세요!"
+    },
+    {
+      "before": "Goddess Lian Skin|2x Diamond Chest|5x Gold Chest|200 Crystals",
+      "key": "ITEM_desc",
+      "message_id": 199762,
+      "reason": "Owner-authorized general Korean translation of typed shop/DLC product body; provisional wording for later issue reports.",
+      "source": "Goddess Lian Skin|2x Diamond Chest|5x Gold Chest|200 Crystals",
+      "target": "여신 리안 스킨|다이아몬드 상자 2개|골드 상자 5개|크리스탈 200개"
+    },
+    {
+      "before": "Unbelievable Savings!",
+      "key": "ITEM_short_desc",
+      "message_id": 199761,
+      "reason": "Owner-authorized general Korean translation of typed shop/DLC product body; provisional wording for later issue reports.",
+      "source": "Unbelievable Savings!",
+      "target": "놀라운 할인!"
+    },
+    {
+      "before": "Nightmare Mount|3x Diamond Chest|5x Gold Chest|400 Crystals",
+      "key": "ITEM_desc",
+      "message_id": 199765,
+      "reason": "Owner-authorized general Korean translation of typed shop/DLC product body; provisional wording for later issue reports.",
+      "source": "Nightmare Mount|3x Diamond Chest|5x Gold Chest|400 Crystals",
+      "target": "악몽 탈것|다이아몬드 상자 3개|골드 상자 5개|크리스탈 400개"
+    },
+    {
+      "before": "Terrorize Your Enemies!",
+      "key": "ITEM_short_desc",
+      "message_id": 199764,
+      "reason": "Owner-authorized general Korean translation of typed shop/DLC product body; provisional wording for later issue reports.",
+      "source": "Terrorize Your Enemies!",
+      "target": "적에게 공포를 선사하세요!"
+    },
+    {
+      "before": "Frostmare Mount|2x Gold Chests|100,000 Gold",
+      "key": "ITEM_desc",
+      "message_id": 202249,
+      "reason": "Owner-authorized general Korean translation of typed shop/DLC product body; provisional wording for later issue reports.",
+      "source": "Frostmare Mount|2x Gold Chests|100,000 Gold",
+      "target": "서리의 악몽 탈것|골드 상자 2개|골드 100,000개"
+    },
+    {
+      "before": "A Great Deal for New Players",
+      "key": "ITEM_short_desc",
+      "message_id": 202248,
+      "reason": "Owner-authorized general Korean translation of typed shop/DLC product body; provisional wording for later issue reports.",
+      "source": "A Great Deal for New Players",
+      "target": "신규 플레이어를 위한 알뜰 상품"
+    },
+    {
+      "before": "Goddess Lian Skin|2x Diamond Chest|10x Gold Chest",
+      "key": "ITEM_desc",
+      "message_id": 202252,
+      "reason": "Owner-authorized general Korean translation of typed shop/DLC product body; provisional wording for later issue reports.",
+      "source": "Goddess Lian Skin|2x Diamond Chest|10x Gold Chest",
+      "target": "여신 리안 스킨|다이아몬드 상자 2개|골드 상자 10개"
+    },
+    {
+      "before": "Unbelievable Savings!",
+      "key": "ITEM_short_desc",
+      "message_id": 202251,
+      "reason": "Owner-authorized general Korean translation of typed shop/DLC product body; provisional wording for later issue reports.",
+      "source": "Unbelievable Savings!",
+      "target": "놀라운 할인!"
+    },
+    {
+      "before": "Nightmare Mount|5x Diamond Chest|5x Gold Chest",
+      "key": "ITEM_desc",
+      "message_id": 202255,
+      "reason": "Owner-authorized general Korean translation of typed shop/DLC product body; provisional wording for later issue reports.",
+      "source": "Nightmare Mount|5x Diamond Chest|5x Gold Chest",
+      "target": "악몽 탈것|다이아몬드 상자 5개|골드 상자 5개"
+    },
+    {
+      "before": "Terrorize Your Enemies!",
+      "key": "ITEM_short_desc",
+      "message_id": 202254,
+      "reason": "Owner-authorized general Korean translation of typed shop/DLC product body; provisional wording for later issue reports.",
+      "source": "Terrorize Your Enemies!",
+      "target": "적에게 공포를 선사하세요!"
+    },
+    {
+      "before": "Star Slayer Skin|3x Diamond Chest",
+      "key": "ITEM_desc",
+      "message_id": 202258,
+      "reason": "Owner-authorized general Korean translation of typed shop/DLC product body; provisional wording for later issue reports.",
+      "source": "Star Slayer Skin|3x Diamond Chest",
+      "target": "별의 학살자 스킨|다이아몬드 상자 3개"
+    },
+    {
+      "before": "Become Legendary Today!",
+      "key": "ITEM_short_desc",
+      "message_id": 202257,
+      "reason": "Owner-authorized general Korean translation of typed shop/DLC product body; provisional wording for later issue reports.",
+      "source": "Become Legendary Today!",
+      "target": "오늘 전설이 되세요!"
+    },
+    {
+      "before": "Obsidian Warhorse Mount|200 Crystals|3,000,000 Battle Pass XP",
+      "key": "ITEM_desc",
+      "message_id": 203070,
+      "reason": "Owner-authorized general Korean translation of typed shop/DLC product body; provisional wording for later issue reports.",
+      "source": "Obsidian Warhorse Mount|200 Crystals|3,000,000 Battle Pass XP",
+      "target": "흑요석 군마 탈것|크리스탈 200개|배틀 패스 경험치 3,000,000"
+    },
+    {
+      "before": "Ride into battle atop a gleaming Obsidian Warhorse!",
+      "key": "ITEM_short_desc",
+      "message_id": 203069,
+      "reason": "Owner-authorized general Korean translation of typed shop/DLC product body; provisional wording for later issue reports.",
+      "source": "Ride into battle atop a gleaming Obsidian Warhorse!",
+      "target": "빛나는 흑요석 군마를 타고 전장으로 돌진하세요!"
+    },
+    {
+      "before": "Sugar Plum Willo|2x Large Gift Tokens|200 Crystals",
+      "key": "ITEM_desc",
+      "message_id": 203384,
+      "reason": "Owner-authorized general Korean translation of typed shop/DLC product body; provisional wording for later issue reports.",
+      "source": "Sugar Plum Willo|2x Large Gift Tokens|200 Crystals",
+      "target": "설탕 자두 윌로|대형 선물 토큰 2개|크리스탈 200개"
+    },
+    {
+      "before": "'Tis the season for giving…and getting a great deal!",
+      "key": "ITEM_short_desc",
+      "message_id": 203383,
+      "reason": "Owner-authorized general Korean translation of typed shop/DLC product body; provisional wording for later issue reports.",
+      "source": "'Tis the season for giving…and getting a great deal!",
+      "target": "선물을 나누고… 알뜰하게 구매하는 시즌입니다!"
+    },
+    {
+      "before": "1500 Crystals|Legionnaire Viktor|Legionnaire Warhorse|Fire and Ice Avatar|All 2019+2020 Champions, their Talents, Recolors, Base MVPs and Emotes",
+      "key": "ITEM_desc",
+      "message_id": 204011,
+      "reason": "Owner-authorized general Korean translation of typed shop/DLC product body; provisional wording for later issue reports.",
+      "source": "1500 Crystals|Legionnaire Viktor|Legionnaire Warhorse|Fire and Ice Avatar|All 2019+2020 Champions, their Talents, Recolors, Base MVPs and Emotes",
+      "target": "크리스탈 1500개|군단병 빅토르|군단병 군마|불과 얼음 아바타|2019+2020의 모든 챔피언, 특성, 색상 변형, 기본 MVP 포즈 및 감정 표현"
+    },
+    {
+      "before": "Champion Pack|Season Pass 2019+2020 Bundle",
+      "key": "ITEM_desc",
+      "message_id": 204014,
+      "reason": "Owner-authorized general Korean translation of typed shop/DLC product body; provisional wording for later issue reports.",
+      "source": "Champion Pack|Season Pass 2019+2020 Bundle",
+      "target": "챔피언 팩|시즌 패스 2019+2020 번들"
+    },
+    {
+      "before": "Get both DLCs at even Greater Value",
+      "key": "ITEM_short_desc",
+      "message_id": 204013,
+      "reason": "Owner-authorized general Korean translation of typed shop/DLC product body; provisional wording for later issue reports.",
+      "source": "Get both DLCs at even Greater Value",
+      "target": "두 DLC를 더욱 저렴하게 구매하세요"
+    },
+    {
+      "before": "Covert Ops Lex|200 Crystals",
+      "key": "ITEM_desc",
+      "message_id": 205583,
+      "reason": "Owner-authorized general Korean translation of typed shop/DLC product body; provisional wording for later issue reports.",
+      "source": "Covert Ops Lex|200 Crystals",
+      "target": "비밀 작전 렉스|크리스탈 200개"
+    },
+    {
+      "before": "Suit up, soldier. The Covert Ops Pack is here. ",
+      "key": "ITEM_short_desc",
+      "message_id": 206563,
+      "reason": "Owner-authorized general Korean translation of typed shop/DLC product body; provisional wording for later issue reports.",
+      "source": "Suit up, soldier. The Covert Ops Pack is here. ",
+      "target": "장비를 갖추세요, 병사님. 비밀 작전 팩이 도착했습니다."
+    },
+    {
+      "before": "Legionnaire Atlas|60000 Gold|1 Gold Chest",
+      "key": "ITEM_desc",
+      "message_id": 205585,
+      "reason": "Owner-authorized general Korean translation of typed shop/DLC product body; provisional wording for later issue reports.",
+      "source": "Legionnaire Atlas|60000 Gold|1 Gold Chest",
+      "target": "군단병 아틀라스|골드 60000개|골드 상자 1개"
+    },
+    {
+      "before": "Upgrade your armor and take control of the Battlefield!",
+      "key": "ITEM_short_desc",
+      "message_id": 206778,
+      "reason": "Owner-authorized general Korean translation of typed shop/DLC product body; provisional wording for later issue reports.",
+      "source": "Upgrade your armor and take control of the Battlefield!",
+      "target": "갑옷을 강화하고 전장을 지배하세요!"
+    },
+    {
+      "before": "Jade Prowler Mount|200x Crystals|1x Diamond Chest",
+      "key": "ITEM_desc",
+      "message_id": 205587,
+      "reason": "Owner-authorized general Korean translation of typed shop/DLC product body; provisional wording for later issue reports.",
+      "source": "Jade Prowler Mount|200x Crystals|1x Diamond Chest",
+      "target": "비취 배회자 탈것|크리스탈 200개|다이아몬드 상자 1개"
+    },
+    {
+      "before": "New Champion Atlas|Crime Fighter Sha Lin|Drakefire Tyra|Kunoichi Skye|Madame Seris|Robo Force Ruckus",
+      "key": "ITEM_desc",
+      "message_id": 206250,
+      "reason": "Owner-authorized general Korean translation of typed shop/DLC product body; provisional wording for later issue reports.",
+      "source": "New Champion Atlas|Crime Fighter Sha Lin|Drakefire Tyra|Kunoichi Skye|Madame Seris|Robo Force Ruckus",
+      "target": "새로운 챔피언 아틀라스|범죄와 싸우는 자 샤린|비룡의 불꽃 타이라|쿠노이치 스카이|마담 세리스|로보 부대 러커스"
+    },
+    {
+      "before": "Unlock a new Champion and five incredible skins at a great price!",
+      "key": "ITEM_short_desc",
+      "message_id": 206564,
+      "reason": "Owner-authorized general Korean translation of typed shop/DLC product body; provisional wording for later issue reports.",
+      "source": "Unlock a new Champion and five incredible skins at a great price!",
+      "target": "새로운 챔피언과 멋진 스킨 다섯 개를 알뜰한 가격에 잠금 해제하세요!"
+    },
+    {
+      "before": "2 Diamond Chests|2 Large Gift Tokens",
+      "key": "ITEM_desc",
+      "message_id": 206376,
+      "reason": "Owner-authorized general Korean translation of typed shop/DLC product body; provisional wording for later issue reports.",
+      "source": "2 Diamond Chests|2 Large Gift Tokens",
+      "target": "다이아몬드 상자 2개|대형 선물 토큰 2개"
+    },
+    {
+      "before": "Cottontail Seris|100 Crystals",
+      "key": "ITEM_desc",
+      "message_id": 206780,
+      "reason": "Owner-authorized general Korean translation of typed shop/DLC product body; provisional wording for later issue reports.",
+      "source": "Cottontail Seris|100 Crystals",
+      "target": "솜꼬리 세리스|크리스탈 100개"
+    },
+    {
+      "before": "Hop Hop Hop away in this new Seris Skin!",
+      "key": "ITEM_short_desc",
+      "message_id": 206779,
+      "reason": "Owner-authorized general Korean translation of typed shop/DLC product body; provisional wording for later issue reports.",
+      "source": "Hop Hop Hop away in this new Seris Skin!",
+      "target": "새로운 세리스 스킨을 입고 깡충깡충 뛰어보세요!"
+    },
+    {
+      "before": "Sacred Wolf Mount|200 Crystals",
+      "key": "ITEM_desc",
+      "message_id": 207618,
+      "reason": "Owner-authorized general Korean translation of typed shop/DLC product body; provisional wording for later issue reports.",
+      "source": "Sacred Wolf Mount|200 Crystals",
+      "target": "신성한 늑대 탈것|크리스탈 200개"
+    },
+    {
+      "before": "Charge into the fight atop of this exclusive Wolf Mount!",
+      "key": "ITEM_short_desc",
+      "message_id": 207617,
+      "reason": "Owner-authorized general Korean translation of typed shop/DLC product body; provisional wording for later issue reports.",
+      "source": "Charge into the fight atop of this exclusive Wolf Mount!",
+      "target": "이 특별한 늑대 탈것을 타고 전투에 돌진하세요!"
+    },
+    {
+      "before": "Discounted",
+      "key": "ITEM_desc",
+      "message_id": 208600,
+      "reason": "Owner-authorized general Korean translation of typed shop/DLC product body; provisional wording for later issue reports.",
+      "source": "Discounted",
+      "target": "할인 중"
+    },
+    {
+      "before": "Unlock All Current and Future Champions!",
+      "key": "ITEM_short_desc",
+      "message_id": 208547,
+      "reason": "Owner-authorized general Korean translation of typed shop/DLC product body; provisional wording for later issue reports.",
+      "source": "Unlock All Current and Future Champions!",
+      "target": "현재와 앞으로 출시될 모든 챔피언을 잠금 해제하세요!"
+    },
+    {
+      "before": "Winged Drake Mount|200 Crystals|5,000,000 Battle Pass XP",
+      "key": "ITEM_desc",
+      "message_id": 212344,
+      "reason": "Owner-authorized general Korean translation of typed shop/DLC product body; provisional wording for later issue reports.",
+      "source": "Winged Drake Mount|200 Crystals|5,000,000 Battle Pass XP",
+      "target": "날개 달린 용 탈것|크리스탈 200개|배틀 패스 경험치 5,000,000"
+    },
+    {
+      "before": "Scorch your enemies with the reptilian Winged Drake!",
+      "key": "ITEM_short_desc",
+      "message_id": 212342,
+      "reason": "Owner-authorized general Korean translation of typed shop/DLC product body; provisional wording for later issue reports.",
+      "source": "Scorch your enemies with the reptilian Winged Drake!",
+      "target": "날개 달린 용을 타고 적을 불태우세요!"
+    },
+    {
+      "before": "1500 Crystals|10% bonus on Crystal Purchases|Soul-Stealer Furia|Golden Gryphon| All 2021 Champions, their Talents, Recolors, Base MVPs, and Emotes",
+      "key": "ITEM_desc",
+      "message_id": 215686,
+      "reason": "Owner-authorized general Korean translation of typed shop/DLC product body; provisional wording for later issue reports.",
+      "source": "1500 Crystals|10% bonus on Crystal Purchases|Soul-Stealer Furia|Golden Gryphon| All 2021 Champions, their Talents, Recolors, Base MVPs, and Emotes",
+      "target": "크리스탈 1500개|크리스탈 구매 시 10% 보너스|영혼 강탈자 퓨리아|황금 그리폰|2021의 모든 챔피언, 특성, 색상 변형, 기본 MVP 포즈 및 감정 표현"
+    },
+    {
+      "before": "You'll instantly unlock: Lian, Tyra, Grover, Pip, Koga, Skye, Barik, and Fernando!",
+      "key": "ITEM_desc",
+      "message_id": 216453,
+      "reason": "Owner-authorized general Korean translation of typed shop/DLC product body; provisional wording for later issue reports.",
+      "source": "You'll instantly unlock: Lian, Tyra, Grover, Pip, Koga, Skye, Barik, and Fernando!",
+      "target": "리안, 타이라, 그로버, 핍, 코가, 스카이, 바릭, 페르난도를 즉시 잠금 해제합니다!"
+    },
+    {
+      "before": "22 Champions|600 Crystals|Everything in the Starter Edition",
+      "key": "ITEM_desc",
+      "message_id": 216451,
+      "reason": "Owner-authorized general Korean translation of typed shop/DLC product body; provisional wording for later issue reports.",
+      "source": "22 Champions|600 Crystals|Everything in the Starter Edition",
+      "target": "챔피언 22명|크리스탈 600개|스타터 에디션의 모든 콘텐츠"
+    },
+    {
+      "before": "10 Additional Champions|Season Pass 2021|All Season 4 Champions + 1500 Crystals|Everything in the Gold Edition",
+      "key": "ITEM_desc",
+      "message_id": 216452,
+      "reason": "Owner-authorized general Korean translation of typed shop/DLC product body; provisional wording for later issue reports.",
+      "source": "10 Additional Champions|Season Pass 2021|All Season 4 Champions + 1500 Crystals|Everything in the Gold Edition",
+      "target": "추가 챔피언 10명|시즌 패스 2021|시즌 4의 모든 챔피언 + 크리스탈 1500개|골드 에디션의 모든 콘텐츠"
+    },
+    {
+      "before": "Sparkling Stallion Mount|200 Crystals|1 Daily Deal Token",
+      "key": "ITEM_desc",
+      "message_id": 216458,
+      "reason": "Owner-authorized general Korean translation of typed shop/DLC product body; provisional wording for later issue reports.",
+      "source": "Sparkling Stallion Mount|200 Crystals|1 Daily Deal Token",
+      "target": "반짝이는 종마 탈것|크리스탈 200개|오늘의 특가 토큰 1개"
+    },
+    {
+      "before": "Ride into Battle with Flair on your Sparkling Stallion!",
+      "key": "ITEM_short_desc",
+      "message_id": 216457,
+      "reason": "Owner-authorized general Korean translation of typed shop/DLC product body; provisional wording for later issue reports.",
+      "source": "Ride into Battle with Flair on your Sparkling Stallion!",
+      "target": "반짝이는 종마를 타고 멋지게 전장에 나서세요!"
+    },
+    {
+      "before": "All gen:LOCK Crossover Pass content|50 Crystals|100,000 Gold",
+      "key": "ITEM_desc",
+      "message_id": 219962,
+      "reason": "Owner-authorized general Korean translation of typed shop/DLC product body; provisional wording for later issue reports.",
+      "source": "All gen:LOCK Crossover Pass content|50 Crystals|100,000 Gold",
+      "target": "gen:LOCK 크로스오버 패스의 모든 콘텐츠|크리스탈 50개|골드 100,000개"
+    },
+    {
+      "before": "Experience gen:LOCK within Paladins!",
+      "key": "ITEM_short_desc",
+      "message_id": 219961,
+      "reason": "Owner-authorized general Korean translation of typed shop/DLC product body; provisional wording for later issue reports.",
+      "source": "Experience gen:LOCK within Paladins!",
+      "target": "팔라딘스에서 gen:LOCK을 경험하세요!"
+    },
+    {
+      "before": "Unlock 3 Champions: Maeve, Zhin, and Kinessa, as well as the first 5 levels of the gen:LOCK Crossover Pass!",
+      "key": "ITEM_desc",
+      "message_id": 220098,
+      "reason": "Owner-authorized general Korean translation of typed shop/DLC product body; provisional wording for later issue reports.",
+      "source": "Unlock 3 Champions: Maeve, Zhin, and Kinessa, as well as the first 5 levels of the gen:LOCK Crossover Pass!",
+      "target": "챔피언 3명(메이브, 진, 키네사)과 gen:LOCK 크로스오버 패스의 첫 5레벨을 잠금 해제하세요!"
+    },
+    {
+      "before": "Experience gen:LOCK within Paladins!",
+      "key": "ITEM_short_desc",
+      "message_id": 220097,
+      "reason": "Owner-authorized general Korean translation of typed shop/DLC product body; provisional wording for later issue reports.",
+      "source": "Experience gen:LOCK within Paladins!",
+      "target": "팔라딘스에서 gen:LOCK을 경험하세요!"
+    },
+    {
+      "before": "Unlock 3 Champions: Maeve, Zhin, and Kinessa, as well as a Deal of the Day Token!",
+      "key": "ITEM_desc",
+      "message_id": 220166,
+      "reason": "Owner-authorized general Korean translation of typed shop/DLC product body; provisional wording for later issue reports.",
+      "source": "Unlock 3 Champions: Maeve, Zhin, and Kinessa, as well as a Deal of the Day Token!",
+      "target": "챔피언 3명(메이브, 진, 키네사)과 오늘의 특가 토큰을 잠금 해제하세요!"
+    },
+    {
+      "before": "Unlock 3 Champions: Maeve, Zhin, and Kinessa.",
+      "key": "ITEM_desc",
+      "message_id": 220172,
+      "reason": "Owner-authorized general Korean translation of typed shop/DLC product body; provisional wording for later issue reports.",
+      "source": "Unlock 3 Champions: Maeve, Zhin, and Kinessa.",
+      "target": "챔피언 3명(메이브, 진, 키네사)을 잠금 해제하세요."
+    },
+    {
+      "before": "Sky Whale Mount | 200 Crystals | 1 Daily Deal Token",
+      "key": "ITEM_desc",
+      "message_id": 221174,
+      "reason": "Owner-authorized general Korean translation of typed shop/DLC product body; provisional wording for later issue reports.",
+      "source": "Sky Whale Mount | 200 Crystals | 1 Daily Deal Token",
+      "target": "하늘고래 탈것 | 크리스탈 200개 | 오늘의 특가 토큰 1개"
+    },
+    {
+      "before": "4 Champions|4 Skins",
+      "key": "ITEM_desc",
+      "message_id": 222974,
+      "reason": "Owner-authorized general Korean translation of typed shop/DLC product body; provisional wording for later issue reports.",
+      "source": "4 Champions|4 Skins",
+      "target": "챔피언 4명|스킨 4개"
+    },
+    {
+      "before": "Unlock 4 Champions and 4 Skins instantly!",
+      "key": "ITEM_short_desc",
+      "message_id": 222973,
+      "reason": "Owner-authorized general Korean translation of typed shop/DLC product body; provisional wording for later issue reports.",
+      "source": "Unlock 4 Champions and 4 Skins instantly!",
+      "target": "챔피언 4명과 스킨 4개를 즉시 잠금 해제하세요!"
+    },
+    {
+      "before": "1500 Crystals|10% bonus on Crystal Purchases|Jurassic Ying|Dino Dash Mount| All 2022 Champions, their Talents, Recolors, Base MVPs, and Emotes",
+      "key": "ITEM_desc",
+      "message_id": 226263,
+      "reason": "Owner-authorized general Korean translation of typed shop/DLC product body; provisional wording for later issue reports.",
+      "source": "1500 Crystals|10% bonus on Crystal Purchases|Jurassic Ying|Dino Dash Mount| All 2022 Champions, their Talents, Recolors, Base MVPs, and Emotes",
+      "target": "크리스탈 1500개|크리스탈 구매 시 10% 보너스|쥐라기 잉|공룡의 돌진 탈것|2022의 모든 챔피언, 특성, 색상 변형, 기본 MVP 포즈 및 감정 표현"
+    },
+    {
+      "before": "9 Additional Champions|Season Pass 2022|All Season 5 Champions + 1500 Crystals|Everything in the Gold Edition",
+      "key": "ITEM_desc",
+      "message_id": 226381,
+      "reason": "Owner-authorized general Korean translation of typed shop/DLC product body; provisional wording for later issue reports.",
+      "source": "9 Additional Champions|Season Pass 2022|All Season 5 Champions + 1500 Crystals|Everything in the Gold Edition",
+      "target": "추가 챔피언 9명|시즌 패스 2022|시즌 5의 모든 챔피언 + 크리스탈 1500개|골드 에디션의 모든 콘텐츠"
+    },
+    {
+      "before": "Unlock the Ivy Sentinel skin for VII.",
+      "key": "ITEM_desc",
+      "message_id": 228095,
+      "reason": "Owner-authorized general Korean translation of typed shop/DLC product body; provisional wording for later issue reports.",
+      "source": "Unlock the Ivy Sentinel skin for VII.",
+      "target": "VII의 담쟁이 파수꾼 스킨을 잠금 해제하세요."
+    },
+    {
+      "before": " Feathered Fiend Mount | 200 Crystals | 1 Deal of the Day Token",
+      "key": "ITEM_desc",
+      "message_id": 234692,
+      "reason": "Owner-authorized general Korean translation of typed shop/DLC product body; provisional wording for later issue reports.",
+      "source": " Feathered Fiend Mount | 200 Crystals | 1 Deal of the Day Token",
+      "target": "깃털 악마 탈것 | 크리스탈 200개 | 오늘의 특가 토큰 1개"
+    },
+    {
+      "before": "All RWBY Crossover Pass content|50 Crystals|100,000 Gold",
+      "key": "ITEM_desc",
+      "message_id": 237532,
+      "reason": "Owner-authorized general Korean translation of typed shop/DLC product body; provisional wording for later issue reports.",
+      "source": "All RWBY Crossover Pass content|50 Crystals|100,000 Gold",
+      "target": "RWBY 크로스오버 패스의 모든 콘텐츠|크리스탈 50개|골드 100,000개"
+    },
+    {
+      "before": "Experience RWBY within Paladins!",
+      "key": "ITEM_short_desc",
+      "message_id": 237531,
+      "reason": "Owner-authorized general Korean translation of typed shop/DLC product body; provisional wording for later issue reports.",
+      "source": "Experience RWBY within Paladins!",
+      "target": "팔라딘스에서 RWBY를 경험하세요!"
+    },
+    {
+      "before": "Unlock Imani, Saati, and Vora",
+      "key": "ITEM_desc",
+      "message_id": 237648,
+      "reason": "Owner-authorized general Korean translation of typed shop/DLC product body; provisional wording for later issue reports.",
+      "source": "Unlock Imani, Saati, and Vora",
+      "target": "이마니, 사티, 보라를 잠금 해제하세요"
+    },
+    {
+      "before": "Unlock Imani, Saati, and Vora",
+      "key": "ITEM_short_desc",
+      "message_id": 237647,
+      "reason": "Owner-authorized general Korean translation of typed shop/DLC product body; provisional wording for later issue reports.",
+      "source": "Unlock Imani, Saati, and Vora",
+      "target": "이마니, 사티, 보라를 잠금 해제하세요"
+    },
+    {
+      "before": "All RWBY Crossover Pass content|50 Crystals|100,000 Gold",
+      "key": "ITEM_desc",
+      "message_id": 237651,
+      "reason": "Owner-authorized general Korean translation of typed shop/DLC product body; provisional wording for later issue reports.",
+      "source": "All RWBY Crossover Pass content|50 Crystals|100,000 Gold",
+      "target": "RWBY 크로스오버 패스의 모든 콘텐츠|크리스탈 50개|골드 100,000개"
+    },
+    {
+      "before": "Experience RWBY within Paladins!",
+      "key": "ITEM_short_desc",
+      "message_id": 237650,
+      "reason": "Owner-authorized general Korean translation of typed shop/DLC product body; provisional wording for later issue reports.",
+      "source": "Experience RWBY within Paladins!",
+      "target": "팔라딘스에서 RWBY를 경험하세요!"
+    },
+    {
+      "before": "Interstellar Stallion Mount|200 Crystals|1 Deal of the Day Token",
+      "key": "ITEM_desc",
+      "message_id": 238435,
+      "reason": "Owner-authorized general Korean translation of typed shop/DLC product body; provisional wording for later issue reports.",
+      "source": "Interstellar Stallion Mount|200 Crystals|1 Deal of the Day Token",
+      "target": "성간 종마 탈것|크리스탈 200개|오늘의 특가 토큰 1개"
+    },
+    {
+      "before": "Take a ride across the cosmos on the new Interstellar Stallion Mount!",
+      "key": "ITEM_short_desc",
+      "message_id": 238434,
+      "reason": "Owner-authorized general Korean translation of typed shop/DLC product body; provisional wording for later issue reports.",
+      "source": "Take a ride across the cosmos on the new Interstellar Stallion Mount!",
+      "target": "새로운 성간 종마 탈것을 타고 우주를 누벼보세요!"
+    },
+    {
+      "before": "1500 Crystals|10% bonus on Crystal Purchases|Grave Danger Androxus|Deathwing Mount| All 2023 Champions, their Talents, Recolors, Base MVPs, and Emotes",
+      "key": "ITEM_desc",
+      "message_id": 247652,
+      "reason": "Owner-authorized general Korean translation of typed shop/DLC product body; provisional wording for later issue reports.",
+      "source": "1500 Crystals|10% bonus on Crystal Purchases|Grave Danger Androxus|Deathwing Mount| All 2023 Champions, their Talents, Recolors, Base MVPs, and Emotes",
+      "target": "크리스탈 1500개|크리스탈 구매 시 10% 보너스|무덤의 위험 안드록서스|죽음의 날개 탈것|2023의 모든 챔피언, 특성, 색상 변형, 기본 MVP 포즈 및 감정 표현"
+    },
+    {
+      "before": "9 Additional Champions|Season Pass 2023|Everything in the Gold Edition",
+      "key": "ITEM_desc",
+      "message_id": 247661,
+      "reason": "Owner-authorized general Korean translation of typed shop/DLC product body; provisional wording for later issue reports.",
+      "source": "9 Additional Champions|Season Pass 2023|Everything in the Gold Edition",
+      "target": "추가 챔피언 9명|시즌 패스 2023|골드 에디션의 모든 콘텐츠"
+    },
+    {
+      "before": "Unlock the Crimson Queen skin for Nyx.",
+      "key": "ITEM_desc",
+      "message_id": 247676,
+      "reason": "Owner-authorized general Korean translation of typed shop/DLC product body; provisional wording for later issue reports.",
+      "source": "Unlock the Crimson Queen skin for Nyx.",
+      "target": "닉스의 진홍 여왕 스킨을 잠금 해제하세요."
+    },
+    {
+      "before": "Get the Crimson Queen Nyx skin, a Golden Cache Chest, as well as a Deal of the Day Token!",
+      "key": "ITEM_desc",
+      "message_id": 247684,
+      "reason": "Owner-authorized general Korean translation of typed shop/DLC product body; provisional wording for later issue reports.",
+      "source": "Get the Crimson Queen Nyx skin, a Golden Cache Chest, as well as a Deal of the Day Token!",
+      "target": "진홍 여왕 닉스 스킨, 황금 보물 상자, 오늘의 특가 토큰을 획득하세요!"
+    },
+    {
+      "before": "Obtainable from the Interstellar Stallion Pack DLC.",
+      "key": "ITEM_short_desc",
+      "message_id": 238113,
+      "reason": "Exact screenshot-related mount acquisition source; reuses existing approved pack name.",
+      "source": "Obtainable from the Interstellar Stallion Pack DLC.",
+      "target": "성간 종마 팩 DLC에서 획득할 수 있습니다."
+    },
+    {
+      "before": "Obtainable from the Interstellar Stallion Pack DLC.",
+      "key": "ITEM_desc",
+      "message_id": 238114,
+      "reason": "Exact screenshot-related mount acquisition source; reuses existing approved pack name.",
+      "source": "Obtainable from the Interstellar Stallion Pack DLC.",
+      "target": "성간 종마 팩 DLC에서 획득할 수 있습니다."
+    }
+  ],
+  "schemaVersion": 1
+}

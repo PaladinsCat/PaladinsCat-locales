@@ -1,5 +1,6 @@
 {
   "schemaVersion": 1,
+  "record_files": ["system-messages-ko-v1.json", "dlc-product-ko-v1.json"],
   "approved_name_overrides": {"VIP":"VIP", "The VIP":"VIP", "VIP of VIPs":"VIP 중의 VIP", "Merrymaker Bundle":"흥을 돋우는 자 번들", "The Burrows":"굴동네", "Impasse":"막다른 길"},
   "named_description_patterns": [
     "Available from the {name}", "Available from {name}",

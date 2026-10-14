@@ -37,6 +37,21 @@ the surrounding description.
 
 ## Language-specific guidance
 
+### General Korean DLC and system wording, October 14, 2026
+
+The owner authorized general Korean translations for DLC/product descriptions
+and system messages, with corrections through later issue reports. The
+source-specific `dlc-product-ko-v1.json` and `system-messages-ko-v1.json` retain
+native ID, exact English source, previous value and provisional target. Existing
+approved names and combat terminology still take precedence. This batch does
+not require an upfront manual wording or visual review, and does not claim
+complete localization of unrelated native families.
+
+The display dictionary links these files through `record_files`. Source-bound
+repairs restore the original message's placeholders and quantities when an
+older custom value is corrupted; ordinary edits retain their preservation
+guards. Internal identifiers, platform names and currency codes remain intact.
+
 ### Korean gameplay terminology, approved October 13, 2026
 
 Use **스킬** for a combat skill, ability or abilities, in both labels and
