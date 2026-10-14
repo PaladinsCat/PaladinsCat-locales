@@ -159,7 +159,11 @@ catalog, packaging provenance and font notice. Full translation, unresolved
 native-source coverage and targeted visual review remain pending; this is a
 terminology preview, not stable or complete localization.
 
-Localization-only preparation uses the public Rust launcher release tool:
+Localization-only preparation used the maintainer's Rust launcher release-tool
+working tree. As checked on 2026-10-14, published Launcher `main` is 0.3.5 and
+does not yet include `assemble-locale-preview` or `validate-catalog`. The commands
+here describe those pending maintainer interfaces, not features available in
+the published 0.3.5 CLI:
 
 ```text
 assemble-locale-preview BUNDLE_JSON LOCALE_REPO NEW_TAG LOCALE_COMMIT SHORT_PREVIEW_NOTES
@@ -192,7 +196,8 @@ and downloaded the new DAT, then verified all ten decoded payloads. IME 0.1.0
 retains its prior manifest and payload. The managed translation cache contains
 one latest bundle after the update.
 
-Run `validate-catalog CATALOG_JSON` before publication to check the catalog's
+With a maintainer build containing the pending CLI modes, run
+`validate-catalog CATALOG_JSON` before publication to check the catalog's
 actual launcher contract; locale entries require `bundle_id`, while IME entries
 use `package_id`. This package remains a preview; unrelated native source
 coverage remains pending. Wording/visual feedback for this batch is on demand.
