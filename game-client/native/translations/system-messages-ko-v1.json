@@ -180,9 +180,9 @@
       "before": "@@name@@님을 처치했습니다!",
       "key": "MSG_BONUS_OBJ_POINTS",
       "message_id": 23028,
-      "reason": "Repair a source/current semantic mismatch using source-bound stock Korean",
+      "reason": "User-approved capture-point terminology standardization: objective -> 거점 (2026-10-14)",
       "source": "You gained @@INT_VALUE@@ objective points.",
-      "target": "목표 포인트 @@INT_VALUE@@점을 획득했습니다."
+      "target": "거점 점수 @@INT_VALUE@@점을 획득했습니다."
     },
     {
       "before": "Temporary ignite cure message.",
@@ -2804,9 +2804,9 @@
       "before": "Objective Captured (%)",
       "key": "VV_text",
       "message_id": 1000011383,
-      "reason": "Restore source-bound stock Korean lost by the prior DAT merge",
+      "reason": "User-approved capture-point terminology standardization: objective -> 거점 (2026-10-14)",
       "source": "Objective Captured (%)",
-      "target": "목표 점령률(%)"
+      "target": "거점 점령률(%)"
     },
     {
       "before": "OBSOLETE",
@@ -3660,17 +3660,17 @@
       "before": "Distance From Current Objective (# ft)",
       "key": "VV_text",
       "message_id": 1000022297,
-      "reason": "Restore source-bound stock Korean lost by the prior DAT merge",
+      "reason": "User-approved capture-point terminology standardization: objective -> 거점 (2026-10-14)",
       "source": "Distance From Current Objective (# ft)",
-      "target": "현재 목표로부터의 거리 (# ft)"
+      "target": "현재 거점으로부터의 거리 (# ft)"
     },
     {
       "before": "Has Current Objective (0/1)",
       "key": "VV_text",
       "message_id": 1000022332,
-      "reason": "Restore source-bound stock Korean lost by the prior DAT merge",
+      "reason": "User-approved capture-point terminology standardization: objective -> 거점 (2026-10-14)",
       "source": "Has Current Objective (0/1)",
-      "target": "현재 목표 (0/1)"
+      "target": "현재 거점 보유 (0/1)"
     },
     {
       "before": "Weakest Human Friends Health (0-100%)",
@@ -10724,9 +10724,9 @@
       "before": "Mitigate damage by 10/20/30/40/50% while near an objective.",
       "key": "VV_TEXT",
       "message_id": 1000146978,
-      "reason": "Restore source-bound stock Korean lost by the prior DAT merge",
+      "reason": "User-approved capture-point terminology standardization: objective -> 거점 (2026-10-14)",
       "source": "Mitigate damage by 10/20/30/40/50% while near an objective.",
-      "target": "목표 근처에 있는 동안 대미지를 10/20/30/40/50% 경감시킵니다."
+      "target": "거점 근처에 있는 동안 대미지를 10/20/30/40/50% 경감시킵니다."
     },
     {
       "before": "Your Steam account has unused DLC, which may be used by one Hi-Rez account.  Would you like to use the available DLC now?",
