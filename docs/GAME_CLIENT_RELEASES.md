@@ -141,3 +141,31 @@ and persists that catalog URL and prepared selections; it changes no game files.
 Review the matching `game-client/catalog.json` in existing `main`, then publish
 under the user's established release authorization. Do not create a PR or bypass
 remote protections.
+
+## Korean terminology preview: 2026-10-14
+
+[game-client-preview-20261014-v174](https://github.com/PaladinsCat/PaladinsCat-locales/releases/tag/game-client-preview-20261014-v174)
+updates the Korean localization package to `kor-ui-v174-skills-bf6ef4ec41f7`.
+Skills and abilities use 스킬; View Skills uses 스킬 확인; champion selection
+uses 선택. The existing IME 0.1.0 catalog entry and its previous immutable
+manifest remain unchanged. The old v172 release remains available as history.
+
+Locale source: `aeb5a91065d90daca8b4f513c01dca0288f35821`.
+Final `locale-package.json` SHA256:
+`80aa4b5fe2a67dcc5f1691a9906e4a443f6dd61afe368603718b835d0adadef9`.
+The release contains ten compressed localization payloads, the locale manifest,
+catalog, packaging provenance and font notice. Full translation, unresolved
+native-source coverage and targeted visual review remain pending; this is a
+terminology preview, not stable or complete localization.
+
+Localization-only preparation uses the public Rust launcher release tool:
+
+```text
+assemble-locale-preview BUNDLE_JSON LOCALE_REPO NEW_TAG LOCALE_COMMIT SHORT_PREVIEW_NOTES
+```
+
+It preserves the existing `ime_packages` array, refuses replacing an existing
+staging directory, verifies decoded inputs while compressing and pins every
+download hash/size. Publish the immutable prerelease assets first, verify the
+public download with `verify-downloads` and an empty cache, then update the
+existing main catalog. A source push alone cannot update downloadable assets.

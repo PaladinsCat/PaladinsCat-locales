@@ -6,7 +6,7 @@ Reviewed custom native inputs live in [native/translations](native/README.md).
 The localization and IME download catalog is `catalog.json`. Rust implementation
 source belongs to WatchCat; this repository owns locale data and release metadata.
 See [release preparation and publication](../docs/GAME_CLIENT_RELEASES.md).
-The catalog offers the explicitly marked Korean v172 and IME 0.1.0 preview.
+The catalog offers the explicitly marked Korean v174 and IME 0.1.0 previews.
 Its immutable release assets are separate from authoring commits; stable
 translation and portable IME acceptance remain pending. The GUI can use the
 published release's catalog asset while a reviewed catalog update is awaiting

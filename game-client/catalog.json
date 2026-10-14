@@ -11,12 +11,12 @@
   ],
   "packages": [
     {
-      "bundle_id": "kor-ui-v172-approved-62241eb24e4e",
+      "bundle_id": "kor-ui-v174-skills-bf6ef4ec41f7",
       "game_build": "8.1",
       "locale": "KOR",
-      "manifest_sha256": "a67cdc912b2420e4885f2eb0fcfb628c5c08b6ba20e0f2eb5bfc3e6a6474ea5c",
-      "manifest_url": "https://github.com/PaladinsCat/PaladinsCat-locales/releases/download/game-client-preview-20261010-r1/locale-package.json",
-      "notes": "PREVIEW · Korean v172 with Tmoney RoundWind Regular. Approved repairs only; remaining translation and targeted visual reviews are incomplete. Supports the pinned Win64 8.1 client only."
+      "manifest_sha256": "80aa4b5fe2a67dcc5f1691a9906e4a443f6dd61afe368603718b835d0adadef9",
+      "manifest_url": "https://github.com/PaladinsCat/PaladinsCat-locales/releases/download/game-client-preview-20261014-v174/locale-package.json",
+      "notes": "PREVIEW · Korean v174."
     }
   ],
   "schema_version": 1
