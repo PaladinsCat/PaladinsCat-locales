@@ -11,12 +11,12 @@
   ],
   "packages": [
     {
-      "bundle_id": "kor-ui-v174-skills-bf6ef4ec41f7",
+      "bundle_id": "kor-ui-v175-messages-dda1158c2f68",
       "game_build": "8.1",
       "locale": "KOR",
-      "manifest_sha256": "80aa4b5fe2a67dcc5f1691a9906e4a443f6dd61afe368603718b835d0adadef9",
-      "manifest_url": "https://github.com/PaladinsCat/PaladinsCat-locales/releases/download/game-client-preview-20261014-v174/locale-package.json",
-      "notes": "PREVIEW · Korean v174."
+      "manifest_sha256": "678e684513159582e4d6bbc3dc29534e5a214c2ec3939ffe0863a190ebeb10c9",
+      "manifest_url": "https://github.com/PaladinsCat/PaladinsCat-locales/releases/download/game-client-preview-20261014-v175-r1/locale-package.json",
+      "notes": "PREVIEW · Korean v175."
     }
   ],
   "schema_version": 1

@@ -4,7 +4,8 @@
 
 | Content | Canonical owner |
 |---|---|
-| Rust GUI, installers, compiler, resolver, font converter and IME source | `Z:\NABI\Project\PaladinsCat-WatchCat` |
+| Public launcher GUI, installers and release tools | Independent `PaladinsCat-Launcher` repository |
+| Native compiler, resolver, font converter and IME implementation | `Z:\NABI\Project\PaladinsCat-WatchCat` |
 | Native catalogs and reviewed translation inputs | This repo: `game-client/` and `game-client/native/translations/` |
 | Download catalog and package contracts | This repo: `game-client/catalog.json`, `schema/` |
 | Local generated drafts | This repo: ignored `game-client/.release-staging/` |
@@ -169,3 +170,29 @@ staging directory, verifies decoded inputs while compressing and pins every
 download hash/size. Publish the immutable prerelease assets first, verify the
 public download with `verify-downloads` and an empty cache, then update the
 existing main catalog. A source push alone cannot update downloadable assets.
+
+## Korean DLC and system preview: 2026-10-14
+
+[game-client-preview-20261014-v175-r1](https://github.com/PaladinsCat/PaladinsCat-locales/releases/tag/game-client-preview-20261014-v175-r1)
+contains 2,158 system-message corrections and 93 DLC/product body translations.
+The owner authorized general wording, with later corrections through issue
+reports. The new per-message authoring files preserve exact ID, key, English
+source and prior target; the display dictionary links them through `record_files`.
+The queue message reads 대전 대기열에 입장했습니다. Existing approved names and
+스킬 terminology remain intact.
+
+Locale source: `399ba9472b0dad8166c170947b118dbfe2d3369a`.
+Final manifest SHA256:
+`678e684513159582e4d6bbc3dc29534e5a214c2ec3939ffe0863a190ebeb10c9`.
+DAT SHA256:
+`dda1158c2f68f8ce943447d00e5a4d3367ea329ee3852653c3b2271341e915b9`.
+Only the DAT payload changed; nine unchanged payloads retain their immutable
+v174 URLs and hashes. The v174 update cache reused those nine verified artifacts
+and downloaded the new DAT, then verified all ten decoded payloads. IME 0.1.0
+retains its prior manifest and payload. The managed translation cache contains
+one latest bundle after the update.
+
+Run `validate-catalog CATALOG_JSON` before publication to check the catalog's
+actual launcher contract; locale entries require `bundle_id`, while IME entries
+use `package_id`. This package remains a preview; unrelated native source
+coverage remains pending. Wording/visual feedback for this batch is on demand.
