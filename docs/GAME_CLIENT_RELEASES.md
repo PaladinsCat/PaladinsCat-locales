@@ -223,18 +223,26 @@ contains the DAT, manifest, catalog, provenance, font notice and release notes.
 The package remains a preview; full translation coverage and in-game visual
 acceptance are pending. No game files were changed.
 
-## Korean gold terminology preview candidate: 2026-10-15
+## Korean v177: 2026-10-15
 
-Preview release: [game-client-preview-20261015-v177-r1](https://github.com/PaladinsCat/PaladinsCat-locales/releases/tag/game-client-preview-20261015-v177-r1).
-Bundle: `kor-ui-v177-gold-1a73a309d6ab`.
+Preview release: [Korean v177](https://github.com/PaladinsCat/PaladinsCat-locales/releases/tag/game-client-preview-20261015-v177-r2).
+Bundle: `kor-ui-v177-1a73a309d6ab`.
 
 The candidate standardizes Gold as 골드 in 57 reviewed DAT entries while
 retaining the v176 objective wording 거점. Only the Korean DAT payload changes;
 nine unchanged assets reuse their verified immutable v174 URLs and hashes.
 
 Locale source commit: `ab5e06a116b193b47237c97259d7a75a4dc0a0e5`.
-Manifest SHA256: `b0ee0582f91c43f62301d9e87e1cd5e61cf61090e418dc36b735abde25b5b814`.
+Manifest SHA256: `a6b51a6dee1c023c0c3cb1772c44f86a8fa754307b0ccc2603b4609213359b2a`.
 DAT SHA256: `1a73a309d6ab6e2d12e304a755e2ab1c0ca771ed03e899f9e8f1f87226689383`.
+
+Revision r2 corrects only the package identity and short version label. All ten
+payload descriptors are byte-for-byte equivalent to r1, including their existing
+immutable URLs, sizes and hashes. The game revision remains v177. Existing r1
+assets are preserved; the rolling main catalog pins the new metadata revision.
+Version titles are plain (`Korean v177`); translation details belong here and in
+release notes, rather than version names. The main-only red line is enforced by
+GitHub rules, local reference transactions and the publication validator.
 
 The approved native-name subset gate passes; the full name gate remains blocked
 by existing unresolved coverage (108 localized unclassified names, 449 partly

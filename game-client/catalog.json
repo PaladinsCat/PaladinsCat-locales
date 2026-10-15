@@ -11,12 +11,12 @@
   ],
   "packages": [
     {
-      "bundle_id": "kor-ui-v177-gold-1a73a309d6ab",
+      "bundle_id": "kor-ui-v177-1a73a309d6ab",
       "game_build": "8.1",
       "locale": "KOR",
-      "manifest_sha256": "b0ee0582f91c43f62301d9e87e1cd5e61cf61090e418dc36b735abde25b5b814",
-      "manifest_url": "https://github.com/PaladinsCat/PaladinsCat-locales/releases/download/game-client-preview-20261015-v177-r1/locale-package.json",
-      "notes": "PREVIEW · Korean v177 standardizes gold as 골드; objective → 거점."
+      "manifest_sha256": "a6b51a6dee1c023c0c3cb1772c44f86a8fa754307b0ccc2603b4609213359b2a",
+      "manifest_url": "https://github.com/PaladinsCat/PaladinsCat-locales/releases/download/game-client-preview-20261015-v177-r2/locale-package.json",
+      "notes": "Korean v177"
     }
   ],
   "schema_version": 1
