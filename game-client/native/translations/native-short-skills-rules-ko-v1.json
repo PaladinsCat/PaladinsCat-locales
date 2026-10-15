@@ -962,7 +962,24 @@
   }
 },
   "schema_version": 1,
-  "approved_name_overrides": {"VIP":"VIP", "The VIP":"VIP", "VIP of VIPs":"VIP 중의 VIP", "Merrymaker Bundle":"흥을 돋우는 자 번들", "The Burrows":"굴동네"},
+  "approved_name_overrides": {
+    "VIP":"VIP", "The VIP":"VIP", "VIP of VIPs":"VIP 중의 VIP",
+    "Merrymaker Bundle":"흥을 돋우는 자 번들", "The Burrows":"굴동네",
+    "20% (gold) off Battle Pass levels for PS+":"플레이스테이션 플러스 배틀 패스 단계 20% 골드 할인",
+    "Bonus Performance Gold":"활약 추가 골드",
+    "Bounty Make-Good (Gold) Receipt":"현상금 보상 (골드) 수령 기록",
+    "Dark Doubloon":"어둠의 골드",
+    "Event Pass v2 (Gold) Receipt":"이벤트 패스 2판 (골드) 수령 기록",
+    "First Win of the Day - 25,000 Gold | 2x Battle Pass Experience":"오늘의 첫 승리 - 25,000 골드 | 2x 배틀 패스 경험치",
+    "First Win of the Day - 50,000 Gold | 2x Battle Pass Experience":"오늘의 첫 승리 - 50,000 골드 | 2x 배틀 패스 경험치",
+    "Gold":"골드",
+    "Gold Doubloon":"황금 골드",
+    "Gold Spray Rental":"골드 스프레이 대여",
+    "Gold Team Booster":"골드 팀 부스터",
+    "Maeve's \"Borrowed\" Bag of Gold":"메이브의 \"빌린\" 골드 주머니",
+    "Trials v2 (Gold) Receipt":"시험 2판 (골드) 수령 기록",
+    "Twitch Drop (500 Gold) Receipt - Jan 2023":"트위치 드롭 (골드 500) 수령 기록 - 2023년 일월"
+  },
   "names_file":"champion-names-source-ko.json",
   "approved_name_decisions": [
     {"file":"../reviews/kor-burrows-v168-20261005-decision.json","sha256":"f8f6d6f7eaee679e27f3e45172abe5cfe8fb98ebf15e08dda1add4939b23e8f1"},
